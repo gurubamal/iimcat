@@ -1,0 +1,70 @@
+Full Article Fetch Test - IT
+================================================================================
+
+Title   : Chip Firm Arrow Says Its Units To Be Removed from US Blacklist
+Source  : www.livemint.com
+Published: 2025-10-18T20:59:40
+Fetched : 2025-10-19T17:57:47.841575
+URL     : https://www.livemint.com/companies/news/chip-firm-arrow-says-its-units-to-be-removed-from-us-blacklist-11760821180372.html
+--------------------------------------------------------------------------------
+Arrow Electronics Inc. said its affiliates will be dropped from a US Commerce Department sanctions list, sparing the Colorado-based chip distributor’s subsidiaries from a possible ban on purchases of American technologies.
+The removals came less than two weeks after the Bureau of Industry and Security put a handful of companies it said were tied to Arrow on its so-called entity list for allegedly helping Iranian proxies buy American technology. At the time, Arrow said its units were in full compliance with US regulations and that it was discussing the listings with the Commerce Department.
+Arrow spokesperson John Hourigan said a Bureau of Industry and Security official notified the company Friday that its affiliates would be removed from the list. One of the units named in the original notice, Arrow Electronics Co., Ltd., is actually not connected to the company and appears to be a “copycat using a similar name,” Hourigan said.
+The bureau has authorized Arrow to resume transactions with all of its affiliates ahead of the publication of the removal in the Federal Register, Hourigan said.
+In a letter, seen by Bloomberg News, the BIS said Arrow has permission to export, reexport or transfer quantities no greater than 110% of the items transferred during the 120-period prior to the entity listing. That temporary authorization is valid until Feb. 14 or a publication of the entity removal in the the Federal Register, the letter says.
+The BIS remains “committed to ensuring that export restrictions are appropriately targeted to protect national security,” a spokesperson for the agency said in a statement. The company declined to comment on the details of the letter.
+Several of this month’s entity list additions — including the now-removed Arrow affiliates — were tied to the discovery of US-origin electronic components in scraps of unmanned aircraft systems operated by Iranian proxies since 2017. The components were found after scrutiny of drone wreckage recovered by nations in the Gulf and Middle East regions, according to the initial blacklisting notice.
+It’s rare to see US-based firms on the entity list. The US weighed restrictions on Arrow as early as 2020 when an Asian subsidiary was suspected of providing technology to foreign military forces. Arrow said back then that description was an error and the subsidiary was not engaged in military activities.
+©2025 Bloomberg L.P.
+This article was generated from an automated news agency feed without modifications to text.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Title   : Public sector emerges as Indian IT’s next growth engine amid global digital transformation push
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T16:30:28
+Fetched : 2025-10-19T17:57:47.841610
+URL     : https://www.thehindubusinessline.com/info-tech/public-sector-emerges-as-indian-its-next-growth-engine-amid-global-digital-transformation-push/article70182942.ece
+--------------------------------------------------------------------------------
+As economic uncertainty clouds private sector spending across key markets, Indian IT majors are increasingly turning to the public sector, both at home and abroad, as a source of long-term, stable growth. Infosys’ recent multi-year deal with the UK’s National Health Service (NHS), TCS’ long-standing digital transformation work with BSNL in India and LTIMindtree’s PAN 2.0 project win signal a broader pivot — public sector engagements are no longer side bets for Indian IT, but are fast becoming strategic pillars.
+Gaurav Vasu, Founder & CEO, UnearthInsight, highlighted that typically, global counterparts like Capgemini and Accenture have separate dedicated units for the public sector. Apart from the usual sectors, including BFSI, retail, healthcare and manufacturing, the public sector is a large business mix for these firms, with anywhere between 5 per cent to 10 per cent of the revenues coming from the sector.
+“Like TCS has a head of BFSI or healthcare, global IT services firms have someone heading the public sector business. It’s a fairly mature concept. Indian IT services firms started competing here in the last 7 to 8 years, focusing on the public sector across geographies. However, it is not a big component of their revenues yet,” he shared.
+In the past, public sector deals were under 5 per cent of their revenues. In the last few years, especially post-Covid, with the US slowdown resulting in geographical and industrial vertical optimisation, IT services firms have realised they can’t depend on one or two verticals.
+“When the enterprises slow down, the public sectors continue to invest in digital transformation because countries and governments around the world want better citizen services. From Saudi Arabia to the US and India, everybody is talking about improving the citizen experience. Hence, the public sector has emerged as one of the fastest-growing segments for tech services firms, growing at about 8-10 per cent,” Vasu commented.
+The India business as a percentage of TCS’s revenue is currently almost at 9 per cent, a significant share of which can be attributed to the company’s public sector transformation deals. Similarly, Infosys as well has been a big beneficiary of India.
+During the company’s earnings conference call, Salil Parekh, CEO and MD, Infosys, noted, “We’ve always shown good attention to the public sector and are even more focused on it in different markets. We’ve done pretty well in Australia’s public sector and have a decent business in the US market. With the NHS deal, we are expanding into the UK The public sector is opening up to the change and capabilities we bring. In India itself, we do incredible work with the income tax, with the Goods and Services Tax Network (GSTN). So we have good experience to leverage globally.”
+Apart from global markets, India’s public sector is increasingly emerging as an area of interest. Piyush Goel, CEO & Founder of Beyond Key, noted that whether it is a latest public sector contract or a large-scale company engagement, it highlights how government digitalisation projects are becoming material revenue streams.
+“The success of the BSNL 4G rollout, implemented through the indigenous “Bharat Telecom Stack,” demonstrates India’s capability to build sovereign digital infrastructure at par with global standards. Government tenders across telecom, infrastructure and citizen services, from smart metering and e-governance platforms to AI-integrated surveillance contracts, are valued at several thousand crores, presenting fertile ground for strategic IT participation,” he said.
+This shift is driven by a mix of political will and technology imperatives -- the Centre’s push for “Atmanirbhar Bharat,” demand for data localisation and the need to modernise legacy public systems have converged to create a strong domestic tech opportunity.
+Alongside, participation in such national-scale programmes gives Indian IT firms brand legitimacy in emerging markets, where sovereign technology projects are on the rise.
+Praveen Joshi, MD & a founding member of RSK Business Solutions, echoed this sentiment, adding that public sector undertakings (PSUs) are increasingly investing in automation, cybersecurity and citizen-centric platforms, areas where Indian IT firms bring proven expertise.
+He added, “Unlike the volatile global private market, public sector contracts offer stability, scale, and long-term visibility, vital in an uncertain macroeconomic climate. For large firms like TCS, Infosys and even Tech Mahindra, the public sector represents not just an alternate revenue stream but a domain of strategic importance anchoring India’s digital public infrastructure for the future.”
+However, Vasu noted that Accenture and IBM have a stronger presence in the US public sector market, while Capgemini holds a deeper foothold in Europe. Some Indian IT services firms, though strong locally, may struggle to make a significant impact globally. The global public sector market itself is quite large, and regionally dominant players are likely to capture a bigger share. That said, Indian IT companies are beginning to make inroads, with the global public sector now in a catch-up phase.
+More Like This
+Published on October 19, 2025
+
+Title   : IT sector margins show uptick in Q2, companies cautiously optimistic 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T05:49:20
+Fetched : 2025-10-19T17:57:47.841638
+URL     : https://www.thehindubusinessline.com/info-tech/it-sector-margins-show-uptick-in-q2-companies-cautiously-optimistic/article70181886.ece
+--------------------------------------------------------------------------------
+Profit margins of India’s large IT companies showed a sequential uptick of 20-100 bps in the quarter ending September owing to big ticket deal wins, a gradual geographical diversification and careful client engagements.
+Analysts however warned that margins pressure will persist for some time owing to slow monetisation of deals and cautious discretionary spending by clients.
+According to Rajesh Palviya, Senior Vice President – Head Research, Axis Securities, margins of companies like Tata Consultancy Services (TCS) and Tech Mahindra improved mainly due to cost discipline, currency tailwinds, better pricing on large digital and transformation deals and automation-driven productivity gains.
+Revival in some demand pockets with earlier deal momentum also helped performance.
+Biswajit Maity, Senior Principal Analyst at Gartner noted the industry’s active focus towards large deals and market expansion to Europe and APAC but foresees pressure due to competitive pricing, wage inflation, and low discretionary spending.
+“While a gradual recovery in global IT spending is underway, growth will likely remain moderate until discretionary technology budgets see a meaningful rebound. Indian IT firms are navigating the current environment with cautious optimism, but ongoing economic and geopolitical uncertainties mean the sector is not yet fully past the macroeconomic headwinds,” he said.
+Wipro, which was the only company to report a flattish margin at 17.2 per cent, expects the next quarter to be seasonally weaker in terms of furlough, lower working days.
+TCS firm on margin aspirations
+TCS’ operating margin increased by 100 bps in H1 of the financial year and stood at 25.2 per cent in Q2. Sequentially, this was an improvement of 70 bps, excluding one-time severance this quarter. The company attributed this to good growth momentum across all verticals, strategic investments. Currency helped support margins by 80 bps while the Quarterly Variable Allowance (QVA), a performance-linked bonus, impacted margins by 70bps.
+“Growth, when achieved through value creation and innovation, will have a positive impact on margins over time. We continue to work towards getting back to our aspirational band of 26-28 per cent,” said K. Krithivasan, CEO at TCS.
+Tech Mahindra cautious on growth
+Tech Mahindra said its Q2 EBIT margin of 12.1 per cent was driven primarily by improvement in fixed-price project productivity, volume growth. When asked about the 15 per cent margin aspiration, Mohit Joshi, CEO of Tech Mahindra said, “We had not baked in the very slow macro environment that we are seeing. Candidly, while we will wait for another quarter or two, we really don’t see dramatic growth coming back next year. I am personally a little bit skeptical about whether we will have much flexibility [towards a] sort of abnormal profit to invest back in the business.”
+Beyond US market
+Greyhound Research suggested all companies to diversify beyond the US market. The industry’s overdependence on the US market and uncertainty within the region has triggered accelerated growth in Continental Europe, APMEA, and Latin America.
+“Data sovereignty mandates and regional procurement preferences are reinforcing the need for deeper local presence. IT providers are responding with targeted investments in near-shore centres and language-specific capabilities. Greyhound Research views this as an enduring transformation. The US will remain vital, but reducing concentration risk and embracing regional resilience is essential,” said Sanchit Vir Gogia, Chief Analyst at Greyhound.
+On the US H1B uncertainty, Jayesh Sanghrajka, Chief Financial Officer at Infosys said during Q2 earnings call that more nearshoring and offshoring should mean more margin. Similarly, HCL Technologies also acknowledged the H1B visa developments as a potential margin headwind, owing to higher investments in training, local hiring.
+“We will prioritize investment in AI to help us grow the disciplined margins,” said Shiv Walia, Chief Financial Officer at HCL Tech, whose margins grew to 17.5 per cent, 116 bps sequentially.
+Published on October 19, 2025
+

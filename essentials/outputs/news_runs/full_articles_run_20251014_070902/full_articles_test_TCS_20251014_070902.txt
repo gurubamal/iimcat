@@ -1,0 +1,47 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 127.60B
+
+Title   : TCS, Google Cloud ink pact to integrate Gemini Enterprise for workforce and customers
+Source  : www.livemint.com
+Published: 2025-10-14T08:34:21
+Fetched : 2025-10-14T08:59:31.435493
+URL     : https://www.livemint.com/companies/tcs-google-cloud-ink-pact-to-integrate-gemini-enterprise-for-workforce-customers-11760430319017.html
+--------------------------------------------------------------------------------
+Tata Consultancy Services (TCS) on Tuesday announced an expansion of its collaboration with Google Cloud through the integration of the Gemini Enterprise AI platform. The partnership aims to enhance operational efficiency and innovation within TCS's workforce and for its customers, it said in the official statement.
+The integration of Google Cloud's Gemini Enterprise is intended to enable TCS employees to develop AI solutions that transform Human + AI workflows. The platform supports the creation of custom AI agents and allows for the integration of pre-built Google Cloud agents and third-party agents. This capability is expected to streamline complex operational workflows and facilitate the scaling of AI solutions across enterprises, the company said.
+This deal is part of TCS's broader tcsAI initiative, which focuses on building AI capabilities and providing access to advanced platforms. By utilising Gemini models, TCS seeks to foster innovation and develop AI-led solutions for its clients. The AI agents offered by Google Cloud through Gemini Enterprise are integrated with Google Cloud's infrastructure and AI solutions, including BigQuery, which supports some of TCS's internal systems.
+Thomas Kurian, Chief Executive Officer, Google Cloud said, “AI is fundamentally redefining the value that professional services firms offer, and Gemini Enterprise provides TCS with a single, integrated platform that unifies enterprise knowledge and empowers every employee to become a force multiplier for the business. Together, we are helping our joint global customers integrate this best-in-class technology to accelerate their ability to build differentiated industry solutions and realize business value faster.”
+Highlighting the role of AI in empowering the workforce and enhancing client value delivery, Aarthi Subramanian, Executive Director and COO of TCS, said “At TCS, we see AI as a catalyst for empowering our workforce and redefining how we deliver value to clients. We have made significant investments in democratising access to AI technologies to our employees and Gemini Enterprise is a fresh addition to the TCS AI Infrastructure footprint. By adopting Gemini Enterprise, we are expanding our investments in our own people as well as accelerating innovation for our clients across industries. Google Cloud has long been an integral part of our cloud, data, and AI- powered transformations with our customers. This new chapter in our partnership will further enhance our capabilities and value proposition for our customers, especially as enterprises prepare themselves for the ‘Agentic AI Future’”.
+The partnership has resulted in several implementations for TCS clients. For example, FairPrice Group in Singapore has used the Grocer Genie Portal for AI-led store operations. CME Group has accelerated its legacy code modernization by 20% using Google's Gemini Code Assist, improving migration speed and code quality.
+Additionally, a UK bank has established a GenAI office to promote AI adoption, enhancing the banking experience for customers. A transportation and logistics company has implemented an AI solution to optimize shipping decisions. An aerospace company in Europe is exploring AI solutions for automating documentation classification, aligning with export control regulations.
+Disclaimer: This article was generated using AI tools and has undergone editorial review for clarity and coherence.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesTCS, Google Cloud ink pact to integrate Gemini Enterprise for workforce and customers
+
+Title   : H-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+Source  : www.livemint.com
+Published: 2025-10-13T07:08:48
+Fetched : 2025-10-14T08:59:31.435604
+URL     : https://www.livemint.com/companies/news/h1b-visa-crackdown-not-an-existential-threat-to-tcs-ceo-krithivasan-says-firm-can-survive-11760337946989.html
+--------------------------------------------------------------------------------
+Amid the uncertainty around H-1B visas, Tata Consultancy Services' (TCS) K Krithivasan has opened up about the IT giant's view on the work visa, restrictions on which, introduced by US President Donald Trump, have rocked the industry.
+Krithivasan's comments take on particular importance, with TCS being the second-biggest beneficiary of the H-1B programme in 2025 after Amazon, with over 5,000 H-1B visas approved in 2025 alone.
+In an interview with Business Standard, Krithivasan addressed not just concerns regarding the work visa, but also spoke about the company's recent move to lay off 12,000 people globally.
+On the back of the layoffs, US Senators Chuck Grassley and Dick Durbin had raised questions about the company hiring over 5,500 H-1B workers, which the tech CEO addressed directly in the interview.
+Commenting on facing questions from US Senators, Krithivasan said, "I was neither happy nor unhappy. It gave me an opportunity to articulate our positions more clearly and to address the Senators’ questions about the H-1B issue."
+Explaining that the "figure of 5,500" pertained to people amending or renewing their H-1B petitions, the TCS CEO said that fresh applications were much lower, "probably around 2,500".
+"We have 31,000 to 32,000 employees in the US, of whom only 11,000 to 12,000 are on H-1B visas, while the rest are on other types of visas. We have been progressively increasing local workforce participation, which will continue because the way of work has changed with new kinds of projects and AI coming into play, where you need to work closely with the customer and need different skill sets," Krithivasan was quoted as saying.
+"It is not just about engineering skills anymore; there is a growing demand for creative thinking and prompt engineering skills. In FY26, we sent just 500 people from India to the US on H-1B visas, which means we can survive without them (H-1B visas). There is no dependence on H-1B visas," the TCS CEO, most notably, said.
+"There was a time when this was a significant retention policy, but over the past four-five years, it has been on a declining trend. It is now far less of a retention policy than it once was, and we should not be assessing today’s scenario through yesterday’s lens," he added.
+When quizzed about the mass layoffs at TCS, Krithivasan explained that only two categories of employees had been affected: those on the bench for three to six months, and those who were underperforming.
+"I don’t believe the Tata group, while humane, would have retained employees with performance issues," the chief of the IT giant was quoted as saying.
+He also explained that a "skill mismatch" also contributed to some of the layoffs.
+"We have relieved individuals where we see a skill mismatch for the future. The company is pivoting to be future-ready and a big player in the AI ecosystem. If someone doesn’t fit into the scheme of things, we need to exit them gracefully. This approach, I believe, does not conflict with our ethos," Krithivasan said.
+The Trump administration, which has described the H-1B programme as the one of the "most abused visa" systems in the US' immigration framework, recently slapped a $100,000 ( ₹88 lakh) fee on fresh applications, sending shockwaves across firms that rely on the programme to employ highly-skilled talent from around the world.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsH-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+

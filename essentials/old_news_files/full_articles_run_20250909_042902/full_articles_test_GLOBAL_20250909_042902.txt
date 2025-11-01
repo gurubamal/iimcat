@@ -1,0 +1,27 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+
+Net Profit (TTM/latest) (2025-09-09): 253.49M INR
+
+Title   : Global bonds climb 20% from 2022 low with Fed set to resume cuts 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-09T05:53:49
+Fetched : 2025-09-09T06:15:15.997934
+URL     : https://economictimes.indiatimes.com/markets/bonds/global-bonds-climb-20-from-2022-low-with-fed-set-to-resume-cuts/articleshow/123779300.cms
+--------------------------------------------------------------------------------
+Bloomberg’s GlobalAgg Index, which tracks sovereign and corporate debt across developed and emerging markets, has climbed to its highest level since March 2022 amid a broad fixed-income rally.
+Traders are widely expecting the Fed to cut rates next week, with some wagers pointing to a half-point move. Bonds have gained ground as central banks slash borrowing costs in response to ebbing inflation and mounting signs of labor market strain.
+Global bonds are rallying, with Bloomberg's GlobalAgg Index hitting its highest level since March 2022, fueled by cooling US labor data and expectations of Federal Reserve rate cuts. Central banks are reducing borrowing costs amid easing inflation and labor market concerns. However, longer-dated bonds face pressure due to fiscal risks in France, the UK, and Japan.
+“Curves have been highly directional and that too has brought about a grab for yield, that perhaps also was driven by fairly significant shorts placed in the US market as seen in surveys,” said Martin Whetton, head of financial markets strategy at Westpac Banking Corporation.
+Despite the rebound, longer-dated bonds remain under pressure amid mounting fiscal risks. France’s premier has warned of a debt crisis as the government reels, while in the UK investors await Chancellor Rachel Reeves’s November plan to balance growth initiatives with spending restraint.
+In Japan, Prime Minister Shigeru Ishiba’s decision to step down has fueled uncertainty, raising the prospect of a successor viewed as less committed to fiscal discipline.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

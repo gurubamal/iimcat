@@ -1,0 +1,36 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-03): 253.49M INR
+
+Title   : Global chip firms expect India to play key role in shaping semicon future; commit support
+Source  : www.livemint.com
+Published: 2025-09-02T16:13:19
+Fetched : 2025-09-03T15:30:41.755599
+URL     : https://www.livemint.com/companies/news/global-chip-firms-expect-india-to-play-key-role-in-shaping-semicon-future-commit-support-11756829600483.html
+--------------------------------------------------------------------------------
+New Delhi, Sep 2 (PTI) Global semiconductor players expect India to play a key role in shaping the future of the industry, driven by policy support and talent pool.
+During the inaugural session of Semicon India 2025, Dutch semiconductor equipment major ASML CEO Christophe Fouquet while lauding India's ambition for nurturing the chip ecosystem said that the countries around the world are racing to secure their technological future.
+"It is not only an opportunity for economic growth and job creation, but also important for national resilience. By developing semiconductor manufacturing and design capability, India can secure its supply chains, foster innovation and entrepreneurship, and create new opportunities in research and education.
+"At ASML, we see in India a partner with great potential and we are committed to helping you as we shape the future of technology. We are dedicated to supporting India's ambition, whether through collaboration, knowledge exchange, or talent," Fouquet said.
+ASML is a global leader in semiconductor lithography technologies that are required for creating circuits on silicon to make them an active component in the form of a microchip.
+"Our advanced lithography solution can help India's fabs to achieve cutting-edge performance," Fouquet said.
+Semiconductor material technology major Merck's Member of the Executive Board and CEO for Electronics, Kai Beckmann, said that as geopolitical challenges have been rising in recent years, the semiconductor industry is navigating unprecedented challenges.
+"On the way to a multipolar world, we are currently facing significant uncertainty, disrupted supply chains and a reshaped global technology landscape. India will not only contribute to strengthening the global semiconductor industry but will play a crucial role in shaping our digital future," Beckmann said.
+He said that the semiconductor industry is a team sport and "we can only be successful together".
+Applied Materials President of the Semiconductor Products Group (SPG), Prabu Raja, said that the world is racing towards artificial intelligence and India has an essential role to play in innovating in making powerful and more energy-efficient semiconductors.
+"We believe inventing India can make this possible. With world-class talent and vibrant universities, India is well-positioned to shape the future of chip manufacturing.
+He said Applied Materials' technology is used to produce every advanced chip in the world.
+"All our equipment have engineering contents from India. And soon, we aim to deliver innovations from India that will change the way chips are made. This is a huge value that India can provide and secure its leadership in artificial intelligence," Raja said.
+Semiconductor manufacturing equipment maker Lam Research CEO Tim Archer said that the industry grows towards USD 1 trillion mark and beyond, the company continues to invest in technology, talent, and supply chain around the world, including here in India, as the country escalates its role in the industry.
+"We see India laying a foundation for a resilient semiconductor ecosystem. The future of the Indian semiconductor industry is bright. This is an emerging market with a deep talent pool and a government that's actively enabling progress through incentives and policy," he said.
+Archer said that it has been present in India for 25 years, and its team in the country is a critical enabler of our technology innovation and global operations.
+"Now, in the context of a $1 trillion semiconductor industry, a larger, more resilient supply chain becomes essential. And we are making good progress integrating India into our global supply chain ecosystem, which we believe will deliver shared value across the industry," Archer said.
+AMD chief technology officer Mark Papermaster said India is an integral part of the company's global development.
+"We have developed here engineering talent that is touching every one of our products across CPUs, GPUs, adaptive computing, and embedded devices. It's touching the industry across the world's data centres, cloud services, AI platforms, and embedded devices everywhere. This has come as a result of an over 20-year talent investment in India that has allowed us to develop such a wide range of skills in R&D and engineering," Papermaster said.
+He said that last year AMD opened one its largest design centers in the world in Bengaluru.
+"The story of India's rise can take a historical look at what happened here with software development. There was affordable and industry-relevant talent that was created by focusing on the workforce and creating a transformative IT services industry. When you look at what has happened in recent years with the focus of the government to do the exact same, of creating focus on talent for semiconductors, focus on talent for AI," Papermaster said.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsGlobal chip firms expect India to play key role in shaping semicon future; commit support
+

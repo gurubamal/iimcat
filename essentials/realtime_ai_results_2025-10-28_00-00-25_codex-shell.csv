@@ -1,0 +1,4 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,HATSUN,90.6,bullish,STRONG BUY,"earnings, M&A, investment, expansion, contract",,85,1,N/A,Hatsun Agro net profit up by 70% in Q2 on acquisition synergy,Detected 5 catalyst(s). Score: 100/100. Certainty: 85%. BULLISH sentiment.
+2,PNB,83.0,bullish,STRONG BUY,"earnings, investment, expansion, contract",,70,1,N/A,PNB Housing Finance Q2 Results: Profit rises 24% to Rs 582 crore ,Detected 4 catalyst(s). Score: 100/100. Certainty: 70%. BULLISH sentiment.
+3,SUNDARAM,49.6,bullish,HOLD,,,95,1,N/A,Sundaram Home Finance Q2 net up 69% at ₹75 crore,Detected 0 catalyst(s). Score: 51/100. Certainty: 95%. BULLISH sentiment.

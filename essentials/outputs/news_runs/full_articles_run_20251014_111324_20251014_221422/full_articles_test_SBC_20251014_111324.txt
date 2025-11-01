@@ -1,0 +1,79 @@
+Full Article Fetch Test - SBC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 34.68M
+
+Title   : Canara HSBC Life Insurance IPO oversubscribed on closing day; QIBs lead demand
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T07:01:36
+Fetched : 2025-10-14T12:32:39.410535
+URL     : https://www.thehindubusinessline.com/markets/canara-hsbc-life-insurance-ipo-subscribed-31-so-far-on-closing-day/article70161614.ece
+--------------------------------------------------------------------------------
+Canara HSBC Life Insurance Company’s initial public offering (IPO) garnered strong interest on the last day of bidding, fetching 2.29 times overall subscription so far.
+By 5.12 pm, qualified institutional buyers led the demand with 7.05 times subscription, while non-institutional investors (NIIs) and retail investors bid 0.33 times and 0.42 times, respectively.
+The IPO received bids for 38.21 crore equity shares against 16.67 crore shares of offer.
+The ₹2,517-crore IPO, which opened on October 10 and concludes today, is entirely an offer for sale (OFS) of 23.75 crore equity shares and carries a price band of ₹100 to ₹106 per share. The minimum application lot is 140 shares.
+Ahead of the IPO, the company mobilised little over ₹750 crore from anchor investors by allotting 7.08 crore shares to 33 funds, including ICICI Prudential Mutual Fund (MF), HDFC MF, DSP MF, WhiteOak Capital, Mirae Asset MF, Allianz Global Investors Fund and Amundi Funds.
+Selling shareholders include Canara Bank, HSBC Insurance (Asia-Pacific) and Punjab National Bank.
+Investor sentiment appears cautious. While analysts generally view the company’s fundamentals and promoter backing favourably, the weak demand at this stage signals investors are taking a wait-and-watch approach.
+The allotment will happen on October 15, 2025, and the listing will likely happen on October 16.
+Published on October 14, 2025
+
+Title   : Canara HSBC Life Insurance IPO Day 3: Check GMP, subscription status and other key details. Should you invest? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T04:55:11
+Fetched : 2025-10-14T12:32:39.410615
+URL     : https://economictimes.indiatimes.com/markets/ipos/fpos/canara-hsbc-life-insurance-ipo-day-3-check-gmp-subscription-status-and-other-key-details-should-you-invest/articleshow/124543903.cms
+--------------------------------------------------------------------------------
+The grey market premium (GMP) for the IPO is modest, trading at less than 1% above the price band of Rs 106 per share. This IPO is a pure offer-for-sale (OFS), involving the sale of 23.75 crore shares by existing shareholders. The issue will close on Tuesday, October 14.
+Canara HSBC Life Insurance IPO Subscription Status
+As per BSE data, the Canara HSBC Life Insurance IPO saw an overall subscription of 27% by the end of Day 2.
+Retail Individual Investors (RIIs) demonstrated comparatively stronger interest, subscribing to 27% of the shares reserved for them.
+Non-Institutional Investors (NIIs)—which include high-net-worth individuals and other non-retail, non-institutional investors—subscribed to 14% of their allotted 3.53 crore shares.
+Qualified Institutional Buyers (QIBs), such as mutual funds, insurance firms, and other major financial institutions, showed the least interest so far, subscribing to just 32% of their 4.71 crore share quota.
+Canara HSBC Life IPO: Grey Market Premium (GMP) Update
+Shares of Canara HSBC Life are currently quoting a grey market premium (GMP) of 0.94%. Based on the IPO price band of Rs 106, this translates to an estimated listing price of approximately Rs 107.
+Note: The grey market premium offers an informal indication of investor sentiment and potential listing price. However, it's important to remember that actual listing performance may vary depending on prevailing market conditions at the time of debut.
+Canara HSBC Life Anchor Investors
+Canara HSBC Life Insurance Company Ltd announced on Thursday that it has secured over Rs 750 crore from anchor investors, just one day before the IPO opens for public subscription.
+Canara HSBC Life Insurance IPO Overview
+Canara HSBC Life Insurance has launched its Initial Public Offering (IPO) as a complete Offer for Sale (OFS). Under this structure, no new shares are issued—instead, existing shareholders will sell part of their stakes. Promoter Canara Bank is offering up to 13.77 crore shares, while HSBC Insurance (Asia-Pacific) Holdings Limited is putting up 47.5 lakh shares for sale. In addition, Punjab National Bank (PNB), another existing investor, plans to divest 9.5 crore shares.
+Retail investors have the opportunity to participate in the IPO, with a maximum bid limit of Rs 2 lakh. The IPO is a 100% book-built issue, and the price band has been set between Rs 100 and Rs 106 per equity share. The minimum investment applies to a lot size of 140 shares.
+Company Background and Growth Trajectory
+Canara HSBC Life Insurance is a private sector life insurance company in India, jointly promoted by Canara Bank and HSBC Insurance. According to a report by CRISIL, the company has demonstrated one of the fastest growth rates in individual weighted premium income (WPI) among bank-promoted life insurers between fiscal years 2022 and 2025.
+A key indicator of the company’s robust performance is its Annualised Premium Equivalent (APE), which has shown consistent growth. This reflects Canara HSBC Life’s strategic focus on expanding its product portfolio and enhancing customer services.
+Strong Financial Performance
+Canara HSBC Life has shown impressive financial strength over recent years. Its Profit After Tax (PAT) has grown at a Compound Annual Growth Rate (CAGR) of 13.26%, rising from Rs 91.2 crore in FY23 to Rs 117 crore in FY25. For the quarter ending June 2025, the company posted a PAT of Rs 23.4 crore.
+The company’s embedded value, which measures the consolidated value of its operations and future profits, has also grown significantly—from Rs 4,272 crore at the end of FY23 to Rs 6,111 crore by FY25.
+Furthermore, Canara HSBC Life maintains a strong capital base, with a solvency ratio of 200.42% as of June 2025—well above the regulatory threshold of 150%, indicating solid financial health.
+Market Reach and Customer Base
+With insurance coverage extended to over 10.5 million lives, Canara HSBC Life Insurance demonstrates a wide market presence and strong customer trust. Its continued expansion and service innovation position it as a key player in India’s growing life insurance sector.
+Should You Consider Applying?
+According to SBI Securities, Canara HSBC Life Insurance is strategically positioned to capitalize on its strong promoter backing, extensive bancassurance network, and diverse product offerings to maintain steady growth.
+The company’s key strengths include growing contributions from bancassurance partners, improving policy persistency rates, and consistent premium growth. These factors provide a solid foundation for sustainable long-term profitability. Moreover, Canara HSBC Life’s emphasis on technology adoption and product innovation further boosts its scalability and enhances customer engagement.
+At the upper end of the price band, the company’s valuation stands at a price-to-embedded-value (P/EV) multiple of 1.6x for Q1 FY26, indicating a reasonable market price relative to its intrinsic value.
+SBI Securities also forecasts that life insurance premiums for bank-led insurers will expand at a CAGR of 22% to 25% between FY25 and FY28, reaching between Rs 5.4 lakh crore and Rs 5.7 lakh crore. With this strong industry growth outlook, Canara HSBC Life Insurance is well-positioned to benefit significantly from the expanding market opportunity.
+Lead Managers for the Canara HSBC Life IPO
+The book-running lead managers overseeing this IPO are SBI Capital Markets, BNP Paribas, HSBC Securities and Capital Markets (India), JM Financial, and Motilal Oswal Investment Advisors.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : India's growth cycle may be bottoming out, domestic fundamentals strong for pick-up in growth: HSBC MF
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T04:22:19
+Fetched : 2025-10-14T12:32:39.410695
+URL     : https://www.thehindubusinessline.com/economy/indias-growth-cycle-may-be-bottoming-out-domestic-fundamentals-strong-for-pick-up-in-growth-hsbc-mf/article70161218.ece
+--------------------------------------------------------------------------------
+India's growth cycle may be bottoming out with strong domestic fundamentals supportive of a pick-up in growth going forward, according to a report by HSBC Mutual Fund. The report noted that interest rate and liquidity cycle, decline in crude prices, and a normal monsoon are all supportive factors for a revival in growth.
+"We believe growth cycle in India may be bottoming out. Interest rate and liquidity cycle, decline in crude prices and normal monsoon are all supportive of a pick-up in growth going forward," the report said.
+However, the report highlighted that global trade-related uncertainty remains a headwind to private capital expenditure in the near term. Despite this, the report expects India's investment cycle to be on a medium-term uptrend, supported by continued government investments in infrastructure and manufacturing, a pickup in private investments, and a recovery in the real estate cycle.
+The report further stated that higher private investments in renewable energy and related supply chains, localization of higher-end technology components, and India becoming a more meaningful part of global supply chains will support faster growth in the coming years. On the market outlook, it noted that Nifty valuations are modestly above their 10-year average. It said that the outlook for Indian equities remains constructive, supported by a robust medium-term growth scenario.
+The report also referred to the Reserve Bank of India's recent monetary policy decision, where the central bank raised its FY26 GDP growth forecast to 6.8 per cent year-on-year from 6.5 per cent previously. The RBI left key interest rates unchanged and maintained a neutral policy stance during its policy meeting on October 1, 2025. It, however, announced regulatory changes to support credit growth.
+On the global front, the report said the macroeconomic environment remains challenging amid heightened geopolitical and economic uncertainties. It noted that reciprocal tariffs announced by the US administration are likely to impact both the US and global growth outlooks.
+Published on October 14, 2025
+

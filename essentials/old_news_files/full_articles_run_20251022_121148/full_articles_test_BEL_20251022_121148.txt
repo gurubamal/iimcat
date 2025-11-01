@@ -1,0 +1,27 @@
+Full Article Fetch Test - BEL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 9.70B
+
+Title   : Belgian Court finds offences extraditable, dismisses Mehul Choksi's claims of political bias and abduction
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T07:10:44
+Fetched : 2025-10-22T14:10:21.313427
+URL     : https://www.thehindubusinessline.com/news/belgian-court-finds-offences-extraditable-dismisses-mehul-choksis-claims-of-political-bias-and-abduction/article70189059.ece
+--------------------------------------------------------------------------------
+The Antwerp Court of Appeal has found that the offences attributed to fugitive diamond trader Mehul Choksi are extraditable under both Indian and Belgian law, paving the way for his return to India to face trial in the Punjab National Bank (PNB) fraud case.
+In its detailed judgment, the court observed that the offences shall be punishable under Indian law by virtue of Sections 120-B read with 201, 409, 420, and 477-A of the Indian Penal Code (IPC). Sections 7 and 13(2) read with 13(1)(c) and (d) of the Prevention of Corruption Act, 1988, each carrying a sentence of more than one year.
+The court further ruled that the conduct alleged against Choksi, criminal organisation, swindle, embezzlement, and forgery is also punishable under Belgian law, under Articles 66, 196, 197, 213, 240, 241, 245, 246, 247 SSSS2-4, 324a-b, and 496 of the Belgian Criminal Code, satisfying the principle of dual criminality required for extradition.
+However, the court excluded one charge, causing the disappearance of evidence under Section 201 IPC, stating that this offence is not recognised under Belgian law and, therefore, cannot be part of the enforceable declaration.
+The judgment clarified that the alleged acts occurred in India between December 31, 2016, and January 1, 2019, and that prosecution is not time-barred under either Indian or Belgian law.
+The Antwerp court rejected Choksi's arguments that the extradition request was politically motivated or violated his fundamental rights. It stated that the alleged offences "cannot be considered political, military or non-extraditable tax offences", and that "there are no grounds to believe that the request was made with the intention of prosecuting or punishing a person on the grounds of his race, religion, nationality, or political affiliation.
+"It also dismissed Choksi's long-standing claim that he was kidnapped from Antigua on India's instructions, noting that "it cannot be inferred from the documents supplied by the person concerned that he was kidnapped in Antigua on the instructions of the Indian authorities.
+"The court found that the INTERPOL Commission for the Control of Files (CCF) decision dated 12 October 2022 was "inconclusive and cautious." The expert reports submitted by Prof. Dr. F Tulkens, Sir K. Jones, and E Fitzgerald KC did not alter the findings.
+The court observed that Choksi's defence had submitted a "huge collection" of documents, including press articles, case law, and NGO reports about Indian prisons, but found that none of them established a real or present risk of ill-treatment or denial of justice.
+It said comparisons with cases of Sikh activists or prisoners in Tihar Jail were "not applicable" to Choksi's situation.
+"The documentation provided by the person concerned is not sufficient to establish in concrete terms that he personally runs a real, present and serious risk of being subjected to flagrant denial of justice or to torture or inhuman and degrading treatment in the requesting State," the ruling stated.
+The judgment also stated that Indian authorities had provided detailed assurances regarding Choksi's detention conditions and medical care. The note explained that he will be confined at Arthur Road Jail, Mumbai, in Barrack No. 12. The barrack spans approximately 46 square metres, with two cells and private sanitary facilities. He will only be moved for medical reasons or court appearances, and remain under the control of judicial courts, not investigative agencies.
+The court concluded that Choksi had provided no credible evidence to suggest that he would be denied medical care or fair treatment in India. Choksi, wanted along with his nephew Nirav Modi for allegedly defrauding Punjab National Bank of over ₹13,000 crore, was arrested in Antwerp on April 11, 2025, after India issued a formal extradition request. He has remained in custody since, with multiple bail pleas denied.
+The Ministry of Home Affairs (MHA) had earlier submitted a comprehensive assurance to Belgium, outlining its custody arrangements, healthcare provisions, and oversight by the National and State Human Rights Commissions (NHRC/SHRC).
+Published on October 22, 2025
+

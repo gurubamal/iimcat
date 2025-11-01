@@ -1,0 +1,110 @@
+Full Article Fetch Test - TECH
+================================================================================
+
+Title   : Tech-led cost cuts boosted profits: NMPA chief
+Source  : www.thehindubusinessline.com
+Published: 2025-10-20T00:52:00
+Fetched : 2025-10-20T16:35:44.771472
+URL     : https://www.thehindubusinessline.com/economy/logistics/tech-led-cost-cuts-boosted-profits-nmpa-chief/article70183111.ece
+--------------------------------------------------------------------------------
+AV Ramana, who has been the Chairman of the New Mangalore Port Authority (NMPA) since 2019, is steering multiple initiatives in the areas of cargo handling, technology, sustainability and public-private partnerships to boost the overall development of the port. In an interview with businessline, he discusses achievements, challenges and his long-term vision for the port, which is in its 50th year of operation.
+Edited excerpts:
+It has been nearly six years since you took charge. How do you assess the progress so far?
+Both cargo handling and profits have grown in the last six years. In 2024-25, we handled 46.7 million tonnes (mt) and recorded a profit after tax (PAT) of ₹450 crore. We expect to reach 50 mt cargo handling and PAT of ₹550 crore in 2025-26. The operating ratio has improved to 37 per cent (from 43-45 per cent earlier), and the turnaround time of vessels has decreased to one day (from more than 1.5 days). Despite challenges like Covid, we increased our profitability by reducing costs using technology and implementing out-of-the-box solutions to improve the efficiency of berth 15 and 16.
+What were the major initiatives in technology?
+Several technology-driven reforms were introduced between 2019 and 2025, including face recognition for attendance, automated weighbridges and paperless dock entry permits using facial identification like ‘DigiYatra’. Apart from saving time and money, this paperless facility increases the comfort level for people visiting the docks. We will be launching a 360-degree scanning system — under-vehicle scanner with a composite image — at all gates. This will help the Central Industrial Security Force (CISF) staff know what is in the consignment without opening the truck. It saves time for the driver and CISF, and steps up security without diluting standards.
+Are there any specific challenges hindering growth?
+The biggest challenge is the poor connectivity of Mangaluru with the rest of Karnataka, via Sampaje and Shiradi ghats. These are not all-weather roads from April to October-November because of rains in the region. We do not get much cargo for almost four to five months. The government is working on it. Once Sampaje and Shiradi ghats become all-weather roads, the cargo handling will jump to 55 mt.
+What are your plans to improve cargo handling in the coming years?
+We have taken a major step in port-led industrialisation. For example, we have given land to many edible oil refineries, which import raw material from across the seas and process them. That helps the port in improving its cargo handling. Coal may decrease in the future. That’s why our thrust is on gas. Import and distribution of gas through NMPA could be to the tune of 3 mt in the future. The expansion plans of MRPL could further boost crude oil and POL (petroleum, oil and lubricants) cargo.
+What are the sustainability initiatives undertaken by NMPA?
+We are ‘aatmanirbhar’ (self-reliant) in power as the port is 100 per cent solar. We are also ‘aatmanirbhar’ in water usage. Because of rainwater harvesting, more water is stored. This will help NMPA even if the rains are slightly delayed the next season. The port has started moving towards e-vehicles; we have 20-25 EVs now. NMPA’s vermicompost plant makes use of wet waste and generates natural fertilizer. Coal handling is done through a closed conveyor system. We are engaging dust suppression systems and using automated sweeping machines.
+How do you see the port evolving over the next five years?
+I feel that the next five years will be good. Road works on Sampaje and Shiradi ghats are likely to be completed by November 2026. After that, cargo from the rest of Karnataka, which is otherwise going through the Chennai and Thoothukudi ports, will move from NMPA, boosting cargo handling. The port’s cargo handling can be increased by 5-10 mt without much effort, through the existing initiatives. The port is moving ahead, and I am confident it will have a great future.
+More Like This
+Published on October 20, 2025
+
+Title   : NCLT admits insolvency case against Blu-Smart Mobility Tech
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T08:34:33
+Fetched : 2025-10-20T16:35:44.771513
+URL     : https://www.thehindubusinessline.com/companies/nclt-admits-insolvency-case-against-blu-smart-mobility-tech/article70182093.ece
+--------------------------------------------------------------------------------
+The National Company Law Tribunal (NCLT) has admitted an insolvency case against Blu-Smart Mobility Tech, the debt-ridden company which was providing all-electric ride-hailing services and building a network of EV charging infrastructure in India.
+The Ahmedabad bench of NCLT has admitted the insolvency plea filed by Lepton Software Export and Research against Blu-Smart Mobility over an unpaid amount of ₹5.84 crore, and appointed Pawan Kumar Goyal as the interim resolution professional, suspending the board of the company.
+A two-member bench said there is an operational debt, which has been defaulted by Blu-Smart Mobility, and its operational creditor is entitled to recover it.
+"The respondent/corporate debtor Blu-Smart Mobility Pvt Ltd is admitted in the Corporate Insolvency Resolution process under section 9(5) of the code," it said.
+Moreover, the NCLT also placed Blu-Smart Mobility Tech under the protection of a moratorium as per the provisions of the Insolvency & Bankruptcy Code (IBC) and directed the IRP to take full charge of Blu-Smart Mobility's assets and documents.
+The NCLT order came over a petition filed by Lepton Software, which sells Google Maps Platform services under the licence granted by Google Asia Pacific Pte. It was providing its services for Blu-Smart Mobility Tech's ride-sharing services through an agreement. It had been agreed for the period from October 1, 2022, to September 2023.
+The agreement was renewed for a year till September 30, 2024, and Lepton claimed that services continued on an ad-hoc basis, which was even acknowledged by Blu-Smart Mobility through email communications.
+The operation creditor submitted that the services provided were governed by Google's Terms of Service, and invoices pertaining to the entire financial year FY25 remained unpaid.
+However, Blu-Smart Mobility in its reply denied any operational debt and contended that the said petition was misconceived and an abuse of process.
+It contended that the renewal expired on September 30, 2024 and has raised a bill after that without an acceptance/completion certificate. According to Blu-Smart Mobility Tech, post-expiry invoices are not operational debt.
+NCLT, however, said Blu-Smart Mobility does not dispute the pre-expiry invoices (up to September 2024) and has acknowledged partial liability.
+"However, even assuming that only pre-expiry dues are considered, the admitted outstanding of ₹30,34,764.50 is supplemented by the post-expiry claims," the NCLT said.
+It said the renewal agreement expired on September 30, 2024, but the material on record, including emails from the corporate debtor, dated April 3, April 7, and April 15 this year, demonstrate continued usage of the services without objection, requests for invoices and admissions of liability.
+The bench comprising members Sanjeev Sharma and Shammi Khan said Blu-Smart Mobility's "conduct implies an ad-hoc continuation of the arrangement on the same terms, akin to an implied contract under Section 70 of the Indian Contract Act, 1872, or quantum meruit for services rendered and accepted...".
+Blu-Smart Mobility Tech is a part of Blu-Smart Group, whose business comprises Blu-Smart Mobility Ltd and its four subsidiaries, including the corporate debtor. The other three are Blu-Smart Fleet Pvt Ltd, Blu- Smart Charge Pvt Ltd (engaged in charging infrastructure), and Blu-Smart Premium Fleet Pt Ltd (which owns 178 EVs).
+Blu-Smart Mobility, which is also presently going through insolvency proceedings, holds 99.99 per cent shareholding in each subsidiary, and all their businesses are mutually intertwined.
+The operational ecosystem of the Blu-Smart Group functions through three primary verticals -- technology, fleet, and charging infrastructure -- interlinked to service stakeholders, including customers.
+With Blu-Smart Mobility admitted into CIRP, the Resolution Professional, with CoC approval, has taken steps to obtain control over the subsidiaries, including Blu-Smart Mobility Tech, aiming for consolidated value maximisation greater than individual entities.
+Published on October 19, 2025
+
+Title   : Dixon Technologies shares fall 3% after Q2 results. Should you buy, sell or hold? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T05:46:34
+Fetched : 2025-10-20T16:35:44.813720
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-shares-fall-3-after-q2-results-should-you-buy-sell-or-hold/articleshow/124700306.cms
+--------------------------------------------------------------------------------
+Dixon reported an 81% YoY jump in net profit to Rs 746 crore for Q2 FY26, while revenue rose 33% to Rs 15,351 crore. Production of mobiles, wearables, telecom equipment, and IT hardware, accounting for 90% of revenue, grew 41% YoY, contributing Rs 472 crore to operating margins.
+The company has applied for government incentives under the Electronics Component Manufacturing Scheme and plans to invest Rs 3,000 crore over the next 2–3 years in its components business. Managing Director Atul Lall noted that these measures are intended to protect margins after the smartphone PLI scheme ends later this fiscal year, though some short-term pressure is expected.
+Backward integration to cut costs and expand IT hardware
+Dixon’s components strategy aims to improve backward integration and remove 4–5% cost disadvantages in IT hardware production. “Once we are able to do this in the next 7–8 months, our cost structures are going to be as good as China,” Lall said.
+Revenue from IT hardware surged to Rs 331 crore in Q2, from Rs 57 crore a year ago. The company targets Rs 1,200–1,300 crore in IT hardware revenue this fiscal, with aspirations to reach Rs 4,000–5,000 crore over the next two years. A joint venture with Taiwan-based ODM Inventec is set to start data centre component production in Q1 FY27.
+Dixon is also in talks with a global smartphone ODM, expecting manufacturing to start in late FY26 or early FY27, with anticipated volumes of roughly half a million units per month. Export opportunities, particularly through its stake in Transsion, are a key focus.
+Motilal Oswal
+Motilal Oswal maintained a 'Buy' rating with a target of Rs 22,500, noting that Dixon’s Q2 revenue and PAT were largely in line with estimates. The brokerage highlighted 42% YoY growth in the mobile segment, aided by the Ismartu integration and higher client volumes, as the key driver of performance.
+The brokerage said that overall growth was partly impacted by a GST-related slowdown in consumer demand and customer decision deferrals. However, Motilal Oswal sees consumer durables demand recovering, which is expected to support further growth in the third quarter. The brokerage also emphasised Dixon’s ongoing focus on backward integration through component PLI initiatives and long-term joint ventures, which should improve efficiency and strengthen client relationships.
+Motilal Oswal revised estimates to factor in improved margin assumptions for the home appliances segment and projects a CAGR of 36% revenue, 41% EBITDA, and 46% PAT over FY25–FY28, with EBITDA margins of 3.8%, 4.1%, and 4.4% in FY26, FY27, and FY28, respectively.
+JM Financial
+JM Financial gave an 'Add' rating for Dixon, stating that the Q2 results alleviated concerns about a potential slowdown in the mobile and EMS business. The brokerage noted that mobile and EMS revenue grew 41% YoY, while consumer electronics (-32%) and home appliances (-3%) remained weak due to deferred purchases following anticipated GST cuts.
+The brokerage highlighted that Dixon’s backward integration plans are largely on track, with camera module assembly consolidated in September 2025 and display assembly expected to become operational by March–April 2026. The firm also noted that Dixon is in discussions with a large global ODM, expected to begin manufacturing by 4Q FY26/1Q FY27, potentially adding 0.5 million units per month.
+Also read | Ola Electric & Ather Energy: Can you bet on India’s EV stocks as China tightens lithium grip?
+While JM Financial slightly reduced FY26E EPS estimates due to higher finance costs and minority interest, FY27 and FY28 projections remain largely unchanged. The brokerage values Dixon at 60x Sep’27E EPS, arriving at a target price of Rs 18,000.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Tata Technologies gets PL Capital upgrade after a 40% crash halves PE. Is it a value buy now? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T09:18:17
+Fetched : 2025-10-20T16:35:44.814303
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-gets-pl-capital-upgrade-after-a-40-crash-halves-pe-is-it-a-value-buy-now/articleshow/124702738.cms
+--------------------------------------------------------------------------------
+The fall meant that the PE, which was around 80 levels in highs, also corrected significantly to around 40 currently.
+In its latest note, PL upgraded the stock from Sell to Reduce but maintained a cautious tone, citing limited valuation comfort despite a turnaround in business momentum. The brokerage raised its target price to Rs 640 from Rs 540 earlier, implying modest downside from current levels.
+Q2 performance: Non-auto drives growth
+Tata Technologies reported revenue of $150.9 million, up 4.5% sequentially in constant currency terms, led by strong growth in the aerospace and industrial heavy machinery (IHM) segments, which rose 14.8% quarter-on-quarter. The auto vertical, which contributes 81% of the services mix, grew 0.3% QoQ, showing resilience despite temporary disruptions at its top client following a cybersecurity incident.
+The technology solutions portfolio -- which includes education projects and product engineering -- expanded 7.6% QoQ, benefiting from seasonal uptick and improved execution. Offshore revenue accounted for nearly 50% of total sales, up 5.9% QoQ, while EBIT margin came in at 13.4%, 80 bps above estimates, aided by better revenue mix.
+Profit after tax for Q2 stood at Rs 1,655 crore, slightly above analyst expectations of Rs 1,500 crore.
+Management outlook: Cautious Q3, stronger H2
+The management guided for a temporary slowdown in the auto business in Q3 due to client-specific issues but expects a rebound in Q4 as operations normalize. Demand conditions are improving across auto, aerospace and industrial machinery verticals, with deferred investments now resuming.
+Tata Technologies also closed three large deals in Q2, including one with a Tier-1 auto supplier, a Scandinavian OEM, and a German OEM. The BMW joint venture continues to perform strongly, now employing over 1,000 engineers and contributing steadily to profits.
+The upcoming ES-Tec acquisition, expected to be completed in Q3, will strengthen the company’s access to European OEMs such as Volkswagen and enhance its embedded software and ADAS capabilities.
+Valuation and stock view
+PL expects USD revenue and earnings CAGR of 7.5% and 15.2% respectively over FY25-28. While the brokerage acknowledges a "turnaround taking shape," it warns that the stock’s valuation at 32x FY27 earnings leaves little room for error. Margins are likely to remain under pressure in Q3 due to wage hikes and one-off costs, with a recovery expected from Q4 onwards.
+The company’s robust balance sheet and improving non-auto portfolio offer long-term comfort, but the near-term risk-reward remains unfavorable following the post-listing rally and subsequent correction.
+Also read | Ola Electric & Ather Energy: Can you bet on India’s EV stocks as China tightens lithium grip?
+Tata Technologies shares have declined 35–40% over the past year, underperforming the Nifty IT index. Analysts say valuations need to cool further for investors to see meaningful upside, even as the company positions itself for long-term growth in digital engineering and EV-led automotive transformation.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

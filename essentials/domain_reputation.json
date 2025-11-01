@@ -1,0 +1,20 @@
+{
+  "reuters.com": { "weight": 1.0, "type": "premium", "popularity": 98 },
+  "bloomberg.com": { "weight": 0.98, "type": "premium", "popularity": 97 },
+  "bqprime.com": { "weight": 0.92, "type": "tier1", "popularity": 88 },
+  "economictimes.indiatimes.com": { "weight": 0.95, "type": "tier1", "popularity": 95 },
+  "livemint.com": { "weight": 0.94, "type": "tier1", "popularity": 92 },
+  "moneycontrol.com": { "weight": 0.93, "type": "tier1", "popularity": 93 },
+  "business-standard.com": { "weight": 0.92, "type": "tier1", "popularity": 86 },
+  "thehindubusinessline.com": { "weight": 0.90, "type": "tier1", "popularity": 82 },
+  "financialexpress.com": { "weight": 0.88, "type": "tier1", "popularity": 84 },
+  "cnbctv18.com": { "weight": 0.86, "type": "tier1", "popularity": 80 },
+  "businesstoday.in": { "weight": 0.84, "type": "tier2", "popularity": 78 },
+  "zeebiz.com": { "weight": 0.82, "type": "tier2", "popularity": 76 },
+  "bseindia.com": { "weight": 0.90, "type": "exchange", "popularity": 85 },
+  "nseindia.com": { "weight": 0.92, "type": "exchange", "popularity": 88 },
+  "prnewswire.com": { "weight": 0.45, "type": "prwire", "popularity": 75 },
+  "businesswire.com": { "weight": 0.48, "type": "prwire", "popularity": 74 },
+  "globenewswire.com": { "weight": 0.48, "type": "prwire", "popularity": 72 },
+  "newsvoir.com": { "weight": 0.50, "type": "prwire", "popularity": 60 }
+}

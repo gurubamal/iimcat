@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+HAVELLS,HAVELLS INDIA LIMITED,76.6,38,2,Certainty 38% below threshold (40%),"Goldi Solar sees over ₹1,400 cr capital infusion from Havells India, others",Detected 3 catalyst(s). From www.thehindubusinessline.com [unknown:0.65]. Score: 100/100. Certainty: 38%. BULLISH.

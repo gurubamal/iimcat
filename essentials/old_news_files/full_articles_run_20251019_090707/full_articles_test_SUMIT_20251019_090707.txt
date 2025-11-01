@@ -1,0 +1,42 @@
+Full Article Fetch Test - SUMIT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 34.29M
+
+Title   : From Sumitomo-Yes Bank to RBL-Emirates NBD, RBI is softening its stance on foreign banks
+Source  : www.livemint.com
+Published: 2025-10-18T14:18:03
+Fetched : 2025-10-19T10:49:32.173017
+URL     : https://www.livemint.com/companies/rbl-emirates-sumitomo-yes-bank-rbi-foreign-capital-11760697589365.html
+--------------------------------------------------------------------------------
+From Sumitomo-Yes Bank to RBL-Emirates NBD, RBI is softening its stance on foreign banks
+RBL Bank's deal with Emirates NBD Bank indicates a change in the thinking at India's central bank on foreign investments in local banks. Other recent deals, too, point to this shift in stance. Is this a comeback of foreign lenders in the country at a time some overseas banks are exiting?
+Mumbai: The deal between private sector lender RBL Bank and Dubai’s Emirates NBD Bank PJSC highlights a growing ease at India's central bank to allow foreign banks to invest in local financial institutions.
+On Saturday, RBL Bank said that Emirates NBD will acquire up to 60% of it for ₹26,850 crore. It will require approval from the Reserve Bank of India (RBI), among others.
+Mint reported on 13 October that the two were in talks with Emirates NBD Bank planning to buy a controlling stake in RBL Bank, citing two people with direct knowledge of the discussions.
+The deal comes just weeks after Sumitomo Mitsui Banking Corp bought 24.2% in Yes Bank in two transactions. Mint had reported in August that the Yes Bank-SMBC deal may pave the way for similar cross-border investments in the banking sector.
+While India’s foreign direct investment regulations allow overseas investors to purchase up to 74% in banks, RBI regulations restrict ownership by a single foreign investor at 15%. The regulator has relaxed these norms in certain instances but voting rights remain capped at 26%.
+A senior consultant who also advises financial companies on such transactions said that there is a change in stance at the central bank, with the regulator now warming up to the idea of more foreign capital in banking.
+“The regulator understands that local banks need capital to bolster their balance sheets and allowing foreign capital will help," the consultant said asking to be not identified. “It is India’s mid-sized private sector banks that could be targets of acquisitions in future."
+The RBI wants strategic investors who will stay invested for at least a decade or two and not those looking for a quick exit, the consultant added.
+Regulatory ease-up
+Recent statements by RBI governor Sanjay Malhotra show that the central bank is keener on such stake sales than its stated position earlier. Malhotra told CNBC TV18 in July that the central bank had not yet received any case where a foreign bank wants to own 26% in Indian banks.
+“As per the FDI policy, the foreign banks are allowed up to 74%. Foreign banks can certainly have 26% stake in an Indian bank," he told the channel.
+Banking sector experts also see this deal as a resurgence of foreign banks in India in some sense, given that the deal comes at a time foreign lenders are letting go of their businesses in India.
+“This signals the second coming of foreign banks in India, once plagued with restrictions around branch expansions," said Ashvin Parekh, managing partner of Ashvin Parekh Advisory Services LLP, provider of business and transaction advice to financial sector companies.
+Beyond capital, foreign banks will bring robust risk management practices and new technology, Parekh said. According to him, earlier, all foreign capital was considered to be a no-no from the RBI point of view but central bank is slowly warming up to the idea.
+“Now, gradually the banking industry itself has matured a lot and in that backdrop, RBI feels, on a selective basis, more confident in approving such stake sales," he said.
+Case by case approvals
+There have been very few cases of foreign banks acquiring Indian lenders. But in September, Sumitomo bought a 20% stake in Yes Bank and signed an agreement with CA Basque Investments, a company affiliated with The Carlyle Group Inc., to acquire an additional 4.2%.
+The central bank seized Yes Bank in March 2020 after its financial position deteriorated, and supervised its acquisition by a clutch of banks led by State Bank of India.
+Earlier in November 2020, RBI had seized the struggling Lakshmi Vilas Bank and forced its merger with the local unit of Singapore’s largest lender DBS Bank. That was the first time the central bank had tapped a bank with a foreign parent to backstop an Indian lender.
+Still, some believe that India's banking regulatory position has not changed in spirit and intent.
+“The RBI has always been open about foreign investment as long as it stays within the prescribed regulatory limit. What RBI is more concerned about is the source of such capital, and country of origin," said Vivek Iyer, partner and financial services risk advisory leader, Grant Thornton Bharat.
+The regulator, said Iyer, knows that these institutions will bring in money to bolster the capital ratios of the target banks and strengthen their balance sheets.
+More competition
+Iyer said that since RBI is also open to small finance banks becoming universal banks, there will be more competition in the market for existing banks, who would need growth capital to pivot themselves in a competitive market.
+In August, AU Small Finance Bank won the central bank's 'in-principle' approval to upgrade to a universal bank, becoming the first lender to secure a full-fledged banking licence in 10 years.
+“That said, capping the voting rights at 26% is to say that one can bring in capital but decision making would be limited, which is an outcome of a policy that keeps national interest at the centre," added Iyer.
+The announcement of the RBL-Emirates NBD Bank deal comes barely five months after RBI granted in-principle approval to the Dubai bank to establish a wholly-owned subsidiary in India.
+India allows foreign banks to operate either as a branch or a wholly-owned subsidiary of the parent. All except two – DBS Bank India and SBM Bank India – work as branches. A local unit gives more flexibility to the bank than a branch. The central bank prefers foreign banks operating subsidiaries rather than branches in India.
+

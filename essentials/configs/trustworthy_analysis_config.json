@@ -1,0 +1,282 @@
+{
+  "sentiment_analysis": {
+    "positive_indicators": {
+      "verbs": ["wins", "rises", "jumps", "gains", "surges", "beats", "soars", "climbs", "rallies", "advances"],
+      "adjectives": ["strong", "robust", "solid", "impressive", "record", "high", "positive", "successful"],
+      "nouns": ["growth", "profit", "revenue", "expansion", "acquisition", "success", "breakthrough", "upgrade"],
+      "percentages": ["up", "increase", "gain", "rise"]
+    },
+    "negative_indicators": {
+      "verbs": ["shuns", "rejects", "falls", "drops", "declines", "plunges", "crashes", "tumbles", "slips", "weakens"],
+      "adjectives": ["weak", "poor", "disappointing", "negative", "low", "concerning"],
+      "nouns": ["losses", "decline", "concern", "weakness", "downgrade", "cuts", "layoffs"],
+      "percentages": ["down", "decrease", "fall", "decline"]
+    },
+    "speculative_indicators": {
+      "modal_verbs": ["may", "might", "could", "would", "should"],
+      "future_intent": ["plans", "intends", "aims", "targets", "eyes", "considers", "explores", "discusses"],
+      "uncertainty": ["likely", "possibly", "potentially", "reportedly", "allegedly"]
+    },
+    "neutral_indicators": {
+      "questions": ["will", "?", "can", "should"],
+      "conditionals": ["if", "when", "once", "after"]
+    }
+  },
+  
+  "confidence_scoring": {
+    "high_confidence": {
+      "criteria": [
+        "specific_numbers_present",
+        "confirmed_events",
+        "multiple_sources",
+        "ticker_in_title",
+        "recent_timeframe"
+      ],
+      "min_criteria_met": 3,
+      "score_multiplier": 1.0
+    },
+    "medium_confidence": {
+      "criteria": [
+        "some_numbers_present",
+        "single_source",
+        "company_mentioned"
+      ],
+      "min_criteria_met": 2,
+      "score_multiplier": 0.7
+    },
+    "low_confidence": {
+      "criteria": [
+        "no_numbers",
+        "speculative_language",
+        "vague_statements"
+      ],
+      "max_criteria_met": 1,
+      "score_multiplier": 0.4
+    }
+  },
+  
+  "event_reliability": {
+    "most_reliable": {
+      "types": ["Results/metrics", "Dividend/return", "IPO/listing"],
+      "reason": "Quantifiable, exchange-verified events",
+      "trust_boost": 0.3
+    },
+    "reliable": {
+      "types": ["Order/contract", "M&A/JV", "Regulatory"],
+      "reason": "Documented corporate actions",
+      "trust_boost": 0.2
+    },
+    "moderate": {
+      "types": ["Management", "Approval"],
+      "reason": "Announced but execution pending",
+      "trust_boost": 0.1
+    },
+    "speculative": {
+      "types": ["General", "Expansion"],
+      "reason": "May lack specific details",
+      "trust_boost": 0.0
+    }
+  },
+  
+  "ticker_verification": {
+    "primary_beneficiary_patterns": {
+      "rejection_pattern": {
+        "keywords": ["shuns", "rejects", "abandons", "drops", "withdraws"],
+        "logic": "first_ticker_is_negative",
+        "beneficiary": "extract_from_remainder"
+      },
+      "selection_pattern": {
+        "keywords": ["chooses", "selects", "picks", "opts for", "acquires"],
+        "logic": "first_ticker_is_neutral_or_target",
+        "beneficiary": "extract_explicit_mention"
+      },
+      "vs_pattern": {
+        "keywords": ["vs", "versus", "over", "instead of"],
+        "logic": "second_ticker_is_chosen",
+        "beneficiary": "second_mention"
+      }
+    },
+    "ticker_in_title_scoring": {
+      "explicit_mention": 1.0,
+      "company_name_match": 0.9,
+      "partial_match": 0.5,
+      "no_match": 0.0
+    }
+  },
+  
+  "amount_verification": {
+    "currency_patterns": ["₹", "Rs", "$", "USD", "INR"],
+    "magnitude_keywords": ["crore", "cr", "billion", "million", "lakh"],
+    "min_significant_amount_cr": 50,
+    "large_deal_threshold_cr": 1000,
+    "mega_deal_threshold_cr": 10000
+  },
+  
+  "source_credibility": {
+    "tier_1": {
+      "domains": ["economictimes.indiatimes.com", "livemint.com", "businessstandard.com", "moneycontrol.com"],
+      "trust_multiplier": 1.2,
+      "verification_required": false
+    },
+    "tier_2": {
+      "domains": ["thehindubusinessline.com", "financialexpress.com", "business-standard.com"],
+      "trust_multiplier": 1.1,
+      "verification_required": false
+    },
+    "tier_3": {
+      "domains": ["business-today.in", "cnbctv18.com", "zeebiz.com"],
+      "trust_multiplier": 1.0,
+      "verification_required": true
+    },
+    "tier_4": {
+      "domains": ["*"],
+      "trust_multiplier": 0.8,
+      "verification_required": true
+    }
+  },
+  
+  "reliability_thresholds": {
+    "five_star": {
+      "min_confidence": 0.8,
+      "min_sentiment_clarity": 0.9,
+      "min_ticker_match": 0.9,
+      "min_source_tier": 2,
+      "requires_numbers": true
+    },
+    "four_star": {
+      "min_confidence": 0.6,
+      "min_sentiment_clarity": 0.7,
+      "min_ticker_match": 0.7,
+      "min_source_tier": 2,
+      "requires_numbers": false
+    },
+    "three_star": {
+      "min_confidence": 0.4,
+      "min_sentiment_clarity": 0.5,
+      "min_ticker_match": 0.5,
+      "min_source_tier": 3,
+      "requires_numbers": false
+    },
+    "two_star": {
+      "min_confidence": 0.3,
+      "min_sentiment_clarity": 0.3,
+      "min_ticker_match": 0.3,
+      "min_source_tier": 3,
+      "requires_numbers": false
+    },
+    "one_star": {
+      "min_confidence": 0.0,
+      "default": true
+    }
+  },
+  
+  "filtering_rules": {
+    "auto_reject": {
+      "conditions": [
+        "confidence_below_threshold",
+        "speculative_only",
+        "no_ticker_match",
+        "negative_for_ticker"
+      ],
+      "min_conditions_met": 2
+    },
+    "require_verification": {
+      "conditions": [
+        "ticker_mapping_unclear",
+        "amount_not_verified",
+        "single_source_only",
+        "low_tier_source"
+      ],
+      "min_conditions_met": 1
+    },
+    "auto_approve": {
+      "conditions": [
+        "five_star_rating",
+        "multiple_sources",
+        "tier_1_source",
+        "confirmed_event"
+      ],
+      "min_conditions_met": 3
+    }
+  },
+  
+  "output_templates": {
+    "recommendation_strong_buy": {
+      "conditions": ["reliability >= 4", "sentiment == positive", "confidence >= 0.7"],
+      "icon": "🟢",
+      "text": "STRONG BUY"
+    },
+    "recommendation_buy": {
+      "conditions": ["reliability >= 3", "sentiment == positive", "confidence >= 0.5"],
+      "icon": "🟢",
+      "text": "BUY"
+    },
+    "recommendation_watch": {
+      "conditions": ["reliability >= 2", "sentiment == positive or neutral"],
+      "icon": "🟡",
+      "text": "WATCH"
+    },
+    "recommendation_avoid": {
+      "conditions": ["sentiment == negative or reliability < 2"],
+      "icon": "❌",
+      "text": "AVOID"
+    }
+  },
+  
+  "dynamic_adjustments": {
+    "learning_enabled": true,
+    "pattern_detection": true,
+    "auto_update_thresholds": false,
+    "feedback_loop": {
+      "track_accuracy": true,
+      "adjust_weights": true,
+      "update_frequency_days": 7
+    }
+  },
+  
+  "quality_checks": {
+    "pre_analysis": [
+      "load_configuration",
+      "validate_data_sources",
+      "check_ticker_mappings"
+    ],
+    "during_analysis": [
+      "sentiment_verification",
+      "ticker_beneficiary_check",
+      "amount_extraction",
+      "source_credibility_check"
+    ],
+    "post_analysis": [
+      "reliability_scoring",
+      "confidence_calculation",
+      "recommendation_generation",
+      "error_logging"
+    ]
+  },
+  
+  "error_handling": {
+    "ticker_mismatch": {
+      "action": "flag_for_review",
+      "reduce_confidence": 0.3,
+      "require_manual_verification": true
+    },
+    "sentiment_conflict": {
+      "action": "analyze_context",
+      "use_sentence_level_analysis": true,
+      "default_to_neutral": true
+    },
+    "missing_amounts": {
+      "action": "check_article_body",
+      "use_magnitude_estimates": false,
+      "flag_as_incomplete": true
+    }
+  },
+  
+  "reporting": {
+    "include_reliability_stars": true,
+    "show_confidence_scores": true,
+    "highlight_errors": true,
+    "provide_alternatives": true,
+    "explain_reasoning": true
+  }
+}

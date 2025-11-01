@@ -1,0 +1,188 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-27T19:08:08.340058
+Hours back: 72
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com, sebi.gov.in, nseindia.com, bseindia.com
+Tickers planned: 36
+====================================================================================================
+
+Full Article Fetch Test - ALPA
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - BANARBEADS
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - BEARDSELL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - BFUTILITIE
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - BHEL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - CAPACITE
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - CGCL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - COUNCODOS
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - CROMPTON
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - DATAPATTNS
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - DBCORP
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - DEEPAKNTR
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - DEVIT
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - EASEMYTRIP
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - GATECHDVR
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - GLENMARK
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - GODHA
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - HUDCO
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - IDBI
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - KEC
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - MGL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - NBCC
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - NINSYS
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - NTPCGREEN
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - PETRONET
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - PNCINFRA
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - POWERMECH
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - PROTEAN
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - RADHIKAJWE
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - RBZJEWEL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - RBLBANK
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - SARVESHWAR
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - SUZLON
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - VIKRAMAR
+================================================================================
+
+(no fresh items in last 72h)
+

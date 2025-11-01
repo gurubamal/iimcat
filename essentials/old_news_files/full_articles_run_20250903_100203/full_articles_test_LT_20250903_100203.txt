@@ -1,0 +1,54 @@
+Full Article Fetch Test - LT
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : LTTS partners with SiMa.ai to develop physical AI solutions 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-03T06:44:12
+Fetched : 2025-09-03T10:52:34.736767
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/ltts-partners-with-simaai-to-develop-physical-ai-solutions/article70007029.ece
+--------------------------------------------------------------------------------
+Updated - September 03, 2025 at 12:14 PM.
+|
+Mumbai
+L&T Technology Services Ltd announced a strategic partnership with Silicon Valley-based SiMa.ai on Tuesday to develop AI-driven solutions across mobility, healthcare, industrial automation and robotics sectors.
+The collaboration will integrate LTTS’ engineering expertise with SiMa.ai’s MLSoC™ ONE platform and software development kit to create scalable Physical AI applications. The partnership targets specific areas including in-vehicle infotainment systems, advanced driver assistance systems, industrial automation, robotics and healthcare technologies.
+Under the agreement, SiMa.ai will leverage LTTS’ core engineering capabilities and workforce investments to deliver AI hardware and software solutions. The companies plan to jointly develop breakthrough use cases that will expand adoption of SiMa.ai’s platform across multiple industries.
+“SiMa.ai cements LTTS’ position as a leader in AI-led ER&D solutions,” said Amit Chadha, CEO and Managing Director of L&T Technology Services. The partnership aims to help clients accelerate time-to-market and enhance operational efficiency.
+Krishna Rangasayee, Founder and CEO of SiMa.ai, emphasized the collaboration’s potential to scale Physical AI applications globally, citing LTTS’ engineering capabilities and client reach as key factors.
+The partnership includes establishing a scalable product support framework and joint go-to-market strategies to accelerate AI technology adoption worldwide. LTTS, a subsidiary of Larsen & Toubro, serves 69 Fortune 500 companies and operates across 23 global design centers.
+The shares of L&T Technology Services Ltd were trading on the NSE today at ₹4,186 down by ₹20.90 or 0.50 per cent at 11.55 am.
+Published on September 3, 2025
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Sign into Unlock benefits!
+- Access 10 free stories per month
+- Access to comment on every story
+- Sign up/Manage to our newsletters
+- Get notified by email for early preview to new features, discounts & offers
+Looks like you are already logged in from more than 5 devices!
+To continue logging in, remove at least one device from the below list
+
+Title   : Waaree Energies shares in focus on Rs 192 crore acquisition of 64% stake in Kotson’s Pvt Ltd 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-03T04:25:04
+Fetched : 2025-09-03T10:52:34.736767
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-shares-in-focus-on-rs-192-crore-acquisition-of-64-stake-in-kotsons-pvt-ltd/articleshow/123669214.cms
+--------------------------------------------------------------------------------
+As per the regulatory disclosure dated September 2, 2025, the acquisition will be executed through a Share Subscription and Shareholders Agreement, with the deal expected to close by September 30, or such extended date as may be mutually agreed upon by the parties.
+Founded on April 22, 1978, Kotson’s Private Ltd is engaged in the business of designing, manufacturing, and supplying advanced transformer solutions. The company has built a strong presence in India’s electrical equipment sector, offering a wide array of transformer types, including Oil Filled, Dry Type, Special Purpose, and Renewable Energy application transformers.
+The company’s manufacturing facility currently has a production capacity of 4,000 MVA.
+The acquisition of Kotson’s is expected to allow Waaree Energies to strengthen its position in the power value chain by enhancing its control over supply and product quality.
+The transaction does not fall under the related party category, and Waaree Energies will acquire 2.56 crore shares at Rs 75 per share (face value Rs 10 each), marking a significant investment in scaling up its backend manufacturing capabilities.
+Once the deal is concluded, Kotson’s Private Limited will become a subsidiary of Waaree Energies.
+In addition to Kotson’s deal, Waaree Energies also approved the acquisition of 100% shareholding in Impactgrid Renewables. The latter is a newly incorporated, non-operational entity engaged in the renewable energy space and is currently a step-down subsidiary of the company.
+This acquisition, executed for a consideration of Rs 1 lakh, according to the exchange filing.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

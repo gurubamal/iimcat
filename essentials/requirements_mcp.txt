@@ -1,0 +1,7 @@
+mcp>=1.0.0
+asyncio
+pathlib
+typing
+json
+subprocess
+datetime

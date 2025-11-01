@@ -1,0 +1,23 @@
+Full Article Fetch Test - MRF
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 5.00B
+
+Title   : Serentica Renewables to develop 170 MW hybrid project for MRF
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T09:26:05
+Fetched : 2025-10-13T21:02:59.518044
+URL     : https://www.thehindubusinessline.com/companies/serentica-renewables-to-develop-170-mw-hybrid-project-for-mrf/article70157965.ece
+--------------------------------------------------------------------------------
+Serentica Renewables on Monday announced that it will develop a solar-wind hybrid project with a total installed capacity of 170 MW to supply captive power to tyre manufacturer MRF Ltd.
+A special purpose vehicle was created to supply RE power to MRF in which MRF has picked captive minority stake and the rest is held by Serentica, a company statement said.
+Serentica has signed a long-term Power Purchase Agreement (PPA) with MRF to supply clean power under the captive power framework.
+The clean energy will be supplied from a new hybrid renewable energy project with a total installed capacity of around 170 MW, currently under development by Serentica.
+The project will integrate both solar and wind generation to deliver round-the-clock renewable energy for MRF’s manufacturing facilities across India through the ISTS (Inter-State Transmission System) network.
+The captive arrangement will allow MRF to meet its substantial electricity requirements, supporting its ongoing sustainability and net-zero ambitions.
+"By combining renewable energy with cutting-edge storage and hybrid solutions, we are delivering clean and reliable power to help leading industries like MRF transition to a sustainable future," CEO Akshay Hiranandani said.
+Established in 2022, Serentica Renewables is a leading renewable independent power producer (IPP) committed to decarbonizing hard-to-abate industries by providing firm dispatchable renewable energy (FDRE) solutions.
+The company has achieved a significant milestone by reaching 1,000 MW of renewable energy capacity, with ongoing projects across multiple states, leveraging a mix of solar, wind, energy storage, and advanced balancing solutions.
+Backed by a USD 650 million investment from KKR, Serentica aims to supply over 50 billion units of clean energy annually, enabling the displacement of 47 million tonne of CO₂ emissions.
+Published on October 13, 2025
+

@@ -1,0 +1,22 @@
+Full Article Fetch Test - MASON
+================================================================================
+
+(skipped: outside allowed sources) Title: Tejas Devendr a Shah - bsmedia.business-standard.com
+URL     : https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHRLVzZZZkZvTmQwQnJKWHV6anlPNmFvM0FkLXhWbzM5NEFrRXhoVmI3UEZjMER5bGplUHlsZmktdmZxM2NReDdDZ1hhVEtIRTR5UTBJXzVzTFpDa1FkQklKaXlZSTVTXzg2R1NJTlBsM01RTXkxdDE1YmJXdjJSMGpVT0M2QnJyX0VWbG5DYW5qSDdDM3pfZUZUM0ZJZ1lsMWlBcTB4alV3bUt4YzM1U0hhSUNWTnVKcUxUcA?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: White House says no shutdown-related layoffs yet, but warns they could come - Reuters
+URL     : https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXVyY0ZvUVBwbEtOb0E1REFZWXZWd1N1el9tVW9HWjkwNTQtTTVEV3RzVGVYd1Q5VWQ0cE54Vzhyd1BYd3NOeDBvLUpnZ1hEZXJ0VTdWbFJnTDNGRlE1NWpwaVBHTHBlNVZ5dFQwUXZEWndsLXJ1Qm1LaGdmaTZESUpmekgwTEN6TkI2bW9LYmEzakxTUlZiSzlVWXdEREVFSXdQRg?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: India's housing market grows in Q3 2025, premium homes dominate: Knight Frank - Mint
+URL     : https://news.google.com/rss/articles/CBMiywFBVV95cUxQVE5vVnJzNlFiYW1PMUxZaGZnWUNuM054OHNjWGtDVFJKWHJWYzlfSDBiWkVmUS1rallhWlRySExnbUJvSjR0NDdvR0lqYy1FMVlPSDg5cVRSdUY2enFZS2hmalNtUmNUZ3AtcTJDWHo3eWJLSUNpb0lMZndxTWEzYVpON2J5bkI5X29ONG1QU2ZKWjdfT2V4YzM0bmlkZFozeW13aVlPT0Uydm43R0p2QTZOLVIwMXh5NjFtRmltZHVMZWYtQ0lyd2tUWdIB0AFBVV95cUxNT2szU2pZRmdDaWpMbThSaXBnczBQUmFOSkp6RDJ0a0xHczVra2NiNnhZOWJSRDZ4NzVkZVJZZGhWS3NCdUw3all3b3FBODRjU2syQWNkcXhzbVJjNVRGUndKdXZjU2g5SW1SaG9aQVZKVzI1cVViVXl6RkhrRU5ybkI1Zks0WEVlOG5pQm1ocnpFeEFvNkVLXzlwTWlYQVFtekstM1B1azZscGJ2SDBzMWZLWG9BaW5EV2N4YlRyZ2pIYVdGUkJWNWE3Q1F0bmFO?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Are multi-asset allocation funds the best way to diversify across equity, debt and gold? All you need to know - Mint
+URL     : https://news.google.com/rss/articles/CBMihgJBVV95cUxNSGY0RkRheGQ0MGxsX2dGMmhqX29vR2UwX0pwaWFUdnNqYWktOG54emR4eWc4RUJ3bUh1cjdVc3hBX2NHZGlBaHBFNklkVHV6SXFoZ0FnTVNrRldob19oOVI1cDhYajRlNWZWZElCbFVhVWwyUHNoYnNmN2JYTHZKSFdkbUU0Q29sUU03OS1FdFpBZlB6VTQxRExTODQzbl9ISUdNWGFPc3Mzelk4ZEhPaktrUWx1U2hIMlpmNkxoMG1pWkhXb2lfSzNIY2pBVjNPanFUTTJQdnhDUUtSaVdoVTdxUEJ6al9NaUJWT3RBcFZ1d1F1c3Byd0F4VndTZ1VWZ0NZZUVn0gGLAkFVX3lxTE9MSmNrZVhuaGNzazM2blZsci15anYyQjUwNWg0TUJ0UWROeGlDaUJZOURiVXB3R0tWVW5TU3VqMTlncDQ0R3FWWGdob3VVVWxtS0Y2OE5BbWd5R2ZqU1F0TGJlU2ZuaVBqVW1KWXU5ay1JLWdLT01NV1hVMEFESGxyNDRtODJTWDBmeDRGakItdENMTU0xNXpUNm9jVzF3a2pDSWhja1hIcmYwOTZCb3IycFREZU9BVm5FSTVtY2puOWI2cUhNVVZta1JnVWdDYXVVUnNSSHJaYlYzQ3NXMUgwa29lcW5VYjZhNm5uMmU2aE9zeXdEbmo0Nzl6Z0tFWUt3LTFfWnFrNjBOQQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: What is 4 per cent rule of withdrawal from corpus after retirement? Explainer - Mint
+URL     : https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSURTZllFMkNRajg2YnlfbjlVZVFUejc3eUNfTTdXMWZtYlhabWJjS3BCNmk3ZmxaY01Pc1Z5Um1UZ1dreEZDS09YdWFTREtWMExUOU14MktSVzdlSjdib2w4OGdCSXVRblU3TEttN1cxQzJnNzZON2M5eXB3VTRIYlVLVldFU29lQVZ3enozekNiZzlTckwtQWpid3hEa01lX0ZCbFZqc3NMTFdYT2xieThoZUREeFl2OUFuUVBzOFR4TmV3dmcxYmFKLXFPd19aM1VSN0oxQkV1ZGRkMURSNmhR0gHiAUFVX3lxTE5JRFNmWUUyQ1FqODZieV9uOVVlUVR6Nzd5Q19NN1cxZm1iWFptYmNLcEI2aTdmbFpjTU9zVnlSbVRnV2t4RkNLT1h1YVNES1YwTFQ5TXgyS1JXN2VKN2JvbDg4Z0JJdVFuVTdMS203VzFDMmc3Nk43Yzl5cHdVNEhiVUtWV0VTb2VBVnd6ejN6Q2JnOVNyTC1BamJ3eERrTWVfRkJsVmpzc0xMV1hPbGJ5OGhlRER4WXY5QW5RUHM4VHhOZXd2ZzFiYUotcU93X1ozVVI3SjFCRXVkZGQxRFI2aFE?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: 4 personal loan charges you should know before applying - Mint
+URL     : https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHpNSEkyeDM0LTlFS3NsRHl1WkZtZ3NxWjdpcHRpblpPRnp2Wl93dkJaWUxwLXFsVlJ0NnNrU2RKS2hZYlJ1Q2k3SEoyOFVhUHExZnlZMGwwTjUyR1VCaHNLb0hfZVl5ZWtNSkszSXZDX3J4Wm5EWlg0emVmVk9IRjhVYkx2cDRLbW5XRGxrVnFveDRRdEstMkhSRWl3UUtDb3IyZXRNbEVvVmtQV3Jsa2ZCNGJTVG1PTlVCZkQwdXfSAcYBQVVfeXFMT1MyTlM3V19BUmtGaS1ndHF4Ulh2dWgwWGZLLUFxajBIM2JTaWNPcC1JVWJ4TnJfNEhhemhnVFpuTGF5RUd0c1gtVGNUa0hfSjN1QXZqdW5QSjNFQUFXY191cUtvWFYtVHYxTm1tdmxIWTAtRUNSTmxXQTdFbC1OWW41azMtVlVHZ3pYdzhFQWxLSHdmZHlaZTNnRDE4UTlKV2hNVjAwbktmeG5VSGh6WnFjLVVZUXFqYm9yZmRiTUQ1S0U2Znp3?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

@@ -1,0 +1,52 @@
+Full Article Fetch Test - BFSI
+================================================================================
+
+Title   : Tech Mahindra Q2 Preview: PAT may jump up to 20% QoQ, 4% revenue uptick seen on steady BFSI and retail. 5 things to track 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T09:21:20
+Fetched : 2025-10-14T11:48:29.663796
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q2-preview-pat-may-jump-up-to-20-qoq-4-revenue-uptick-seen-on-steady-bfsi-and-retail-5-things-to-track/articleshow/124548631.cms
+--------------------------------------------------------------------------------
+Meanwhile, the revenue from operations could grow between 2.3% to 3.7% on a quarter-on-quarter basis while rising 2.6%-4% on a YoY basis. The topline range is seen at Rs 13,661 crore to Rs 13,846 crore.
+The estimates of Nomura, Nuvama Institutional Equities, Axis Securities and HDFC Securities are taken into account.
+The highest PAT estimate is given by Nomura while HDFC Securities remains most modest in the pack even as it estimates a YoY decline in Tech Mahindra’s net profit. Meanwhile, the Japanese brokerage remains most conservative in its revenue estimates while Axis is most bullish.
+Tech Mahindra will announce its July-September quarter earnings on Tuesday after market hours. Here’s what brokerages expect from the company:
+5 key things to watch out:
+1. PAT
+Brokerages foresee a solid recovery in profitability sequentially, led by margin expansion and higher deal conversions.
+– Nomura expects net profit at Rs 1,363 crore, up 9% YoY and 19.5% QoQ
+– Nuvama estimates PAT at Rs 1,338 crore, rising 7.1% YoY and 17.3% QoQ, supported by improved operational performance.
+– Axis Securities projects profit at Rs 1,279 crore, an increase of 1.7% YoY and 13.4% QoQ
+– HDFC Securities, however, pegs PAT lower at Rs 1,270 crore, down 5.5% YoY but still up 11.4% QoQ.
+Overall, consensus points to double-digit sequential growth in the bottom line after several muted quarters.
+2. Revenue
+Revenue growth is expected to remain modest as the company navigates a still-challenging demand environment.
+– Nomura forecasts revenue at Rs 13,661 crore, up 2.3% QoQ and 2.6% YoY, led by both the communications and enterprise verticals.
+– Nuvama expects revenue to rise 3.2% QoQ and 3.5% YoY to Rs 13,773 crore, while Axis Securities estimates Rs 13,846 crore, indicating 3.7% sequential growth.
+– Axis Securities pegs Q2 topline at Rs 13,846 crore up 4% YoY and up 3.7% QoQ
+– HDFC Securities projects a similar trajectory at Rs 13,740 crore, reflecting a 3.2% YoY growth and 2.9% QoQ rise.
+The ramp-up of large deals in BFSI, retail, and communications is seen driving this steady top-line performance.
+3. EBIT
+Brokerages expect a strong improvement in Earnings Before Interest and Taxes (EBIT), supported by higher utilisation and productivity gains.
+Nuvama pegs EBIT at Rs 1,623 crore, up 9.9% QoQ and 26.7% YoY, the most optimistic among peers.
+Axis Securities expects EBIT at Rs 1,604 crore, an 8.6% QoQ and 25.3% YoY increase.
+HDFC Securities projects EBIT at Rs 1,574 crore, up 22.9% YoY and 6.5% QoQ, while Nomura expects margins to expand by 40 bps sequentially.
+This rebound reflects ongoing restructuring efforts and a focus on operational efficiency.
+4. Margins
+A broad-based recovery in margins is expected as cost controls and restructuring benefits start to reflect in Q2.
+Nuvama forecasts the highest EBIT margin at 11.8%, up 70 bps QoQ and 220 bps YoY.
+Axis Securities and HDFC Securities see margins at 11.6–11.5%, rising between 40–50 bps QoQ.
+Nomura expects margins to improve 40 bps QoQ to 11.5%.
+Most brokerages expect Tech Mahindra to maintain its FY27 EBIT margin guidance of 15%, underpinned by structural cost savings.
+5. Key monitorables
+Analysts will closely track management commentary on the demand trends in the BFSI and telecom verticals.
+Large deal wins and visibility in the deal pipeline will be a thing closely watched by Japanese brokerage Nomura, which expects net new deal wins of $600–800 million.
+Progress on cost optimisation initiatives and FY27 margin roadmap and client spending patterns amid global macro uncertainty and outlook for the enterprise business will be another top monitorable for the markets.
+(Disclaimer: The recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times.)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

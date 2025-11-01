@@ -1,0 +1,55 @@
+Full Article Fetch Test - LT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 36.17B
+
+Title   : NCLT admits insolvency case against Blu-Smart Mobility Tech
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T08:34:33
+Fetched : 2025-10-19T21:57:51.905325
+URL     : https://www.thehindubusinessline.com/companies/nclt-admits-insolvency-case-against-blu-smart-mobility-tech/article70182093.ece
+--------------------------------------------------------------------------------
+The National Company Law Tribunal (NCLT) has admitted an insolvency case against Blu-Smart Mobility Tech, the debt-ridden company which was providing all-electric ride-hailing services and building a network of EV charging infrastructure in India.
+The Ahmedabad bench of NCLT has admitted the insolvency plea filed by Lepton Software Export and Research against Blu-Smart Mobility over an unpaid amount of ₹5.84 crore, and appointed Pawan Kumar Goyal as the interim resolution professional, suspending the board of the company.
+A two-member bench said there is an operational debt, which has been defaulted by Blu-Smart Mobility, and its operational creditor is entitled to recover it.
+"The respondent/corporate debtor Blu-Smart Mobility Pvt Ltd is admitted in the Corporate Insolvency Resolution process under section 9(5) of the code," it said.
+Moreover, the NCLT also placed Blu-Smart Mobility Tech under the protection of a moratorium as per the provisions of the Insolvency & Bankruptcy Code (IBC) and directed the IRP to take full charge of Blu-Smart Mobility's assets and documents.
+The NCLT order came over a petition filed by Lepton Software, which sells Google Maps Platform services under the licence granted by Google Asia Pacific Pte. It was providing its services for Blu-Smart Mobility Tech's ride-sharing services through an agreement. It had been agreed for the period from October 1, 2022, to September 2023.
+The agreement was renewed for a year till September 30, 2024, and Lepton claimed that services continued on an ad-hoc basis, which was even acknowledged by Blu-Smart Mobility through email communications.
+The operation creditor submitted that the services provided were governed by Google's Terms of Service, and invoices pertaining to the entire financial year FY25 remained unpaid.
+However, Blu-Smart Mobility in its reply denied any operational debt and contended that the said petition was misconceived and an abuse of process.
+It contended that the renewal expired on September 30, 2024 and has raised a bill after that without an acceptance/completion certificate. According to Blu-Smart Mobility Tech, post-expiry invoices are not operational debt.
+NCLT, however, said Blu-Smart Mobility does not dispute the pre-expiry invoices (up to September 2024) and has acknowledged partial liability.
+"However, even assuming that only pre-expiry dues are considered, the admitted outstanding of ₹30,34,764.50 is supplemented by the post-expiry claims," the NCLT said.
+It said the renewal agreement expired on September 30, 2024, but the material on record, including emails from the corporate debtor, dated April 3, April 7, and April 15 this year, demonstrate continued usage of the services without objection, requests for invoices and admissions of liability.
+The bench comprising members Sanjeev Sharma and Shammi Khan said Blu-Smart Mobility's "conduct implies an ad-hoc continuation of the arrangement on the same terms, akin to an implied contract under Section 70 of the Indian Contract Act, 1872, or quantum meruit for services rendered and accepted...".
+Blu-Smart Mobility Tech is a part of Blu-Smart Group, whose business comprises Blu-Smart Mobility Ltd and its four subsidiaries, including the corporate debtor. The other three are Blu-Smart Fleet Pvt Ltd, Blu- Smart Charge Pvt Ltd (engaged in charging infrastructure), and Blu-Smart Premium Fleet Pt Ltd (which owns 178 EVs).
+Blu-Smart Mobility, which is also presently going through insolvency proceedings, holds 99.99 per cent shareholding in each subsidiary, and all their businesses are mutually intertwined.
+The operational ecosystem of the Blu-Smart Group functions through three primary verticals -- technology, fleet, and charging infrastructure -- interlinked to service stakeholders, including customers.
+With Blu-Smart Mobility admitted into CIRP, the Resolution Professional, with CoC approval, has taken steps to obtain control over the subsidiaries, including Blu-Smart Mobility Tech, aiming for consolidated value maximisation greater than individual entities.
+Published on October 19, 2025
+
+Title   : NCLT dismisses insolvency plea against ZTE filed by TVS Supply Chain
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T06:15:18
+Fetched : 2025-10-19T21:57:51.905444
+URL     : https://www.thehindubusinessline.com/companies/nclt-dismisses-insolvency-plea-against-zte-filed-by-tvs-supply-chain/article70181940.ece
+--------------------------------------------------------------------------------
+The NCLT has dismissed an insolvency plea against the Indian unit of telecom gear manufacturer ZTE filed by TVS Supply Chain Solutions after observing a pre-existing dispute between the parties.
+A Chandigarh-based bench of the National Company Law Tribunal (NCLT), the debt claimed by TVS Supply Chain Solutions was disputed and under reconciliation dating back to 2017, well before the statutory demand notice.
+"In view of these facts, we hold that this being a case of preexisting dispute, the Application under Section 9 is not at all maintainable," said the NCLT bench, comprising members Kaushalendra Kumar Singh and Khetrabasi Biswal.
+TVS Supply Chain Solutions, earlier known as TVS Logistics Services, had moved the insolvency tribunal claiming a default of ₹4.27 crore from ZTE Telecom India by filing a plea under section 9 of the Insolvency &; Bankruptcy Code. The dispute is for the period June 2012 to February 2019.
+ZTE, a telecom equipment supplier for companies like Reliance, Tata, Aircel, and BSNL, had entered into two Master Service Agreements (MSAs) with TVS Supply Chain.
+As per MSAs, TVS Supply Chain Solutions raised invoices at a regular interval, which were payable within 30 days of raising the invoice.
+However, TVS Supply Chain Solutions alleged that ZTE has generally made either part payments against the invoices raised or delayed the payment on the pretext that the invoices are not satisfactory, and certain amounts have remained due and payable at all times since 2012.
+Till September 2015, an amount of ₹7.04 crore was outstanding for payment by ZTE for various projects.
+However, ZTE had sent an audit query over the bills, and was contending discrepancies in earlier invoices. Later, some emails were exchanged between the parties.
+Finally, on January 29, 2018, ZTE addressed a letter to TVS wherein it stated that there are purported discrepancies in invoices of TVS to the tune of ₹5.60 crore. However, ZTE had not shared any supporting documents.
+On July 9, 2018, TVS issued a demand notice under Section 8 of IBC, demanding payment of ₹4.27 crore as principal and interest at the rate of 12 per cent per annum. In its reply, ZTE contended a pre-existing dispute alleging an excess amount being paid to TVS.
+Later, on May 7, 2019, TVS moved the NCLT by filing an insolvency petition against ZTE.
+ZTE, represented by S&A Law Offices, submitted it through multiple written communications, including emails and letters, conveying its concern regarding the disputed invoices and intention to raise a debit note in the event the issues remained unresolved by TVS.
+The NCLT observed that the matter involved multiple reconciliation and audit objections before the statutory demand notice. The debt was never admitted by ZTE.
+The tribunal noted that insolvency proceedings cannot be misused to recover disputed claims, and pointed out that the authority cannot conduct a roving inquiry into the veracity of debt.
+"Further, it is a settled position of law that the Tribunal cannot go in roving enquiry on cardinal principles governing debt, default and dispute, which is conferred only summary jurisdiction and not a trial court jurisdiction to examine veracity of debt and dispute by examining documents running into thousands pages, so as to come to conclusion on the question of debt and dispute," said the NCLT while dismissing TVS plea.
+Published on October 19, 2025
+

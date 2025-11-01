@@ -1,0 +1,27 @@
+Full Article Fetch Test - SCI
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 3.54B
+
+Title   : Accel-backed chemicals startup Scimplify eyes up to $100 million investment to expand overseas operations
+Source  : www.livemint.com
+Published: 2025-10-13T06:20:54
+Fetched : 2025-10-13T21:14:38.333766
+URL     : https://www.livemint.com/companies/start-ups/accelbacked-chemicals-startup-scimplify-eyes-up-to-100-million-investment-to-expand-overseas-operations-11760292224305.html
+--------------------------------------------------------------------------------
+Accel-backed chemicals startup Scimplify eyes up to $100 million investment to expand overseas operations
+Specialty chemicals startup Scimplify, backed by early-stage venture capital firm Accel, is in advanced talks to raise $70–100 million in a Series C round, potentially doubling its valuation as it scales operations to the US and Japan.
+BENGALURU : Specialty chemicals startup Scimplify is in advanced talks to raise $70–100 million in a Series C funding round from a mix of new and existing investors, including early-stage venture capital firm Accel, according to two people familiar with the matter. The deal could rank among the biggest investments in a new-age industrial company.
+The Bengaluru-based firm, last valued at $150 million after its $40 million fundraise in March, could see its valuation more than double if the deal goes through—cementing its plans to expand international operations to the US and Japan, the two people said on condition of anonymity.
+Scimplify and Accel declined to comment on Mint’s emailed queries.
+Funding rush in industrial tech
+Venture investors in India are racing to back startups in high-growth industrial sectors such as manufacturing, chemicals, defence, and renewable energy—especially those blending deep tech with traditional industries. The trend reflects private equity and venture capital firms’ push to identify the next wave of companies that can strengthen supply chains and drive India’s export-led growth.
+Sector-focused funds such as Madhusudan Kela’s Singularity AMC, Amicus Capital, Trifecta Capital, and Capital-A have emerged to target these high-growth areas, Mint reported in July.
+Several large deals in the sector have materialized this year. VIP Industries raised $206 million in a round led by Multiples. Euler Motors secured $75 million from GIC and British International Investments, while Rangsons Aerospace raised capital in a round led by ValueQuest.
+According to Venture Intelligence, such firms raised close to $1.9 billion in the first six months of 2025, about 60% of last year’s total of $3.2 billion across 123 deals.
+Platform for global manufacturing
+Founded by Salil Srivastava, Sachin Santhosh, and Dheeraj Dhingra in 2023, Scimplify follows a B2B model focused on end-to-end sourcing and manufacturing of specialty chemicals. It provides contract research and commercial-scale production for companies in pharmaceuticals, agro-chemicals, personal care, and home care.
+Through a network of 200+ specialized manufacturing plants in India, Scimplify offers a plug-and-play production model for global buyers—enabling them to access local capacity without setting up dedicated facilities. It has offices in the Middle East and Indonesia and has served clients across 16 countries.
+The firm has raised $54 million to date. Its most recent round—$40 million in March—was jointly led by Accel and Bertelsmann India Investments, with participation from early backers 3one4 Capital, Omnivore, and UMI. As of March 2025, it had served over 600 customers.
+All three co-founders have worked in allied fields before founding Scimplify. Srivastava and Dhingra were directors at Khosla Ventures and Accel-backed unicorn Zetwerk, while Santhosh was a business head at B Capital-backed Bizongo following a 1.5-years stint at IPO-bound OfBusiness.
+

@@ -1,0 +1,43 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 127.60B
+
+Title   : H-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+Source  : www.livemint.com
+Published: 2025-10-13T07:08:48
+Fetched : 2025-10-13T18:06:35.907551
+URL     : https://www.livemint.com/companies/news/h1b-visa-crackdown-not-an-existential-threat-to-tcs-ceo-krithivasan-says-firm-can-survive-11760337946989.html
+--------------------------------------------------------------------------------
+Amid the uncertainty around H-1B visas, Tata Consultancy Services' (TCS) K Krithivasan has opened up about the IT giant's view on the work visa, restrictions on which, introduced by US President Donald Trump, have rocked the industry.
+Krithivasan's comments take on particular importance, with TCS being the second-biggest beneficiary of the H-1B programme in 2025 after Amazon, with over 5,000 H-1B visas approved in 2025 alone.
+In an interview with Business Standard, Krithivasan addressed not just concerns regarding the work visa, but also spoke about the company's recent move to lay off 12,000 people globally.
+On the back of the layoffs, US Senators Chuck Grassley and Dick Durbin had raised questions about the company hiring over 5,500 H-1B workers, which the tech CEO addressed directly in the interview.
+Commenting on facing questions from US Senators, Krithivasan said, "I was neither happy nor unhappy. It gave me an opportunity to articulate our positions more clearly and to address the Senators’ questions about the H-1B issue."
+Explaining that the "figure of 5,500" pertained to people amending or renewing their H-1B petitions, the TCS CEO said that fresh applications were much lower, "probably around 2,500".
+"We have 31,000 to 32,000 employees in the US, of whom only 11,000 to 12,000 are on H-1B visas, while the rest are on other types of visas. We have been progressively increasing local workforce participation, which will continue because the way of work has changed with new kinds of projects and AI coming into play, where you need to work closely with the customer and need different skill sets," Krithivasan was quoted as saying.
+"It is not just about engineering skills anymore; there is a growing demand for creative thinking and prompt engineering skills. In FY26, we sent just 500 people from India to the US on H-1B visas, which means we can survive without them (H-1B visas). There is no dependence on H-1B visas," the TCS CEO, most notably, said.
+"There was a time when this was a significant retention policy, but over the past four-five years, it has been on a declining trend. It is now far less of a retention policy than it once was, and we should not be assessing today’s scenario through yesterday’s lens," he added.
+When quizzed about the mass layoffs at TCS, Krithivasan explained that only two categories of employees had been affected: those on the bench for three to six months, and those who were underperforming.
+"I don’t believe the Tata group, while humane, would have retained employees with performance issues," the chief of the IT giant was quoted as saying.
+He also explained that a "skill mismatch" also contributed to some of the layoffs.
+"We have relieved individuals where we see a skill mismatch for the future. The company is pivoting to be future-ready and a big player in the AI ecosystem. If someone doesn’t fit into the scheme of things, we need to exit them gracefully. This approach, I believe, does not conflict with our ethos," Krithivasan said.
+The Trump administration, which has described the H-1B programme as the one of the "most abused visa" systems in the US' immigration framework, recently slapped a $100,000 ( ₹88 lakh) fee on fresh applications, sending shockwaves across firms that rely on the programme to employ highly-skilled talent from around the world.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsH-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+
+Title   :  TCS eyes 5G infra market, flags interest from global telcos
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T12:57:21
+Fetched : 2025-10-13T18:06:35.907597
+URL     : https://www.thehindubusinessline.com/info-tech/tcs-eyes-5g-infra-market-flags-interest-from-global-telcos/article70158710.ece
+--------------------------------------------------------------------------------
+Tata Consultancy Services (TCS) will be scaling up its telecom infrastructure to build for 5G services following its 4G rollout assignment with Bharat Sanchar Nigam (BSNL).
+Stating that global telcos are showing interest in the India telecom stack, Samir Seksaria, Chief Financial Officer at TCS told businessline, “What we have implemented is beyond industry benchmarks in terms of quality.”
+“It is a skill set which is proven and it can be taken to various other markets within and outside India, all of it. Scaling up also is there. Once we have proven it, we will be participating into each one of the next phases,” he added.
+Such developments can lead to a potential shift in the global telecom equipment landscape, bringing Indian tech giants such as TCS at par with global giants such as Nokia and Ericsson. Already, China has announced restrictions for the two telecom suppliers to reduce reliance on the European entities, as per a report by Financial Times. Company contracts now have to undergo ‘black box’ security checks by the Cyberspace Administration of China (CAC) which can take three months or longer.
+Back here in India, Seksaria said the key challenge with the BSNL rollout was the massive size of execution. The project gave the company the confidence to consider similar service integration projects not just for 4G in India but 5G and beyond across the globe, he said.
+The CFO also pointed out that since the rollout, BSNL’s profitability that was in the red for years, reported positive numbers recently. The government-supported company is also gaining market share. In May, TCS had announced an advanced order with BSNL following receipt of an advance order of ₹2,903.22 crore for setting up 4G mobile network at 18,685 sites.
+Published on October 13, 2025
+

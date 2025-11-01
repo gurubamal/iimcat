@@ -1,0 +1,28 @@
+Full Article Fetch Test - MCX
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : Commodity Radar: MCX copper contracts offer buy on dips opportunity despite weak chart structure. Here’s why 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-02T13:21:54
+Fetched : 2025-09-03T02:34:08.015055
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/commodity-radar-mcx-copper-contracts-offer-buy-on-dips-opportunity-despite-weak-chart-structure-heres-why/articleshow/123658378.cms
+--------------------------------------------------------------------------------
+Dollar-priced commodities have an inverse relation with the movement of the greenback and rates fall on the USD uptick. Though commodity prices fell in dollar terms, the rupee weakness supported the prices on the MCX.
+Copper prices on the COMEX fell by nearly a percent to $4.4975 as the dollar firmed. On the London Metal Exchange (LME), the three-month expiry contracts were down 0.2% to $9,884 per metric ton.
+On the overall trends, Ajit Mishra, Senior Vice President - Research at Religare Broking highlighted mixed trends in two world’s largest economies - US and China.
+“In the US, revised government data showed the economy expanded at a 3.3% annualized pace in Q2, stronger than the previously reported 3% growth. The revision was driven by a pickup in business investment, which jumped 5.7%, alongside resilient consumer spending and support from trade,” Mishra said.
+Meanwhile, in China, industrial profits fell in July at a slower pace than in June, hinting that government efforts to curb overcapacity and stabilize manufacturing may be beginning to take effect, he said. A moderation in profit declines could support downstream demand for industrial metals, including copper, Mishra added.
+Copper outlook: Technical view
+MCX Copper is currently trading near Rs 898 after recovering from a sharp correction between Rs 917 and Rs 789. The price is now above the 20- and 50-day moving averages, indicating short-term bullish momentum, while the 200-day MA around Rs 859 acts as strong support. A breakout above Rs 900 – Rs 905 could trigger further upside toward Rs 915 – Rs 927, supported by Elliott Wave structure suggesting a potential Wave 5 rally. However, momentum indicators like ADX and MACD remain weak, signaling the uptrend lacks conviction.Copper Daily Chart
+Trading strategy
+Mishra recommends traders to adopt a buy-on-dips strategy near Rs 889 – Rs 892 with a stop loss below Rs 878, targeting Rs 915 levels.Also Read: Commodity Radar: Gold trades in overheated zone. Charts scream 5 indicators for sell trade
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

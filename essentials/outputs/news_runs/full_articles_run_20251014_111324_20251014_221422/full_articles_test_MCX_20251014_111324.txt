@@ -1,0 +1,34 @@
+Full Article Fetch Test - MCX
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 2.03B
+
+Title   : Gainers & Losers: LG, IREDA and MCX among 7 stocks under spotlight on Tuesday 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T11:10:09
+Fetched : 2025-10-14T12:54:23.009642
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-lg-ireda-and-mcx-among-7-stocks-under-spotlight-on-tuesday/slideshow/124550877.cms
+--------------------------------------------------------------------------------
+Newmakers of D-Street India’s benchmark indices Nifty and Sensex ended with cuts, recording their second consecutive losses. There was a broad-based sell-off across sectors though PSU banks, pharma and metals were punished the most. While the broader Nifty index closed at 25,145.50, down 81.85 points or 0.32%, Sensex finished at 82,029.98, dropping 297.07 points or 0.36%. Here are 7 stocks that saw action today:
+
+Title   : MCX India shares jump 6% to hit fresh 52-Week high;  HDFC Securities maintains “buy” 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T07:00:14
+Fetched : 2025-10-14T12:54:23.009716
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/mcx-india-shares-jump-6-to-hit-fresh-52-week-high-hdfc-securities-maintains-buy/articleshow/124546318.cms
+--------------------------------------------------------------------------------
+The stock has climbed around 15% over the past week, with a one-year return of an impressive 45%, highlighting ongoing investor confidence.
+HDFC Securities remains positive on MCX India, maintaining a BUY rating with a target price of Rs 10,000. The optimistic outlook is driven by key growth factors such as new product launches, technological enhancements, and increased participation, especially in gold and silver options. Rapid growth in bullion contracts is diversifying revenue streams, while upcoming cash-settled index contracts and regulatory developments are expected to boost institutional interest. MCX’s revenue and profits are forecasted to grow steadily through FY25-28, underpinning the revised target and valuation multiples.
+As outlined in the previous report “The New Gold Standard,” gold and silver were expected to become major contributors to options premiums, a trend that is now clearly materialising. Options premium average daily trading volume (ADTV) jumped to around Rs 67 billion in October 2025 from Rs 41 billion in Q2FY25, driven by increased gold and silver volumes, which now account for approximately 60% of total notional volume and 30% of premium ADTV.
+The company also announced that its Board will meet on November 6, 2025, to approve unaudited financial results for the quarter and half-year ending September 30, 2025. In line with Sebi regulations, the trading window for insiders will remain closed until November 9, 2025.
+On the technical front, the 14-day Relative Strength Index (RSI) stands at 75.0, which is above the typical overbought threshold of 70. This indicates that the stock may be overextended and could be due for a short-term pullback or correction as traders might take profits. However, despite this signal, the stock continues to trade above all key Simple Moving Averages (SMAs), ranging from the short-term 5-day SMA to the long-term 200-day SMA. This positioning highlights a strong underlying bullish momentum and suggests that the overall uptrend remains intact.
+Also Read: HCL Tech shares gain 3% despite muted Q2. Should you buy, sell, or hold the stock?
+At around 12:10 PM, shares of MCX India traded 3.5% higher at Rs 9,255 apiece on the NSE.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

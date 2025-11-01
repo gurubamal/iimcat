@@ -1,0 +1,28 @@
+Full Article Fetch Test - STAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-09): 3.42B INR
+
+Title   : Elon Musk's SpaceX buys $17 billion spectrum licenses from EchoStar. Here's why
+Source  : www.livemint.com
+Published: 2025-09-08T14:31:24
+Fetched : 2025-09-09T07:00:41.451026
+URL     : https://www.livemint.com/companies/news/elon-musks-spacex-buys-17-billion-spectrum-licenses-from-echostar-heres-why-11757340896796.html
+--------------------------------------------------------------------------------
+WASHINGTON, Sept 8 (Reuters) - Elon Musk's SpaceX said Monday it will buy wireless spectrum licenses from EchoStar for its Starlink satellite network for about $17 billion, the latest major deal crucial for 5G connectivity.
+The companies also agreed to a deal that will enable EchoStar's Boost Mobile subscribers to access Starlink direct-to-cell service to extend satellite service to areas without service.
+Gwynne Shotwell, president and COO, SpaceX, said the deal will help the company "end mobile dead zones around the world... With exclusive spectrum, SpaceX will develop next-generation Starlink Direct to Cell satellites, which will have a step change in performance and enable us to enhance coverage for customers wherever they are in the world." The news sent shares of EchoStar surging nearly 22% in premarket trading. Shares of U.S. wireless carriers AT&T and T-Mobile were down more than 5% and Verizon was down more than 4% in premarket trading.
+SpaceX has launched more than 8,000 Starlink satellites since 2020, building a distributed network in low-Earth orbit which has seen demand from militaries, transportation firms and consumers in rural areas.
+The deal comes months after the Federal Communications Commission questioned EchoStar's use of mobile-satellite service spectrum and raised concerns about whether it was meeting its obligations to deploy 5G in the country. The company in August sold some nationwide wireless spectrum licenses to AT&T for $23 billion. AT&T agreed to acquire 50 MHz of nationwide mid-band and low-band spectrum.
+President Donald Trump previously prodded EchoStar and FCC Chair Brendan Carr to reach an amicable deal for the company's wireless spectrum licenses.
+The FCC did not immediately comment.
+EchoStar said it anticipates that the transaction with SpaceX and AT&T deal will resolve the FCC's inquiries.
+SpaceX will pay up to $8.5 billion in cash and issue up to $8.5 billion in stock. SpaceX has also agreed to cover roughly $2 billion in interest payments on EchoStar's debt obligations through late 2027.
+After the sale, EchoStar will continue operating its satellite television service Dish TV, streaming TV platform Sling, internet service Hughes and its Boost Mobile brand.
+SpaceX had aggressively pressed the FCC to reallocate underused airwaves for satellite-to-phone service after alleging EchoStar failed to meet certain obligations.
+In a letter to the FCC in April, SpaceX said EchoStar's spectrum in the 2 gigahertz band "remains ripe for sharing among next-generation satellite systems" and that the company has left "valuable mid-band spectrum chronically underused".
+The deal with EchoStar will allow SpaceX to operate Starlink direct-to-cell services on frequencies it owns, rather than relying solely on those leased from mobile carriers like T-Mobile. In May, the FCC approved Verizon's $20 billion deal to acquire fiber-optic internet providers Frontier Communications. Verizon spent $52 billion to acquire and clear key spectrum in 2021. (Reporting by Harshita Mary Varghese in Bengaluru; Editing by Arun Koyyur, Shinjini Ganguli and Franklin Paul)
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsElon Musk's SpaceX buys $17 billion spectrum licenses from EchoStar. Here's why
+

@@ -1,0 +1,24 @@
+Full Article Fetch Test - HAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 13.84B
+
+Title   : HAL to begin deliveries of indigenous HTT-40 trainer aircraft from February 2026 after Honeywell engine supply delays
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T15:35:02
+Fetched : 2025-10-21T08:05:57.236058
+URL     : https://www.thehindubusinessline.com/economy/logistics/hal-to-begin-deliveries-of-indigenous-htt-40-trainer-aircraft-from-february-2026-after-honeywell-engine-supply-delays/article70182496.ece
+--------------------------------------------------------------------------------
+Hindustan Aeronautics Limited (HAL) is set to begin delivery of the indigenous Hindustan Turbo Trainer-40 (HTT-40) aircraft from February next year, following a delay of nearly six months, primarily due to supply disruptions of TPE331-12B turboprop engines from US-based Honeywell.
+HAL was originally scheduled to receive six of these engines in 2025 to begin production, but delays from Honeywell impacted the timeline. However, the US manufacturer has now committed to supplying three engines per month starting in 2026, according to sources within the state-owned aerospace giant.
+Honeywell is the second US engine manufacturer, after GE Aerospace, whose F404-IN20 engines are designated for the Light Combat Aircraft (LCA) Tejas Mk-IA, to miss delivery timelines, impacting the Indian Air Force’s (IAF) plans to augment its depleting fleet strength.
+Under the original production plan, HAL aimed to roll out 10 HTT-40 aircraft from its Nashik facility and another two from its Bengaluru plant by the end of this year. Although that target has shifted, HAL now plans to ramp up production to deliver the first three aircraft to the IAF by February 2026, partially offsetting lost time.
+Each HTT-40 aircraft will carry a tail number in the “TH-4000” series, with the first unit from Nashik designated as “TH-4001”. One of the aircraft scheduled for February delivery is currently undergoing system integration and sub-assembly installation at the Nashik facility — a plant that has transitioned from assembling Russian-origin fighter jets like the MiG-series and Su-30MKIs to manufacturing indigenous platforms like the LCA Tejas Mk-IA and HTT-40.
+The HTT-40 project has been a key indigenous effort, with HAL initiating design and development using internal funding to meet IAF requirements after the retirement of the indigenous HPT-32 ‘Deepak’ in 2014. The HTT-40 will eventually replace the Swiss-origin Pilatus PC-7 MkII as the IAF’s primary basic trainer aircraft.
+The aircraft’s first prototype flew in May 2016, followed by a second in May 2017. In August 2020, the Defence Acquisition Council approved the procurement of 106 HTT-40 aircraft, and a formal contract valued at approximately ₹6,800 crore was signed in 2022. Initial deliveries were slated for September 2025.
+Once HAL secures Release to Service (RIS) Document for the first 70 aircraft, the remaining 36 will be delivered to complete the IAF’s fleet requirement.
+As part of HAL’s effort to boost the domestic aerospace ecosystem, nearly 38 per cent of the HTT-40’s components — including machined parts and empennages (tail assemblies) — have been outsourced to about 100 private vendors, primarily Micro, Small and Medium Enterprises (MSMEs).
+HAL is also working toward securing both the military-specific Air Staff Qualitative Requirements (ASQR) for the IAF and the FAR-23 certification — a set of stringent safety and performance regulations from the US Federal Aviation Administration (FAA). These certifications are expected to enhance the aircraft’s robustness and export potential, particularly to countries with similar pilot training requirements.
+More Like This
+Published on October 19, 2025
+

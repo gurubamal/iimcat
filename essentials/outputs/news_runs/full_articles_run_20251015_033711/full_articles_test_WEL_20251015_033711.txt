@@ -1,0 +1,20 @@
+Full Article Fetch Test - WEL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 11.07M
+
+Title   : Wells Fargo profit rises on higher interest income
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T12:07:14
+Fetched : 2025-10-15T05:07:37.863408
+URL     : https://www.thehindubusinessline.com/money-and-banking/wells-fargo-profit-rises-on-higher-interest-income/article70162477.ece
+--------------------------------------------------------------------------------
+Wells Fargo's profit rose in the third quarter on higher income from interest payments.
+The fourth-largest US lender's net income was $5.59 billion, or $1.66 per share, in the three months ended September 30, it said on Tuesday. That compares with $5.11 billion, or $1.42 per share, a year earlier.
+US banks have benefited from the Federal Reserve's rate cuts, which have eased deposit costs - the interest paid to customers for holding their savings.
+Net interest income — the difference between what the bank earns on loans and pays out on deposits — rose 2 per cent to $11.95 billion in the quarter from a year earlier.
+The Fed's September rate cut is expected to boost banks' interest income from the fourth quarter.
+The US Federal Reserve lifted Wells Fargo's seven-year, $1.95 trillion asset cap in June, in a major landmark in the lender's post-scandal recovery and freeing it to accelerate CEO Charlie Scharf's efforts to drive growth.
+Wells Fargo is shifting to expanding its market share in commercial and corporate investment banking and wealth management.
+Published on October 14, 2025
+

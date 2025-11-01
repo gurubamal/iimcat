@@ -1,0 +1,103 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-15T18:15:21.131182
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 2993
+====================================================================================================
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGSTRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANSALAPI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BLUECHIP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DHARAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EXCEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GVKPIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KRISHIVAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANUGRAPH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MEP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MVKAGRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NORBTEAEXP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORTINGLOBE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OSELDEVICE
+================================================================================
+
+(no fresh items in last 48h)
+

@@ -1,0 +1,36 @@
+Full Article Fetch Test - LUPIN
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Now Sun Pharma, Lupin work on anti-obesity pill to cut costs, address jab aversion
+Source  : www.livemint.com
+Published: 2025-09-08T00:30:12
+Fetched : 2025-09-08T01:53:44.713657
+URL     : https://www.livemint.com/companies/now-sun-pharma-lupin-work-on-anti-obesity-pill-to-cut-costs-address-jab-aversion-11757239385114.html
+--------------------------------------------------------------------------------
+Now Sun Pharma, Lupin work on anti-obesity pill to cut costs, address jab aversion
+Sun Pharma and Lupin pursue regulatory approval for oral weight-loss drugs, potentially reshaping treatment access.
+New Delhi: In a move to address India's obesity crisis, two major pharmaceutical companies—Sun Pharma Laboratories Ltd and Lupin Ltd—are working to create an affordable anti-obesity pill, according to documents seen by Mint and a person familiar with the matter.
+Both companies have submitted their plans to the Drugs Controller General of India (DCGI), seeking regulatory approval to proceed. Currently, leading anti-obesity drugs like Eli Lilly’s Mounjaro, which is available in injectable form, and Novo Nordisk’s Wegovy, available as a pill and an injection, are limiting accessibility and patient comfort.
+While there is no data comparing the efficacy of the oral and the injectable semaglutide variants, experts believe that the injectable form is more effective for weight loss because it delivers higher doses and is absorbed more completely.
+Queries sent to Sun Pharma, Lupin, and the health ministry spokesperson remained unanswered till press time.
+The subject expert committee of the Drugs Controller General of India (DCGI) has given Sun Pharma permission for a large-scale clinical trial to test its semaglutide tablets.
+Lupin has also received the green light for its bioequivalence (BE) study, which aims to prove that its generic drug works in the same way as the original branded version.
+The development is significant given that obesity is becoming a public health challenge in India, with a Lancet study projecting that by 2050, India could have as many as 450 million overweight and obese adults.
+Regulatory push
+DCGI’s Subject Expert Committee (SEC) has given Sun Pharma clearance to begin a Phase III clinical trial for its semaglutide tablets. In the meantime, Lupin has been allowed to conduct a bioequivalence study, which will demonstrate that its generic version performs similarly to the original drug. The BE study will test 3 mg, 7 mg, and 14 mg strengths.
+"The bigger concern today is obesity, which has become a silent but serious threat to public health. India is heading in the same direction," said Dr. Sharan Shivaraj Patil, Chairman, SPARSH group of hospitals. Obesity worsens every medical condition—from arthritis and diabetes to complications in surgery. “The sooner we recognize obesity as a national challenge and take steps to address it, the healthier our nation will be. A combined effort at both the individual and policy levels will help us tackle obesity and build a fitter, healthier India," he added.
+Other Indian companies are also in the field to develop weight-loss drugs, particularly injections, and are preparing to launch generic versions of semaglutide after the expiry of patents.
+Other Indian pharmaceutical companies, such as Dr. Reddy's Laboratories Ltd and Cipla Ltd, are actively developing generic versions of semaglutide. Mankind Pharma is also working on semaglutide generics. Biocon is another company that has received approval for its complex formulation, Liraglutide injection, which is used for weight management.
+According to Dr. Balram Bhargava, dean at Holy Family Hospital and former director general of the Indian Council of Medical Research (ICMR), "These are wonder drugs and novel inventions, rightly being called 'magic for obesity.'" While currently expensive, costs will come down when generic versions become available. However, he added, it is crucial that these drugs are used under 'strict medical supervision' and not be available over the counter, as careful monitoring is vital.
+Generics
+Dr. Bhargava also said that while there are some side effects, ‘they are not that worrying.’ Irrational use of these drugs could have serious consequences. "These drugs mimic a natural body hormone, and their use must be strictly regulated," he said. They are suitable as a second line of treatment for individuals who are obese and diabetic, but should not be used by “lean and thin people."
+The former ICMR DG added that by next year, there may be a flood of generic versions in the market. "If we have a strong national regulatory system in place, then we will do very well as a nation," Bhargava added. It needs to be seen how these anti-obesity drugs are used in India, how practitioners and patients accept them, and, most importantly, ensure they are not misused. Misuse could lead to the stigmatization of the drug itself, he said.
+Key takeaways
+1. Sun Pharma and Lupin are developing oral semaglutide pills to address obesity and injection aversion.
+2. Regulatory approvals have been granted for Phase III trials (Sun) and BE studies (Lupin).
+3. India faces an obesity burden of 450 million adults by 2050.
+4. Experts urge strict medical supervision and caution against misuse.
+5. Generic versions may flood the market next year, reshaping affordability and access.
+

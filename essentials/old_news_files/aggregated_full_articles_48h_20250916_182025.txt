@@ -1,0 +1,148 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-16T18:20:25.322650
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 150
+====================================================================================================
+
+Full Article Fetch Test - 20MICRONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 360ONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3IINFOLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3MINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3PLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 5PAISA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 63MOONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAATECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AADHARHFC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAREYDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIPHARM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTISURF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVEEDEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAVAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABBOTINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABCAPITAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABDL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABFRL
+================================================================================
+
+(no fresh items in last 48h)
+

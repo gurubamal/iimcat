@@ -1,0 +1,26 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-15
+
+Title   : Mid-market: Nifty trades near day’s low; realty stocks shine, IT majors Infosys, TCS dip
+Source  : www.thehindubusinessline.com
+Published: 2025-09-15T08:08:45
+Fetched : 2025-09-15T08:32:17.616820
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-today-sepember-15-2025-nifty-trades-near-days-low-realty-stocks-shine-it-majors-infosys-tcs-dip/article70051812.ece
+--------------------------------------------------------------------------------
+Domestic benchmark indices staged volatility as investor sentiment was muted ahead of the US Federal Reserve’s policy meeting.
+Sensex dipped by 20.40 pts or 0.02 per cent to 81,884.30 at 1.01 pm after opening the day’s trade flat at 81,925.51 and soaring to an intraday high of 81,998.51. Nifty 50 dropped by 14.70 pts or 0.06 per cent to 25,099.30 (close to day’s low of 25,064.65).
+Smallcap index outperformed midcap. The sectoral trend was mixed, with the realty index advancing 1.5 per cent, while IT, healthcare, pharma, and auto stocks slipped into the red.
+Realty stocks Prestige, Godrej Properties, Anant Raj and DLF led the uptick.
+Top gainers & losers
+Among Nifty 50, Bajaj Finance, Eternal, Coal India, UltraTech Cement and L&T shares led the gainers, while Asian Paints, M&M, Dr Reddy’s Lab, Titan, Shriram Finance and Infosys were major laggards.
+Infosys, TCS, Persistent Systems, Coforge and OFSS dropped the most among the Nifty IT index.
+Market breadth was positive with 3,047 stocks traded, out of which 1,716 advanced, 1,226 declined, and 105 remained unchanged. A total of 85 stocks touched their 52-week high such as ACME Solar, Bajaj Finance, Choice International and GMDC, while 36 (including UBL) hit their 52-week low. Meanwhile, 103 stocks (were locked in the upper circuit, compared to 49 in the lower circuit.
+Midcap and smallcap movers
+Midcap stocks Vodafone Idea, RVNL, IREDA, Tube Investments and HUDCO soared 3-7 per cent, while Vishal Mega Mart, Biocon, Glenmark, Marico and Oil India declined little over 1 per cent.
+Under the smallcap segment, Aegis Logistics soared 7 per cent. Railtel, Ircon, IFCI and JBM Auto soared 5-6 per cent.
+Major losers were GRSE, AsterDM, Neuland, Devyani International and Go Digit.
+On the BSE, Banco Products and Anant Raj rallied 12 per cent. KRBL tanked 10 per cent, GRSE, Craftsman Automation, STAR and Neuland Lab depreciated 2-3 per cent.
+Published on September 15, 2025
+

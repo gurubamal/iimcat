@@ -1,0 +1,14 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-05T16:45:07.995298
+Hours back: 48
+Publishers-only: True
+Sources: livemint.com, economictimes.indiatimes.com
+Tickers planned: 1
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 48h)
+

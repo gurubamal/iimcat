@@ -1,0 +1,29 @@
+{
+  "weights": {
+    "technical_overbought": 0.19024390243902442,
+    "resistance_levels": 0.11707317073170732,
+    "volume_confirmation": 0.11707317073170732,
+    "fundamental_catalyst": 0.24390243902439027,
+    "sentiment_momentum": 0.19512195121951223,
+    "certainty_score": 0.13658536585365855
+  },
+  "catalyst_scores": {
+    "earnings_beat": 90,
+    "order_book_expansion": 85,
+    "investment_announcement": 80,
+    "technical_breakout": 75,
+    "sector_momentum": 70,
+    "partnership": 75,
+    "expansion": 78,
+    "contract_win": 82,
+    "negative_earnings": 30
+  },
+  "learning_timestamp": "2025-10-30T15:01:35.686207",
+  "samples_analyzed": 3,
+  "overall_accuracy": 33.33333333333333,
+  "insights": [
+    "Overbought stocks (RSI>70) have low success rate (0%) - increase overbought penalty",
+    "High volume confirmations perform well (100%) - increase volume weight",
+    "High certainty predictions underperforming (50%) - recalibrate certainty scoring"
+  ]
+}

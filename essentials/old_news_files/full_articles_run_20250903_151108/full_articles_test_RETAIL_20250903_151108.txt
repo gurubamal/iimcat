@@ -1,0 +1,57 @@
+Full Article Fetch Test - RETAIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-03): -549000.00
+
+Title   : Retail investors raising stakes in small-cap stocks for 4 straight quarters — but are they winning? 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-03T08:31:25
+Fetched : 2025-09-03T16:04:07.436336
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raising-stakes-in-small-cap-stocks-for-4-straight-quarters-but-are-they-winning/slideshow/123673918.cms
+--------------------------------------------------------------------------------
+Retail investors have steadily raised their stakes in 128 smallcap stocks over the last four quarters, up to June 2025—signaling growing confidence in emerging companies. But over 100 of these stocks have witnessed negative price returns in the past year, suggesting that most retail investors are currently in the red. (Retail investor - resident individuals holding nominal share capital up to Rs 2 lakhs)
+iStock
+2/12
+Selective gains
+That said, it’s not all bleak. About 14 stocks have bucked the trend, delivering strong double-digit gains—some even rising up to 90%—rewarding selective and strategic investors. In this analysis, we spotlight the top 5 gainers and losers from this group, offering key insights into where retail optimism has worked—and where it hasn’t. (Data Source: ACE Equity)
+Getty Images
+3/12
+Axiscades Technologies
+The stock surged 91% in the past year, rising from Rs 661 to Rs 1,265. Retail investor holding: Sept '24: 19.04% | Dec '24: 19.10% | Mar '25: 20.85% | Jun '25: 22.04%
+ETMarkets.com
+4/12
+Healthcare Global Enterprises
+In the last 1 year, the stock climbed 74%, going from Rs 387 to Rs 672. Retail investor holding: Sept '24: 4.74% | Dec '24: 5.05% | Mar '25: 5.71% | Jun '25: 6.37%
+ETMarkets.com
+5/12
+Amber Enterprises India
+The stock rallied 71% over the year, moving from Rs 4,463 to Rs 7,629. Retail investor holding: Sept '24: 6.86% | Dec '24: 7.42% | Mar '25: 8.87% | Jun '25: 8.94%
+ETMarkets.com
+6/12
+EPACK Durable
+It gained 55% in the last year, from Rs 250 to Rs 386. Retail investor holding: Sept '24: 15.72% | Dec '24: 19.53% | Mar '25: 22.17% | Jun '25: 24.68%
+ETMarkets.com
+7/12
+Innova Captab
+The stock rose 34% in a year, moving from Rs 695 to Rs 929. Retail investor holding: Sept '24: 4.02% | Dec '24: 4.82% | Mar '25: 5.24% | Jun '25: 5.35%
+ETMarkets.com
+8/12
+Dish TV India
+The stock declined 65%, falling from Rs 15 to Rs 5 over the past year. Retail investor holding: Sept '24: 24.75% | Dec '24: 25.69% | Mar '25: 26.16% | Jun '25: 27.30%
+ETMarkets.com
+9/12
+EKI Energy Services
+Down 66% year-on-year, the stock dropped from Rs 324 to Rs 111. Retail investor holding: Sept '24: 23.09% | Dec '24: 24.99% | Mar '25: 29.41% | Jun '25: 29.44%
+ETMarkets.com
+10/12
+Dreamfolks Services
+The stock plunged 72%, from Rs 481 to Rs 137 in the past year. Retail investor holding: Sept '24: 19.16% | Dec '24: 20.65% | Mar '25: 25.59% | Jun '25: 25.94%
+ANI
+11/12
+Kamdhenu Ventures
+It saw a 77% drop over the last year, from Rs 45 to Rs 10. Retail investor holding: Sept '24: 25.08% | Dec '24: 29.15% | Mar '25: 30.14% | Jun '25: 31.41%
+ETMarkets.com
+12/12
+K&R Rail Engineering
+The stock tanked 88% in a year, declining from Rs 435 to Rs 51. Retail investor holding: Sept '24: 7.60% | Dec '24: 8.74% | Mar '25: 9.94% | Jun '25: 17.72%
+

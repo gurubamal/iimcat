@@ -1,0 +1,24 @@
+Full Article Fetch Test - OIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 18.96B
+
+Title   : Oil falls for a second day as oversupply concerns dominate
+Source  : www.thehindubusinessline.com
+Published: 2025-10-21T05:07:05
+Fetched : 2025-10-21T20:28:44.844612
+URL     : https://www.thehindubusinessline.com/markets/commodities/oil-falls-for-a-second-day-as-oversupply-concerns-dominate/article70185292.ece
+--------------------------------------------------------------------------------
+Oil prices fell for a second day on Tuesday as concerns about excess supply and risks to demand stemming from tensions between the U.S. and China, the world's top two oil consumers, weigh on the market.
+Brent crude futures fell 17 cents, or 0.28%, at $60.84 a barrel at 0343 GMT. The U.S. West Texas Intermediate crude (WTI) contract for November delivery, set to expire on Tuesday, eased 0.52% to $57.22. The more active December contract was down 19 cents, or 0.33%, at $56.83.
+Prices declined to their lowest since early May in Monday's session on the concerns about slowing economic growth from the recent escalations in the U.S.-China trade dispute.
+Both WTI and Brent have shifted to contango market structures, where prices for immediate supply are lower than for later delivery and which typically indicates that near-term supply is abundant and demand weakening.
+Prices have slumped as the Organization of the Petroleum Exporting Countries (OPEC) and its allies including Russia, known as OPEC+, have pushed ahead with plans to add more oil to the market. This has led analysts to predict a surplus of crude this year and next, with the
+International Energy Agency last week projecting a global surplus of nearly 4 million barrels per day in 2026.
+"The continued weakening of Brent's monthly spread structure indicates that the pressure from oversupply in the crude oil market is gradually materializing," analysts from China's Haitong Securities said in a note on Tuesday.
+"This will dampen market expectations and curb investors' willingness to chase gains, limiting the potential for oil prices to rebound."
+The current pessimistic outlook for oil is likely to extend into 2026, with analysts at Goldman Sachs saying on Tuesday they forecast Brent prices may drop to $52 a barrel by the fourth quarter of next year.
+The Goldman analysts attributed the past week's slump in Brent prices to indications "the long-anticipated global surplus has started to show" in satellite data on global oil stockpiles and inventory data from the IEA and the Energy Information Administration in the U.S.
+Expectations are that U.S. crude oil stockpiles likely rose last week, a preliminary Reuters poll on Monday showed, ahead of weekly reports from the American Petroleum Institute and the EIA.
+Published on October 21, 2025
+

@@ -1,0 +1,53 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 127.60B
+
+Title   : TCS AI breakout stands out as peers meld AI into existing services models
+Source  : www.livemint.com
+Published: 2025-10-22T00:35:59
+Fetched : 2025-10-22T14:20:43.309093
+URL     : https://www.livemint.com/companies/news/tcs-infosys-hcl-tech-wipro-tech-mahindra-ai-strategy-it-services-11760773831998.html
+--------------------------------------------------------------------------------
+TCS AI breakout stands out as peers meld AI into existing services models
+As AI clouds over Indian IT services companies, TCS has made a $6.5 billionn-bet on data centres. For perspective, that amount is larger than the revenues of industry no. 5, Tech Mahindra. Infosys, HCLTech and others have taken a calibrated approach. Whose strategy will deliver?
+Tata Consultancy Services Ltd (TCS) is the lone ranger among the top five in the information technology (IT) services industry charting a separate artificial intelligence strategy with its $6.5-billion push to build and manage data centres.
+The other four are integrating their AI approaches with their existing software services business models.
+The TCS move has divided analysts, who have already highlighted concerns about AI eating into the revenue of homegrown software services companies amid existing tensions surrounding macroeconomic uncertainties.
+On 9 October, TCS, the country’s largest IT outsourcer announced its intent of building a 1GW (gigawatt) AI data centre in India, marking its biggest pivot since going public in August 2004.
+This is in contrast to homegrown IT services companies Infosys Ltd, HCL Technologies Ltd, Wipro Ltd, and Tech Mahindra Ltd sticking to their existing software services models of embedding AI into their IT offerings.
+Most of these have found a special moat. While HCL is investing in IP-led solutions, Infosys is doubling down on enterprise AI, whereas Tech Mahindra is focussing on building sovereign AI models.
+Bold, uncertain
+This AI pivot will not come easy for TCS, for sure. During the company’s post-earnings call with analysts, the company’s management outlined plans to invest upwards of $6.5 billion on the data centre over a five to seven year period. It will partner with other companies to finance this project through a mix of debt and equity.
+The management attributed this decision to expanding its presence across the AI technology cycle in order to become the “world’s largest AI-led tech services company".
+“If you look at the entire AI stack, starting from infrastructure as the starting layer, all the way up to the apps and the agentic apps at the (top) most layer, this gives us the coverage across the AI technology stack," said Aarthi Subramanian, TCS's chief operating officer during the analyst call.
+The company will be selling the solutions to pure-play AI providers, deep tech companies, hyperscalers, the Indian government, and local enterprises. Hyperscalers refer to large scale cloud services providers.
+While TCS eyes an expansion into the asset-heavy AI infrastructure space, its immediate peer dismissed the idea.
+“I think we are comfortable with the strategy that we have together," said Salil Parekh, chief executive of Infosys, in response to Mint’s question during the company’s post-earnings press conference.
+Analysts split
+For now, analysts are divided on TCS’s move.
+“This is a step in the right direction, but a very small step in the context of the global AI investment onslaught and India’s near total dependence on the US tech giants for AI," wrote HSBC analysts Yogesh Aggarwal, Prateek Maheshwari, and Sagar Desai, in a note dated 13 October.
+A second brokerage pointed to limited synergies with TCS’s existing service offerings.
+“TCS will not run cloud workloads or provide managed cloud services; the data center will function as a sovereign colocation site. This means low technology intensity, limited overlap with TCS’s core services portfolio, and hence minimal direct synergies," noted Motilal Oswal Financial Services analysts Abhishek Pathak, Keval Bhagat, and Tushar Dhonde, in a 9 October report.
+For colocation data centres, the data centre owner sets up the physical infrastructure, manages the facility, oversees the building, power, and cooling for the servers. The customer supplies and manages their equipment.
+A third brokerage said the company’s operating margins could be impacted.
+“We think this direction could offer new potential revenue streams though could negatively impact margins. TCS management shared that it could take 18 to 24 months to generate data center related revenues," BMO Capital Markets analysts Keith Bachman, Adam J. Holets, Bradley Clark, and Jonathan Stein, stated in a note dated 9 October.
+Infy's enterprise AI bet
+Meanwhile, Infosys’s Parekh, who is also amongst Indian IT’s longest-serving CEOs, threw light on the company’s focus on enterprise AI.
+“We are doing a lot of projects on enterprise AI with clients on growth, which is focused, like in the sales function or the marketing function, or on cost, which is focused on many of their processes, optimizing them on customer service, and on core development," said Parekh.
+The company has delivered more than 2,500 GenAI and 200 agentic AI client projects and has developed tailored vertical solutions via Topaz, its flagship AI platform, including more than 400 agents. (GenAI, short for generative AI, refers to machine learning models coming up with new content based on patterns they have been taught from vast datasets. Agentic AI works autonomously with minimal human involvement and iteratively towards a goal depending on contexts.)
+Still, BMO analysts added they were not too sure on AI adding to Indian IT’s budgets.
+“We think it will be challenging for IT service providers to offset AI delivery productivity with incremental work, and we do not think AI is additive to budgets at this juncture," wrote the BMO analysts in another note on 16 October.
+IP-led AI at HCLTech
+While Infosys is betting on enterprise AI solutions, the third-ranked HCLTech is betting on selling its own intellectual property built on the intelligence layers of OEMs (original equipment manufacturers) such as OpenAI and Nvidia.
+“This is a sweet spot – we believe competing with rich world OEMs on R&D (research and development) is futile," the Motilal Oswal analysts in a note of 13 September.
+The Noida-based company also called out $100 million in AI revenue, making it the first of the big five to classify business from the new technology.
+Before HCLTech, Accenture Plc was the only large IT outsourcer to report revenue from AI. The world’s largest IT services company got $2.7 billion in revenue from the new technology, which is roughly a fifth of HCL’s total revenue last fiscal.
+Smaller peers did not make any big bang announcements on AI. Fourth-largest Wipro announced Wipro Intelligence, its suite of AI platforms and solutions. The Bengaluru company is also embedding AI in its solutions for clients.
+“Our delivery platforms are already accelerating work from software development, infrastructure and cloud, to business process operations. And on the industry side, we have reimagined core business processes and developed more than 200 AI agents and platforms spanning multiple sectors," said Srini Pallia, chief executive of Wipro Ltd, during a post-earnings call with analysts on 16 October.
+Indigenous LLM
+Industry no. 5 Tech Mahindra is embedding AI in its services and is also working on building AI models for government usage, which is in line with the India AI Mission.
+“We are partnering to develop an indigenous, sovereign, large language model with 1 trillion parameters, the significant technical milestone that places it among the largest AI models under development globally," said Mohit Joshi, chief executive of Tech Mahindra, during the company’s post-earnings press conference on 14 October.
+TCS, Infosys, HCLTech, Wipro, and Tech Mahindra ended last quarter with revenues of $7.47 billion, $5.08 billion, $3.64 billion, $2.6 billion, and $1.59 billion, a sequential expansion of 0.61%, 2.73%, 2.79%, 0.65%, and 1.41%, respectively.
+It remains to be seen whether the AI strategies of the top five reap dividends in the face of tariff-related disputes, macro challenges and visa uncertainties, each of which can dampen client sentiments.
+

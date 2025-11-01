@@ -1,0 +1,215 @@
+Full Article Fetch Test - TECH
+================================================================================
+
+Title   : Thyrocare Technologies’ stock hit 52-week high in early trade on strong Q2 results
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T07:39:53
+Fetched : 2025-10-15T08:26:48.416164
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/thyrocare-technologies-stock-hit-52-week-high-in-early-trade-on-strong-q2-results/article70166167.ece
+--------------------------------------------------------------------------------
+Shares of Thyrocare Technologies were in focus today after it scaled to a 52-week high following strong Q2 results.
+The company’s standalone net profit jumped 45 per cent during the quarter ended September 2025 to ₹43.04 crore compared to ₹29.59 crore in the same quarter last year.
+Revenue from operations increased by 24 per cent to 202.23 crore during the quarter under review as against 163.05 crore in the year-ago period.
+The company’s board approved an interim dividend of ₹7 per share and fixed October 24, 2025, as the record date.
+It had also approved the issuance of bonus shares in the ratio of 2:1.
+The consolidated EBITDA grew by 48 per cent year-on-year, and PAT grew by 82 per cent y-o-y, the company said in its statement.
+Alok Kumar Jagnani, Group CFO, Thyrocare Technologies, said that the Q2 performance reflects the strength of business fundamentals, disciplined financial management, and the unwavering commitment of teams. “As we mark 25 years of trust and innovation, the bonus share announcement underscores our commitment to our shareholders and investors, and reinforces confidence in our long-term growth journey.”
+After hitting a 52-week high of ₹1,474 in early trade on Wednesday, it traded flat at ₹1,258 on the NSE at 12.55 pm after opening at ₹1,450 against the previous close of ₹1,264.60.
+Published on October 15, 2025
+
+Title   : Tech Mahindra Q2 net profit down, revenue grows 5%
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T13:31:03
+Fetched : 2025-10-15T08:26:48.416292
+URL     : https://www.thehindubusinessline.com/info-tech/tech-mahindra-q2-net-profit-down-revenue-grows-5-per-cent/article70162951.ece
+--------------------------------------------------------------------------------
+Tech Mahindra reported 4.4 per cent on-year fall in Q2 net profit owing to a one-time exceptional gain for sale of land last year, while revenue increased 5 per cent.
+Its EBITDA for the quarter rose 23.8 per cent on year.
+The software company reported net profit of $1,194.5 crore on revenue of $13,994 crore.
+Sequentially its net profit rose 4.7 per cent sequentially with revenue increasing 4.8 per cent boosted by positive performance in the IT and BPS sectors. EBITDA rose 12 per cent on a quarterly basis to ₹ 2,168 crore.
+Speaking on the quarterly results, Mohit Joshi, CEO and Managing Director, Tech Mahindra, said, “We delivered broad-based growth this quarter, reflecting the strength of our strategy and execution.”
+Rohit Anand, Chief Financial Officer, Tech Mahindra, said, “This quarter marks the eighth consecutive period of margin expansion, driven by operational efficiency and disciplined execution. Our deal TCV is up 57 per cent year on year on LTM (last twelve months) basis, supported by strong deal conversions. The board has approved a dividend of ₹15 per share reflecting our continued focus on shareholder value.”
+In US dollar, net profit increased 28 per cent annually and revenue was down 0.2 per cent. EBITDA margins went up 254 basis points to 12.1 per cent.
+Discretionary spends
+Anand said clients are looking at consolidation and cost take out projects. From a sector perspective, the company saw good growth in aerospace, consumer products and retail. In the telco sector discretionary spend has not returned in a big way.
+“Most of the spend that we are seeing is either consolidation or in areas like autonomous operations that are supposed to lead to significant efficiency benefits in the future. Maybe the discretionary spend we are seeing is on the data side across industries where clients are looking to build out data stacks to get a lot more of the benefit of this AI transformation opportunity,” he said. Meanwhile, Joshi said he expects discretionary spend to come back over time.
+Talking about must-have clients, the company secured 21 accounts in the first two quarters of this fiscal year. Of these, 17 have already generated over $1 million in revenue each.
+Communications hit by industry stress
+Communications and Technology, Media and Entertainment sectors declined in terms of performance, both sequentially and annually. However, in terms of communications, the company said yet the segment remains largely stable.
+“Our largest client has stabilized its spend and delivered growth above the company average this quarter,” said Joshi, adding how the company is partnering with a key European telco client is set to launch their large telco model to bolster their service experience centre and building a data-driven ecosystem. He attributed the decline in the sector to the steep drops for all over the past two years, driven by stress faced by the telecom industry such as heavy debt load and rolling ARPU rates.
+Reductions in hitech sector
+In terms of hi-tech, the company expects the semiconductor space to grow for the rest of the year. In the first half of the year, Tech Mahindra was impacted by a client decision to dramatically ramp down a huge portion of their business. While citing ‘interesting new wins” in the current quarter, Tech Mahindra also stated some spending cuts and headcount reductions among some software players. Company estimated that clients are doing this for cost control reasons rather than a significant reduction in businesses.
+Regarding the India AI Mission, Tech Mahindra will partner to develop an indigenous, sovereign, large language model with one trillion parameters and hyper-large LLMs and offer talent rather than data center investments.
+Other verticals
+BFSI grew 3.8 per cent sequentially and increased 6.2 per cent annually, acquiring a partnership with JP Morgan Payments Systems. Manufacturing grew 5.3 per cent sequentially and 5.2 per cent on a yearly basis. Largest client has stablised spend, said Joshi, attributing the performance to the demand for smart manufacturing, predictive maintenance and digital twins.
+“Automotive has been broadly stable this quarter. However, we remain cautious particularly in the commercial segment which continues to face headwinds while the passenger vehicle segment shows some early signs of stabilization,” said Joshi. In terms of the logistics sector, Tech Mahindra reported strong tailwinds driven by e-commerce expansion, automation and warehousing, last-mile delivery optimization.
+Q2 headcount
+The company reported an IT headcount of 78,528 employees, down 2,090 year on year. The IT LTM attrition is at 12.8 per cent versus 12.6 per cent last quarter. The company officials described this as a a marginal reduction in the workforce.
+H1B visa
+Regarding the visa developments, Joshi said roughly only one percent of the roughly 150,000 people in the company are on H1B visa. The huge majority of the US workforce is either citizens or people on green cards.
+“Our dependence on H1s is limited. Obviously, any change to this program will have an impact on us. We’re thinking is how do we make sure that we continue the work that we’ve done to build a stronger employer brand name in the US? How do we make sure that we’re able to firewall and retain our top employees in the US and other markets as we start seeing attrition, poaching? We do have a network of delivery capabilities across the world, including in the Americas, in Brazil, in Mexico, in Canada. How do we make sure we’re able to leverage,” said Joshi.
+Geographically, Americas declined 2.7 per cent annually while Europe increased 5.5 per cent during the same time. Rest of the world declined 0.5 per cent. When asked, Joshi said the company estimated stabilization and growth in the second half of the year from a macro perspective.
+Published on October 14, 2025
+
+Title   : Q2 Results Live Today: Axis Bank, IRFC, HDFC AMC, HBD Financial, Tata Comm, KEI Ind, Angel One, L&T finance, HDFC Life to announce Q2 results, BoM, Persistent Systems & ICICIGI shares zoom, Tech Mahindra dips
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T03:57:06
+Fetched : 2025-10-15T08:26:48.416386
+URL     : https://www.thehindubusinessline.com/markets/q2-results-live-updates-axis-bank-irfc-hdfc-asset-management-hbd-financial-service-tata-communication-kei-industries-angel-one-lt-finance-hdfclife-15-october-2025/article70162489.ece
+--------------------------------------------------------------------------------
+Q2 Results October 15, 2025 live updates: Find all the latest Q2 results 2025 updates of Axis Bank, Indian Railway Finance Corporation, HDFC Life Insurance Company, HDFC Asset Management Company, L&T Finance, HDB Financial Services, Oberoi Realty, Tata Communications, KEI Industries, Mangalore Refinery and Petrochemicals, Angel One, Nuvoco Vistas Corporation, Network 18 Media & Investments, Tips Music, Heritage Foods, Rossari Biotech, Kewal Kiran Clothing, Hathway Cable and Datacom, Summit Securities, Delta Corp, Ador Welding, Huhtamaki India, Quick Heal Technologies, Reliance Industrial Infrastructure, Amal, KSolves India, Urja Global, Mangalam Global Enterprise, Muthoot Capital Services, Aelea Commodities, GTV Engineering, Emerald Finance, National Fittings, Umiya Buildcon, Tokyo Plast International, Yash Chemex, Advik Capital, Gowra Leasing & Finance, Morarka Finance, Continental Securities, GSB Finance, Sumeru Industries, Genomic Valley Biotech.
+- October 15, 2025 13:54
+Tata Communications Q2 results live: Profit declines, total income up
+Tata Communications’ consolidated net profit for the quarter ended September 2025 declined to Rs 183.21 crore as against Rs 227.27 crore in the corresponding quarter last year.
+Meanwhile, the total income increased to Rs 6,082.51 crore in the quarter under review compared to Rs 5,737.81 crore in the year-ago period.
+Shares surged 3% on the NSE to Rs 1,935.
+- October 15, 2025 13:50
+IRFC Q2 results live: Q2 profit up 10%, interim dividend declared
+Indian Railway Finance Corporation reported 10% y-o-y increase in net profit for the quarter ended September 2025 at Rs 1,776.98 crore as against Rs 1,612.65 crore in the corresponding quarter last year.
+Board declared interim dividend of Rs 1.05 per share. Record date is Oct 24.
+- October 15, 2025 13:39
+Stock market updates: Sensex, Nifty extend rally; Bajaj Finance, Nestle, Jio Financial lead gainers
+- October 15, 2025 13:30
+Tips Music Q2 results live:
+Tips Music reported net profit for the quarter ended September 2025 at Rs 53.19 crore as against Rs 48.16 crore in the corresponding quarter last year.
+Declared interim dividend of Rs 4 per share, record date Oct 21.
+- October 15, 2025 13:24
+Thyrocare Technologies Q2 results live: Stock hit 52-week high in early trade on strong Q2 results
+- October 15, 2025 12:40
+ICICI Prudential Life Insurance Q2 results live: Shares in red
+ICICI Prudential Life Insurance shares traded 3% lower on the NSE at Rs 581.90, hitting an intraday low of Rs 578.65 against the previous close of Rs 598.05.
+Its consolidated net profit rose 18% to ₹296 crore during September 2025 quarter.
+- October 15, 2025 12:14
+GTPL Hathway Q2 results live: Shares in focus
+GTPL Hathway stock declined by 2% on the NSE to Rs 106.77 after opening at Rs 110.75 against the previous close of Rs 109.17.
+Its consolidated net profit fell 46.16% to Rs 7.4 crore in the second quarter ended September 2025.
+- October 15, 2025 11:48
+ICICI Lombard General Insurance Q2 results live: Shares zoom
+ICICI Lombard General Insurance traded 8% higher on the NSE at Rs 2001.40.
+It reported a net profit of Rs 819.54 crore in the quarter ended September 2025 as against Rs 693.95 crore in the corresponding quarter last year.
+- October 15, 2025 11:17
+BoM Q2 results live: bank will need about ₹2,500 crore extra provisioning to comply with ECL norms
+Bank of Maharashtra (BoM) will require approximately ₹2,500 crore in additional provisioning to meet the expected credit loss (ECL) norms, stated MD & CEO Nidhu Saxena. The Reserve Bank of India plans to implement the ECL-based provisioning framework, replacing the current incurred-loss model, for banks starting 1st April 2027. Lenders will be provided a glide path until 31st March 2031 to ease any one-time impact of higher provisioning on their existing loan books.
+- October 15, 2025 11:12
+Tech Mahindra Q2 results live: PL Capital
+Rolling forward to September 2027, PL Capital assigns a 19x multiple to arrive at a target price (TP) of ₹1,500. With the stock currently trading at 26x/20x FY26E/FY27E EPS, the brokerage sees limited upside and therefore maintains a HOLD rating.
+- October 15, 2025 11:07
+Q2 results live: Persistent Systems shares jump 7% on strong Q2 earnings
+Persistent Systems’ shares were in the spotlight today after the company delivered a strong set of Q2 numbers amid global headwinds, lifting investor sentiment and triggering a fresh round of bullish calls from brokerages.
+Here’s what the brokerages say | CLICK HERE
+- October 15, 2025 10:59
+Q2 results live: Key results today
+HDFCLIFE YoY
+* GPW expected at Rs 19163 crore versus Rs 16934 crore
+* EBIT expected to be seen at Rs 665 crore versus Rs 437 crore
+* EBIT margin expected to be seen at 3.61% versus 1.53%
+* Net profit expected to be seen at Rs 484 crore versus Rs 435 crore
+KEI YoY
+* Revenue expected at Rs 2732 crore versus Rs 2279 crore
+* EBITDA expected to be seen at Rs 281 crore versus Rs 220 crore
+* EBITDA margin expected to be seen at 10.30% versus 9.67%
+* Net profit expected to be seen at Rs 204 crore versus Rs 154 crore.
+LTF YoY
+* NII expected at Rs 2321 crore versus Rs 2178 crore
+* EBIT expected to be seen at Rs 1661 crore versus Rs 1490 crore
+* EBIT margin expected to be seen at 61.54% versus 58.49%
+* Net profit expected to be seen at Rs 699 crore versus Rs 695 crore
+OBEROIRLTY YoY
+* Revenue expected at Rs 1560 crore versus Rs 1319 crore
+* EBITDA expected to be seen at Rs 951 crore versus Rs 816 crore
+* EBITDA margin expected to be seen at 61.05% versus 61.84%
+* Net profit expected to be seen at Rs 669 crore versus Rs 589 crore
+TATACOMM YoY
+* Revenue expected at Rs 6020 crore versus Rs 5767 crore
+* EBITDA expected to be seen at Rs 1210 crore versus Rs 1117 crore
+* EBITDA margin expected to be seen at 20.10% versus 19.37%
+* Net profit expected to be seen at Rs 330 crore versus Rs 184 crore
+- October 15, 2025 10:59
+Q2 results today live: Key results to watch out for
+Q2FY26 EARNING CALENDAR 15.10.2025
+ADOR, AMAL, AXISBANK, DELTACORP, HATHWAY, HDBFS, HDFCAMC, HDFCLIFE, HERITGFOOD, HUHTAMAKI, IRFC, KEI, KKCL, LTF, MRPL, NETWORK18, NUVOCO, OBEROIRLTY, QUICKHEAL, RIIL, ROSSARI, TATACOMM, TIPSMUSIC
+AXISBANK QoQ
+* NII expected at Rs 13180 crore versus Rs 13559 crore
+* EBIT expected to be seen at Rs 10691 crore versus Rs 11515 crore
+* EBIT margin expected to be seen at 66.50% versus 84.92%
+* Net profit expected to be seen at Rs 5850 crore versus Rs 5806 crore
+HDFCAMC YoY
+* Revenue expected at Rs 1027 crore versus Rs 887 crore
+* EBIT expected to be seen at Rs 789 crore versus Rs 689 crore
+* EBIT margin expected to be seen at 76.88% versus 77.74%
+* Net profit expected to be seen at Rs 657
+- October 15, 2025 10:14
+Cyient DLM Q2 results live: Shares in focus
+Cyient DLM stock fell 4% on the NSE to Rs 449.05.
+The company’s net profit more than doubled in the September 2025 quarter, while the revenue from operations fell by 20%.
+- October 15, 2025 09:45
+Persistent Systems results live: Shares in focus
+Persistent Systems traded 7% higher on the NSE at Rs 5,700.
+The company reported consolidated net profit for the quarter ended September 2025 at Rs 4,71.5 crore as against Rs 324.9 crore in the corresponding quarter last year.
+- October 15, 2025 09:39
+Bank of Maharashtra Q2 results live: Shares in focus
+Shares of Bank of Maharashtra surged nearly 4% on the BSE to Rs 57.24, after opening at Rs 55.90 against the previous close of Rs 55.18.
+Its Q2 net profit increased by 23% to Rs 1,633 crore.
+- October 15, 2025 09:33
+Tech Mahindra Q2 results, share price live: Shares in focus
+Shares of Tech Mahindra declined by 1% on the NSE to Rs 1,448.30 after opening at Rs 1,470 against the previous close of Rs 1,468.
+The company reported 4.4% declined Q2 profit, while revenue increased by 5%.
+Published on October 15, 2025
+
+Title   : Tech Mahindra posts modest revenue growth, but margins hit new high
+Source  : www.livemint.com
+Published: 2025-10-14T16:26:10
+Fetched : 2025-10-15T08:26:48.416889
+URL     : https://www.livemint.com/companies/tech-mahindra-q2-results-revenue-fy25-information-technology-sector-growth-software-services-11760451630902.html
+--------------------------------------------------------------------------------
+Tech Mahindra Ltd kicked off the second half of the fiscal year with modest sequential growth and outlined a cautious future, even as it neared the half-way mark of its three-year revival plan during which its operating margins doubled.
+The Pune-based IT services company reported $1.59 billion in revenue for the July-September period, up 1.4% sequentially but down 0.2% on a yearly basis. Most of the growth came from manufacturers, which made up three-fifths of the company’s incremental revenue of $22 million. Its net profit rose 1.5% to $135 million.
+The company’s management said the macroeconomic environment was stabilizing, but concerns existed.
+“From a macro perspective, we see the macro as stabilizing and maybe improving in parts. But it is still fragile. There is unlikely to be any sort of V-shaped recovery in spend, but we do see a stabilization and, hopefully, growth in the second half of the year,” said Mohit Joshi, chief executive of Tech Mahindra, during the company’s post-earnings press conference on Tuesday.
+Tech Mahindra shares closed 1.2% higher at ₹1,468.15 apiece on the BSE on Tuesday.
+The company’s mixed signals were in contrast to two of its peers.
+A day before, India's third-largest software services firm HCL Technologies Ltd’s management said that the macro environment was more or less unchanged. This was in contrast to larger peer Tata Consultancy Services Ltd, which said that there is “lingering uncertainty” in the broader economic environment.
+TCS and HCL respectively ended the second quarter with $7.47 billion and $3.64 billion in revenue, up 0.6% and 2.8% sequentially.
+Both the larger companies also made big-bang AI announcements. While Mumbai-based TCS announced plans to invest upwards of $6 billion over a six-year period in building and running a 1 GW data centre, Noida-based HCLTech became the first company among Indian IT’s Big Five to announce revenue from the new technology. It got $100 million in AI-led revenue last quarter.
+Tech Mahindra, on the other hand, has been placing its bets on large language models.
+“We are partnering to develop an indigenous, sovereign, large language model with 1 trillion parameters, the significant technical milestone that places it among the largest AI models under development globally,” said Joshi.
+However, he did not reveal the investment details, and queries on project timelines went unanswered.
+Instead, the management said the company was investing in talent rather than in data centres.
+“The investment, from our perspective, is largely, sort of in terms of talent, rather than, you know, rather than a significant amount of data center investments, right? So, it is largely in terms of partnership and talent, that's where our investment is coming in as of now,” said Joshi, in response to Mint’s question during the press conference
+The company ended the September quarter with 12.1% in operating margins, up 100 basis points from the previous quarter. Its management attributed this to “improved productivity, initiatives around fixed price projects, some volume growth, savings from selling, general and administrative expenses, amongst others. One basis point is one-hundredth of a percentage point.
+This jump in profitability comes as a shot in the arm for its management, which seeks to increase its operating margin to 15% by March 2027, and grow its revenue faster than peers as part of a three-year roadmap called Project Fortius, which was announced last year.
+While the revenue growth has not crossed 3% in the last year, the margins have doubled from 6.1% in April last year, when it announced its margin expansion plan.
+At least one analyst expressed confidence in the company’s plans.
+“New deal TCV (total contract value) at $816 million was also at its highest-ever level since Q4FY22. Healthy growth coupled with continued margin expansion reinforces confidence in the company to deliver on its three-year turnaround plan outlined at the end of FY24,” said Manik Taneja, executive director for IT services at Axis Capital.
+Tech Mahindra, which does not give quarterly or yearly outlook, said that tech spends for IT projects would follow.
+“As far as the Indian IT industry is concerned, I do feel that the industry has a very sustainable business model, has shown resilience across economic cycles. But equally, it has had portions of hyper growth, like we saw during Covid, and periods of very slow growth, like in this period. But even in this timeframe, I feel the industry, especially Tech Mahindra, has shown its resilience,” said Joshi.
+He added that “as the overall economic activity across the globe picks up, we do feel that tech spend will follow.”
+For now, its results exceeded analyst expectations. According to a Bloomberg poll of 30 analysts, Tech Mahindra was expected to report $1.55 billion in revenue in the second quarter.
+Another bright point was its profitability, which has been increasing for eight consecutive quarters.
+The company added 4,197 people last quarter to end with 152,714 employees. HCL added more than 3,000 employees, while TCS cut its employee count by more than 19,000 people.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesTech Mahindra posts modest revenue growth, but margins hit new high
+
+Title   : Thyrocare Technologies shares soar 16% to fresh 52-week high after Q2 PAT grows 82% YoY 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T06:05:40
+Fetched : 2025-10-15T08:26:48.416978
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/thyrocare-technologies-shares-soar-16-to-fresh-52-week-high-after-q2-pat-grows-82-yoy/articleshow/124569287.cms
+--------------------------------------------------------------------------------
+PAT for the quarter stood at Rs 47.90 crore, supported by strong operational performance and rising test volumes.
+Revenue came in at Rs 216.53 crore in Q2, marking a 22% YoY increase. Normalised EBITDA rose sharply by 49% YoY to Rs 75.36 crore, with consolidated EBITDA growing by 48% YoY. The company's margins remained steady at 33%.
+Gross margin stood healthy at 72%, reflecting operational efficiency and cost discipline.
+The growth was driven by a 24% YoY rise in the Pathology segment. Within pathology, franchise revenue grew 20% YoY, while partnership revenue surged 35% YoY. Thyrocare processed 53.3 million tests during the quarter, a 21% YoY increase, reinforcing its position as India's largest diagnostic test volume processor.
+The company remains debt-free and holds net cash and cash equivalents exceeding Rs 190 crore. It also expanded its laboratory network by adding four new labs in Vijayawada, Bhagalpur, Roorkee, and Kashmir during H1 FY26.
+“We are pleased to report a robust set of results for the quarter and the announcement of our bonus issue on the occasion of 25 years of Thyrocare, coinciding with the auspicious occasion of Diwali. These numbers underscore our continued focus on operational excellence, network expansion, and value-driven diagnostics. As we deepen our presence in underserved regions and scale our franchise and partner channels, we remain committed to delivering high-quality, affordable healthcare services across India,” said Rahul Guha, MD & CEO of Thyrocare Technologies.
+Also read: LG share price target at Rs 2,050? Korean giant sparks record frenzy with 8 buy calls on Day 1
+In addition to its financial performance, the Board approved a bonus share issue in the ratio of 2:1, i.e., two bonus shares for every one equity share held, subject to statutory approvals. The Board also declared an interim dividend of Rs 7 per equity share (pre-bonus), with the record date set for October 24.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

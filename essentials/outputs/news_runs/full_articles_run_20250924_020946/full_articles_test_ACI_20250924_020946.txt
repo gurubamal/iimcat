@@ -1,0 +1,38 @@
+Full Article Fetch Test - ACI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : J&J to Withdraw Acid Reflux Device Outside US, Alarming Surgeons
+Source  : www.livemint.com
+Published: 2025-09-23T09:19:49
+Fetched : 2025-09-24T02:11:03.265437
+URL     : https://www.livemint.com/companies/news/jj-to-withdraw-acid-reflux-device-outside-us-alarming-surgeons-11758619189814.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Johnson & Johnson is withdrawing a device to treat debilitating acid reflux disease from markets outside the US, a move surgeons warned would set back the available treatment options for sufferers by more than a decade and also impact lung transplant patients.
+Sales of the Linx Reflux Management System will be stopped outside the US from the end of March, the company said in a letter to doctors dated Sept. 17 seen by Bloomberg. J&J confirmed it was stopping sales in “certain countries,” based on a commercial decision unrelated to the device’s safety or efficacy.
+“It’s devastating news,” said Majid Hashemi, a consultant surgeon specializing in anti-reflux and keyhole bariatric surgery. Initially cautious about using it, Hashemi said the device has become a default procedure and its withdrawal will deprive patients. He said he was contacted directly by J&J about its decision.
+Hashemi and other UK surgeons said there is currently no direct replacement for the Linx device, which is mainly used on patients with gastroesophageal reflux disease, or GERD, whose condition cannot be controlled with drugs.
+The disease, in which stomach acid flows back up into the esophagus and causes heartburn, is relatively common, affecting about 20% of adults in the US to some degree. Though the majority can use medications such as proton pump inhibitors, some require surgery. In the past that was typically a fundoplication, in which the stomach is wrapped around the lower esophagus.
+Transformative
+That changed with the Linx, a small bracelet of magnetic beads placed around the lower esophageal sphincter to strengthen it. Originally developed by Torax Medical Inc., a 2023 study said nearly 40,000 had been implanted globally since 2007. It was bought by J&J’s surgical device company Ethicon in 2017.
+Nick Boyle, a specialist gastrointestinal and laparoscopic surgeon who was one of the first to implant a Linx device in the UK, said its safety and efficacy was backed by “an enormous scientific literature.” Doctors are pressing J&J to reconsider what he called a “purely a commercial decision,” he said, adding that a company representative had come to meet him to explain.
+“The operation is very standardized and much quicker, with faster recovery for the patients,” said Antonios Athanasiou, a surgeon in the UK who specializes in keyhole surgery for conditions like acid reflux and gallbladder disease.
+“Following a thorough evaluation of market conditions and ability to effectively serve each market, we have made the decision to exit our Linx business in certain countries,” a J&J spokesperson said in an email. “There is no change in the safety or efficacy of the Linx device.”
+J&J doesn’t give a breakdown of its Linx sales.
+Lung transplant patients could also be severely impacted, as research shows a high prevalence of those being assessed for the surgery also have GERD, which needs to be treated to ensure that the transplanted organ isn’t rejected.
+St Thomas’ Hospital in London has been using the Linx in lung transplant patients for over five years, said James Gossage, a professor of oesophagogastric surgery. “It is our preferred option for preventing the stomach contents refluxing into the transplanted lungs causing damage and rejection,” he said in an email.
+Before Linx, surgeons used to use traditional anti-reflux surgery, but it often didn’t last very long and required repeat procedures, he added.
+Recall
+Still, the Linx isn’t without controversy.
+In 2018, there was a product recall over concerns about beads separating from the device. That problem was fixed, though the company faced lawsuits in the US after the recall. Some patients get the device removed if they have difficulty swallowing, and there are cases of the Linx eroding into the esophagus.
+Matyas Fehervari, a consultant upper gastrointestinal and bariatric surgeon as well as an academic, has been involved in several studies of Linx. “What that data shows is indeed it’s quite a good option, it’s a better option than what we had previously for certain patients,” he said.
+Meanwhile, a new medical device from Implantica called RefluxStop is available in some European countries, but not the US. Made of silicone, it is implanted in the upper stomach to reinforce the lower esophageal sphincter.
+In the UK, though, RefluxStop is recommended for a subset of GERD patients, and the only other way to access the device is through a formal research study. Boyle, the first surgeon to install one in the UK, said data is still limited.
+“We don’t have any long-term studies to tell us if it’s effective,” he said.
+--With assistance from Damian Garde.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

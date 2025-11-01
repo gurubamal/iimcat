@@ -1,0 +1,79 @@
+🧠 LAUNCHING MAXIMUM INTELLIGENCE SCAN SYSTEM (Enhanced)
+==============================================
+📊 Loading maximum intelligence configuration...
+✅ Maximum intelligence config loaded
+
+🎯 ENHANCEMENTS ACTIVE:
+   ✅ Certainty Scoring (0-100%)
+   ✅ Fake Rally Detection
+   ✅ Expected Rise Calculation
+   ✅ Magnitude-based Filtering (≥₹50cr)
+
+🔍 Step 1: High-Intelligence News Collection...
+
+================================================================================
+🔍 ENHANCED NEWS COLLECTION STARTED
+================================================================================
+📅 Time window: Last 48 hours (cutoff: 2025-10-13 18:15:21 UTC)
+🎯 Tickers to scan: 2993
+📰 News sources: 9
+================================================================================
+
+[1/2993 (0.0%)] Processing 21STCENMGM... ⚫ NO NEWS
+    └─ Fetched: 15 items
+    └─ Filtered (old): 14, (non-financial): 1
+[2/2993 (0.1%)] Processing A2ZINFRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 97, (non-financial): 3
+[3/2993 (0.1%)] Processing ACL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 96, (non-financial): 4
+[4/2993 (0.1%)] Processing AGSTRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[5/2993 (0.2%)] Processing ANSALAPI... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[6/2993 (0.2%)] Processing BLUECHIP... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 86, (non-financial): 14
+[7/2993 (0.2%)] Processing DHARAN... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[8/2993 (0.3%)] Processing EXCEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 63, (non-financial): 37
+[9/2993 (0.3%)] Processing FEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[10/2993 (0.3%)] Processing GVKPIL... ⚫ NO NEWS
+    └─ Fetched: 75 items
+    └─ Filtered (old): 75, (non-financial): 0
+[11/2993 (0.4%)] Processing IEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[12/2993 (0.4%)] Processing ITTL... ⚫ NO NEWS
+    └─ Fetched: 96 items
+    └─ Filtered (old): 94, (non-financial): 2
+[13/2993 (0.4%)] Processing KRISHIVAL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[14/2993 (0.5%)] Processing MANUGRAPH... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[15/2993 (0.5%)] Processing MEP... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[16/2993 (0.5%)] Processing MVKAGRO... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[17/2993 (0.6%)] Processing NORBTEAEXP... ⚫ NO NEWS
+    └─ Fetched: 10 items
+    └─ Filtered (old): 10, (non-financial): 0
+[18/2993 (0.6%)] Processing ORTINGLOBE... ⚫ NO NEWS
+    └─ Fetched: 6 items
+    └─ Filtered (old): 6, (non-financial): 0
+[19/2993 (0.6%)] Processing OSELDEVICE... ⚫ NO NEWS
+    └─ Fetched: 14 items
+    └─ Filtered (old): 14, (non-financial): 0
+[20/2993 (0.7%)] Processing PATTECH...

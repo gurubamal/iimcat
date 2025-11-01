@@ -1,0 +1,34 @@
+Full Article Fetch Test - CLEAN
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 700.63M
+
+Title   : Keppel takes full control of Cleantech Solar after buying Shell’s 49% stake
+Source  : www.livemint.com
+Published: 2025-10-21T00:00:09
+Fetched : 2025-10-21T22:39:41.921539
+URL     : https://www.livemint.com/companies/news/singapore-keppel-shell-cleantech-solar-stake-sale-india-11760712505008.html
+--------------------------------------------------------------------------------
+Keppel takes full control of Cleantech Solar after buying Shell’s 49% stake
+Keppel Ltd acquired Shell Plc’s 49% stake in Cleantech Solar for about $200 million, taking full control of the pan-Asian renewable energy developer. The Singapore-based firm, which already held a 51% stake, plans to sell Cleantech for around $400 million.
+New Delhi: Singapore’s Keppel Ltd has bought energy major Shell Plc’s 49% stake in pan-Asian solar developer Cleantech Solar in a deal valuing the equity at around $200 million taking full control of the company. It next plans a sale of Cleantech for around $400 million, said two people aware of the development. Both requested anonymity.
+Keppel already owns 51% stake in Cleantech.
+Keppel Corporation Ltd, Keppel Asia Infrastructure Fund LP (KAIF) and a co-investor of KAIF, through Cloud Alpha Pte Ltd, had acquired 51% equity in Cleantech Renewable Assets Pte. Ltd for $150 million in 2021. The balance 49% stake was held by Shell. Keppel Corp. was renamed Keppel Ltd early in 2024. Cleantech Renewable Assets is the holding company of Cleantech Solar.
+Cleantech Solar has a 1.2 giga watt (GW) portfolio of solar and wind assets in operations, construction and development stages in India, Singapore, Cambodia, Indonesia, Malaysia, Thailand and Vietnam; of which 1 GW is operational.
+Spokespersons for Shell and Cleantech Solar confirmed the sale.
+“Shell Singapore Pte Ltd, a wholly owned subsidiary of Shell plc, has agreed to sell its 49% stake in Cleantech Renewable Assets Pte Ltd to an affiliate of Keppel Ltd. This decision is consistent with Shell’s business strategy and enhanced focus on performance, discipline, and simplification," a Shell spokesperson said in an emailed response.
+“Keppel Ltd. and its managed fund, Keppel Asia Infrastructure Fund, have agreed to acquire Shell Singapore Pte Ltd.’s 49% stake in Cleantech Renewable Assets Pte Ltd. This is an exciting new chapter for Cleantech Solar. The company is well-positioned for growth and success, with support from committed shareholders and partners, and more importantly, a strong and dedicated team," a Cleantech Solar spokesperson said on email.
+Queries emailed to a Keppel spokesperson on Thursday evening remained unanswered.
+Deals abound
+This deal comes in the backdrop of Shell's plans to sell Sprng Energy group, which it acquired in 2022 from Actis Llp at an enterprise value of $1.55 billion. (Enterprise value or the total economic value of a company includes its equity value, debt, and other obligations net of cash and its equivalents.)
+“We continuously review our portfolio to deliver upon our strategy. We will not comment on market speculation. Sprng remains focused on safe, reliable operations," the Shell spokesperson added in response to a query about status and value of the Sprng Energy group transaction.
+This also comes as global oil majors including Shell, Total of France, Thailand’s PTT Group and Malaysian state-run Petronas unit Gentari Sdn Bhd have established a presence in India’s green energy sector as the conventional hydrocarbon space undergoes disruptions.
+There is a growing interest in green energy the Indian commercial and industrial (C&I) segment, with the latest case in point being the country's' largest oil refiner and marketing company Indian Oil Corp.’s renewables unit Terra Clean Ltd planning to acquire a 50% stake in renewable energy firm Fourth Partner Energy Pvt. Ltd in a deal having an equity value of around $400 million, as reported by Mint earlier.
+Analysts note the action in the C&I-focused large green energy space in India.
+“With the C&I segment comprising 45-50% of India’s electricity demand, achieving 20% RE (renewable energy) penetration over the next five years would necessitate 100 GW of RE capacity implying a CAGR of 30%. This marks a substantial scale-up from the current estimated open access capacity of 25-30 GW. In recent years, large RE platforms with a portfolio of more than 1 GW, focused on the C&I market, have emerged in the sector," ratings agency ICRA wrote in a report.
+Rapid scale-up
+India’s C&I segment has attracted strong investor interest, given the regulatory landscape being supportive with rules allowing large power users to source energy from the open market rather than the costlier grid. C&I projects are also shielded from risks such as power procurement curtailment by state-run power distribution firms. Also, the State Electricity Regulatory Commissions' implementation of Time of Day tariffs, which vary depending on demand and time, for large C&I category consumers has helped sustain the investor’s interest.
+There are several green energy deals in play, with the investment thesis guided by scale. India has an installed renewable energy capacity of 245 GW, of which solar and wind power account for 116 GW and 52 GW, respectively. India plans to add 50GW of green energy capacity annually to reach 500GW by 2030. Given the country's green energy transition trajectory and the net-zero target by 2070, the plan is to add 1,800 GW of renewable energy capacity by 2047 and 5,000 GW by 2070.
+Some of the transactions as reported by Mint include Morgan Stanley and Mitsubishi UFJ Financial Group, Inc. (MUFG) in October launched the sale process of Global Infrastructure Partners (GIP)-owned Vena Global Group Pte Ltd’s exit of its Indian green energy platform Vena Energy India in a deal having an enterprise value of around $1 billion.
+Also, European alternative asset manager EQT has dropped the plan to sell renewable developer Zelestra’s India operations and instead transferred it to its Asia Pacific infrastructure team headed by Hong Kong-based partner Ken Wong. EQT will also invest around $600 million to develop the portfolio and has brought in Parag Sharma, former chief executive officer and co-founder of EQT and Temasek-backed O2 Power, to head the company, replacing incumbent CEO Sajay K V.
+

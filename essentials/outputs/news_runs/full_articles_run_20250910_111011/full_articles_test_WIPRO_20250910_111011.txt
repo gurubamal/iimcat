@@ -1,0 +1,19 @@
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Wipro surges 2.83% as IT sector rallies on Infosys buyback boost  
+Source  : www.thehindubusinessline.com
+Published: 2025-09-10T08:26:43
+Fetched : 2025-09-10T12:18:21.251274
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/wipro-surges-283-as-it-sector-rallies-on-infosys-buyback-boost/article70032971.ece
+--------------------------------------------------------------------------------
+Wipro Limited shares jumped 2.83 per cent to ₹256.21 during Tuesday’s trading session, emerging as one of the top gainers in the IT sector rally.
+The stock, which opened at ₹249.30, touched a high of ₹257.17 with strong trading volumes of 117.62 lakh shares worth ₹300.29 crore.
+The IT major’s gains came alongside a broader sector recovery, with the Nifty IT index rising over 2 per cent as all constituents traded in positive territory. Wipro ranked as the second-best performer in the IT pack, following Infosys which led the rally with nearly 4 per cent gains after announcing share buyback plans.
+On September 9, Wipro allotted 61,954 equity shares under the ADS Restricted Stock Unit Plan 2004 and 1,63,524 shares under the Restricted Stock Unit Plan 2007 following ESOP exercises, as per a regulatory filing.
+The sector-wide rally was triggered by Infosys’ board decision to consider a share buyback proposal at its September 11 meeting, boosting investor sentiment across IT stocks. Market analysts suggest the buyback announcement has sparked expectations of similar shareholder-friendly moves by other large IT players.
+The weakening rupee, which recently hit an all-time low of 88.36 against the dollar, is providing additional tailwinds for IT companies that derive significant revenues from US markets. However, concerns remain over potential US tariffs on software exports and ongoing global tech spending softness, with the Nifty IT index still down 19 per cent year-to-date despite Tuesday’s gains.
+Published on September 10, 2025
+

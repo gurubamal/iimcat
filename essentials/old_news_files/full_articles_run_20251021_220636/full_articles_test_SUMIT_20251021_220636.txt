@@ -1,0 +1,29 @@
+Full Article Fetch Test - SUMIT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 34.29M
+
+Title   : Edelweiss Life Insurance expecting breakeven next year: MD & CEO Sumit Rai
+Source  : www.thehindubusinessline.com
+Published: 2025-10-21T13:29:51
+Fetched : 2025-10-21T23:20:07.452771
+URL     : https://www.thehindubusinessline.com/money-and-banking/edelweiss-life-insurance-expecting-breakeven-next-year-md-ceo-sumit-rai/article70186306.ece
+--------------------------------------------------------------------------------
+Edelweiss Life Insurance Company is focusing on achieving higher growth rate than the industry and also further improve margins Over the next few years, it is targeting to grow at 17-18 per cent as against the industry growth rate of about 14–15 per cent. businessline spoke to its Managing Director and Chief Executive Officer, Sumit Rai, on current trends in the life insurance segment and business plans of the company.
+Edited excerpts:
+The insurance industry has been undergoing a major churn these days with key measures such as waiver of GST on individual life and health premiums. There are also proposals for regulatory shifts such as migration to the risk-based capital adequacy norms. How do you see the life insurance segment at the current juncture?
+The industry is in a fairly good spot. The market trend on the whole is positive. Overall, given our penetration levels and economic growth, this is a period of very good growth. There may be ups and downs, but over the next four to five years, the industry should grow at 14–15 per cent. While the current growth rate in the industry is almost the same, growing at 15 per cent means double the present rate of GDP growth which is a very good rate for any business.
+How do you situate Edelweiss Life Insurance Company in the industry today? How is the business mix of traditional products and ULIPs?
+We’re about 14 years old. The bulk of our growth started since 2017–18. Prior to that, the industry had muted growth, and we were new and we also were conservative in how we approached the business at that point of time. Starting 2017–18, we have taken a more balanced view of how we wanted to grow. We were primarily a one-channel company then but now we are a multi-channel with proprietary and partnerships — roughly 50–50 in terms of distribution. In terms of products, we’re also well balanced. Our traditional products account for about 78 per cent of sales while 22 per cent comes from Unit Linked Insurance Plans (ULIPS). Our attempt throughout has been to keep a very balanced approach to our business, whether it is distribution, whether it is products. Over the next four to five years, both in terms of products and distribution, we see the business moving toward being more digitally enabled.
+Going forward, will the ratio of traditional products and ULIPs will remain the same in your product mix?
+It should remain the same. We should be at around 70–80 per cent of traditional products and about 20 per cent ULIPs. We’ll try to increase the protection side of the portfolio a bit more. In recent times, there were some supply constraints due to reinsurance, but that’ is improving significantly. So, protection will probably start increasing
+The life insurance industry appears rather slow in terms of product innovation compared to general insurance. What’s your view?
+At a core level, life insurance is a fairly stable proposition that has been running globally for over 200 years. Innovation has been more in process and technology. For example, today the entire customer acquisition process is now completely digitised across the industry. Five or six years ago, there would be 30 pages of paperwork and a whole lot of problems—none of that exists today. Everybody is now completely digital. The issuance is largely digital. Around 70 per cent of our policies are issued within three days. A lot of advancement may not be visible on the front end, but significant progress has happened in areas like data, especially in fraud control, which has become a major concern.
+How have been the margins for the life insurance industry for the players?
+Margins were under pressure and are still a little under pressure. They’ve decreased from around 27–29 per cent a couple of years ago to about 22–23 per cent today. I don’t see any significant event that will impact margins. Margins should remain in the range of 22–25 per cent for most players.
+How is the capital adequacy for Edelweiss Life? What are your capital infusions plans?
+We are very well capitalised. We are at about ₹2,800 crores of capital in the organisation as of today. On average, we invest about ₹175–200 crore of capital every year, and ballpark, we expect that to continue for the next three years or so. As of June 2025, our solvency ratio was at 183 per cent. At the end of March, when there’s a large degree of business, it might be around 165 per cent while in May, June, July, when the business is lower, it will be 175 per cent.
+How much Edelweiss has invested in India so far? Any plans to go for an Initial Public Offering?
+About ₹2,800 crore has been invested so far. By 2030-31, we may also consider going public. We expect to achieve breakeven next year.
+Published on October 21, 2025
+

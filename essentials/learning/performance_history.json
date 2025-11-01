@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2025-10-30T15:01:35.670317",
+    "prediction_time": "2025-10-30T15:01:35.640252",
+    "ticker": "SAGILITY",
+    "initial_price": 245.0,
+    "current_price": 238.5,
+    "actual_change_pct": -2.6530612244897958,
+    "predicted_move_pct": 8.5,
+    "recommendation": "BUY",
+    "score": 81.0,
+    "certainty": 75,
+    "catalysts": [
+      "earnings_beat",
+      "profit_growth"
+    ],
+    "initial_rsi": 82,
+    "current_rsi": 68,
+    "volume_change_pct": -15,
+    "volume_trend": "increasing",
+    "prediction_correct": false,
+    "prediction_accuracy": 0,
+    "weights_used": {
+      "technical_overbought": 0.15,
+      "resistance_levels": 0.12,
+      "volume_confirmation": 0.08,
+      "fundamental_catalyst": 0.25,
+      "sentiment_momentum": 0.2,
+      "certainty_score": 0.2
+    }
+  },
+  {
+    "timestamp": "2025-10-30T15:01:35.677823",
+    "prediction_time": "2025-10-30T15:01:35.651779",
+    "ticker": "WORTH",
+    "initial_price": 955.0,
+    "current_price": 988.0,
+    "actual_change_pct": 3.4554973821989527,
+    "predicted_move_pct": 6.5,
+    "recommendation": "BUY",
+    "score": 78.4,
+    "certainty": 80,
+    "catalysts": [
+      "order_book_expansion",
+      "contract_win"
+    ],
+    "initial_rsi": 65,
+    "current_rsi": 72,
+    "volume_change_pct": 25,
+    "volume_trend": "average",
+    "prediction_correct": true,
+    "prediction_accuracy": 69.4188798317118,
+    "weights_used": {
+      "technical_overbought": 0.15,
+      "resistance_levels": 0.12,
+      "volume_confirmation": 0.08,
+      "fundamental_catalyst": 0.25,
+      "sentiment_momentum": 0.2,
+      "certainty_score": 0.2
+    }
+  },
+  {
+    "timestamp": "2025-10-30T15:01:35.684618",
+    "prediction_time": "2025-10-30T15:01:35.666440",
+    "ticker": "BHEL",
+    "initial_price": 245.55,
+    "current_price": 242.0,
+    "actual_change_pct": -1.4457340663815967,
+    "predicted_move_pct": 7.0,
+    "recommendation": "BUY",
+    "score": 78.0,
+    "certainty": 68,
+    "catalysts": [
+      "technical_breakout",
+      "momentum"
+    ],
+    "initial_rsi": 68,
+    "current_rsi": 58,
+    "volume_change_pct": -30,
+    "volume_trend": "increasing",
+    "prediction_correct": false,
+    "prediction_accuracy": 0,
+    "weights_used": {
+      "technical_overbought": 0.15,
+      "resistance_levels": 0.12,
+      "volume_confirmation": 0.08,
+      "fundamental_catalyst": 0.25,
+      "sentiment_momentum": 0.2,
+      "certainty_score": 0.2
+    }
+  }
+]

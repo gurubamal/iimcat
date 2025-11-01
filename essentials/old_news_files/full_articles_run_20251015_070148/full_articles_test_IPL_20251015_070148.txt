@@ -1,0 +1,20 @@
+Full Article Fetch Test - IPL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 349.10M
+
+Title   : IPL ecosystem sees drop in valuation for the second year in a row: D&P Advisory 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T06:56:33
+Fetched : 2025-10-15T07:54:19.612210
+URL     : https://www.thehindubusinessline.com/companies/ipl-ecosystem-sees-drop-in-valuation-for-the-second-year-in-a-row-dp-advisory/article70165962.ece
+--------------------------------------------------------------------------------
+The Indian Premier League witnessed two consecutive years of ecosystem valuation contraction. According to a report by D&P Advisory, the valuation is down 8 per cent to ₹76,100 crore in 2025 from ₹82,700 crore in 2024. The T20 league’s ecosystem value stood at ₹92,500 crore in 2023.
+The report noted that the first decline came in 2024 when the Disney Star–Viacom18 merger created JioStar, consolidating IPL’s television and digital rights under one roof. While the league still drew record audiences, the prospect of a monopolised rights market signalled lower escalation in future auctions. The valuation dip was therefore interpreted as a plateauing of growth after years of steep climb.
+“The 2025 decline is sharper in its commercial impact and more structural in nature. Fantasy and gaming platforms had become the IPL’s most aggressive advertiser cohort, contributing ₹1,500–2,000 crore annually across league, franchise, and broadcaster deals. With the Promotion & Regulation of Online Gaming Act 2025 banning money-game advertising and sponsorship, this entire revenue stream has vanished,” the report added.
+Santosh N, Managing Partner of D&P Advisory, said despite the contractions, IPL’s fundamentals remain resilient. He pointed out that the league attracted over one billion viewers in 2025. Digital audience now surpasses TV, and engagement has strengthened by regional language streams, connected TV adoption, and interactive formats.
+“With auction-driven surges less likely, future valuations will depend on diversified sponsor bases (auto, fintech 2.0, healthcare, esports), new monetisation models (subscription bundles, regional packages, commerce integrations), and entry of global tech players (Netflix, Amazon, Apple) to restore competitive tension in rights auctions,” said Santosh N.
+“The IPL has moved from an era of competitive escalation into one of structural recalibration. The challenge ahead is to replace volatile categories with more stable, diversified value streams—ensuring that India’s premier sports league continues to compound sustainably, even without auction fever or RMG-fuelled spend,” he added.
+Meanwhile, the WPL ecosystem’s value has decreased from ₹1,350 crore to ₹1,275 crore, marking a 5.6 per cent decline attributed to the same headwinds. The report, however, pointed out that WPL’s TV ratings saw a growth of about 142 per cent year on year. This makes the WPL one of India’s fastest-growing broadcast properties and remains in the growth arc.
+Published on October 15, 2025
+

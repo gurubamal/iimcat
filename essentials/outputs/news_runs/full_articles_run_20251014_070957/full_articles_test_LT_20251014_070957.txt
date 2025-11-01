@@ -1,0 +1,81 @@
+Full Article Fetch Test - LT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 36.17B
+
+Title   : HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+Source  : www.livemint.com
+Published: 2025-10-13T16:09:15
+Fetched : 2025-10-14T08:56:07.519388
+URL     : https://www.livemint.com/companies/hcltech-reports-fastest-q2-growth-in-five-years-calls-ai-revenue-in-a-first-11760365179969.html
+--------------------------------------------------------------------------------
+HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+HCL Technologies Ltd reported a strong second-quarter performance with a 2.8% sequential revenue growth to $3.64 billion, surpassing estimates. The company also marked revenue from AI, contributing $100 million. HCLTech's net profit rose 8% to $486 million.
+Defying market uncertainties, HCL Technologies Ltd recorded its strongest second-quarter performance in July-September 2025 in five years. The Noida-headquartered company also became the first of the big five to report revenue from artificial intelligence (AI).
+India’s third-largest IT services company reported revenue growth of 2.8% sequentially to $3.64 billion—beating an estimate of $3.54 billion by a Bloomberg poll of 31 analysts. Its net profit also jumped 8% sequentially to $486 million in the quarter.
+The company became the first among India’s biggest IT outsourcing companies to report revenue from advanced AI, $100 million in Q2.
+Before HCLTech, Accenture was the only large IT outsourcer to call out revenue from AI. The world’s largest IT services company got $2.7 billion in revenue from the new technology, which is roughly a fifth of HCL’s total revenue last fiscal.
+Notably, its growth trajectory is at odds with larger peer Tata Consultancy Services Ltd, which last Friday reported subdued second-quarter earnings, even as it made its biggest pivot by committing to invest upwards of $6 billion in data centres over five-seven years.
+Much of HCLTech's growth in Q2 came from banks and financial institutions, which made up a fourth of the incremental revenue of $99 million. In terms of geography, much of the company’s incremental revenue came from the Americas, which fetched more than half of its business.
+During HCLTech’s post-earnings media interaction on Monday, its top executive said the macro environment was largely unchanged. “Overall demand environment is more or less similar to what we saw in the last quarter," said C Vijayakumar, the company’s chief executive.
+“I think discretionary spend in certain pockets is almost becoming mandatory," he said, adding that a lot of non-essential spending was being ploughed into AI.
+HCLTech’s AI approach through its products and IP-led platforms is similar to Accenture Plc and in contrast to TCS, which is taking a hardware route through data centres.
+TCS also differed in its interpretation of the demand environment. “Lingering uncertainties in the broader economic environment continue to remain a key challenge," the company’s chief executive and managing director, K. Krithivasan, said during the company’s post-earnings press conference on 9 October.
+“Companies are keeping a tight control over their discretionary budgets in response to economic and demand volatility," Krithivasan said. “Clients are consolidating vendors to achieve transformation objectives effectively and efficiently." TCS ended the previous quarter with $7.47 billion in revenue, up 0.6% sequentially.
+HCLTech’s guidance
+HCLTech’s tempered outlook on the demand environment is reflected in its guidance. The company retained its revenue guidance of 3-5% in constant currency terms for the full year. Constant currency does not take currency fluctuations into account.
+“We are raising our full-year services revenue guidance to 4-5% in constant currency from the earlier 3-5% in constant currency. Given the softness in the software segment, we are keeping the company-level guidance unchanged at 3-5% in constant currency," said Vijayakumar.
+At least one analyst mirrored the company’s caution. “Revenue growth was better than our expectation," said Amit Chandra, vice-president for HDFC Securities. “The lower end of the services revenue guidance increase is good but that does not imply optimism."
+Restructuring and layoffs
+The management also threw light on the restructuring plan announced last quarter, as part of which facilities that were redundant would be shut off and employees that were not redeployable would be let go of.
+“When you're trying to restructure, there will be some reductions, but those are all managed through the regular process that we go through," Ram Sundararajan, the company’s chief people officer, said during the post-earnings call.
+However, the company added headcount of 3,489, ending the second quarter with 226,640 employees. This comes on the back of TCS cutting headcount by more than 19,000 in the same period. TCS announced its plans to cut 2% of its headcount, primarily in middle and higher-level roles, on 27 July.
+To be sure, HCLTech was the only other large IT services company apart from TCS that called out workforce reduction last quarter, and that too before the latter. During the company’s post-earnings press conference in July, the management attributed workforce reductions to meet the company’s operating margin aspiration of up to 19%.
+The company retained its operating margin guidance for the full year at 17-18%, and its profitability jumped 110 basis points to 17.4% in Q2, which the management attributed to the recovery plan outlined last quarter. The margins include a restructuring cost of 55 basis points. One basis point is a hundredth of a percentage point.
+No data centre plans
+During the post-earnings press conference, the company also dismissed plans of foraying into the data centre business like TCS did.
+“From our perspective, we are very focused on two broad elements in AI. One is, of course, building intellectual property," said Vijayakumar, adding that “companies like Open AI and tech OEMs and hyperscalers, they're really investing and enhancing the intelligence layer. Now we see a tremendous opportunity to build IP to make that intelligence layer relevant and scalable for enterprises. This is where we are investing."
+He added that the second element included the company’s physical and agentic AI solutions.
+His commentary comes after TCS announced its intent to build AI data centres in the country, in a bid to make it the world’s largest AI-led technology services company. The company plans to invest upwards of $6 billion over the next five-seven years to construct and run a data centre with 1GW (gigawatt) capacity. Its management attributed this move to creating additional revenue streams from Gen AI.
+HCLTech’s shares ended flat at ₹1,494.7 at the end of market hours on Monday. In contrast, the 30-share BSE Sensex index closed 0.2% lower at 82,327.05 points. The company’s earnings were announced after market hours.
+
+Title   : HCLTech reports steady Q2 performance amid auto sector slowdown; AI, new bookings drive growth
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T14:58:49
+Fetched : 2025-10-14T08:56:07.519437
+URL     : https://www.thehindubusinessline.com/info-tech/hcltech-reports-steady-q2-performance-amid-auto-sector-slowdown-ai-new-bookings-drive-growth/article70159482.ece
+--------------------------------------------------------------------------------
+Noida-based HCL Technologies (HCLTech) reported a steady second-quarter performance, supported by strong demand for its AI-powered solutions, robust new bookings, and continued revenue growth, even as the manufacturing segment faced some pressure from a slowdown in the auto sector.
+For the quarter ended September 30, HCLTech posted a flat consolidated net profit of ₹4,235 crore, unchanged from the same period last year. Consolidated revenue grew 10.6 per cent year on year to ₹31,942 crore, up from ₹28,862 crore in Q2 FY25.
+The company expects a healthy pipeline in the coming quarter and has set revenue guidance of 3-5 per cent y-o-y growth in constant currency (CC) for FY26, with services revenue projected to rise 4-5 per cent in CC terms. It also anticipates an EBIT margin in the 17-18 per cent range for the full year.
+“We continue to perform well despite the uncertain business environment and are investing in new technologies and capabilities to unlock growth opportunities. Upskilling our global talent remains a key priority and an enabler of innovation for our clients,” said Roshni Nadar Malhotra, Chairperson, HCLTech.
+C Vijayakumar, CEO and MD, highlighted that HCLTech’s new bookings exceeded $2.5 billion in the quarter without reliance on any mega deals. The company added 3,489 employees during the quarter, while increasing revenue per employee by 1.8 per cent, reflecting alignment with its AI growth strategy.
+Growing AI demand
+“A standout quarter on every front — marked by strong execution, growing demand for our AI-powered solutions, and Advanced AI revenue exceeding $100 million this quarter. Our revenue grew 2.4 per cent sequentially in CC, with operating margin recovering to 17.5 per cent,” Vijayakumar said.
+During Q2, the company on-boarded 5,196 freshers compared to 2,932 in the same quarter last year, taking total headcount to 2,26,640 (2,18,621). HCLTech is also undertaking a reskilling programme, which may result in some job reductions, primarily spread across multiple countries.
+“There will be some reductions when you are trying to restructure. These are managed through reskilling and redeployment exercises,” said Ram Sundararajan, Chief People Officer.
+Local hire
+The company will implement salary increments effective October and has merged quarterly variable pay into fixed pay for all employees. Regarding the recent H1B visa fee revision in the US, Vijayakumar said HCLTech is reducing reliance on visas by strengthening its global delivery model and increasing local hiring and training.
+HCLTech’s Board declared an interim dividend of ₹12 per equity share of ₹2 each for FY26.
+Published on October 13, 2025
+
+Title   : Anant Raj Ltd raises Rs 1,100 crore via QIP 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T08:36:47
+Fetched : 2025-10-14T08:56:07.519536
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/anant-raj-ltd-raises-rs-1100-crore-via-qip/articleshow/124547930.cms
+--------------------------------------------------------------------------------
+The company set the floor price at Rs 695.83 per share and issued shares at Rs 662.00 per share, reflecting a 4.86% discount.
+The top institutional investors participating in the QIP include Société Générale – ODI, BNP Paribas Financial Markets – ODI, Morgan Stanley Asia (Singapore) Pte., Jupiter India Fund, and Kotak Mahindra Life Insurance Company Ltd.
+The issue opened on October 7 and closed on October 13, 2025.
+The fundraising comes as the company looks to expand its data center and cloud infrastructure business, a segment it has been actively scaling since 2019–20 through its subsidiary, Anant Raj Cloud.
+The company earlier in Q1FY26 shared that it aims to generate USD 1 billion in revenue from this vertical by FY32. It currently operates 28 MW of IT load across its campuses in Manesar and Panchkula and aims to expand total capacity to 307 MW by FY32 across Manesar, Panchkula, and Rai, backed by a $2.1 billion capex plan.
+In June 2024, Anant Raj partnered with Orange Business, the French IT and telecom services provider, to deliver managed cloud services in India.
+Established in 1969, Anant Raj has delivered 9.96 million sq. ft. of residential and commercial projects and holds nearly 320 acres of debt-free land in Delhi-NCR. For the first quarter of FY26, the company reported a 38.3% year-on-year increase in consolidated quarterly net profit to Rs 125.90 crore.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

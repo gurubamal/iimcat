@@ -1,0 +1,56 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : Short-form learning platform Seekho secures $28 million funding in Series B led by Bessemer Venture Partners 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-03T00:30:00
+Fetched : 2025-09-03T11:06:17.045899
+URL     : https://www.thehindubusinessline.com/companies/short-form-learning-platform-seekho-secures-28-million-funding-in-series-b-led-by-bessemer-venture-partners/article70003702.ece
+--------------------------------------------------------------------------------
+Updated - September 03, 2025 at 06:00 AM.
+Short-form learning platform Seekho has raised $28 million in Series B funding led by Bessemer Venture Partners, with participation from Goodwater Capital and existing investors Lightspeed Venture Partners and Elevation Capital.
+The funds will be used to build new experiences through new content formats and to leverage AI-first solutions.
+Founded in 2020 by Rohit Choudhary, Keertay Agarwal and Yash Banwani, Seekho provides bite-sized, curated, vernacular learning content for Bharat. This content, delivered in 3-5 minute videos, focuses on practical knowledge for career and self-growth for example guidance on availing digital services, growing an Instagram/YouTube presence, improving business operations, language learning, and many more.
+Rohit Choudhary, Founder, said: “At Seekho, our mission is to make learning fun and easy for everyone regardless of language, location or background. We believe learning should be relevant, bite-sized, and accessible in the palm of your hand. With Bessemer joining us on this journey, we’re excited to build a category-defining product that puts ‘Edutainment on Tap’ for the next 500 million Indians. This funding will accelerate our vision of making learning as seamless as scrolling a feed - but with impact that lasts a lifetime.”
+Seekho currently has 25 million monthly active users, demonstrating a 60 per cent quarter-over-quarter growth, said the company in a statement. The platform targets tier-II cities and beyond, delivering content through short, episodic videos lasting two to five minutes.
+Anant Vidur Puri, Partner at Bessemer Venture Partners, said: “The trifecta of 800 million+ smartphone users in India, each of them spending 7-8 hours a day, and frictionless online payments means that almost all aspects of life have moved to digital platforms - from buying groceries to financial transactions and now, with Seekho, education as well.”
+Published on September 3, 2025
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Sign into Unlock benefits!
+- Access 10 free stories per month
+- Access to comment on every story
+- Sign up/Manage to our newsletters
+- Get notified by email for early preview to new features, discounts & offers
+Looks like you are already logged in from more than 5 devices!
+To continue logging in, remove at least one device from the below list
+
+Title   : Apple’s Lead AI Researcher for Robotics Heads to Meta as Part of Latest Exits
+Source  : www.livemint.com
+Published: 2025-09-02T19:24:31
+Fetched : 2025-09-03T11:06:17.045899
+URL     : https://www.livemint.com/companies/news/apples-lead-ai-researcher-for-robotics-heads-to-meta-as-part-of-latest-exits-11756841072168.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Apple Inc.’s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.’s competing effort, part of an exodus of AI talent from the iPhone maker.
+The employee, Jian Zhang, joined the Meta Robotics Studio, the social media company confirmed on Tuesday. Separately, three more AI researchers are leaving Apple’s in-house large language models team, adding to upheaval in that group, according to people with knowledge of the matter.
+The latest string of departures — all taking place over the last week — includes John Peebles, Nan Du and Zhao Meng, said the people, who asked not to be identified because the moves haven’t been announced.
+They were all part of an Apple Foundation Models team that has lost roughly 10 members, including its chief, in recent weeks. The group was central to the creation of the Apple Intelligence platform, launched last year as part of the company’s bid to catch up in AI.
+Apple is now discussing internally whether to rely more on outside technology, rather than just homegrown models, Bloomberg News has reported.
+Peebles and Du are heading to OpenAI, while Zhao is joining Anthropic PBC. Many of their colleagues previously defected to Meta, which has enticed workers with staggering pay increases. Ruoming Pang, who ran Apple’s models team, left for a multiyear, $200 million package.
+It hasn’t been entirely smooth sailing for Meta, though. Several of the recently hired AI researchers have already quit, according to Wired.
+Spokespeople for Apple and OpenAI declined to comment on the personnel changes. Anthropic didn’t immediately respond to a request for comment.
+Zhang, the robotics researcher, led a small team of academics focused on automation technology and the role of AI in such products. That team has already suffered some turnover, with one of Zhang’s reports, Mario Srouji, leaving to run AI products at Archer Aviation Inc. in April.
+The robotics research group is located within Apple’s artificial intelligence and machine learning division. It’s separate from the company’s robotics product development organization, which was moved to Apple’s hardware engineering department earlier this year.
+Robotics has become a critical piece of Apple’s future pipeline, with the company planning a slew of devices. That includes a tabletop machine with a moving screen, as well as a robotic arm for use in retail stores and manufacturing, Bloomberg has reported.
+Meta, meanwhile, is moving ahead with its own products. In addition to offering smart glasses and AI features, the company is investing heavily in an operating system and underlying hardware components for humanoid robots, Bloomberg reported in February.
+Zhang will be developing products at the Robotics Studio, which is part of Meta’s Reality Labs division.
+Apple’s AI staff departures are expected to continue, with several more employees actively interviewing for jobs at other companies, according to the people. The poor response to Apple Intelligence and the company’s potential shift toward using third-party models have contributed to worsening morale, they said.
+--With assistance from Shirin Ghaffary.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsApple’s Lead AI Researcher for Robotics Heads to Meta as Part of Latest Exits
+

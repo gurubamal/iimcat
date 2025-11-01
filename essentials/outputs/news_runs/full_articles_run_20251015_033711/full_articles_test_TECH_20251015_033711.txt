@@ -1,0 +1,215 @@
+Full Article Fetch Test - TECH
+================================================================================
+
+Title   : Tech Mahindra posts modest revenue growth, but margins hit new high
+Source  : www.livemint.com
+Published: 2025-10-14T16:26:10
+Fetched : 2025-10-15T05:02:12.812982
+URL     : https://www.livemint.com/companies/tech-mahindra-q2-results-revenue-fy25-information-technology-sector-growth-software-services-11760451630902.html
+--------------------------------------------------------------------------------
+Tech Mahindra Ltd kicked off the second half of the fiscal year with modest sequential growth and outlined a cautious future, even as it neared the half-way mark of its three-year revival plan during which its operating margins doubled.
+The Pune-based IT services company reported $1.59 billion in revenue for the July-September period, up 1.4% sequentially but down 0.2% on a yearly basis. Most of the growth came from manufacturers, which made up three-fifths of the company’s incremental revenue of $22 million. Its net profit rose 1.5% to $135 million.
+The company’s management said the macroeconomic environment was stabilizing, but concerns existed.
+“From a macro perspective, we see the macro as stabilizing and maybe improving in parts. But it is still fragile. There is unlikely to be any sort of V-shaped recovery in spend, but we do see a stabilization and, hopefully, growth in the second half of the year,” said Mohit Joshi, chief executive of Tech Mahindra, during the company’s post-earnings press conference on Tuesday.
+Tech Mahindra shares closed 1.2% higher at ₹1,468.15 apiece on the BSE on Tuesday.
+The company’s mixed signals were in contrast to two of its peers.
+A day before, India's third-largest software services firm HCL Technologies Ltd’s management said that the macro environment was more or less unchanged. This was in contrast to larger peer Tata Consultancy Services Ltd, which said that there is “lingering uncertainty” in the broader economic environment.
+TCS and HCL respectively ended the second quarter with $7.47 billion and $3.64 billion in revenue, up 0.6% and 2.8% sequentially.
+Both the larger companies also made big-bang AI announcements. While Mumbai-based TCS announced plans to invest upwards of $6 billion over a six-year period in building and running a 1 GW data centre, Noida-based HCLTech became the first company among Indian IT’s Big Five to announce revenue from the new technology. It got $100 million in AI-led revenue last quarter.
+Tech Mahindra, on the other hand, has been placing its bets on large language models.
+“We are partnering to develop an indigenous, sovereign, large language model with 1 trillion parameters, the significant technical milestone that places it among the largest AI models under development globally,” said Joshi.
+However, he did not reveal the investment details, and queries on project timelines went unanswered.
+Instead, the management said the company was investing in talent rather than in data centres.
+“The investment, from our perspective, is largely, sort of in terms of talent, rather than, you know, rather than a significant amount of data center investments, right? So, it is largely in terms of partnership and talent, that's where our investment is coming in as of now,” said Joshi, in response to Mint’s question during the press conference
+The company ended the September quarter with 12.1% in operating margins, up 100 basis points from the previous quarter. Its management attributed this to “improved productivity, initiatives around fixed price projects, some volume growth, savings from selling, general and administrative expenses, amongst others. One basis point is one-hundredth of a percentage point.
+This jump in profitability comes as a shot in the arm for its management, which seeks to increase its operating margin to 15% by March 2027, and grow its revenue faster than peers as part of a three-year roadmap called Project Fortius, which was announced last year.
+While the revenue growth has not crossed 3% in the last year, the margins have doubled from 6.1% in April last year, when it announced its margin expansion plan.
+At least one analyst expressed confidence in the company’s plans.
+“New deal TCV (total contract value) at $816 million was also at its highest-ever level since Q4FY22. Healthy growth coupled with continued margin expansion reinforces confidence in the company to deliver on its three-year turnaround plan outlined at the end of FY24,” said Manik Taneja, executive director for IT services at Axis Capital.
+Tech Mahindra, which does not give quarterly or yearly outlook, said that tech spends for IT projects would follow.
+“As far as the Indian IT industry is concerned, I do feel that the industry has a very sustainable business model, has shown resilience across economic cycles. But equally, it has had portions of hyper growth, like we saw during Covid, and periods of very slow growth, like in this period. But even in this timeframe, I feel the industry, especially Tech Mahindra, has shown its resilience,” said Joshi.
+He added that “as the overall economic activity across the globe picks up, we do feel that tech spend will follow.”
+For now, its results exceeded analyst expectations. According to a Bloomberg poll of 30 analysts, Tech Mahindra was expected to report $1.55 billion in revenue in the second quarter.
+Another bright point was its profitability, which has been increasing for eight consecutive quarters.
+The company added 4,197 people last quarter to end with 152,714 employees. HCL added more than 3,000 employees, while TCS cut its employee count by more than 19,000 people.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesTech Mahindra posts modest revenue growth, but margins hit new high
+
+Title   : Q2 Results Live Today: Axis Bank, IRFC, HDFC AMC, HBD Financial, Tata Comm, KEI Ind, Angel One, L&T finance, HDFC Life to announce Q2 results, Tech Mahindra, BoM, IREDA shares in focus
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T03:57:06
+Fetched : 2025-10-15T05:02:12.813085
+URL     : https://www.thehindubusinessline.com/markets/q2-results-live-updates-axis-bank-irfc-hdfc-asset-management-hbd-financial-service-tata-communication-kei-industries-angel-one-lt-finance-hdfclife-15-october-2025/article70162489.ece
+--------------------------------------------------------------------------------
+Q2 Results October 15, 2025 live updates: Find all the latest Q2 results 2025 updates of Axis Bank, Indian Railway Finance Corporation, HDFC Life Insurance Company, HDFC Asset Management Company, L&T Finance, HDB Financial Services, Oberoi Realty, Tata Communications, KEI Industries, Mangalore Refinery and Petrochemicals, Angel One, Nuvoco Vistas Corporation, Network 18 Media & Investments, Tips Music, Heritage Foods, Rossari Biotech, Kewal Kiran Clothing, Hathway Cable and Datacom, Summit Securities, Delta Corp, Ador Welding, Huhtamaki India, Quick Heal Technologies, Reliance Industrial Infrastructure, Amal, KSolves India, Urja Global, Mangalam Global Enterprise, Muthoot Capital Services, Aelea Commodities, GTV Engineering, Emerald Finance, National Fittings, Umiya Buildcon, Tokyo Plast International, Yash Chemex, Advik Capital, Gowra Leasing & Finance, Morarka Finance, Continental Securities, GSB Finance, Sumeru Industries, Genomic Valley Biotech.
+- October 15, 2025 10:14
+Cyient DLM Q2 results live: Shares in focus
+Cyient DLM stock fell 4% on the NSE to Rs 449.05.
+The company’s net profit more than doubled in the September 2025 quarter, while the revenue from operations fell by 20%.
+- October 15, 2025 09:45
+Persistent Systems results live: Shares in focus
+Persistent Systems traded 7% higher on the NSE at Rs 5,700.
+The company reported consolidated net profit for the quarter ended September 2025 at Rs 4,71.5 crore as against Rs 324.9 crore in the corresponding quarter last year.
+- October 15, 2025 09:39
+Bank of Maharashtra Q2 results live: Shares in focus
+Shares of Bank of Maharashtra surged nearly 4% on the BSE to Rs 57.24, after opening at Rs 55.90 against the previous close of Rs 55.18.
+Its Q2 net profit increased by 23% to Rs 1,633 crore.
+- October 15, 2025 09:33
+Tech Mahindra Q2 results, share price live: Shares in focus
+Shares of Tech Mahindra declined by 1% on the NSE to Rs 1,448.30 after opening at Rs 1,470 against the previous close of Rs 1,468.
+The company reported 4.4% declined Q2 profit, while revenue increased by 5%.
+Published on October 15, 2025
+
+Title   : Tech Mahindra Q2 net profit down, revenue grows 5%
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T13:31:03
+Fetched : 2025-10-15T05:02:12.813332
+URL     : https://www.thehindubusinessline.com/info-tech/tech-mahindra-q2-net-profit-down-revenue-grows-5-per-cent/article70162951.ece
+--------------------------------------------------------------------------------
+Tech Mahindra reported 4.4 per cent on-year fall in Q2 net profit owing to a one-time exceptional gain for sale of land last year, while revenue increased 5 per cent.
+Its EBITDA for the quarter rose 23.8 per cent on year.
+The software company reported net profit of $1,194.5 crore on revenue of $13,994 crore.
+Sequentially its net profit rose 4.7 per cent sequentially with revenue increasing 4.8 per cent boosted by positive performance in the IT and BPS sectors. EBITDA rose 12 per cent on a quarterly basis to ₹ 2,168 crore.
+Speaking on the quarterly results, Mohit Joshi, CEO and Managing Director, Tech Mahindra, said, “We delivered broad-based growth this quarter, reflecting the strength of our strategy and execution.”
+Rohit Anand, Chief Financial Officer, Tech Mahindra, said, “This quarter marks the eighth consecutive period of margin expansion, driven by operational efficiency and disciplined execution. Our deal TCV is up 57 per cent year on year on LTM (last twelve months) basis, supported by strong deal conversions. The board has approved a dividend of ₹15 per share reflecting our continued focus on shareholder value.”
+In US dollar, net profit increased 28 per cent annually and revenue was down 0.2 per cent. EBITDA margins went up 254 basis points to 12.1 per cent.
+Discretionary spends
+Anand said clients are looking at consolidation and cost take out projects. From a sector perspective, the company saw good growth in aerospace, consumer products and retail. In the telco sector discretionary spend has not returned in a big way.
+“Most of the spend that we are seeing is either consolidation or in areas like autonomous operations that are supposed to lead to significant efficiency benefits in the future. Maybe the discretionary spend we are seeing is on the data side across industries where clients are looking to build out data stacks to get a lot more of the benefit of this AI transformation opportunity,” he said. Meanwhile, Joshi said he expects discretionary spend to come back over time.
+Talking about must-have clients, the company secured 21 accounts in the first two quarters of this fiscal year. Of these, 17 have already generated over $1 million in revenue each.
+Communications hit by industry stress
+Communications and Technology, Media and Entertainment sectors declined in terms of performance, both sequentially and annually. However, in terms of communications, the company said yet the segment remains largely stable.
+“Our largest client has stabilized its spend and delivered growth above the company average this quarter,” said Joshi, adding how the company is partnering with a key European telco client is set to launch their large telco model to bolster their service experience centre and building a data-driven ecosystem. He attributed the decline in the sector to the steep drops for all over the past two years, driven by stress faced by the telecom industry such as heavy debt load and rolling ARPU rates.
+Reductions in hitech sector
+In terms of hi-tech, the company expects the semiconductor space to grow for the rest of the year. In the first half of the year, Tech Mahindra was impacted by a client decision to dramatically ramp down a huge portion of their business. While citing ‘interesting new wins” in the current quarter, Tech Mahindra also stated some spending cuts and headcount reductions among some software players. Company estimated that clients are doing this for cost control reasons rather than a significant reduction in businesses.
+Regarding the India AI Mission, Tech Mahindra will partner to develop an indigenous, sovereign, large language model with one trillion parameters and hyper-large LLMs and offer talent rather than data center investments.
+Other verticals
+BFSI grew 3.8 per cent sequentially and increased 6.2 per cent annually, acquiring a partnership with JP Morgan Payments Systems. Manufacturing grew 5.3 per cent sequentially and 5.2 per cent on a yearly basis. Largest client has stablised spend, said Joshi, attributing the performance to the demand for smart manufacturing, predictive maintenance and digital twins.
+“Automotive has been broadly stable this quarter. However, we remain cautious particularly in the commercial segment which continues to face headwinds while the passenger vehicle segment shows some early signs of stabilization,” said Joshi. In terms of the logistics sector, Tech Mahindra reported strong tailwinds driven by e-commerce expansion, automation and warehousing, last-mile delivery optimization.
+Q2 headcount
+The company reported an IT headcount of 78,528 employees, down 2,090 year on year. The IT LTM attrition is at 12.8 per cent versus 12.6 per cent last quarter. The company officials described this as a a marginal reduction in the workforce.
+H1B visa
+Regarding the visa developments, Joshi said roughly only one percent of the roughly 150,000 people in the company are on H1B visa. The huge majority of the US workforce is either citizens or people on green cards.
+“Our dependence on H1s is limited. Obviously, any change to this program will have an impact on us. We’re thinking is how do we make sure that we continue the work that we’ve done to build a stronger employer brand name in the US? How do we make sure that we’re able to firewall and retain our top employees in the US and other markets as we start seeing attrition, poaching? We do have a network of delivery capabilities across the world, including in the Americas, in Brazil, in Mexico, in Canada. How do we make sure we’re able to leverage,” said Joshi.
+Geographically, Americas declined 2.7 per cent annually while Europe increased 5.5 per cent during the same time. Rest of the world declined 0.5 per cent. When asked, Joshi said the company estimated stabilization and growth in the second half of the year from a macro perspective.
+Published on October 14, 2025
+
+Title   : Tech Mahindra shares shed 2% as Q2 PAT falls 4% YoY. Should you buy, sell or hold? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T02:49:30
+Fetched : 2025-10-15T05:02:12.813402
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tech-mahindra-shares-in-focus-as-q2-pat-falls-4-yoy-should-you-buy-sell-or-hold/articleshow/124566210.cms
+--------------------------------------------------------------------------------
+Despite the dip in profit, the revenue from operations rose by 5.1% to Rs 13,995 crore, up from Rs 13,313 crore in the year-ago period. The company’s Earnings Before Interest and Taxes (EBIT) also showed strong growth at Rs 1,699 crore, marking a 15% increase sequentially and a 32.7% jump YoY.
+On a sequential (QoQ) basis, PAT rose 4.7% from Rs 1,141 crore in Q1FY26, while the topline grew 4.8% QoQ, up from Rs 13,351 crore in the April-June quarter.
+After the company’s Q2 results, here’s what brokerage firms have said:
+Goldman Sachs: Sell| Target price: Rs 1,410
+Goldman Sachs maintains a ‘Sell’ rating on Tech Mahindra, revising its target price to Rs 1,410 from Rs 1,380. The firm noted that Tech Mahindra’s results beat expectations across the board, including revenue growth, margins, and deal wins.While management expects FY27 to be better than FY26, they do not anticipate a significant improvement, citing limited recovery in industry growth as a key constraint. Furthermore, downside risks have increased, as the broader IT industry’s FY27 revenue growth estimate of 5.5% YoY is now at higher risk of being revised downwards.
+Despite all major peers delivering in-line or better-than-expected growth, investor concerns linger due to weak demand visibility and disruption driven by AI. Goldman Sachs also emphasized that the bearish narrative around the sector has strengthened, as demand recovery timelines remain unclear.
+Finally, margins and growth guidance remain under pressure, primarily due to sluggish industry conditions, indicating a challenging environment for sustained outperformance.
+Morgan Stanley: Underweight | Target price: Rs 1,555
+Morgan Stanley maintains an 'Underweight' rating on Tech Mahindra, with a revised target price of Rs 1,555. The brokerage noted that Q2 results were in line with peers, but Tech Mahindra’s EBIT margin performance stood out and is expected to be well-received by investors.Deal wins remained robust at over USD 800 million, with management projecting stronger growth in H2FY26 compared to the first half, excluding seasonality effects. Client mining remains healthy, as 17 out of 45–50 new clients have already surpassed the USD 1 million revenue run rate.
+Morgan Stanley highlighted that margin expansion is likely to stem from gross margin improvements and SG&A leverage. However, the overall recovery is still modest, with delays in decision-making and only a gradual rebound expected in the communications segment.
+The 15% EBIT margin target by FY27 is seen as ambitious, especially in the face of macroeconomic volatility and US visa regulatory headwinds. While FY26 margin estimates have been raised post-results, FY27–28 EPS projections have been cut by up to 2.8%.
+Finally, Morgan Stanley noted that Tech Mahindra trades at a 1.6% discount to HCLTech, but due to limited upside to the target price, the Underweight stance is maintained.
+Nuvama: Reduce| Target price: Rs 1,350
+Nuvama has maintained a ‘Reduce’ rating on Tech Mahindra, revising its target price to Rs 1,350 from Rs 1,300. The company reported revenue of USD 1,586 million for the quarter, representing 1.6% QoQ growth in constant currency (CC) terms, which exceeded Nuvama's estimate of 0.9% CC growth.The EBIT margin improved 110 basis points sequentially to 12.1%, beating expectations of 11.8%. However, PAT came in at Rs 1,190 crore, which was slightly below Nuvama’s estimate. Despite this, the Total Contract Value (TCV) remained strong at USD 816 million, marking a 35% year-on-year increase.
+Nuvama acknowledged that Tech Mahindra is progressing steadily towards its FY27 goals, but also cautioned that future margin expansion could become increasingly difficult. The firm cited challenges such as a low-growth environment, weak macroeconomic conditions, and limited levers for improvement.
+Lastly, Nuvama tweaked its FY26E and FY27E EPS forecasts marginally by +0.1% and +1.1%, respectively. It also revised the rolling forward valuation to 18x, compared to the earlier 19x, based on the average of FY27E–28E P/E.
+Also read: Axis Bank Q2 preview: Profit seen falling 19% YoY as margin and cost pressures persist
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : HCL Tech Share Price Live Updates: HCL Tech's Stock Price Movement 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T02:42:54
+Fetched : 2025-10-15T05:02:12.813407
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-today-live-updates-15-oct-2025/liveblog/124566067.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›HCL Tech Share Price Live Updates: HCL Tech's Stock Price Movement
+LIVE BLOG
+HCL Tech share price live updates
+Join us on the HCL Tech Stock Liveblog, your hub for real-time updates and comprehensive analysis on a prominent stock. Stay in the know with the latest information about HCL Tech, including: Last traded price 1496.4, Market capitalization: 404960.24, Volume: 556637, Price-to-earnings ratio 23.85, Earnings per share 62.56. Our liveblog provides a well-rounded view of HCL Tech by incorporating both fundamental and technical indicators. Be the first to receive breaking news that can impact HCL Tech's performance in the market. Our expert analysis and recommendations empower you to make informed investment choices. Stay informed and stay ahead with the HCL Tech Stock Liveblog. The data points are updated as on 10:23:06 AM IST, 15 Oct 2025
+Show more1 New Update
+HCL Tech's current price is Rs 1494.0, showing a change of -0.1% today. The EMA7 is recorded at Rs 1462.52.
+Discover the latest market updates and real-time stock information on HCL Tech Stock
+HCL Tech's stock price stands at Rs 1493.0, reflecting a decrease of 0.17% today. The five-year returns are noteworthy at 74.64%.
+Yesterday, HCL Tech's shares finished at Rs 1494.70.
+HCL Tech's stock has risen by 4.33% in the past week, reflecting a positive trend in its market activity.
+In the past three months, HCL Tech has recorded a return decrease of 7.68%.
+HCL Tech has recorded a return of 1.92% over the past month, indicating steady performance in the financial markets.
+HCL Tech closed at Rs 1,494.70 on the previous day, with a 0.05% increase and a trading volume of 1,820,492 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Title   : Tech Mahindra Share Price Live Updates: Tech Mahindra's Price Movement Today 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T02:42:32
+Fetched : 2025-10-15T05:02:12.813554
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-live-15-oct-2025/liveblog/124566058.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Tech Mahindra Share Price Live Updates: Tech Mahindra's Price Movement Today
+LIVE BLOG
+Tech Mahindra share price live updates
+Welcome to the Tech Mahindra Stock Liveblog, your go-to platform for real-time updates and analysis on a top-performing stock. Stay ahead of the market with our in-depth coverage of Tech Mahindra, including: Last traded price 1457.0, Market capitalization: 142034.1, Volume: 1266365, Price-to-earnings ratio 31.68, Earnings per share 45.8. Get a complete picture of Tech Mahindra's performance through our comprehensive blend of fundamental and technical indicators. Stay informed about breaking news that can influence the stock's trajectory. Our liveblog equips you with the knowledge and insights needed to make confident investment decisions. Don't miss out on the latest updates as Tech Mahindra continues to make waves in the market. The data points are updated as on 10:30:29 AM IST, 15 Oct 2025
+Show more1 New Update
+Tech Mahindra has received a new recommendation from brokerage Choice Equity Broking Private , indicating a potential upside of 19.12%. The target price is set at Rs 1730.0, while the price at the time of the recommendation was Rs 1468.0. The current price is Rs 1452.3.
+Tech Mahindra is currently priced at Rs 1449.70, with a decrease of 1.25% today. The 7-day exponential moving average is Rs 1448.44.
+Discover the latest market updates and real-time stock information on Tech Mahindra Stock
+Tech Mahindra's stock is trading at Rs 1450.70, reflecting a decrease of 1.18% today. Over the past five years, the company has delivered returns of 78.87%.
+Tech Mahindra has recently surpassed its 20-day Simple Moving Average, currently priced at Rs 1479.0, with a daily change of 0.75%. The 20-day SMA stands at 1470.44.
+Tech Mahindra has surpassed its 20-day Exponential Moving Average, currently standing at a price of Rs 1445.1, reflecting a daily change of -1.56%, with the 20-day EMA positioned at 1461.07.
+Tech Mahindra is currently experiencing a negative price breakout, trading beneath its second support level (S2). The price stands at Rs 1445.10, with S2 at 1490.47.
+The average trading volume for Tech Mahindra over the past week has been 60,000 shares.
+Tech Mahindra has achieved a return of 2.02% over the past week, reflecting positive momentum in its stock performance.
+Tech Mahindra's Q2FY26 results are out
+The last three months have not been favorable for Tech Mahindra, with a return of -6.89%.
+The last month has seen Tech Mahindra's returns drop by 3.77%.
+On the previous trading day, Tech Mahindra's stock closed at Rs 1450.9, marking a 1.18% increase, with a total trading volume of 1,229,414 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Title   : UltraTech Cem Share Price Live Updates: UltraTech Cement  Price Summary 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T02:42:09
+Fetched : 2025-10-15T05:02:12.813602
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ultratech-cem-stock-price-today-live-15-oct-2025/liveblog/124566043.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›UltraTech Cem Share Price Live Updates: UltraTech Cement's Current Price Update
+LIVE BLOG
+UltraTech Cem share price live updates
+Stay updated with the UltraTech Cem Stock Liveblog, your one-stop destination for real-time information and analysis of a leading stock. Explore the latest updates on UltraTech Cem stock, including: Last traded price 12194.0, Market capitalization: 358712.95, Volume: 17605, Price-to-earnings ratio 51.29, Earnings per share 237.35. Our liveblog combines fundamental and technical insights to offer a comprehensive overview of UltraTech Cem's performance. Gain valuable market knowledge and make informed decisions with our expert analysis. Be the first to know about breaking news that can impact UltraTech Cem's trajectory. Join us on this journey as we explore the exciting potential of UltraTech Cem. The data points are updated as on 10:20:23 AM IST, 15 Oct 2025
+Show more1 New Update
+UltraTech Cement is currently priced at Rs 12198.00, reflecting a 1.07% increase today, with a 7-day exponential moving average of Rs 12143.92.
+Discover the latest market updates and real-time stock information on UltraTech Cem. Stock
+UltraTech Cement is trading at Rs 12177.00, showing a percentage increase of 0.89% today. The stock has delivered remarkable 5-year returns of 176.85%.
+UltraTech Cement has exceeded its 100-day Exponential Moving Average, currently trading at Rs 12,164.0. The stock reflects a percentage change of +0.78% today, with the 100-day EMA recorded at Rs 12,163.34.
+UltraTech Cement has recently moved above its 100-day Simple Moving Average, with the current price at Rs 12,143.0. Today's percentage change is +0.60%, while the 100-day SMA is noted at Rs 12,142.1.
+On the previous trading day, UltraTech Cement recorded a closing price of Rs 12172.0.
+The stock of UltraTech Cement has declined by 0.94% in returns over the past week, reflecting a challenging period for investors.
+The company has recorded a -3.56% return over the past three months, reflecting a negative trend.
+The stock of UltraTech Cement has recorded a return of -2.43% in the past month, highlighting recent struggles.
+UltraTech Cement's stock closed at Rs 12,172.0 on the previous day, down by 0.84%, with trading activity reaching 87,745 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Title   : IREDA, Tech Mahindra among 8 stocks showing bullish RSI upswing 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T03:29:55
+Fetched : 2025-10-15T05:02:12.813627
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/ireda-tech-mahindra-among-8-stocks-showing-bullish-rsi-upswing/slideshow/124566764.cms
+--------------------------------------------------------------------------------
+Hot on Web MORE Horoscope Today, 15th October 2025 Top Diwali Gift Trends 2025 - Smart, Sustainable & Personalized Ideas Tata Motors share price LG Electronics Share Price Live Updates Social Security COLA increase for 2026 Is the post office closed today ? Columbus Day 2025: Federal Holiday Indigenous People's Day Are banks and post offices open today Tata Capital Share Price Live Jupiter Transit, 18th October India W vs Australia W Live Score TCS Q2 Results FY26 Live Updates Nobel Price 2025 Super Harvest Moon Full Moon AMD stock French PM Sébastien Lecornu Kantara Chapter 1 Box office Collection In Case you missed it MORE NSDL IPO Listing Date TCS Q1 Results FY25 Afcons Infrastructure IREDA Q2 Results Reliance Power Preferential Issue Manba Finance IPO HDB Financial Services IPO Cochin Shipyard Share Price Northern Arc Capital IPO Allotment Arkade Developers IPO Allotment Today Stocks in news today US Fed Meeting Time US Fed Rate Cut Today NSE Bonus Issue Record Date BSE Share Price Bajaj Housing Finance IPO Listing Live Bajaj Housing Finance Share Price MORE Top Searched Companies IRFC share price Suzlon share price IREDA share price TATA Motors share price Yes bank share price HDFC Bank share price NHPC share price RVNL share price SBI share price Tata power share price Tata steel share price Adani power share price Paytm share price PNB share price Zomato share price BEL share price BHEL share price Infosys share price IRCTC share price ITC share price JIO finance share price LIC share price Reliance share price HAL share price JP Power share price NBCC share price TCS share price Vedanta share price Wipro share price IOC share price Ircon share price SAIL share price SJVN share price GAIL share price HUDCO share price REC share price Reliance Power share price Tata Technologies share price Vodafone idea share price Adani Enterprises share price Adani Green share price Adani Port share price Ashok Leyland share price Bank of Baroda share price BSE share price Canara Bank share price CDSL share price Coal India share price HFCL share price IDFC First Bank share price Top Calculators MORE Standard Deviation Calculator Income Tax Calculator Age Calculator SIP Calculator Time Calculator BMI Calculator GPA Calculator Statistics Calculator Fraction Calculator Diabetes Risk Calculator Date Calculator Log Calculator MORE Top Definitions Business Markets Marketing Mix Fiscal Deficit MORE Top Commodities Silver Rate Gold Rate Copper Rate Menthaoil Rate MORE Top Market Pages Fully Drawn Advance Latest News Indian Air Force, Royal Navy conduct joint exercise over Indian Ocean Gold Price in US today: Check spot Gold prices, Gold futures, bullion as yellow metal continues to remain at record breaking levels backed by investment momentum amid US-China tension House of the Dragon Season 3 Release Date and Production Update: Filming completed? Here's new cast members, where to watch and what to expect Robert Downey Jr’s co-star once quit acting, took to intra-day trading in stock market to pay rent. He made more money in it than in films Pahal Financial Services buys Rs 700 crore portfolio from Sub-K Jaisalmer bus tragedy: Authorities issue helpline numbers after 20 passengers killed Hyundai Motor India board approves elevation of Tarun Garg as MD & CEO Biren Singh defends President’s Rule in Manipur Haryana IPS officer's 'suicide' case: Family gives consent for autopsy, say police officials Coinbase to increase stake in CoinDCX, valuing Indian crypto exchange at $2.45 billion Foxconn sees limited impact from China rare earths curbs for now PlayStation network still down? Users report server, social, and login problems I will not contest Bihar assembly polls; will work to strengthen Jan Suraaj party: Prashant Kishor Preity Zinta shares unseen details of Bobby Deol’s love story. She was part of it ETMarkets Smart Talk| Sensex stuck in a time correction, but earnings revival on the horizon: Hiren Ved
+

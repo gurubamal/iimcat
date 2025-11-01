@@ -1,0 +1,19 @@
+Full Article Fetch Test - SWIGGY
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): -11970000000.00
+
+Title   : Broker’s call: Swiggy (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T11:12:12
+Fetched : 2025-10-13T21:20:52.061804
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-swiggy-buy/article70158221.ece
+--------------------------------------------------------------------------------
+Target: ₹550
+CMP: ₹434.80
+We upgraded Swiggy to Buy, reflecting an inflection in growth of the food delivery (FD) business and improved unit economics in the quick commerce (QC) business. In this note, we highlight the evolving narrative around Swiggy.
+The company’s improved execution and rising average order value (AOV) in QC are enhancing its growth visibility. With easing competitive intensity and a pause in dark store expansion, the path to breakeven appears increasingly achievable. Swiggy’s strategy of optimising its existing infrastructure while selectively adding newdark stores to strengthen coverage positions it well for steady growth and contribution margin expansion in the coming quarters.
+Recently launched Snacc and ’99 Store’ offerings aim to tap new consumption occasions, expanding the MTU base and order frequency.
+We believe Swiggy’s pivot from the earlier land-grab phase to a more cost conscious operating model should drive steady margin expansion ahead. The combination of steady FD growth, rising Instamart AOV, and easing fixed-cost drag enhances the visibility of positive unit economics. We value the FD business at 35x FY27E adjusted EBITDA and QC using DCF and arrive at a target price of ₹550, implying a potential upside of 26 per cent.
+Published on October 13, 2025
+

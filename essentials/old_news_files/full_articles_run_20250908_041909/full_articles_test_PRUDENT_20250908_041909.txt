@@ -1,0 +1,40 @@
+Full Article Fetch Test - PRUDENT
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Dividend stock investing: How ICICI Prudential MF's Mittul Kalawadia balances growth with yields 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-08T03:30:00
+Fetched : 2025-09-08T05:32:28.186520
+URL     : https://economictimes.indiatimes.com/markets/expert-view/dividend-stock-investing-how-icici-prudential-mfs-mittul-kalawadia-balances-growth-with-yields/articleshow/123747719.cms
+--------------------------------------------------------------------------------
+Edited excerpts from a chat:
+What is your framework for selecting dividend-yielding companies across large, mid and small caps?
+Our framework is to evaluate the yield of stocks and, more importantly, the sustainability of those yields. We also assess the potential for growth. Based on these parameters, we rank the stocks. By combining yield and sustainability, we arrive at an overall score, and from that, we select the top-ranked stocks.
+With AUM crossing ₹5,700 crores, how do you ensure liquidity and diversification while staying true to the dividend yield theme?
+We don’t find our fund size to be a constraint. The fund framework requires a large portion of the portfolio to be invested in companies offering dividend yields. In India, there are a significant number of such companies across large, mid and small caps. Hence, the investable universe is broad, and we have not faced any liquidity challenges, nor do we foresee any in the near future.
+The fund has delivered strong five-year CAGR. What have been the key drivers of this performance?
+The primary driver has been our strategy of focusing on sustainable yields with a growth element, rather than purely high-yield portfolios. Another important factor has been adjusting exposure dynamically across market caps to capture opportunities. When markets corrected and valuations became attractive, we increased exposure to mid and small caps. Conversely, when markets rallied significantly and valuations turned expensive leading to lower yields in mid and small caps, we reduced their exposure. This dynamic approach has contributed meaningfully to the fund performance.
+How do you balance sector overweights, such as financials and oil & gas, while keeping downside risk limited?
+We believe risk is primarily a function of business cycle, valuations, sentiment and yields. If a sector is at the top of its cycle or yields have turned unattractive, we reduce exposure. Conversely, if a sector has corrected significantly, is near the bottom of its cycle, and yields are attractive, we increase allocation.
+In financials, specifically, we adopt a slightly different approach because of the sector’s leveraged nature. Here, we place greater emphasis on bottom-up analysis, focusing on the cycle and valuations rather than yields alone. As a result, we have generally avoided taking very high overweight positions in financials.
+With an average dividend yield of 1.55%, how do you see the trade-off between dividend payouts and long-term capital appreciation?
+This is core to our strategy. We do not focus on stocks offering the highest dividend yield. Rather, we focus on a moderate-yielding set of stocks where dividends are sustainable and have growth potential. We rank companies on sustainability and yield, and construct the portfolio from those scoring high on both parameters. What we avoid are companies with unsustainable or highly volatile dividends, even if the current yield appears attractive.
+How sustainable are dividend payouts from PSUs given policy risks and cyclical earnings? The PSU theme seems to be fading, and policy changes remain a risk.
+Like financials, we treat PSUs as a separate basket, as they are subject to policy risks. There have been times when PSU yields were very attractive, with business cycles turning favourable. In such cases, we have significantly increased PSU weights. For example, when fundamentals improved and valuations were compelling, PSUs offered strong opportunities.
+However, as PSUs rallied last year, their relative yields declined, and we reduced our exposure. Currently, we only hold PSU stocks where valuations remain attractive and business cycles are supportive. Overall, PSUs must be evaluated regularly, since they often appear attractive purely on yield but need to be considered in the broader context of market cycles and valuations.
+The fund maintains relatively low portfolio turnover. Is this by design for long-term wealth creation, or due to limited opportunities?
+Low portfolio turnover is not by design but varies depending on opportunities available. At times, large changes are made when relative yields shift meaningfully. If a holding’s yield becomes less attractive compared to others, we switch. At other times, when the top set of stocks continues to look attractive, the portfolio remains stable. For instance, last year, turnover was high due to significant changes in PSU allocations. But in subsequent periods, turnover has been low as the portfolio composition remained sound. So turnover is a function of relative attractiveness.
+In what scenarios would you trim exposure to traditional dividend-paying sectors like PSU utilities to rebalance toward growth-oriented sectors?
+We continuously evaluate sectors on the basis of yield and sustainability. Whenever yields become less attractive or sustainability weakens, we reduce exposure. Similarly, if business cycles turn favourable and valuations are compelling, we increase allocation. This is a continuous and ongoing process.
+What role can a dividend yield fund play in an investor’s portfolio?
+A dividend yield fund plays a role very similar to other diversified equity funds. Like flexi-cap or other diversified strategies, this fund can allocate across sectors and market caps.
+The key differentiator of this offering within the dividend yield universe is our investment style. While some diversified funds follow growth or value strategies, this fund is built on a sustainable yield framework. It blends elements of both value and growth, which has enabled the fund to deliver encouraging returns over the long term. Therefore, such an offering can form a core part of an investor’s equity allocation, particularly with a long-term perspective.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

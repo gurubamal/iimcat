@@ -1,0 +1,70 @@
+Full Article Fetch Test - SCI
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 3.54B
+
+Title   : India’s agri-climate moment: Science, will and the farmer at the centre
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T04:45:00
+Fetched : 2025-10-18T16:53:27.671568
+URL     : https://www.thehindubusinessline.com/economy/agri-business/indias-agri-climate-moment-science-will-and-the-farmer-at-the-centre/article70176779.ece
+--------------------------------------------------------------------------------
+India’s Green Revolution was a national triumph. It turned food scarcity into self-sufficiency and a generation’s anxiety into confidence. But it drew deeply on the natural capital of soil and water.
+We achieved food security through intensity, not sustainability — extracting groundwater faster than it could recharge and leaning on fertilisers that fed plants while slowly depleting the life beneath them. As the climate changes, that bargain is no longer tenable.
+The next transformation in Indian agriculture won’t be about producing more. It will be about producing smarter — using science, data and determination to rebuild what abundance once ignored.
+The farmer at the centre
+The Indian farmer has always been the country’s first responder to climate stress. Every season brings adjustment — a different seed, an altered sowing date, an improvised irrigation trick. Policy now needs that same agility.
+For farmers, water and fertiliser aren’t abstractions. They’re the difference between a crop and a loss. If the National Agri-Climate Action Plan is to mean anything, it must begin and end with trust and agency.
+Put the farmer — not the form — at the centre. Equip people with the information, incentives and infrastructure to make better choices pay. When farmers lead the change, resilience stops being a slogan and becomes routine.
+The fault lines beneath security
+India pumps out more groundwater than China and the United States combined. In large parts of Punjab, Haryana and Gujarat, aquifers are sinking faster than they refill. Cheap power and guaranteed procurement have kept the wrong crops thriving in the wrong places.
+The fertiliser story is no better. Decades of over-reliance on urea and nitrogen have eroded soil health. India’s nitrogen-use efficiency hovers below 40 per cent — which means most of what we apply is lost to the air or the water table.
+These aren’t just environmental concerns; they’re economic risks. Soil fatigue, water decline, and ballooning subsidies are weakening the very base of our commodity competitiveness. What once fed the nation is now quietly draining its future.
+Science and systems: a new architecture
+We already know what works — precision nutrient management, balanced fertiliser use and groundwater stewardship. What we lack is scale and systems.
+That’s where AgriStack can make the difference. If designed and driven well, it can knit together soil data, satellite imagery, groundwater readings, and weather patterns into something farmers can use — an agri-climate intelligence layer.
+Picture this: a farmer in Vidarbha getting real-time nutrient advice. A cooperative in Punjab planning irrigation after checking live aquifer levels. A bank or insurer pricing risk with local rainfall data.
+The pieces exist — the Soil Health Card, groundwater monitoring networks, state-level agri databases. What they need now is to talk to each other. AgriStack can be the glue.
+If India gets this right, the digital backbone of agriculture could do what UPI did for payments: make precision simple and accessible and turn fragmentation into flow.
+Integration: The missing link
+Intent isn’t the issue; isolation is. The Agriculture Ministry runs crop programmes. The Ministry of Chemicals & Fertilisers manages nutrient policy. Jal Shakti tracks groundwater. The Environment Ministry measures climate metrics.
+The farmer experiences them all at once — in the same field, under the same sky. Unless these ministries share data and align incentives, no reform will hold.
+The National Agri-Climate Action Plan is a chance to change that. It should make AgriStack the operational platform for convergence — one system that tracks fertiliser balance, water tables, soil carbon and farmer resilience together.
+Integration isn’t red tape. It’s the opposite: the shortest route from data to impact.
+The will to act
+This transition will need courage — political, bureaucratic and social. Rebalancing fertiliser subsidies, rationalising power, and shifting procurement priorities are politically difficult decisions. But every year we delay, the costs compound underground.
+Leadership now means choosing the long view: keeping soil and water alive for the next generation rather than chasing another record crop this one.
+From intensity to intelligence
+The first Green Revolution was about more — more fertiliser, more water, more output. The next must be about better — better data, better balance, better outcomes.
+Imagine every hectare managed with precision. Farmers receiving soil-specific guidance. Aquifers mapped, replenished and monitored in real time. Policies that reward efficiency, not extraction.
+This isn’t a dream; it’s within reach. India already has the science, the technology and the people who can make it work. What remains is coherence — and the will to connect it all.
+We used science once to feed a hungry nation. We must now use science, will and the farmer’s own intelligence — powered by data — to sustain a thriving one.
+(The author is Chief Advisor, India to Environmental Defense Fund)
+Published on October 18, 2025
+
+Title   : Reviving Gujarat’s potato belt: Science, stewardship and shared responsibility
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T03:30:00
+Fetched : 2025-10-18T16:53:27.671743
+URL     : https://www.thehindubusinessline.com/economy/agri-business/reviving-gujarats-potato-belt-science-stewardship-and-shared-responsibility/article70176714.ece
+--------------------------------------------------------------------------------
+For decades, the fertile plains of Mehsana, Palanpur and Himmat Nagar have powered India’s processing-grade potato revolution. These soils enabled the country to become a global player in frozen potato products, creating rural jobs, fuelling industrial growth and boosting exports. But today, the very resource that underpins this success is showing signs of distress.
+What we are witnessing across Gujarat’s potato belt is not an isolated agronomic problem; it is a structural decline in soil health.
+Years of continuous monocropping, excessive irrigation and unbalanced fertiliser use have disrupted the soil’s biological equilibrium. Organic carbon levels have fallen sharply, microbial biodiversity has eroded and pH values in several blocks now exceed 8.0 — well above the optimal range of 6.0 –7.0 for potato cultivation. This rise in alkalinity limits the availability of key nutrients such as phosphorus, zinc and iron, while contributing to soil salinity and compaction.
+Visible consequences
+The consequences are now visible across the value chain — smaller tubers, inconsistent dry matter, poor skin finish, and variable fry colour. Processing units are reporting higher rejections, which means wasted seed, water, fertiliser and labour. For a State that has built an agri-industrial identity around precision potato cultivation, this is a serious warning sign.
+Recognising the urgency of this challenge, HyFarm has launched the “Soil Stewardship Initiative,” a science-led programme to map, analyse and restore soil health across Gujarat’s key potato clusters.
+Over the past few months, more than 500 soil samples from 17 micro-pockets have undergone detailed physical, chemical and biological analysis. The findings confirmed what field practitioners have long suspected: widespread alkalinity, declining organic carbon (below 0.35 per cent) and nutrient antagonism — notably, elevated potassium levels suppressing zinc uptake. These imbalances compromise tuber physiology, yield and storage quality.
+But data alone does not change outcomes; disciplined action does. An Intervention framework is required from diagnosis to design, integrating corrective soil chemistry, regenerative agronomy and precision nutrient management.
+Transformation
+Phosphoric acid and elemental sulphur applications are being used to regulate pH and improve phosphorus availability. Organic matter — in the form of farmyard manure, bio-compost and leguminous green manures — is being reintroduced to rebuild microbial activity and soil structure.
+Farmers are also being guided to replace Muriate of Potash (MOP) with Sulphate of Potash (SOP) to reduce chloride accumulation, a critical factor influencing tuber skin quality, specific gravity and fry colour. Split applications of calcium nitrate during the bulking phase (25–45 days after planting) are helping fortify cell walls, reduce stress and improve tuber uniformity.
+These plot-specific, science-led interventions are gradually transforming agronomy in the region — from a prescriptive approach to a data-driven, adaptive system. The philosophy is simple but powerful: “know your soil before you grow your crop.”
+A living system
+Soil testing, therefore, must evolve from being a compliance formality to a predictive management tool — the agricultural equivalent of a diagnostic scan. Measuring parameters like pH, electrical conductivity, organic carbon and micronutrient balance before sowing empowers farmers to optimise input use, rationalise fertiliser application and enhance yields sustainably.
+At its core, soil is not an inert medium; it is a living system — the primary capital asset of agriculture. It governs productivity, resilience and climate response. Revitalising this asset is both an ecological and economic imperative.
+As India transitions from input-intensive to knowledge-intensive agriculture, stewardship must replace extraction, and regeneration must become the true measure of success.
+Such initiatives embody this shift. By restoring soil vitality, we are not merely improving crop metrics — we are reinforcing the resilience of India’s food systems. The health of our soils will ultimately determine the health of our harvests, our industries and our future.
+(The author is Chief Executive Officer, HyFarm)
+Published on October 18, 2025
+

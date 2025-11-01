@@ -1,0 +1,25 @@
+Full Article Fetch Test - ONGC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 98.04B
+
+Title   : How ONGC plans to achieve  ₹9,300 cr worth of cost savings by FY27
+Source  : www.livemint.com
+Published: 2025-10-13T20:11:04
+Fetched : 2025-10-14T12:55:11.196899
+URL     : https://www.livemint.com/companies/news/ongc-savings-of-9-300-cr-cost-optimization-measures-fy27-e-p-operations-bp-oil-crude-prices-mumbai-high-11760370562371.html
+--------------------------------------------------------------------------------
+How ONGC plans to achieve ₹9,300 cr worth of cost savings by FY27
+The cost reduction would account for about 15% of the planned operational and capital expenditure cost of ₹62,000 crore during the period.
+NEW DELHI : State-run Oil and Natural Gas Corp. aims to save a total of ₹9,300 crore by the financial year 2027 through a number of cost-optimization measures planned by the company.
+The cost reduction would account for about 15% of the planned operational and capital expenditure cost of ₹62,000 crore during the period, Pankaj Kumar, director (production) at ONGC, told reporters on Monday.
+The company has set up a dedicated cost council in the wake of subdued oil prices and a projection of crude trading tepid around $60 per barrel in the next two fiscals.
+"ONGC has embarked on a strategic journey to prepare itself for a future with 60$/barrel crude-price environment," said its presentation. Currently, over 20 initiatives are under implementation with a potential of ₹4,300 crore of savings, and the potential of other initiatives in the planning stage is about ₹5,000 crore, it said.
+Offshore resource optimization, increasing drilling, efficiency, logistics route optimization, inventory reduction and increasing fuel efficiency are the government-owned company’s key cost reduction initiatives.
+The company is expanding its logistics infrastructure at the Pipavav port. "Pipavav Supply Base is being scaled up with end goal serving 2/3rd of WO workload, unlocking 1000+ Cr in savings," the presentation said.
+Production boost
+UK-headquartered BP will be the technical service provider to enhance production in the Mumbai High field as a cost-saving measure. It noted that BP aims to increase oil production by 44% and gas production by 89% leading to $15 billion of incremental revenue in 10 years.
+Under the revival plan, ONGC and BP have split the Mumbai High into six hubs for faster, optimized redevelopment. In the first phase, ONGC has already committed $400 million in capital expenditure. According to the presentation, under phase 2 of the Mumbai High field redevelopment, both companies have targeted 100 new wells in FY28 and FY29.
+The company is also exploring technical service providers to boost production in other fields, Kumar said.
+The company’s board has approved a development scheme to produce 12 million metric tonnes of oil and 13.5 billion cubic metres of gas in the next few years.
+

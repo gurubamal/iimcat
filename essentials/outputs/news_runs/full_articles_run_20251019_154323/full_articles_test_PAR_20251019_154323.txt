@@ -1,0 +1,18 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 33.28M
+
+Title   : Parts of Tamil Nadu to receive light to moderate rain: IMD
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T05:20:37
+Fetched : 2025-10-19T16:17:05.683066
+URL     : https://www.thehindubusinessline.com/news/parts-of-tamil-nadu-to-receive-light-to-moderate-rain-imd/article70181818.ece
+--------------------------------------------------------------------------------
+India Meteorological Department (IMD) announced that a low-pressure area is likely to form over the southeast Bay of Bengal and may move west-northwestward and gradually intensify. The system is expected to strengthen further into a deep depression, authorities said.
+Assistant Director of the Department of Fisheries and Fishermen Welfare, Cuddalore District, said that in view of this, all types of mechanised country boats, catamarans, and motorised fishing vessels from Cuddalore district are advised not to venture into the sea until further notice. Fishermen from the Cuddalore district who are currently engaged in fishing in the deep sea are instructed to return to the shore immediately, the official warned.
+All fishermen are kindly requested to strictly follow this advisory and extend their full cooperation to the government, he added. Official handle of the Regional Meteorological Centre Chennai said in a post on X that light to Moderate rain with Thunderstorm and lightning is likely at isolated places over Nilgiris, Coimbatore, Madurai, Erode, Cuddalore, Villupuram, Chengalpattu, Chennai, Thiruvallur, Mayiladuthurai, Nagapattinam, Tiruvarur, Thanjavur, Pudukottai, Ramanathapuram, Puducherry, Karaikal.
+Moderate rain with thunderstorm and lightning is likely at isolated places over Tirunelveli, Virudhunagar, Thoothukkudi, Kanyakumari and Tenkasi districts of Tamil Nadu, it added.
+Earlier, Heavy rain accompanied by thunder and lightning triggered waterlogging in parts of Thoothukudi in Tamil Nadu. The District Administration had declared a holiday for schools in the district due to heavy rainfall.
+Published on October 19, 2025
+

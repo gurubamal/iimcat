@@ -1,0 +1,38 @@
+2025-10-23 23:22:19,571 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 23:22:19,572 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 23:22:19,572 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-23 23:22:19,572 - INFO -    Time window: 24 hours
+2025-10-23 23:22:19,572 - INFO -    Max articles per ticker: 10
+2025-10-23 23:22:19,572 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-23 23:22:19,573 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 23:22:23,402 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 23:22:23,402 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-23 23:22:23,402 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-23 23:22:24,848 - INFO - ✅ Found 1 recent articles for A2ZINFRA
+2025-10-23 23:22:24,848 - INFO - 🔍 INSTANT ANALYSIS: A2ZINFRA
+2025-10-23 23:22:24,849 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:22:24,853 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:22:24,854 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:22:24,854 - INFO - [3/50] Processing ACL...
+2025-10-23 23:22:24,854 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-23 23:22:26,211 - INFO - ✅ Found 2 recent articles for ACL
+2025-10-23 23:22:26,212 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:22:26,213 - INFO -    Headline: �f� ANDHRA CEMENTS LIMITED - bsmedia.business-standard.com...
+2025-10-23 23:22:26,221 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:22:26,221 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:22:26,222 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:22:26,222 - INFO -    Headline: Chelsea vs Ajax: Who will win Champions League clash? AI predictions, confirmed ...
+2025-10-23 23:22:26,226 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:22:26,226 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:22:26,226 - INFO - [4/50] Processing AGSTRA...
+2025-10-23 23:22:26,227 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-23 23:22:27,709 - INFO - ✅ Found 0 recent articles for AGSTRA
+2025-10-23 23:22:27,710 - INFO - [5/50] Processing ANSALAPI...
+2025-10-23 23:22:27,711 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-23 23:22:29,140 - INFO - ✅ Found 0 recent articles for ANSALAPI
+2025-10-23 23:22:29,142 - INFO - [6/50] Processing BLUECHIP...
+2025-10-23 23:22:29,142 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-23 23:22:30,650 - INFO - ✅ Found 2 recent articles for BLUECHIP
+2025-10-23 23:22:30,652 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 23:22:30,653 - INFO -    Headline: Spot crude premiums jump as US sanctions on Russian producers drive China, India...
+2025-10-23 23:22:30,661 - INFO -    ✅ Score: 100.0 | Sentiment: bullish

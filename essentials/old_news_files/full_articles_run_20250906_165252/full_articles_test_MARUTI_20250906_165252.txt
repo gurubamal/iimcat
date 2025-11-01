@@ -1,0 +1,18 @@
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-06
+
+Title   : Maruti Suzuki shares in focus as GST cuts boost small car prospects 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-06T07:57:48
+Fetched : 2025-09-06T17:39:14.369113
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/maruti-suzuki-shares-in-focus-as-gst-cuts-boost-small-car-prospects/article70018841.ece
+--------------------------------------------------------------------------------
+Maruti Suzuki India Limited shares closed 1.64 per cent higher at ₹14,895 on Friday, September 5, driven by expectations of increased demand following the government’s GST rationalisation measures and the launch of its new SUV, Victoris.
+The stock gained ₹233 from the previous close of ₹14,662, with trading volumes reaching 4.74 lakh shares worth ₹702.61 crore. The counter hit an intraday high of ₹14,957, near its 52-week peak of ₹15,240 touched on September 4.
+GST 2.0 reforms announced recently will reduce tax rates on small cars and motorcycles under 350cc from 28 per cent to 18 per cent, effective September 22. This move directly benefits Maruti Suzuki as India’s largest small car manufacturer. Axis Securities upgraded the stock from ‘Hold’ to ‘Buy’ with a revised target price of ₹16,425, citing the GST cuts as a structural catalyst to bridge post-COVID affordability gaps.
+On September 3, Maruti launched the Victoris SUV with bookings starting at ₹11,000. The vehicle features advanced technology, including Level 2 ADAS, strong hybrid powertrain options and segment-first underbody CNG tank design.
+Analysts expect the GST rationalisation and festive season demand to significantly boost domestic passenger vehicle sales. Choice Institutional Equities noted that purchase deferrals in August, as customers awaited GST cuts, had temporarily impacted volumes but positioned the sector for strong recovery.
+Published on September 6, 2025
+

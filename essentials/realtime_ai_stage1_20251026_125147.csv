@@ -1,0 +1,4 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,RELIANCE,97.5,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,2,N/A,"Reliance partners with Meta's Facebook to develop AI services, plans to set up 70:30 joint venture —",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.
+2,TCS,95.0,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,1,N/A,"M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS shine ",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.
+3,MARUTI,95.0,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,1,N/A,Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment,Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.

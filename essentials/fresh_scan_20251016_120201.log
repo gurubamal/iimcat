@@ -1,0 +1,49 @@
+
+================================================================================
+🔍 ENHANCED NEWS COLLECTION STARTED
+================================================================================
+📅 Time window: Last 48 hours (cutoff: 2025-10-14 06:32:02 UTC)
+🎯 Tickers to scan: 2993
+📰 News sources: 9
+================================================================================
+
+[1/2993 (0.0%)] Processing 21STCENMGM... ⚫ NO NEWS
+    └─ Fetched: 16 items
+    └─ Filtered (old): 16, (non-financial): 0
+[2/2993 (0.1%)] Processing A2ZINFRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[3/2993 (0.1%)] Processing ACL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 96, (non-financial): 4
+[4/2993 (0.1%)] Processing AGSTRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[5/2993 (0.2%)] Processing ANSALAPI... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[6/2993 (0.2%)] Processing BLUECHIP... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 74, (non-financial): 26
+[7/2993 (0.2%)] Processing DHARAN... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[8/2993 (0.3%)] Processing EXCEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 56, (non-financial): 44
+[9/2993 (0.3%)] Processing FEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[10/2993 (0.3%)] Processing GVKPIL... ⚫ NO NEWS
+    └─ Fetched: 82 items
+    └─ Filtered (old): 82, (non-financial): 0
+[11/2993 (0.4%)] Processing IEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 97, (non-financial): 3
+[12/2993 (0.4%)] Processing ITTL... ⚫ NO NEWS
+    └─ Fetched: 95 items
+    └─ Filtered (old): 94, (non-financial): 1
+[13/2993 (0.4%)] Processing KRISHIVAL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[14/2993 (0.5%)] Processing MANUGRAPH...

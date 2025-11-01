@@ -1,0 +1,3 @@
+./run_without_api.sh claude test.txt 8 10
+
+./run_exit_assessment.sh claude exit.check.txt 72

@@ -1,0 +1,20 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-12T18:56:53.311625
+Hours back: 72
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com, sebi.gov.in, nseindia.com, bseindia.com
+Tickers planned: 2
+====================================================================================================
+
+Full Article Fetch Test - ADANIENT
+================================================================================
+
+(skipped: outside allowed sources) Title: 10th October, 2025 BSE Limited P J Towers, Dalal Street, Mumbai - bsmedia.business-standard.com
+URL     : https://news.google.com/rss/articles/CBMivAFBVV95cUxOWndvc1lqeEhMNW94bTV3NTdSQ0dUVndZWjRLcmZzWGhIUGc4dVJnby01eWtNcUtzYUNDb0RhSkc0VWJRQXdQazBvN2NYdnhMUDBHcmFjc3Q1Y3lnSnk5bXdjRVRtMlEyUkZjNktnR21wa3hFN3lQTVNwT2lKVG9QakZOekVpLWlnOGhLcFhUeXpNUzhvSGpQdzRmWHhNNUNRNUdvTDlucjByWGVCcUZWbl84SHdIN2lNQXVWYw?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).
+Full Article Fetch Test - ADANITRANS
+================================================================================
+
+(no fresh items in last 72h)
+

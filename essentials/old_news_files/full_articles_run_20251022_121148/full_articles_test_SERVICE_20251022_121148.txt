@@ -1,0 +1,25 @@
+Full Article Fetch Test - SERVICE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 20.15M
+
+Title   : mjunction Services seeks to establish new coal trading exchange
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T10:30:01
+Fetched : 2025-10-22T13:46:42.068652
+URL     : https://www.thehindubusinessline.com/markets/commodities/mjunction-services-seeks-to-establish-new-coal-trading-exchange/article70189362.ece
+--------------------------------------------------------------------------------
+B2B e-commerce solution provider mjunction Services has expressed interest to build a platform for the proposed coal exchange and has been in touch with the government, a top company official said on Wednesday.
+"The coal exchange has been in the talks for five years now. We are keen to set this up. In fact, five years ago, when this concept came up, we had mentioned that we will be very interested in building the platform," mjunction services CEO Vinaya Varma said.
+"The government is yet to publish the EOI (expression of interest)... we are interested in setting up the coal spot exchange and that has been communicated to them in writing.
+"The last communication was in April this year, when the government invited suggestions on the proposed coal trade exchange," he said.
+The proposed coal exchange will facilitate trading of coal as a commodity.
+"We have more than 20,000 buyers... on our platform. The entire ecosystem is there. For us, it's the next step to convert this coal option platform to an exchange," he explained.
+Other than 20,000 buyers, nearly all commercial and captive coal producers in the country sell their coal and lignite on the platform, he said, adding that mjunction has the requisite knowledge to build and operate the coal exchange platform.
+It has been operating a spot trading platform for tea under licence from the Tea Board for several years, Varma said.
+The government has already come out with draft rules to form an organisation to regulate the functioning of the proposed coal exchange.
+The proposed Coal Controller Organisation (CCO) will be a subordinate office of the coal ministry. Its responsibilities include coal mine closure activities to ensure environmental sustainability, collecting and disseminating coal statistics, inspecting collieries, issuing directives on coal grades, and acting as an appellate authority for grade-related disputes.
+Coal production is poised to reach new heights with the country already breaching the one billion tonne of production mark in the last fiscal year and is likely to grow beyond 1.5 billion tonnes by 2030.
+"Therefore, in the scenario of increased availability of domestic coal in the country, further reforms are being carried out in the coal sector with focus on promoting competitive markets for sale of coal, and thus, the coal ministry proposes to establish Coal Exchange (s) under the... enabling provisions of the MMDR Amendment Act, 2025," the draft said.
+Published on October 22, 2025
+

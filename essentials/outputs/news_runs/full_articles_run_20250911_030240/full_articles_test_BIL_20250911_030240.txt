@@ -1,0 +1,26 @@
+Full Article Fetch Test - BIL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-11
+
+Title   : Nebius CEO Arkady Volozh Is $1 Billion Richer After Microsoft AI Deal
+Source  : www.livemint.com
+Published: 2025-09-10T09:03:16
+Fetched : 2025-09-11T03:22:02.571604
+URL     : https://www.livemint.com/companies/news/nebius-ceo-arkady-volozh-is-1-billion-richer-after-microsoft-ai-deal-11757494997017.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Arkady Volozh spent two years disentangling himself from Yandex, the tech business that made him one of the richest men in Russia. He ended up leaving the country in a move he described as “an exodus, just like in Egypt.”
+Now, he’s the latest tycoon to boost his fortune from the artificial intelligence boom.
+Shares of his Amsterdam-based Nebius Group NV surged after the company said it will provide Microsoft Corp. access to capacity at its new data center in New Jersey over five years. The contract is worth as much as $19.4 billion. Nebius shares rose 49% to $95.72 in trading Tuesday in New York.
+Volozh, through his family’s trust, holds a 13% stake in Nebius that’s now worth $2.9 billion, up about $1 billion since the deal was announced. The stake has nearly tripled in value since January.
+The surge marks a rebound for Volozh, who had previously led Yandex, the Russian equivalent of Google. After Russia’s full-scale invasion of Ukraine, the firm’s shares trading on the Nasdaq were suspended. That year, Volozh was sanctioned by the European Union and he resigned as head of the company he’d founded. By 2024, Yandex’s Russian business was sold to a group that included wealthy Kremlin allies for a bargain price of $5.2 billion.
+The Dutch holding company for Yandex was renamed Nebius after the sale in July 2024, and Volozh returned to pivot the business to providing infrastructure for artificial intelligence. Volozh now splits his time between the Netherlands and Israel, where Nebius has a satellite office.
+When Nebius shares were unfrozen in October, Volozh’s stake was worth about $630 million as the market doubted the business would thrive in the competitive data center market.
+Before the Microsoft deal, Nebius mostly catered to startups and smaller businesses. But Volozh says that’s starting to change.
+“We expect to secure significant long-term committed contracts with leading AI labs and big tech companies,” Volozh said in a statement. “I’m happy to announce the first of these contracts, and I believe there are more to come.”
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

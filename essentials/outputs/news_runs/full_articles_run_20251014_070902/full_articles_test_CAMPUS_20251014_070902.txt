@@ -1,0 +1,26 @@
+Full Article Fetch Test - CAMPUS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 222.00M
+
+Title   : Sam Altman-backed edtech startup Campus acquires former Meta VP's Sizzle AI platform — Here's what we know
+Source  : www.livemint.com
+Published: 2025-10-13T14:08:53
+Fetched : 2025-10-14T07:47:16.508029
+URL     : https://www.livemint.com/companies/news/sam-altman-backed-edtech-startup-campus-acquires-former-meta-vps-sizzle-ai-platform-heres-what-we-know-11760345551541.html
+--------------------------------------------------------------------------------
+Sam Altman-backed edtech startup ‘Campus’ announced that they have acquired the former Meta VP, Jerome Pesenti-founded artificial intelligence (AI) learning platform named ‘Sizzle AI’ in efforts to boost the company's engineering roadmap.
+“Acquiring Sizzle accelerates our engineering roadmap by 2-3 years – they’ve built the best AI team in education, and their infrastructure is so far ahead of anyone else – it’s super exciting,” said Tade Oyerinde, founder and Chancellor of Campus, in the statement.
+According to the official announcement, Sizzle AI created an AI learning app which has been used by over 1.7 million people to help students learn or practice any subject with interactive, AI-generated content.
+After the acquisition move, Campus plans to leverage and integrate this technology ‘to help students stay on track and overcome setbacks on their academic journey.’
+“Big Tech has spent years building AI to keep people scrolling. But we’re harnessing the potential of the very same technology to cultivate thought, encourage inquiry, and deepen human relationships,” said Jerome Pesenti, founder of Sizzle AI.
+Jerome Pesenti is currently serving as the Chief Technology Officer (CTO) at the Ed-tech startup Campus following the acquisition. Before founding the AI platform, Sizzle AI, Pesenti spent four years and six months as a Vice President of AI at Meta Platforms Inc.
+Pesenti began his career as a Visiting Scientist at Carnegie Mellon University in the Greater Pittsburgh Region, United States. In 2000, he co-founded Vivisimo, a research and innovation startup, which was later acquired by tech giant IBM. Apart from being the co-founder, he was also the Chief Scientist in the startup.
+In 2012, Jerome Pesenti joined IBM and then was there till August 2016 before joining an artificial intelligence company named Benevolent AI. Pesenti spent a little over three years in the company before switching to Meta's AI wing.
+According to the official website, the edtech startup ‘Campus’ is backed by top tech investors, including Founders Fund, General Catalyst, Bloomberg Beta, Sam Altman, Shaquille O’Neal, Joe Lonsdale, Jason Citron, and Dylan Field.
+The company raised more than $100 million in its Series B round, which now aims to leverage the AI technology and the skills of machine learning scientists from MIT, Harvard, and IBM Watson to lead the engineering for Campus.
+Campus is a startup designed for students seeking affordable education. The company aims to provide a ‘faster launchpad into a career or a four-year degree’ through its online offerings, like live, online classes taught by top professors, dedicated advisors and on-demand tutoring.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsSam Altman-backed edtech startup Campus acquires former Meta VP's Sizzle AI platform — Here's what we know
+

@@ -1,0 +1,30 @@
+Full Article Fetch Test - OFSS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : OFSS shares rally over 9%, mirroring parent Oracle’s surge on cloud boom 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-10T07:34:21
+Fetched : 2025-09-10T11:55:24.474822
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/ofss-shares-rally-over-9-mirroring-parent-oracles-surge-on-cloud-boom/articleshow/123803318.cms
+--------------------------------------------------------------------------------
+Cloud momentum drives OFSS gains
+Oracle Corp said on Tuesday that its Oracle Cloud Infrastructure (OCI) business expects booked revenue to exceed half a trillion dollars, with remaining performance obligations (RPO) jumping 359% to $455 billion in the first quarter ended August 31. CEO Safra Catz said, "Over the next few months, we expect to sign up several additional multi-billion-dollar customers and RPO is likely to exceed half-a-trillion dollars."
+The U.S.-listed Oracle shares surged 27% in post-market trading, the biggest gain since 1999, after the company forecast OCI revenue growth of 77% to $18 billion this fiscal year and $144 billion over the subsequent four years. Oracle has also signed deals with Amazon, Alphabet, and Microsoft to run OCI inside their respective cloud infrastructure, driving revenue from these clients up 1,529% in the first quarter.
+OFSS benefits from parent’s cloud boom
+OFSS said its license and cloud revenue grew 13% over the last fiscal year. Analysts note that the company is well-positioned to leverage Oracle’s cloud technology and multi-cloud contracts. Catz highlighted, "We made it very easy for our customers to directly connect all their databases ... to the world's most advanced AI reasoning models—ChatGPT, Gemini, Grok, all of which are uniquely available in the Oracle Cloud."
+Market context and stock performance
+While OFSS shares are down 27% on a year-to-date basis, the stock has gained roughly 10% over the past month. Traders lifted OFSS sharply on Wednesday, reflecting optimism that Oracle’s cloud expansion will translate into stronger growth for its Indian subsidiary.
+Also read | An Oracle may displace Elon Musk as the world's richest billionaire
+Oracle also signed four multi-billion-dollar contracts with three different customers in the first quarter, helping total revenue climb 12% to $14.93 billion. For the second quarter, Oracle expects total revenue growth of 12% to 14%, while cloud revenue is projected to rise 32% to 36%.
+What’s next for investors?
+With Oracle planning to add 37 more data centres across its hyperscaler partners, Chairman Larry Ellison said, "We expect MultiCloud revenue to grow substantially every quarter for several years." Investors are now closely watching whether this cloud momentum will continue to drive OFSS revenue and margins in the coming quarters.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+MADHUSUDAN,MADHUSUDAN MASALA LIMITED,46.0,35,1,Certainty 35% below threshold (40%),Madhusudan Kela Portfolio: 7 stocks rally up to 67% in FY26; fresh bet in Q2 rev,"This article is about investor Madhusudan Kela's portfolio holdings across 15 different stocks, not about a company named 'MADHUSUDAN'. The news shows"
+FOCUS,FOCUS LIGHTING AND FIXTURES LIMITED,32.9,25,1,Certainty 25% below threshold (40%),"Morgan Stanley adds RIL, Varun Beverages to its focus list. Here’s why these 2 l","This news is about Morgan Stanley adding RIL and Varun Beverages to their focus list, not FOCUS Lighting & Fixtures Ltd. There is no direct catalyst f"

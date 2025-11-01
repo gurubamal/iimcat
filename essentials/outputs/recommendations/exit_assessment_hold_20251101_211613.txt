@@ -1,0 +1,11 @@
+# HOLD / MONITOR RECOMMENDATIONS
+# Generated: 2025-11-01 21:16:13
+# Stocks safe to hold: 3
+# Stocks to monitor: 0
+
+# HOLD:
+KEC
+PETRONET
+DEEPAKNTR
+
+# MONITOR (watch closely):

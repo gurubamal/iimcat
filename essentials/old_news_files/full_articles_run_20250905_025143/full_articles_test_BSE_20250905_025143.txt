@@ -1,0 +1,30 @@
+Full Article Fetch Test - BSE
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 15.77B INR
+
+Title   : Stock Market Holiday: Are BSE, NSE open or closed today for Eid-e-Milad 2025? 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T11:59:39
+Fetched : 2025-09-05T03:01:04.216868
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-are-bse-nse-open-or-closed-tomorrow-for-milad-un-nabi-2025/articleshow/123698930.cms
+--------------------------------------------------------------------------------
+Also known as Eid-e-Milad, the day marks the birth anniversary of Prophet Muhammad, the founder of Islam. It is observed in the third month of the Islamic calendar, Rabi-ul-Awwal.
+However, today will be a settlement holiday, meaning that settlement and transactions carried out on Thursday will be shifted to Monday.
+What is a settlement holiday?
+Unlike a trading holiday, when the stock exchanges NSE and BSE are shut and investors cannot buy or sell shares, on a settlement holiday the exchanges remain open for trading, but clearing and settlement of trades do not take place because banks, depositories such as NSDL and CDSL, or the RBI are closed.In simpler terms, trades get executed, but the pay-in and pay-out of funds and securities are deferred to the next working day.
+Stock market holidays 2025: Full list
+Equity markets have a total of 15 trading holidays in 2025, of which 10 have already passed. The remaining 5 are for Mahatma Gandhi Jayanti and Dussehra on October 02, Diwali or Laxmi Pujan on October 21, Diwali Balipratipada on October 22, Prakash Gurpurab on November 05, and Christmas on December 25.It should be noted that a special Muhurat Trading session will be conducted on October 21, which marks the beginning of the Hindu Samvat year. The timings of Muhurat Trading have not yet been announced and will be notified in due course.
+Stock market outlook
+Indian markets received a big boost from the government following the simplification of the GST regime. Various goods and services will now be taxed under two key rates—5% and 18%—with certain sin and luxury goods placed under a special 40% slab.However, the markets did not reflect much enthusiasm on Thursday as most of the news was already priced in. Benchmark indices experienced a choppy trading session, ending with marginal gains.
+The broader markets underperformed the benchmarks, with the Nifty Midcap 100 and Smallcap 100 indices declining by 0.6% each, reflecting a risk-off sentiment among investors toward non-index constituents.
+Overall, analysts expect Nifty to consolidate in the range of 24,400-25,000 amid stock-specific actions.
+"Immediate support is placed at 24,400-24,337 levels, being the confluence of recent lows and the key retracement area. A breach below this range will signal an acceleration of the decline toward the key support area of 24,000-23,800 levels in the coming week," Bajaj Broking said in a note.
+(Disclaimer: Recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

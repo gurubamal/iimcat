@@ -1,0 +1,33 @@
+Full Article Fetch Test - ETERNAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 250.00M
+
+Title   : Mint Explainer | How Zomato, Blinkit-parent Eternal makes a profit when its quick-commerce business is yet to break even
+Source  : www.livemint.com
+Published: 2025-10-17T13:17:26
+Fetched : 2025-10-18T20:23:29.813421
+URL     : https://www.livemint.com/companies/zomato-blinkit-eternal-profit-inventory-model-quick-commerce-11760702225662.html
+--------------------------------------------------------------------------------
+Mint Explainer | How Zomato, Blinkit-parent Eternal makes a profit when its quick-commerce business is yet to break even
+With a new inventory-led model and changes in accounting for stock-in-trade, Eternal is posting a net profit although its biggest business driver – quick commerce – is yet to break even.
+MUMBAI : Quick-commerce company Blinkit helped parent firm Eternal to almost triple revenue from operations for the September quarter. However, a look under the hood shows Eternal’s earnings still don’t come from operations. So where does the profit come from? And why are investors not pleased with Eternal’s performance? Mint explains.
+Q: What did Eternal’s financials show in the September quarter?
+Consolidated revenue for Eternal Ltd, the parent company of food delivery firm Zomato and quick commerce service Blinkit, increased almost 3x year on year to ₹13,590 crore in the September quarter. Yet, profit after tax dropped to ₹65 crore—just over a third of the figure a year earlier.
+This is because Blinkit has changed the way it buys goods. It has transitioned about 80% of its net order value to its own inventory model, where it buys and holds goods, the company said in a note to shareholders. Instamart, owned by rival Swiggy, is also moving to this model—it hived off Instamart into a step-down subsidiary last month for this reason.
+Revenue for Eternal now reflects the price of goods sold, not just commissions and other lines of revenue for the business. Yet, profit fell because the company is spending more on opening dark stores and advertising quick commerce services.
+Adjusted earnings before interest, taxes, depreciation and amortisation (Ebitda) for the quick commerce business is still negative—in the September quarter, the adjusted Ebitda margin stood at -1.3%. Note that adjusted Ebitda is not a standard accounting metric.
+Q: What does Eternal have to say about its profit?
+Blinkit drives much of Eternal’s business growth, so how its revenue and net profit grows will determine the parent company’s trajectory. Right now, quick commerce is not yet profitable, although its revenue for this quarter grew considerably.
+However, much of that revenue growth came from the change in the business model. As Blinkit moves to own more of inventory, the company says it expects a 1% jump in net margins in 4-6 quarters.
+Q. So where does Eternal’s net profit come from?
+Some of it is from other income, including earnings from treasury and other financial instruments. Zomato’s other income grew more than 60% year on year to ₹352 crore in the quarter.
+Cash generated from investing grew to ₹69 crore, against a negative cash flow of ₹205 crore. Besides, Blinkit’s new business model has changed the way that goods are accounted for in the company’s books.
+Changes in inventories of stock-in-trade, a measure of how much inventory was bought and sold in a quarter, is a negative expense in Eternal’s books, changing the accounting math and adding to the company’s bottom line. However, this is only a reflection of how Eternal records the flow of goods from its business, and not a change in its profit.
+Q. When will quick commerce become profitable?
+Eternal has said it will take 4-6 quarters for the company to realise a 1% increase in net margin from the change in Blinkit’s business model. However, analysts told Mint they expect the business will take an additional 2-3 quarters over the company’s guidance, given the increased competition in the quick commerce business.
+Eternal will be under pressure to increase investment in dark stores and advertise aggressively to stay ahead of the competition, the analysts said. Eternal spends roughly ₹1 crore per dark store in fixed costs, it said in a shareholder letter this month.
+Q. How did investors make sense of Eternal’s complex numbers?
+Investors weren’t happy. Shares of the company fell 1.47% on the National Stock Exchange on Friday, while the benchmark Nifty 50 added 0.49%. Analysts said the company’s adjusted Ebitda loss of ₹156 crore was higher than what the markets expected.
+But, they added, investors are likely to go easy on the company as it finds a way to become operationally profitable; they are more likely to demand robust growth in revenue, especially as competition in quick commerce shows no sign of abating.
+

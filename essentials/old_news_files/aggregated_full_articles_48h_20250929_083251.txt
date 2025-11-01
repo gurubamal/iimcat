@@ -1,0 +1,212 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-29T08:32:51.873072
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com, sebi.gov.in, nseindia.com, bseindia.com
+Tickers planned: 36
+====================================================================================================
+
+Full Article Fetch Test - ALPA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BANARBEADS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BEARDSELL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BFUTILITIE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CAPACITE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CGCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - COUNCODOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CROMPTON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DATAPATTNS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DBCORP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DEEPAKNTR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DEVIT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EASEMYTRIP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GATECHDVR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GLENMARK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GODHA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HUDCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IDBI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KEC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MGL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NBCC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NINSYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NTPCGREEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PETRONET
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PNCINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - POWERMECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PROTEAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RADHIKAJWE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RBZJEWEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RBLBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SARVESHWAR
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-29
+
+Title   : Sarveshwar Foods to expand farmer facilitation centres to 50
+Source  : www.thehindubusinessline.com
+Published: 2025-09-29T07:39:25
+Fetched : 2025-09-29T08:34:02.693047
+URL     : https://www.thehindubusinessline.com/economy/agri-business/sarveshwar-foods-to-expand-farmer-facilitation-centres-to-50/article70108068.ece
+--------------------------------------------------------------------------------
+Sarveshwar Foods, a farm-to-fork company, plans to soon increase its Farmer Facilitation Centres (FFCs) from the current 14 to 50.
+The company directly engages with over 17,000 farmers across Jammu and Kashmir, Punjab, Haryana, and Uttar Pradesh, covering more than 30,000 acres of certified organic farmland.
+Through its FFCs, Sarveshwar provides farmers with certified seeds, technical expertise, agricultural inputs, and assured buyback, creating a transparent ecosystem.
+Direct farmer support
+Rohit Gupta, Chairman of Sarveshwar Foods, said the company not only buys produce at the best price from farmers through FFCs, but also advises them on planting activities, including the crops to cultivate for better monetary benefits.
+The company is an active participant in the Holistic Agricultural Development Program of Jammu and Kashmir, designed to modernise farming practices and enhance rural livelihoods, he said.
+Sustainability push
+It also collaborates with state agriculture departments in Jammu and Himachal Pradesh for organic farming projects, introducing scientific techniques and sustainable methods to the grassroots level.
+The company’s contract farming model, spanning over 48,000 acres across five states, ensures control over seed quality and crop cycles while boosting farmer income and productivity.
+Global standards
+The European Union, the US and certain Asian countries prefer agricultural produce with little or no pesticide contamination.
+Over 1,000 farmers in Jammu and Kashmir have received free distribution of certified paddy seeds, while border villages benefit from livelihood initiatives and community development drives.
+Heritage and quality
+With a legacy of over 130 years in the least contaminated Jammu and Kashmir, the company has emerged as a leading supplier of premium basmati rice and organic staples, carrying the essence of the Himalayas across India and the world.
+It has vast farmland in Jammu and Kashmir and a few other states of north India, which it owns or has contracted for over the years.
+Sarveshwar has secured the first Geographical Indication (GI) tag for Jammu and Kashmir (J&K) Basmati, reinforcing its commitment to authenticity and quality.
+Published on September 29, 2025
+
+Full Article Fetch Test - SUZLON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - VIKRAMAR
+================================================================================
+
+(no fresh items in last 48h)
+

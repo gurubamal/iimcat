@@ -1,0 +1,33 @@
+Full Article Fetch Test - LINC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-06
+
+Title   : Meta’s Backstop Is Linchpin for $26 Billion AI Data-Center Deal
+Source  : www.livemint.com
+Published: 2025-09-05T21:25:17
+Fetched : 2025-09-06T17:36:15.662926
+URL     : https://www.livemint.com/companies/news/metas-backstop-is-linchpin-for-26-billion-ai-data-center-deal-11757107517576.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- When Meta Platforms Inc. turned to lenders to secure $26 billion in debt funding for construction of a sprawling new data center, one key detail made all the difference in fueling a heated bidding war for the deal: the technology giant agreed to a special guarantee on the Louisiana complex.
+The financing is being run through a complex arrangement that keeps the debt off of Meta’s books and frees up its balance sheet as it pursues an aggressive push into artificial intelligence. A joint venture will actually build and own the 4-million-square-foot Hyperion facility, while Meta will occupy and use the data center under a 20-year lease.
+But the social-media company also offered a sweetener: If it decides to terminate the lease early or opts to not renew it and the value of the data center falls below a pre-determined threshold, the company will reimburse investors for potential losses, according to people briefed on the matter who asked not to be identified discussing confidential deal terms.
+Such agreements, known as residual value guarantees, are meant to protect investors should the value of the underlying asset sink. But the use of this clause in such a large data center sets a new precedent, according to the people. Given how AI infrastructure can take years to build and how the data center could quickly be made obsolete by technological innovations, Meta offered the backstop to encourage investors to lay out tens of billions of dollars.
+“The specific nature and high cost of the construction of these data centers is unprecedented,” said Teddy Kaplan, who runs New Mountain Capital’s net lease real estate strategy and wasn’t involved in the Meta deal. “You could see an extraordinarily high degree of technological change that would render those facilities less or even unusable by a future user.”
+Meta picked Pacific Investment Management Co. to lead the $26 billion debt financing following a months-long competition involving some of the biggest asset managers that was overseen by Morgan Stanley. Blue Owl Capital Inc. is contributing $3 billion in equity to the joint venture.
+Representatives for Meta, Pimco, Blue Owl and Morgan Stanley declined to comment.
+‘Different Game’
+Despite the potential for earning lucrative returns by financing the build-out of AI models and the infrastructure needed to run them, the risks involved mean that even the most eager lenders are demanding special protections.
+As tech companies gather the vast funds they will need to finance the AI arms race — JPMorgan Chase & Co. and Mitsubishi UFJ Financial Group Inc. are currently leading a roughly $38 billion debt package to pay for data centers connected to Oracle Corp., for instance — Meta’s arrangement may serve as a template.
+The bonds will have a tenor of 24 years, including four years for construction before the lease payments begin, and are expected to receive investment-grade ratings, Bloomberg News previously reported. Pimco is expected to work with Morgan Stanley to distribute chunks of the debt to other investors in coming weeks.
+Meta will make rent payments to the data center based on the cost of power it uses, the people said. That annual cash flow will in turn fund the interest expense on the bonds.
+Meta’s guarantee doesn’t apply to future interest payments and is different from the guarantee that holding companies typically provide to debt issued by their subsidiaries, according to one of the people. But it does provide investors with some protection in the event that the value of the data center drops significantly.
+The planned Hyperion complex is part of a wave of new data-center construction, stoked by AI, that will supercharge the sector and require significant financing. JPMorgan estimates there will be roughly $150 billion of permanent financing needs related to data centers in 2026 and 2027 combined, according to an August report.
+Before AI, data-center financing “was really a different game,” said Eamon Nolan, a project-finance attorney at Vinson & Elkins who wasn’t involved in the Meta deal. “You didn’t have these $30 billion campuses,” he said. “They were 20 megawatts here, 20 megawatts there. You just weren’t faced with this enormous capital-intensive structure.”
+--With assistance from Natalie Wong and Riley Griffin.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

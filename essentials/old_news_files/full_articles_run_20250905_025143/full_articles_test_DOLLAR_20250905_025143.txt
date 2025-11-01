@@ -1,0 +1,31 @@
+Full Article Fetch Test - DOLLAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 971.55M INR
+
+Title   : Dollar holds ground as bonds find footing, jobs data looms 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-05T02:01:06
+Fetched : 2025-09-05T03:05:46.569304
+URL     : https://economictimes.indiatimes.com/markets/forex/dollar-holds-ground-as-bonds-find-footing-jobs-data-looms/articleshow/123709525.cms
+--------------------------------------------------------------------------------
+The greenback inched up in U.S. hours on Thursday and was poised for a second straight weekly gain on relatively light trading and as investors refrained from big moves ahead of the payrolls figures.
+Data on Thursday showing higher-than-expected applications for jobless benefits in the United States served as a prelude to the more critical non-farm payrolls report that will feed into the Fed's policy decision this month.
+Bonds rallied in the U.S., Europe, and Japan after fiscal concerns spurred a run-up in long-term yields. The yen edged higher as Japan's chief trade negotiator spelled out details of a solidified trade deal with the U.S.
+Concerns about U.S. President Donald Trump's meddling with the Fed policy and his unpredictable tariffs have compelled investors to be shy of holding dollar assets of late, said Bart Wakabayashi, the Tokyo Branch Manager of State Street.
+"The dollar remains very, very underweight," Wakabayashi said. "I do think there is room for the dollar buying to come back at some point. Maybe investors are just waiting for the rate cut to happen and then pile back in."
+The dollar index, which tracks the greenback against a basket of currencies of other major trading partners, was little changed at 98.207, set for a 0.4% gain this week.
+The greenback dropped 0.2% to 148.22 yen. The euro was up 0.1% on the day at $1.1656. Several Fed officials said labour market worries continue to support their calls for rate cuts, boosting expectations of an imminent easing. The Fed is due to meet on September 16 and 17. The ADP National Employment Report showed that U.S. private payrolls increased less than expected in August. At the same time, data showed U.S. initial jobless claims rose 8,000 to a seasonally adjusted 237,000 for the week ended August 30. Economists polled by Reuters had forecast 230,000 claims for the latest week.
+Traders are pricing in a near-100% chance of the Fed cutting interest rates later this month, up from 87% a week ago, CME FedWatch showed.
+The two-year U.S. Treasury yield, which typically moves in step with interest rate expectations for the Fed, fell 0.9 basis points to 3.583%. Stephen Miran, Trump's pick to fill an open seat at the Fed, said he would "not at all" be the president's puppet when questioned by lawmakers on Thursday about whether he will make interest-rate decisions independently of political pressure. Trump signed an order on Thursday to implement lower tariffs on Japanese automobile imports and other products that were announced in July. Ryosei Akazawa, Japan's top trade negotiator, said his nation agreed to issue joint statements on the agreement at Washington's request.
+A surge in long-term bond yields of late has signalled increasing concerns about the fiscal health of major economies from Japan to Britain and the U.S.
+Those fears abated on Thursday and Friday, with yields falling back to earth. Yields on 2-year and 10-year Treasuries slid to the lowest since May first in early Tokyo trading.
+Yields on Japanese government bonds fell a second day after a closely watched auction of 30-year debt passed smoothly on Thursday.
+Sterling traded at $1.3447, up 0.1%. The Australian dollar rose 0.1% to $0.6525. New Zealand's kiwi dollar rose 0.2% to $0.5855.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+SOLEX,SOLEX ENERGY LIMITED,66.1,38,2,Certainty 38% below threshold (40%),"Solex Energy to invest $1.5 billion in solar manufacturing, eyes US exports","Detected 2 catalyst(s). Risks: Regulatory/probe risk, FX/currency risk, Tariff/trade risk. From www.thehindubusinessline.com [unknown:0.65]. Score: 75"

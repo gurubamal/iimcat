@@ -1,0 +1,120 @@
+{
+  "copilot_agent_settings": {
+    "version": "1.0",
+    "description": "Auto-approval and auto-run settings for Copilot Agent",
+    "last_updated": "2025-10-14"
+  },
+  
+  "approval_mode": {
+    "mode": "auto",
+    "description": "Options: 'auto' (no prompts), 'semi' (critical only), 'manual' (all prompts)",
+    "available_modes": {
+      "auto": "Fully automated - no user prompts, all actions auto-approved",
+      "semi": "Semi-automated - only critical actions require approval",
+      "manual": "Manual approval - all actions require user confirmation"
+    }
+  },
+  
+  "auto_run_settings": {
+    "news_collection": {
+      "enabled": true,
+      "hours_back": 48,
+      "max_articles": 10,
+      "auto_approve": true,
+      "description": "Automatically fetch news without prompts"
+    },
+    
+    "ai_analysis": {
+      "enabled": true,
+      "path": "ai",
+      "top_picks": 50,
+      "fresh_news": true,
+      "auto_approve": true,
+      "description": "Automatically run AI analysis"
+    },
+    
+    "enhanced_scoring": {
+      "enabled": true,
+      "min_certainty": 40,
+      "min_magnitude_cr": 50,
+      "fake_rally_detection": true,
+      "auto_approve": true,
+      "description": "Automatically apply enhanced scoring filters"
+    },
+    
+    "technical_screening": {
+      "enabled": true,
+      "auto_approve": true,
+      "description": "Automatically run technical screener on results"
+    },
+    
+    "config_updates": {
+      "enabled": true,
+      "auto_approve": true,
+      "description": "Automatically apply recommended config changes"
+    },
+    
+    "report_generation": {
+      "enabled": true,
+      "auto_approve": true,
+      "format": ["csv", "markdown", "json"],
+      "description": "Automatically generate reports"
+    }
+  },
+  
+  "notification_settings": {
+    "show_progress": true,
+    "show_warnings": true,
+    "show_rejections": true,
+    "verbose_mode": false,
+    "description": "Control what gets displayed during auto-run"
+  },
+  
+  "safety_limits": {
+    "max_scan_time_minutes": 60,
+    "max_file_size_mb": 100,
+    "max_stocks_per_run": 3000,
+    "require_approval_for_large_operations": false,
+    "description": "Safety limits even in auto mode"
+  },
+  
+  "schedule_settings": {
+    "enabled": false,
+    "daily_scan_time": "09:00",
+    "weekend_scans": true,
+    "scan_days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "description": "Scheduled automatic scans (requires cron setup)"
+  },
+  
+  "quick_commands": {
+    "scan_now": {
+      "command": "./optimal_scan_config.sh",
+      "auto_approve": true,
+      "description": "Full enhanced scan with all features"
+    },
+    "quick_analysis": {
+      "command": "python3 run_swing_paths.py --path ai --top 25 --auto-apply-config --auto-screener",
+      "auto_approve": true,
+      "description": "Quick AI analysis on latest news"
+    },
+    "fresh_scan": {
+      "command": "python3 run_swing_paths.py --path ai --fresh --hours 48 --top 50 --auto-apply-config --auto-screener",
+      "auto_approve": true,
+      "description": "Fetch fresh news and analyze"
+    },
+    "monitor": {
+      "command": "./monitor_scan.sh",
+      "auto_approve": true,
+      "description": "Monitor running scans"
+    }
+  },
+  
+  "copilot_preferences": {
+    "preferred_output_format": "enhanced_console",
+    "save_reports": true,
+    "report_directory": "outputs",
+    "auto_archive_old_reports": true,
+    "keep_last_n_reports": 10,
+    "description": "How Copilot should handle outputs"
+  }
+}

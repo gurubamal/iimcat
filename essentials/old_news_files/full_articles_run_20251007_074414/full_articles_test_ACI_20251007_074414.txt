@@ -1,0 +1,7 @@
+Full Article Fetch Test - ACI
+================================================================================
+
+(skipped: outside allowed sources) Title: Reuters/14 - Read all News, Stories, Videos and Photos from Reuters/14 - Business Standard
+URL     : https://news.google.com/rss/articles/CBMibEFVX3lxTE14MFZ3NndkVXR2eFRkZDJoT1lXQzIwZG9fRFdXbGxGOFZwT0xhYlVVSkd1MkdmdFBXd1hCNVlPTzFCWnNBVk5MQ1FFVXRtbFZZZXcwLVV3UXljd3hPbkM2Y0dHRXlmQ2FzdmNFWA?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

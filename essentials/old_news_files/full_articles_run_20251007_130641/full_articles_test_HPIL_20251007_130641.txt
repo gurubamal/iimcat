@@ -1,0 +1,25 @@
+Full Article Fetch Test - HPIL
+================================================================================
+
+(skipped: outside allowed sources) Title: India's LTIMindtree wins its largest-ever deal worth $580 million - ET Telecom
+URL     : https://news.google.com/rss/articles/CBMi-wFBVV95cUxQamEyNzkwTlRVSGk4ZHdpR1hTOXl3dC1xa0ladDR5QzZsallTd19oS1h4WUNPV2lLaE5USE5kaVFkbGtKdXZUaWdjbVYza0p3V0pkbEloTW1YUnpUQXdrbUJsTTRsZDJyNWhaU0tXLXJFUUNpa3F3MmVfcnNIRzZsQlI1cXgzU1VmTGdESDFXd240ZlBwMmJQbkQydzYyU25SdnFtYzVyR3BUR09HOEh6SkR6akI0c3IzR2FqLXNlLVN6aEphSERrdlBSMjVsVGdlM3hJWGZKdkk4LVdTYjhvSXhBZnRHbWFDeVl4Y2xmUEREWWNiQzl2TmVLY9IBgAJBVV95cUxQc1FWNENmaUtqNVJidmJXLVhEdmYycWRiMk1CbjN5WGlTMklpUjVpX1Y0M19oRDM4WUVTT2VoVG1TSEpxV0hYLTMxaU5zN0JFcTFfZmhJRHlHWWt3ZUdmU0U2MS1YTVp1R1VvSWU2bnVKck1MSGRFS2VvUUhKeTVuU1UwYlB0bDR1OGF4N1EyVjg2b1RQUkFtSTRtZHE4U1g2b3p0N0VKWXI2d09sNExmeTJieHVMWGpVaHAyN0xMZkNpZURyRGVQUXpYTnRkMWJYMExRaXBGeVNwWTVEMGNpMnlfZmxnWHd2SmxCTG90TjNDX2FsdzZNSHU3V0xjOE92?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: UK's Jaguar Land Rover to restart some manufacturing after six-week shutdown - Reuters
+URL     : https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkJ6YzRkd1AzeVQwSTNnbHRGR0FxX3FlQTZEeXg3akJmZ3p5Z3ZmOGxRSC1HcmRramhLN1M3MWF2WWVMS3FkRWF0dl9mbDlKUldYaW54YmNRMU1qRFdFR0d1ei1SZUd6TDQ4akIyaVVIRW1uMy1ISzRxeWo2SnRFZVV5Zy1ScUk3NDZ1aHRKQ0x2c3dlZnN2S3ZIWHY?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: LTIMindtree wins its largest-ever deal; sources peg size at $580 million - Business Standard
+URL     : https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcWs1ZTBzMm9BQlhGX0FNMFE3RE96ZEVlTWxmX1BsWnctWm0yQmZta3F6UE5NbUJOZm1KU1R6VWJZT2htQVZ1WlU0WFJRS21pX3h1UGZLek11bnZQcTJhaU8wMVR5VmVsVk9Ca1VQZUl4WnlPY00wajVUQ2R5UVJBcXFwWGRieE1fSTBCaTBnYVF3Y2ozbThaNHM1ajlRa25GVUFvU2dobzhJWjVPMFFJa2dxcldmaWFEZ0dkLWVtZWRndUNMWkU4Vms0UFA1ODNON2ZrYmp30gHbAUFVX3lxTFBoUjFzSkFjLXg0MTlQOTVJeE9uYXlOOTllb09jVXVIU29vZWNTN3h3X3R1SUxteWpCTnJQOWhIM05yZjgyRDhESzFsXzhYdzQ3SEtjNGRicHJpTkNWenFQRjNpbVNqZllQRGNBSWk5RGdTSW1tZXRVb1pWR2w4V1VUSUVTRnVsVHdhQUZaQTYxZGxQaHZ6eVVVdEF5VzJ2MElEQVR2SmV0YUNwMmlpOXRvelNTa2hCWTZzbFc5bWxFeVlORWYtMlJtRm14ZmlyRnVnNjBfQ3Q4cmI5TQ?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: US spirits exports tumble as drinkers shun American brands, industry warns - Reuters
+URL     : https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUVzNC1zYlFnMU9BOTdsM2hweGh4aEFvSWFma09UX09fdTYwNXV0cEVsNzVLWnpPbjNxR0o0QXNJS1pnYmJRdF9Kc1JudlFza1pkc2VkTER4SGhpVF9tM01TNUp4aTlRc1ZGaVhrb2VxZHpiQXpnNzZvdS1fV1BDUEdDdXEzbmR2cU9aZFpZSDJwT05rUXJtdEdHVzZkVVc1ZGl5VFJneENib1FLVk9zRzd3R3NqZw?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: WHO prequalifies oral cholera vaccine, Shanchol - BusinessLine
+URL     : https://news.google.com/rss/articles/CBMirAFBVV95cUxNaWcxVlBFbWdtSFRTVnNKQVJIZkY4aGJZckltc3NGM3NUVGllcHBOazhFRHRrX1RnZzgtSlZqd1BSXzVRZlNaQmFxeDZ4eWltZFNVazZMbHJUbGRNc3BTYzhvQlZ0NW5WV2FueXh2SWp5eFcxTzZzT0RuSXNIYWpDRTVyVjRQcm1BWEFfWnJrRXZXOThRaFpob0RoZWc0eGNvWVgxcGd0clFnQmZP0gGzAUFVX3lxTE55VFF3QUNhR0tfSjduWDIweXM3NDNLNEpWelhHTklkT2tJWFo3TnlvYXRVZ1I4ZjIzY3BQc1ZoSThiVGwwUThBQTlUWHhJVWxuazV0Vk9aSlNtbzZwUnc4bnVQa1lPSHI3a1gtOUhTa2lrdXBUUTlmS0NuWm5ubGlZV0pfbXQxTTB6TTdEemdBVnZUQ1VVTkt5Szg5dFBMLU9fYXNQajNvVGNrU1o3dXcxNUFn?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: India's LTIMindtree wins its largest-ever deal; sources peg size at $580 million - Reuters
+URL     : https://news.google.com/rss/articles/CBMivwFBVV95cUxOSmhna0U3MmppekxFa21CcU83TW5WU3BnbjVCaXBOQ1dVTFJrS3BSNEluWGxtcEMzMUxUaWlELUk0ZGdXcHZtNFp2QkVPdVN3RjhRU3dxSFVwelRRTFhQX2JJZWptd0k3Z0xXWHhucmRDRXhpOW5BUmlFOURTa1dmZDdWbmJMWTdtb0NlZUdFQV85Y2NfMmt0QkR0YnhtcXd1MUNhTlhFYVFySzR3S0M5UHZLWS0tRHl0Ujl5d1gzbw?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: 'The Crown' actor John Woodvine dies aged 96 - Moneycontrol
+URL     : https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkQ1N090enEwT0l2SnlELUVOc2tnT1JzY19lZDg5aGo1dFo3VjVyWTB3V3BNSHpNenIzbnAybGZ1OGxHelFGRndoWUxCWEpQY2Vnb3F0bmVNWm1hT1AwWV9aY2VCTmhmdHhmUVlCWThZM2psM0s2cEdjTGlaQ0VmRzA1ZXdKNnNJRGNIZEVGRDBBbXNzZ0k1dkhRSF9RMnhzeFpRUDVjR01uUDZRT3VJZHhNeWhGa2l40gG-AUFVX3lxTE5OVE1NLTktNlRDR3Q5UGd6MWtVMkxfOFQzaG5SclFSNmVBbEY0eTM0YUdmODRBdEdiQlVhZHRRaDg2R29pLW8zUlk3Q2w4WUdNUGxTNjhxa2FTLU5XMWU1MENYTmVmMGZjdXlqNUc3WmJaVi1HZkhPMm5fUWxiMlJTTU5hSVZ2OEpXOHBleldBMEJwV01xVlRlZ2ZYSV9sa2JIVUplOVY0LTFJLXpncllIRms3U1BhaFB2V1lvU3c?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

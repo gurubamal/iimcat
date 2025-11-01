@@ -1,0 +1,3 @@
+ticker,company_name,combined_score,adj_score,articles,dups,has_word,amt_cr,reason,event_type,top_title,top_source
+RELIANCE,,1.0,,1,1,,,,,"M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS shine",
+MARUTI,,1.0,,1,1,,,,,Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment,

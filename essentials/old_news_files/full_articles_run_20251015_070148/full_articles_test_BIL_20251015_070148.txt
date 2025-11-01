@@ -1,0 +1,29 @@
+Full Article Fetch Test - BIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 55.84M
+
+Title   : Govt attempting backdoor privatisation via Draft Electricity Bill: Trade unions, employee federation
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T06:40:21
+Fetched : 2025-10-15T07:20:51.630300
+URL     : https://www.thehindubusinessline.com/economy/govt-attempting-backdoor-privatisation-via-draft-electricity-bill-trade-unions-employee-federation/article70165963.ece
+--------------------------------------------------------------------------------
+Central Trade Unions (CTUs) and power employees federation have criticised the Draft Electricity (Amendment) Bill, 2025, terming it an attempt by the government to allow backdoor entry of private players through multiple distribution licensees in the same service area using the same public network.
+The Centre of Indian Trade Unions (CITU) claimed that the Bill allows multiple distribution licensees in the same area using the same public-funded network, enabling private firms to cherry-pick high-paying consumers while public Discoms serve low-revenue rural and domestic consumers.
+“This will cripple public finances, destroy cross-subsidies, and increase tariffs. Smart metering, promoted by the Centre, is the technological tool for this privatisation drive, said CITU General Secretary Tapan Sen.
+The Electricity Employees’ Federation of India (EEFI) claimed that the Bill removes the mandatory no-objection requirement from the Central Government for obtaining the license in defence establishment areas.
+“This amendment, in the name of ease of doing business, will raise security risks and operational conflicts. Entrusting the supply of power to installations of strategic significance with private licensees may jeopardise national security,” said EEFI General Secretary Sudip Dutta.
+EEFI claimed that the explanatory note presented by the Government along with this proposed amendment reveals a striking confession.
+“The Government admits that after 22 years of the enactment of the Electricity Act, 2003, and despite major structural reforms under the Act, the distribution segment continues to face severe financial stress, with cumulative losses rising from ₹26,000 crore to ₹6.9 lakh crore over the last 22 years,” it added.
+EEFI said that Section 43 (4) empowers regulatory commissions to allow consumers with a demand above 1 MW to shift to private suppliers, reducing the revenue of public Discoms and further narrowing the scope of cross-subsidy.
+At the same time, the State utilities need to maintain the contract demand of those high-end consumers as back-up, putting a further financial burden on state Discoms.
+“Again, this allows private distribution licensees to avoid their universal supply obligation. They can refuse to supply power to any applicant if it is not profitable — even though there is a minimum threshold of 1 MW, this limit can easily be modified if such an approach is permitted in principle,” the federation claimed.
+Another issue is the proposed complete elimination of cross-subsidies within five years, especially for Railways, Metro Rail, and manufacturing industries, which will cause a massive revenue shock to public utilities.
+Cross-subsidies are not inefficiencies — they are a social necessity in a country where millions depend on affordable electricity for domestic, agricultural, and livelihood needs; this is the right of the people earned and protected through long struggle, EEFI’s Dutta said.
+CITU too said that cross-subsidy is a social necessity, not an inefficiency. “By promoting speculative power markets, the Bill converts electricity — a basic human necessity — into a tradable commodity. Such deregulation will lead to price volatility, unreliable supply, and the weakening of public control over energy security,” Sen added.
+The Bill also attacks the federal structure, CiTU said adding, that it gives the Central Government sweeping powers over state energy policy, including control over state regulatory commissions and renewable targets.
+“It is a direct assault on the federal character of the Constitution and will hit opposition-ruled states already facing fiscal stress due to biased GST and fund allocations,” CITU said.
+EEFI said that Section 176 replaces the phrase “for carrying out the provisions” with “for carrying out the purposes” of the Act, granting the Centre unlimited rule-making powers that bypass parliamentary and public scrutiny.
+Published on October 15, 2025
+

@@ -1,0 +1,66 @@
+Full Article Fetch Test - ATL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 91.05M
+
+Title   : Mint Explainer | OpenAI launches ChatGPT Atlas: Can it take on Google’s search empire?
+Source  : www.livemint.com
+Published: 2025-10-22T09:59:05
+Fetched : 2025-10-22T12:43:04.383736
+URL     : https://www.livemint.com/companies/news/openai-chatgpt-atlas-ai-browser-google-search-india-google-silicon-valley-internet-ai-platform-big-tech-data-startup-11761118063947.html
+--------------------------------------------------------------------------------
+Mint Explainer | OpenAI launches ChatGPT Atlas: Can it take on Google’s search empire?
+OpenAI is the world’s most valuable startup, and ChatGPT is a household name in India. But with cash burn surging, the company may need to chip away at Google’s search market—and India could be its biggest opportunity.
+NEW DELHI: OpenAI, the world’s most highly valued startup, on Tuesday launched ChatGPT Atlas—its artificial intelligence (AI)-powered web browser. While not the first AI browser, ChatGPT Atlas marks OpenAI’s bold challenge to Google in Silicon Valley’s fiercest tech rivalry in years.
+Mint explains why it matters, how it could reshape the internet, and what users in India are likely to see.
+Why is ChatGPT Atlas a big move from OpenAI?
+In October last year, OpenAI introduced a search engine version of its generative AI platform, ChatGPT. While ChatGPT functioned as a conversational assistant, the ‘search’ version aimed to enhance information discovery and trust-based ranking, reducing platform-driven bias. Exactly one year later, ChatGPT Atlas doubles down on what experts say generative AI is most likely to replace over time: traditional search engines.
+Search is Google’s largest revenue driver. At the time of writing, the company, the world’s fourth-largest by valuation at $3.07 trillion, reported that its search engine contributed 56% of Alphabet’s $96.4 billion quarterly operating revenue, including Chrome’s undisclosed contribution.
+Public data trackers predict that by 2034, AI browsers, excluding search revenue, could account for 60% of the $127 billion browser industry valuation. For OpenAI, capturing even a slice of this market is crucial, especially as the company is burning cash rapidly.
+Generative AI remains capital-intensive, making profitability essential, and ChatGPT Atlas is a step towards that goal.
+Is a web browser enough to push OpenAI forward?
+Not entirely. Over the past year, OpenAI has launched a suite of products: the collaborative coding assistant Canvas, the dedicated AI search engine, video generator Sora, the $500-billion Stargate data centre project, project management platform Codex, startup incubation programme Grove, content curation platform Pulse, and now ChatGPT Atlas.
+Experts note that OpenAI’s strategy mirrors Google’s approach over the past two decades—spanning workflow management, consumer applications, and data centres—to capture market share, particularly through its search offerings.
+“In the long run, search is the most directly monetizable product in AI today, since relying on subscriptions may not be enough especially for emerging geographies like India," said Jayanth Kolla, technology consultant and partner at Convergence Catalyst. “OpenAI is already plugging in commerce into its generative platform. It should only be a matter of time before the company can monetize its search engine and web browsers too—in a similar way as what Google has achieved before with Chrome and its own search engine."
+Why is India important?
+India’s internet population, over 800 million, is second only to China’s 1.1 billion, while the US lags at around 330 million users, according to Statista from August. This makes India a key market for Big Tech, particularly given China’s restrictive data policies. In July, OpenAI chief executive officer Sam Altman said India is on track to become the company’s largest global market.
+For Google, India is already significant: as of April, it ranked second in search users, accounting for 8% of all Google searches. On YouTube, India is the largest market, with 500 million of 2.7 billion active users worldwide.
+Experts, including Jayanth Kolla, believe India will be central to OpenAI’s push to challenge Google’s dominance in search and browsing. With one of the fastest-growing digital populations in the world, the sheer volume of users gives OpenAI a critical foothold in its competition with Google Chrome and search.
+Isn’t language a barrier?
+Yes. While most current internet users are English-speaking, the next wave is expected to be vernacular-first.
+This shift has prompted tech companies to give Indic languages increasing importance. Google, for example, announced a $15-billion plan on 14 October to set up AI data centres in India.
+At its Google For India event in December 2022, the company also unveiled Project Vaani, aimed at building large language models in local languages in partnership with the Indian Institute of Science (IISc).
+OpenAI has also targeted this segment. On 7 August, it launched GPT-5, with native support for 12 Indian languages, including Assamese, Bangla, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Telugu and Urdu.
+With both its search engine and the new web browser underpinned by GPT-5, OpenAI is poised to leverage Indic language support to reach more users worldwide.
+Will taking on Google be a key part of OpenAI’s play?
+Experts say yes. Kashyap Kompella, a technology consultant and analyst, noted that replicating Google’s strategy could give OpenAI access to large markets, just as Google’s early innovations prompted competitors to respond with purpose in AI products and services.
+Google, meanwhile, isn’t standing still. In an interview with Mint, Elizabeth Reid, vice-president and head of Google Search, said the company’s core product will inevitably evolve as AI reshapes search interfaces and operations. Earlier this year, Google limited page visibility to AI models, making it harder for fabellewebsites to be discovered by AI search engines. Searches increasingly feature AI mode overlays, a capability Google has been ramping up over the past five months.
+On 17 September, Google announced the integration of its AI platform Gemini into Chrome—mirroring shifts similar to those ChatGPT Atlas may bring. Mozilla Firefox has also added support for third-party AI plugins that function as AI assistants and agents. Rival AI startup Perplexity already offers Comet, an agentic AI browser, signalling that the AI browser market is just beginning to heat up.
+Ultimately, the next battle for internet supremacy will hinge on which company earns users’ trust and perfects the interface for AI search and browsing. Google’s scale gives it a clear lead, but OpenAI could pose the most serious challenge to Google’s dominance in decades.
+
+Title   : OpenAI launches ChatGPT Atlas browser to take on Google Chrome dominance
+Source  : www.thehindubusinessline.com
+Published: 2025-10-21T17:41:21
+Fetched : 2025-10-22T12:43:04.383812
+URL     : https://www.thehindubusinessline.com/info-tech/openai-launches-chatgpt-atlas-browser-for-mac-to-rival-google-chrome-soon/article70187692.ece
+--------------------------------------------------------------------------------
+OpenAI on Tuesday unveiled ChatGPT Atlas, a long-anticipated artificial intelligence-powered web browser built around its popular chatbot, in a direct challenge to Google Chrome’s dominance.
+The launch marks OpenAI’s latest move to capitalize on 800 million weekly active ChatGPT users, as it expands into more aspects of users’ online lives by collecting data about consumers’ browser behavior. It could accelerate a broader shift toward AI-driven search, as users increasingly turn to conversational tools that synthesize information instead of relying on traditional keyword-based results from Google — intensifying competition between OpenAI and Google.
+Alphabet shares dip as competition in AI browsers heats up
+Shares of Alphabet, which owns the Chrome browser, were down 1.8% in afternoon trading. Reuters earlier reported on OpenAI’s planned browser launch. It is the latest entrant in a crowded field of AI browsers, which includes Perplexity’s Comet, Brave Browser and Opera’s Neon, as companies race to weave in tools that can summarize pages, fill out forms and draft code to attract users.
+Atlas browser can summarise pages, fill forms, and even shop online
+Atlas lets users open a ChatGPT sidebar in any window to summarize content, compare products or analyze data from any site. In “agent mode,” now available to paid users, ChatGPT can interact with websites on their behalf — completing tasks from start to finish, such as researching and shopping for a trip. In a demo on Tuesday, OpenAI developers showcased how ChatGPT could find an online recipe and then automatically purchase all the ingredients. The agent navigated to the Instacart website and added the necessary groceries to the cart — a task that took several minutes to complete.
+Atlas available on macOS; Windows, iOS, Android versions coming soon
+The browser is now available globally on Apple’s macOS. Versions for Windows, iOS and Android will be released later.
+OpenAI, Google ramp up AI search rivalry as Chrome integrates Gemini
+Led by Sam Altman, OpenAI upended the tech industry with the launch of ChatGPT in late 2022. Following its initial success, the company has faced stiff competition from Google and startup Anthropic and has been seeking new areas of growth.
+Google, meanwhile, has been developing ways to adapt to shifting search behaviors since ChatGPT’s debut. Depending on the query, each Google search result can now display an AI overview, or AI Mode, alongside traditional links, offering a chatbot-like experience.
+Last month, Google integrated its Gemini AI model into Chrome for U.S. users, with plans to bring Gemini to the iOS Chrome app as well. In a win for Google, a federal judge in September ruled that Google won’t have to sell the Chrome browser.
+Judge Amit Mehta said Google can continue paying partners to promote its search engine, noting that heavy investment in generative AI by Big Tech and startups alike now threatens traditional search, making such payments more acceptable. Despite increasing competition, Google Chrome has held its dominance, with 71.9% market share in the global browser market in September, according to StatCounter. Still, analysts say a new browser from OpenAI could introduce fresh competition for ad dollars. “Integrating chat into a browser is a precursor for OpenAI starting to sell ads, which it has yet to do so far.
+Despite increasing competition, Google Chrome has held its dominance, with 71.9% market share in the global browser market in September, according to StatCounter. Still, analysts say a new browser from OpenAI could introduce fresh competition for ad dollars. “Integrating chat into a browser is a precursor for OpenAI starting to sell ads, which it has yet to do so far.
+Once OpenAI starts selling ads that could take away a significant part of search advertising share from Google, which has around 90% of that spend category,” said Gil Luria, analyst at D.A. Davidson
+Meet our new browser—ChatGPT Atlas.
+— OpenAI (@OpenAI) October 21, 2025
+Available today on macOS: https://t.co/UFKSQXvwHTpic.twitter.com/AakZyUk2BV
+Published on October 21, 2025
+

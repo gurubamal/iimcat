@@ -1,0 +1,35 @@
+Full Article Fetch Test - STANLEY
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 79.00M
+
+Title   : Morgan Stanley, MUFG launch $1 billion sale of Vena Energy India
+Source  : www.livemint.com
+Published: 2025-10-14T05:38:24
+Fetched : 2025-10-14T18:14:04.017216
+URL     : https://www.livemint.com/companies/news/morgan-stanley-mufg-blackrock-vena-energy-india-sale-renewable-energy-11760411033900.html
+--------------------------------------------------------------------------------
+Morgan Stanley, MUFG launch $1 billion sale of Vena Energy India
+The sale, code-named Project Indigo, marks Global Infrastructure Partners’ full exit from its bet on Vena Energy as global investors crowd into the country’s booming renewable energy market.
+NEW DELHI: Morgan Stanley and Mitsubishi UFJ Financial Group (MUFG) have begun the sale process for Global Infrastructure Partners (GIP)-owned Vena Global Group Pte Ltd’s Indian renewable energy platform, Vena Energy India, in a deal having an enterprise value of around $1 billion, according to two people familiar with the development.
+The deal comes amid a steady flow of global capital into India’s clean energy market.
+The sale, code-named Project Indigo, marks Global Infrastructure Partners’ full exit from its bet on Vena Energy. The sale process was formally launched this month. GIP itself was acquired by BlackRock Inc. in October last year. Vena Energy India operates 957 megawatts (MW) of renewable power assets, with another 59 MW under construction.
+GIP, along with CIC Capital Corp. (CIC Capital) and Public Sector Pension Investment Board (PSP Investments), had acquired Singapore-based renewable energy developer Equis Energy for $5 billion in October 2017. The acquisition included $1.3 billion in liabilities and Equis’s Indian portfolio, which comprised green energy platforms Energon and Energon Soleq. The assets were later rebranded as Vena Energy and structured as a corporate platform in Singapore.
+“Vena Energy projects have a weighted average residual power purchase agreement (PPA) of 17 years, with a ₹4.5 per kilowatt-hour (kWh) or per unit weighted average tariff," said one of the two people cited above requesting anonymity.
+Vena Energy has been active in India for over a decade through its earlier avatar Equis Energy. Its portfolio includes an advanced pipeline of 1.25 gigawatts (GW) of solar and wind projects and 752 megawatt-hours (MWh) of battery energy storage systems (BESS). It also has 1.46 GW of early- to mid-stage solar and wind projects under development and 100 MWh of additional BESS capacity.
+Spokespersons for GIP and MUFG declined to comment.
+A PSP Investments spokesperson said in an emailed response, “Our policy is to not comment on market rumours or speculation. We will therefore not participate in the story."
+Queries emailed to representatives of Vena Global Group, Morgan Stanley, and CIC Capital on Sunday night went unanswered at press time.
+Green energy dealmaking surges
+India’s renewable energy sector has been driving merger and acquisition activity, accounting for about $8.5 billion worth of deals, roughly 80% of all power sector transactions, in the first half of the current fiscal year, according to EY. The report noted that India now counts over 60 marquee global investors in its green energy space.
+“In Asia Pacific, India stands out as a dynamic market, with energy security and ambitious clean-energy targets (backed by government initiatives in renewables, battery storage and green hydrogen) creating a favourable environment for M&A activity," wrote PwC in its 2025 mid-year outlook report.
+“Asia Pacific continues to focus on investments to meet ambitious clean-energy targets, as well as investments in electrification and critical mineral supply chains. For example, in India, goals to hit 500 GW non-fossil fuel-based energy generation and 61 GW/336 GWh of energy storage targets by 2030 are driving M&A activity in renewables, green energy and electric vehicles," the PwC report said.
+The momentum is underpinned by India’s rapid capacity expansion. The country’s installed renewable energy capacity stands at 245 GW, with solar and wind contributing 116 GW and 52 GW, respectively. India aims to add 50 GW of new capacity annually to reach 500 GW by 2030, 1,800 GW by 2047, and 5,000 GW by 2070 as part of its net-zero roadmap.
+India accounted for 5.6% of the record 306 terawatt-hours (TWh) of global solar generation growth in the first half of 2025, which rose 31% year-on-year, according to think tank Ember.
+“Examples of recent notable transactions in this space include JSW Neo Energy’s acquisition of the 4.6 GW O2 portfolio and ONGC NTPC Green’s 4.1 GW Ayana platform deal," the PwC report said.
+Investor appetite for operational and under-construction assets is strong, with hybrid models gaining traction. Government support is expected to drive further M&A energy and infrastructure activity across the region. Two examples of this supportive policy environment include the Indian government’s initiative to integrate biogas into the national gas grid and its recent revision of the Domestic Content Requirement policy to boost domestic solar cell manufacturing, it added.
+Recent deal activity underscores the growing investor interest.
+European alternative asset manager EQT, for instance, dropped plans to sell renewable developer Zelestra’s India business, transferring it instead to its Asia-Pacific infrastructure arm led by Hong Kong-based partner Ken Wong. EQT will invest around $600 million to expand the portfolio and has appointed Parag Sharma—former CEO and founder of EQT- and Temasek-backed O2 Power—as Zelestra’s new chief executive, replacing Sajay K.V.
+In another deal, Nasdaq-listed ReNew Energy Global Plc agreed to sell 300 MW of solar assets to Singapore’s Sembcorp Industries Ltd, valuing the equity and enterprise at around $100 million and $190 million, respectively. Sembcorp, along with Torrent Power Ltd, Inox Green Energy Services Ltd (of the INOXGFL Group), and General Atlantic-owned Actis LLP, is also among the shortlisted bidders for Macquarie Asset Management’s Green Investment Group (GIG) platform, Vibrant Energy. The transaction—code-named Project Notos—is valued at around $600 million.
+Other major moves include Japan’s Orix Corp. selling its 17.5% stake in Greenko Energy Holdings to AM Green B.V., owned by Greenko founders Anil Chalamalasetty and Mahesh Kolli; ONGC NTPC Green Pvt. Ltd acquiring NIIF-backed Ayana Renewable Power Pvt. Ltd; and the joint venture between the Philippines’ Ayala Corporation-owned ACEN and UPC Renewables preparing to sell a large stake in its 1 GW Indian projects.
+

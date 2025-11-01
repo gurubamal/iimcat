@@ -1,0 +1,9 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+OIL,84.5,35,2,Certainty 35% below threshold (40%),India's September crude oil imports rise 1.7% m/m,Detected 0 catalyst(s). Score: 50/100. Certainty: 35%. BULLISH sentiment.
+WORTH,57.4,35,2,Certainty 35% below threshold (40%),"Govt clears 7 projects worth ₹5,532 crore under electronics manufacturing scheme",Detected 0 catalyst(s). Score: 65/100. Certainty: 35%. BULLISH sentiment.
+SUPREME,50.2,35,1,Certainty 35% below threshold (40%),"Vodafone Idea AGR case: Supreme Court allows Centre to review dues, shares surge",Detected 0 catalyst(s). Score: 65/100. Certainty: 35%. BULLISH sentiment.
+IDEA,50.2,35,1,Certainty 35% below threshold (40%),"Vodafone Idea AGR case: Supreme Court allows Centre to review dues, shares surge",Detected 0 catalyst(s). Score: 65/100. Certainty: 35%. BULLISH sentiment.
+MITTAL,38.2,35,1,Certainty 35% below threshold (40%),Shark Tank judge Anupam Mittal sparks debate on 35% hike demand while changing j,Detected 0 catalyst(s). Score: 50/100. Certainty: 35%. BULLISH sentiment.
+VIKRAN,38.2,35,1,Certainty 35% below threshold (40%),Vikran Engineering wins ₹354-crore solar EPC contract in Maharashtra,Detected 0 catalyst(s). Score: 50/100. Certainty: 35%. BULLISH sentiment.
+NUVOCO,36.5,25,1,Certainty 25% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,Detected 0 catalyst(s). Score: 50/100. Certainty: 25%. BULLISH sentiment.
+PREMIUM,36.5,25,1,Certainty 25% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,Detected 0 catalyst(s). Score: 50/100. Certainty: 25%. BULLISH sentiment.
