@@ -132,6 +132,80 @@ DECISION_BANDS = {
     # < 30 => STRONG_HOLD
 }
 
+def _load_exit_ai_config() -> None:
+    """Optionally override weights/bands from exit_ai_config.json.
+
+    This enables light feedback calibration via update_exit_ai_config.py
+    without changing code.
+    """
+    import json
+    try:
+        path = os.getenv('EXIT_AI_CONFIG', 'exit_ai_config.json')
+        if not path or not os.path.exists(path):
+            return
+        with open(path, 'r') as f:
+            cfg = json.load(f)
+        w = (cfg.get('weights') or {})
+        b = (cfg.get('bands') or {})
+        # Normalize and clamp weights
+        def _norm(ws):
+            ws2 = {k: float(max(0.05, min(0.8, ws.get(k, NEW_WEIGHTS.get(k, 0.1))))) for k in ('tech','news','fund','liquidity')}
+            s = sum(ws2.values()) or 1.0
+            return {k: v/s for k, v in ws2.items()}
+        nw = _norm(w) if w else None
+        if nw:
+            NEW_WEIGHTS.update(nw)
+        # Bands (keep sensible ordering)
+        sb = int(b.get('STRONG_EXIT', DECISION_BANDS['STRONG_EXIT'])) if b else DECISION_BANDS['STRONG_EXIT']
+        ex = int(b.get('EXIT', DECISION_BANDS['EXIT'])) if b else DECISION_BANDS['EXIT']
+        mo = int(b.get('MONITOR', DECISION_BANDS['MONITOR'])) if b else DECISION_BANDS['MONITOR']
+        ho = int(b.get('HOLD', DECISION_BANDS['HOLD'])) if b else DECISION_BANDS['HOLD']
+        # Ensure ordering: STRONG_EXIT >= EXIT > MONITOR > HOLD
+        sb = max(sb, ex)
+        ex = max(ex, mo+1)
+        mo = max(mo, ho+1)
+        DECISION_BANDS.update({'STRONG_EXIT': sb, 'EXIT': ex, 'MONITOR': mo, 'HOLD': ho})
+    except Exception:
+        # Silent: config is optional
+        pass
+
+# ----------------------------
+# Catalyst/Risk Type Heuristics
+# ----------------------------
+_FUND_CUE = (
+    'order', 'contract', 'order book', 'ordr book', 'ob expansion', 'earnings', 'guidance', 'profit', 'revenue',
+    'margin', 'cash flow', 'cashflow', 'fcf', 'debt', 'leverage', 'dividend', 'buyback', 'regulatory', 'approval',
+    'customer', 'plant', 'capacity', 'capex', 'opex', 'tariff', 'pricing', 'market share', 'rm cost', 'input cost',
+    'fta', 'fta duty', 'tax', 'gst', 'audit', 'fraud', 'liquidity', 'credit', 'rating', 'downgrade', 'upgrade',
+)
+_TECH_CUE = (
+    'breakout', 'break down', 'breakdown', 'support', 'resistance', 'rsi', 'bollinger', 'dma', 'sma', 'ema', 'atr',
+    'momentum', 'volume', 'volatility', '52-week', 'swing', 'overbought', 'oversold', 'gap', 'pattern', 'trend',
+)
+
+def _classify(items):
+    fund = 0
+    tech = 0
+    out = []
+    for it in items or []:
+        s = str(it or '').strip()
+        sl = s.lower()
+        is_f = any(k in sl for k in _FUND_CUE)
+        is_t = any(k in sl for k in _TECH_CUE)
+        if is_f and not is_t:
+            fund += 1
+            out.append(('fundamental', s))
+        elif is_t and not is_f:
+            tech += 1
+            out.append(('technical', s))
+        elif is_f and is_t:
+            # Mixed → consider fundamental to be conservative for exits
+            fund += 1
+            out.append(('fundamental', s))
+        else:
+            out.append(('other', s))
+    return fund, tech, out
+
 
 # ============================================================================
 # TECHNICAL ANALYSIS MODULE
@@ -509,7 +583,12 @@ def _normalize_exit_response(
     impact = str(raw_response.get('impact', 'medium')).lower()
     certainty = float(raw_response.get('confidence', raw_response.get('certainty', 50)) or 50)
     risks_list = raw_response.get('risks', []) or []
+    catalysts_list = raw_response.get('catalysts', raw_response.get('exit_catalysts', [])) or []
     reasoning = raw_response.get('reasoning', '') or ''
+
+    # Catalyst typing (fundamental vs technical) to bias scoring
+    fund_c, tech_c, _typed_cats = _classify(catalysts_list)
+    fund_r, tech_r, _typed_risks = _classify(risks_list)
 
     # Map to exit urgency baseline from generic recommendation
     base_exit = 50
@@ -535,8 +614,9 @@ def _normalize_exit_response(
     else:  # bullish
         neg_sent = 30
 
-    # Fundamental risk approximation from risks list and impact
-    fundamental = 50 + min(len(risks_list), 5) * 5  # up to +25
+    # Fundamental risk approximation from typed risks and impact
+    # Fundamental risks weigh more than technical warnings for exit.
+    fundamental = 50 + min(fund_r, 5) * 7 + min(tech_r, 5) * 3  # up to +50
     if impact == 'high':
         fundamental += 10
     elif impact == 'low':
@@ -544,7 +624,16 @@ def _normalize_exit_response(
     fundamental = max(0, min(100, fundamental))
 
     # Compose recommendation and reasons
-    combined_hint = int(0.35 * tech_score + 0.30 * fundamental + 0.25 * neg_sent + 0.10 * base_exit)
+    # Favor fundamental catalysts when present; promote exits if both
+    cat_bias = 0
+    if fund_c >= 1 and tech_c >= 1:
+        cat_bias = 5
+    elif fund_c >= 1:
+        cat_bias = 3
+    elif tech_c >= 2:
+        cat_bias = 2
+
+    combined_hint = int(0.35 * tech_score + 0.30 * fundamental + 0.25 * neg_sent + 0.10 * base_exit + cat_bias)
     if combined_hint >= 70 or rec_generic == 'SELL':
         exit_rec = 'IMMEDIATE_EXIT'
     elif combined_hint >= 50:
@@ -648,10 +737,11 @@ Provide a comprehensive EXIT assessment considering:
 Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
 """
 
-    # Call AI bridge
+    # Call AI bridge - use EXIT-SPECIFIC bridge for Claude
     try:
         if ai_provider == 'claude':
-            cmd = ['python3', 'claude_cli_bridge.py']
+            # Use enhanced exit-specific Claude bridge
+            cmd = ['python3', 'claude_exit_bridge.py']
         elif ai_provider == 'codex':
             cmd = ['python3', 'codex_bridge.py']
         elif ai_provider == 'gemini':
@@ -684,6 +774,11 @@ Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
             if response_text.startswith('json'):
                 response_text = response_text[4:]
             response_text = response_text.strip()
+
+        # Print raw response for debugging
+        print(f"--- RAW AI RESPONSE ({ai_provider}) ---")
+        print(response_text)
+        print("-------------------------------------")
 
         response = json.loads(response_text)
         # Normalize to exit schema (handles generic outputs from bridges)
@@ -1221,6 +1316,9 @@ def main():
     parser.add_argument('--index', dest='index_symbols', help='Comma-separated index symbols for regime filter (e.g., NIFTY50.NS)')
 
     args = parser.parse_args()
+
+    # Load optional dynamic config produced by feedback updater
+    _load_exit_ai_config()
 
     # Validate tickers file
     if not os.path.exists(args.tickers_file):

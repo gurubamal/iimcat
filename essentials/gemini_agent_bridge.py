@@ -20,6 +20,8 @@ import json
 import re
 import hashlib
 from typing import Optional
+import os
+import subprocess
 
 # Import AI conversation logger for QA (optional)
 try:
@@ -27,6 +29,30 @@ try:
 except ImportError:
     def log_ai_conversation(*args, **kwargs):
         pass
+
+def call_gemini_cli(prompt: str) -> Optional[str]:
+    try:
+        cmd = ['gemini', '--prompt', prompt]
+        print(f"--- Running Gemini CLI command: {' '.join(cmd)} ---", file=sys.stderr)
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            timeout=120
+        )
+        if result.returncode != 0:
+            print(f"--- Gemini CLI Error ---", file=sys.stderr)
+            print(result.stderr, file=sys.stderr)
+            print("------------------------", file=sys.stderr)
+            return None
+        print(f"--- Gemini CLI Output ---", file=sys.stderr)
+        print(result.stdout, file=sys.stderr)
+        print("-------------------------", file=sys.stderr)
+        return result.stdout
+    except Exception as e:
+        print(f"Error calling Gemini CLI: {e}", file=sys.stderr)
+        return None
+
 
 
 def fetch_url(url: str, timeout: int = 10) -> Optional[bytes]:
@@ -193,17 +219,14 @@ def main():
 
     if not prompt.strip():
         result = {
-            "score": 50,
+            "exit_urgency_score": 50,
             "sentiment": "neutral",
-            "impact": "medium",
-            "catalysts": [],
-            "deal_value_cr": 0,
-            "risks": ["insufficient_input"],
+            "exit_recommendation": "HOLD",
+            "exit_catalysts": [],
+            "hold_reasons": ["insufficient_input"],
+            "risks_of_holding": [],
             "certainty": 40,
-            "recommendation": "HOLD",
             "reasoning": "No prompt content provided to Gemini bridge.",
-            "expected_move_pct": 0,
-            "confidence": 40
         }
         print(json.dumps(result, ensure_ascii=False))
         log_ai_conversation(
@@ -246,42 +269,71 @@ def main():
         # Enhance prompt by fetching actual article content
         enhanced_prompt = fetch_and_enhance_prompt(prompt)
 
-        # Align with codex by reusing calibrated heuristic analyzer
-        import os
-        import realtime_ai_news_analyzer as rt
         instr = (os.getenv('GEMINI_SHELL_INSTRUCTION') or os.getenv('AI_SHELL_INSTRUCTION') or '').strip()
         full_prompt = (f"Additional Analyst Guidance: {instr}\n\n" if instr else "") + enhanced_prompt
+
+        gemini_response = call_gemini_cli(full_prompt)
+
+        if gemini_response:
+            try:
+                # Attempt to parse Gemini's response as JSON
+                gemini_json = json.loads(gemini_response)
+                # Validate if it has the expected keys for exit analysis
+                if all(k in gemini_json for k in ['exit_urgency_score', 'sentiment', 'exit_recommendation', 'certainty', 'reasoning']):
+                    result = {
+                        "exit_urgency_score": gemini_json.get("exit_urgency_score", 50),
+                        "sentiment": gemini_json.get("sentiment", "neutral"),
+                        "exit_recommendation": gemini_json.get("exit_recommendation", "HOLD"),
+                        "exit_catalysts": gemini_json.get("exit_catalysts", []),
+                        "hold_reasons": gemini_json.get("hold_reasons", []),
+                        "risks_of_holding": gemini_json.get("risks_of_holding", []),
+                        "certainty": gemini_json.get("certainty", 50),
+                        "reasoning": gemini_json.get("reasoning", ""),
+                    }
+                    print(json.dumps(result, ensure_ascii=False))
+                    log_ai_conversation(
+                        provider='gemini-cli',
+                        prompt=full_prompt,
+                        response=json.dumps(result, indent=2),
+                        metadata={'bridge': 'gemini_agent_bridge.py', 'type': 'gemini_cli_analysis'},
+                        error=None
+                    )
+                    return
+                else:
+                    print(f"Warning: Gemini CLI response missing expected keys, falling back to heuristic: {gemini_response}", file=sys.stderr)
+            except json.JSONDecodeError:
+                print(f"Warning: Gemini CLI returned invalid JSON, falling back to heuristic: {gemini_response}", file=sys.stderr)
+            except Exception as e:
+                print(f"Warning: Error processing Gemini CLI response, falling back to heuristic: {e}", file=sys.stderr)
+
+        # Fallback to heuristic analysis if Gemini CLI failed or returned invalid/incomplete data
+        import realtime_ai_news_analyzer as rt
         analyzer = rt.RealtimeAIAnalyzer(ai_provider='heuristic', max_ai_calls=0)
         ai = analyzer._intelligent_pattern_analysis(full_prompt)  # type: ignore
         out = {
-            "score": ai.get("score", 50),
+            "exit_urgency_score": ai.get("score", 50),
             "sentiment": ai.get("sentiment", "neutral"),
-            "impact": ai.get("impact", "medium"),
-            "catalysts": ai.get("catalysts", []),
-            "deal_value_cr": ai.get("deal_value_cr", 0),
-            "risks": ai.get("risks", []),
+            "exit_recommendation": ai.get("recommendation", "HOLD"),
+            "exit_catalysts": ai.get("catalysts", []),
+            "hold_reasons": [], # Heuristic doesn't provide this, default to empty
+            "risks_of_holding": ai.get("risks", []),
             "certainty": ai.get("certainty", 50),
-            "recommendation": ai.get("recommendation", "HOLD"),
             "reasoning": ai.get("reasoning", ""),
-            "expected_move_pct": ai.get("expected_move_pct", 0),
-            "confidence": ai.get("confidence", ai.get("certainty", 50)),
         }
         result = out
         print(json.dumps(out, ensure_ascii=False))
+
     except Exception as e:
         error_msg = str(e)
         result = {
-            "score": 45,
+            "exit_urgency_score": 45,
             "sentiment": "neutral",
-            "impact": "low",
-            "catalysts": [],
-            "deal_value_cr": 0,
-            "risks": ["bridge_error"],
+            "exit_recommendation": "HOLD",
+            "exit_catalysts": [],
+            "hold_reasons": [],
+            "risks_of_holding": ["bridge_error"],
             "certainty": 35,
-            "recommendation": "HOLD",
             "reasoning": f"Gemini bridge error: {e}",
-            "expected_move_pct": 0,
-            "confidence": 35
         }
         print(json.dumps(result))
     finally:

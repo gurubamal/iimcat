@@ -169,7 +169,8 @@ class ExitAIClient:
         """Call AI bridge with prompt"""
         try:
             if self.provider == 'claude':
-                cmd = ['python3', 'claude_bridge.py']
+                # Use enhanced exit-specific Claude bridge
+                cmd = ['python3', 'claude_exit_bridge.py']
             elif self.provider == 'codex':
                 cmd = ['python3', 'codex_bridge.py']
             elif self.provider == 'gemini':
@@ -427,11 +428,20 @@ def analyze_ticker_for_exit(
             exit_catalysts = result.get('exit_catalysts') or result.get('primary_exit_reasons', []) or []
             hold_reasons = result.get('hold_reasons') or result.get('hold_rationale', []) or []
 
+            # Calibrate urgency more aggressively in technical-only mode by
+            # leaning on the technical_breakdown_score when present.
+            base_urgency = float(result.get('exit_urgency_score', 50) or 50)
+            tech_break = result.get('technical_breakdown_score')
+            if isinstance(tech_break, (int, float)):
+                calibrated_urgency = round(0.7 * float(tech_break) + 0.3 * base_urgency, 1)
+            else:
+                calibrated_urgency = base_urgency
+
             analysis = ExitAIAnalysis(
                 ticker=ticker,
                 headline="Technical-only assessment (no recent news)",
                 timestamp=datetime.now(),
-                exit_urgency_score=result.get('exit_urgency_score', 50),
+                exit_urgency_score=calibrated_urgency,
                 sentiment=result.get('sentiment', 'neutral'),
                 exit_recommendation=result.get('exit_recommendation', 'MONITOR'),
                 exit_catalysts=exit_catalysts,
@@ -548,10 +558,16 @@ def aggregate_exit_decision(analyses: List[ExitAIAnalysis]) -> Dict:
     hold_reasons = list(dict.fromkeys(all_hold_reasons))[:3]
     risks_of_holding = list(dict.fromkeys(all_risks))[:5]
 
-    # Determine final recommendation
-    if avg_exit_score >= 90:
+    # Determine final recommendation with adaptive thresholds.
+    # If we only have technical-only assessments (no articles), use slightly
+    # lower thresholds to reflect higher reliance on price action.
+    tech_only = all((getattr(a, 'articles_count', 0) == 0) or ('Technical-only' in (a.headline or '')) for a in analyses)
+    imm_thresh = 80 if tech_only else 90
+    mon_thresh = 50 if tech_only else 60
+
+    if avg_exit_score >= imm_thresh:
         recommendation = 'IMMEDIATE_EXIT'
-    elif avg_exit_score >= 60:
+    elif avg_exit_score >= mon_thresh:
         recommendation = 'MONITOR'
     else:
         recommendation = 'HOLD'
@@ -649,12 +665,30 @@ def main():
         fieldnames = [
             'rank', 'ticker', 'company_name', 'exit_urgency_score', 'sentiment',
             'exit_recommendation', 'exit_catalysts', 'hold_reasons', 'risks_of_holding',
-            'certainty', 'articles_analyzed', 'technical_score', 'headline', 'reasoning'
+            'certainty', 'articles_analyzed', 'technical_score', 'headline', 'reasoning',
+            'stop', 'trail', 'alert'
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
 
+        # Compute levels per ticker for quick actioning
+        levels_cache = {}
+        try:
+            import exit_intelligence_analyzer as exit_analyzer  # reuse levels logic
+        except Exception:
+            exit_analyzer = None
+
         for result in results:
+            tkr = result['ticker']
+            lv = {'stop': '', 'trail': '', 'alert': ''}
+            if exit_analyzer is not None:
+                try:
+                    tech = get_technical_data(tkr)  # reuse local helper
+                    if tech:
+                        lv = exit_analyzer._compute_levels(tech) or {'stop': '', 'trail': '', 'alert_reclaim': ''}
+                except Exception:
+                    pass
+
             writer.writerow({
                 'rank': result['rank'],
                 'ticker': result['ticker'],
@@ -669,7 +703,10 @@ def main():
                 'articles_analyzed': result['articles_analyzed'],
                 'technical_score': result.get('technical_score', ''),
                 'headline': result['headline'],
-                'reasoning': result['reasoning']
+                'reasoning': result['reasoning'],
+                'stop': lv.get('stop', ''),
+                'trail': lv.get('trail', ''),
+                'alert': lv.get('alert_reclaim', '')
             })
 
     logger.info(f"\n✅ Analysis complete! Results saved to: {output_file}")

@@ -1,0 +1,7 @@
+# IMMEDIATE EXIT RECOMMENDATIONS
+# Generated: 2025-11-02 11:59:56
+# Total stocks requiring immediate exit: 3
+
+BFUTILITIE
+VIKRAMAR
+INDINFO

@@ -53,12 +53,25 @@ if [ "$PROVIDER" = "claude" ]; then
     AI_PROVIDER_DISPLAY="Claude CLI"
 
 elif [ "$PROVIDER" = "gemini" ]; then
-    echo "AI Provider: Gemini Agent"
-    echo "Cost: FREE"
+    echo "AI Provider: Gemini CLI"
+    echo "Cost: FREE (with Google account)"
     echo "Speed: ~5-8s per stock"
-    echo "Accuracy: ~80%"
+    echo "Accuracy: ~85%"
     echo ""
-    AI_PROVIDER_DISPLAY="Gemini Agent"
+
+    # Check if gemini CLI is available
+    if ! command -v gemini &> /dev/null; then
+        echo "❌ ERROR: 'gemini' CLI not found!"
+        echo ""
+        echo "Please install Gemini CLI:"
+        echo "  npm install -g @google/gemini-cli"
+        echo ""
+        echo "Or set up authentication:"
+        echo "  gemini auth"
+        exit 1
+    fi
+
+    AI_PROVIDER_DISPLAY="Gemini CLI"
 
 elif [ "$PROVIDER" = "codex" ]; then
     echo "AI Provider: Codex (Calibrated Heuristic + AI)"
@@ -121,6 +134,30 @@ echo ""
 # Set environment for AI provider
 export AI_PROVIDER="$PROVIDER"
 
+# Optional: apply feedback-based config update before running analysis
+if [ -f "ai_feedback_simulation.json" ]; then
+  echo "🛠️  Applying feedback-based EXIT AI calibration (top-3 simulation)..."
+  python3 update_exit_ai_config.py || true
+  export EXIT_AI_CONFIG="exit_ai_config.json"
+  echo "   Using updated config: $EXIT_AI_CONFIG"
+  echo ""
+fi
+
+# Default: enable live intraday feedback using yfinance (requires internet).
+# Set EXIT_USE_INTRADAY=0 to disable.
+EXIT_USE_INTRADAY="${EXIT_USE_INTRADAY:-1}"
+if [ "$EXIT_USE_INTRADAY" = "1" ]; then
+  echo "⏱️  Applying live intraday feedback (yfinance, top-3 from latest CSV)..."
+  # Prefer using the tickers file's first 3 symbols for this run
+  python3 intraday_feedback_updater.py \
+    --tickers-file "$TICKERS_FILE" \
+    --interval "${EXIT_INTRADAY_INTERVAL:-5m}" \
+    --window "${EXIT_INTRADAY_WINDOW:-240}" || true
+  export EXIT_AI_CONFIG="exit_ai_config.json"
+  echo "   Using updated config: $EXIT_AI_CONFIG"
+  echo ""
+fi
+
 # Run the REALTIME exit AI analyzer (same sharpness as buying predictions)
 echo "🤖 Using REALTIME AI NEWS ANALYSIS for exit decisions..."
 echo "   (Same sharp analysis as your buying predictions!)"
@@ -168,6 +205,15 @@ if [ $EXIT_CODE -eq 0 ]; then
     echo "   • Review IMMEDIATE_EXIT recommendations first"
     echo "   • MONITOR stocks warrant close watching"
     echo "   • This is intelligent decision support - apply your judgment"
+    echo ""
+
+    # Optional second pass: comprehensive exit intelligence (tech + AI) even without news
+    echo "🧠 Running comprehensive EXIT INTELLIGENCE (tech+AI) for confirmation..."
+    python3 exit_intelligence_analyzer.py \
+      --tickers-file "$TICKERS_FILE" \
+      --ai-provider "$PROVIDER" \
+      --hours-back "$HOURS_BACK" \
+      --quiet || true
     echo ""
 
 else

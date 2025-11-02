@@ -22,7 +22,11 @@
       "Bash(timeout 30 ./run_without_api.sh:*)",
       "WebSearch",
       "Bash(test_exit.txt)",
-      "Bash(timeout 120 python3:*)"
+      "Bash(timeout 120 python3:*)",
+      "Bash(./test_claude_exit_enhanced.sh:*)",
+      "Bash(claude:*)",
+      "Bash(timeout 30:*)",
+      "Bash(timeout 40 ./test_claude_cli_exit.sh:*)"
     ],
     "deny": [],
     "ask": []

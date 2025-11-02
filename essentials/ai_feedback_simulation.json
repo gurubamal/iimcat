@@ -1,0 +1,20 @@
+{
+  "asof": "2025-11-02T13:49:27.087930+00:00",
+  "entries": [
+    {
+      "ticker": "KEC",
+      "initial_action": "HOLD",
+      "change_pct": -0.982
+    },
+    {
+      "ticker": "PETRONET",
+      "initial_action": "HOLD",
+      "change_pct": -0.248
+    },
+    {
+      "ticker": "DEEPAKNTR",
+      "initial_action": "HOLD",
+      "change_pct": -0.683
+    }
+  ]
+}
