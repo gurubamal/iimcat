@@ -20,7 +20,9 @@
       "Bash(timeout 120 ./run_without_api.sh:*)",
       "Bash(timeout 30 python3:*)",
       "Bash(timeout 30 ./run_without_api.sh:*)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(test_exit.txt)",
+      "Bash(timeout 120 python3:*)"
     ],
     "deny": [],
     "ask": []

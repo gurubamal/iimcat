@@ -121,37 +121,53 @@ echo ""
 # Set environment for AI provider
 export AI_PROVIDER="$PROVIDER"
 
-# Run the exit intelligence analyzer
-python3 exit_intelligence_analyzer.py \
+# Run the REALTIME exit AI analyzer (same sharpness as buying predictions)
+echo "🤖 Using REALTIME AI NEWS ANALYSIS for exit decisions..."
+echo "   (Same sharp analysis as your buying predictions!)"
+echo ""
+
+python3 realtime_exit_ai_analyzer.py \
   --tickers-file "$TICKERS_FILE" \
   --ai-provider "$PROVIDER" \
-  --hours-back "$HOURS_BACK"
+  --hours-back "$HOURS_BACK" \
+  --max-articles 10
 
 EXIT_CODE=$?
 
 if [ $EXIT_CODE -eq 0 ]; then
     echo ""
     echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    echo "✅ EXIT ASSESSMENT COMPLETE!"
+    echo "✅ REALTIME EXIT AI ANALYSIS COMPLETE!"
     echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     echo ""
-    echo "📊 Check the output files:"
-    echo "   • exit_assessment_immediate_*.txt - Stocks requiring immediate exit"
-    echo "   • exit_assessment_hold_*.txt - Stocks safe to hold/monitor"
-    echo "   • exit_assessment_detailed_*.csv - Full analysis report"
+    echo "📊 Output file created:"
+    echo "   • realtime_exit_ai_results_*_${PROVIDER}.csv"
+    echo ""
+    echo "📋 CSV columns include:"
+    echo "   • rank - Priority ranking by exit urgency"
+    echo "   • exit_urgency_score - 0-100 (90+ = IMMEDIATE_EXIT)"
+    echo "   • exit_recommendation - IMMEDIATE_EXIT / MONITOR / HOLD"
+    echo "   • exit_catalysts - Specific reasons to exit"
+    echo "   • hold_reasons - Reasons to continue holding"
+    echo "   • risks_of_holding - Risks if position maintained"
+    echo "   • certainty - Confidence in recommendation (0-100%)"
+    echo "   • reasoning - Sharp AI analysis explaining decision"
     echo ""
 
-    if [ "$PROVIDER" = "codex" ]; then
-        echo "💡 For higher accuracy on critical decisions:"
+    if [ "$PROVIDER" = "codex" ] || [ "$PROVIDER" = "auto" ]; then
+        echo "💡 For MAXIMUM accuracy on critical exit decisions:"
         echo "   $0 claude $TICKERS_FILE $HOURS_BACK"
         echo ""
     fi
 
-    echo "📝 IMPORTANT NOTES:"
-    echo "   • Review immediate exit recommendations carefully"
-    echo "   • Consider setting stop losses for MONITOR stocks"
-    echo "   • This is a decision support tool - use your judgment"
-    echo "   • Assessment is based on available data and AI analysis"
+    echo "📝 SHARP EXIT ANALYSIS NOTES:"
+    echo "   ✅ Same AI analysis quality as buying predictions"
+    echo "   ✅ Real-time news analysis for exit signals"
+    echo "   ✅ Detailed catalysts, risks, and reasoning"
+    echo "   ✅ Certainty scores to gauge confidence"
+    echo "   • Review IMMEDIATE_EXIT recommendations first"
+    echo "   • MONITOR stocks warrant close watching"
+    echo "   • This is intelligent decision support - apply your judgment"
     echo ""
 
 else
