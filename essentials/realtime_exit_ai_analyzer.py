@@ -404,12 +404,54 @@ def analyze_ticker_for_exit(
     # Fetch news
     articles = fetch_exit_news(ticker, hours_back, max_articles)
 
-    if not articles:
-        logger.warning(f"No news found for {ticker}")
-        return []
-
-    # Get technical data once for the ticker
+    # Get technical data once for the ticker (non-blocking; may be empty if data unavailable)
     technical_data = get_technical_data(ticker)
+
+    # If no articles are available (e.g., offline or no coverage), still return a
+    # single, technically-informed assessment so users get a baseline view.
+    if not articles:
+        logger.warning(f"No news found for {ticker}; performing technical-only assessment")
+        try:
+            # Use the comprehensive exit analyzer's AI bridge to produce an exit-specific
+            # assessment that fully incorporates technical indicators even without news.
+            import exit_intelligence_analyzer as exit_analyzer
+            ai_provider = getattr(ai_client, 'provider', os.environ.get('AI_PROVIDER', 'codex'))
+            result = exit_analyzer.call_ai_for_exit_assessment(
+                ticker=ticker,
+                ai_provider=ai_provider,
+                technical_data=technical_data or {},
+                news_context="No recent news available in the selected window"
+            )
+
+            # Map fields to this module's schema
+            exit_catalysts = result.get('exit_catalysts') or result.get('primary_exit_reasons', []) or []
+            hold_reasons = result.get('hold_reasons') or result.get('hold_rationale', []) or []
+
+            analysis = ExitAIAnalysis(
+                ticker=ticker,
+                headline="Technical-only assessment (no recent news)",
+                timestamp=datetime.now(),
+                exit_urgency_score=result.get('exit_urgency_score', 50),
+                sentiment=result.get('sentiment', 'neutral'),
+                exit_recommendation=result.get('exit_recommendation', 'MONITOR'),
+                exit_catalysts=exit_catalysts,
+                hold_reasons=hold_reasons,
+                risks_of_holding=result.get('risk_factors', result.get('risks_of_holding', [])) or [],
+                certainty=result.get('exit_confidence', result.get('certainty', 40)),
+                reasoning=result.get('recommendation_summary', result.get('reasoning', '')),
+                company_name=ticker,
+                articles_count=0,
+                technical_score=(
+                    result.get('technical_breakdown_score')
+                    if result.get('technical_breakdown_score') is not None
+                    else (technical_data.get('rsi', None) if technical_data else None)
+                )
+            )
+
+            return [analysis]
+        except Exception as e:
+            logger.error(f"Technical-only assessment failed for {ticker}: {e}")
+            return []
 
     # Analyze each article
     analyses = []
@@ -425,6 +467,10 @@ def analyze_ticker_for_exit(
                 technical_data=technical_data
             )
 
+            # Normalize catalyst/hold keys from bridges
+            exit_catalysts = result.get('exit_catalysts') or result.get('primary_exit_reasons', []) or []
+            hold_reasons = result.get('hold_reasons') or result.get('hold_rationale', []) or []
+
             analysis = ExitAIAnalysis(
                 ticker=ticker,
                 headline=article.get('title', ''),
@@ -432,14 +478,18 @@ def analyze_ticker_for_exit(
                 exit_urgency_score=result.get('exit_urgency_score', 50),
                 sentiment=result.get('sentiment', 'neutral'),
                 exit_recommendation=result.get('exit_recommendation', 'MONITOR'),
-                exit_catalysts=result.get('exit_catalysts', []),
-                hold_reasons=result.get('hold_reasons', []),
-                risks_of_holding=result.get('risks_of_holding', []),
-                certainty=result.get('certainty', 50),
-                reasoning=result.get('reasoning', ''),
+                exit_catalysts=exit_catalysts,
+                hold_reasons=hold_reasons,
+                risks_of_holding=result.get('risk_factors', result.get('risks_of_holding', [])) or [],
+                certainty=result.get('exit_confidence', result.get('certainty', 50)),
+                reasoning=result.get('recommendation_summary', result.get('reasoning', '')),
                 company_name=article.get('company_name', ticker),
                 articles_count=len(articles),
-                technical_score=technical_data.get('rsi', None) if technical_data else None
+                technical_score=(
+                    result.get('technical_breakdown_score')
+                    if result.get('technical_breakdown_score') is not None
+                    else (technical_data.get('rsi', None) if technical_data else None)
+                )
             )
 
             analyses.append(analysis)

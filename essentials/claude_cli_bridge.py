@@ -219,7 +219,90 @@ def fetch_and_enhance_prompt(prompt: str) -> str:
 
 
 # ============================================================================
-# Analysis prompt template for Claude
+# EXIT ANALYSIS SYSTEM PROMPT (for technical exit assessment)
+EXIT_ANALYSIS_SYSTEM_PROMPT = """You are an expert portfolio manager and technical analyst specializing in EXIT/SELL decisions.
+
+CRITICAL: Your response MUST be valid JSON only. No markdown, no code fences, no explanations.
+
+Respond with ONLY this JSON structure:
+{
+  "exit_recommendation": "<IMMEDIATE_EXIT/MONITOR/HOLD>",
+  "exit_urgency_score": <0-100 number, higher = more urgent>,
+  "exit_confidence": <0-100 number>,
+  "technical_breakdown_score": <0-100 number based on technical signals>,
+  "fundamental_risk_score": <0-100 number>,
+  "negative_sentiment_score": <0-100 number>,
+  "primary_exit_reasons": ["<specific reason 1 with numbers>", "<specific reason 2>", "<specific reason 3>"],
+  "hold_rationale": ["<reason to hold if any>"],
+  "risk_factors": ["<risk 1>", "<risk 2>"],
+  "recommendation_summary": "<2-3 sentence clear assessment with SPECIFIC NUMBERS>",
+  "stop_loss_suggestion": <percentage number>
+}
+
+TECHNICAL SIGNAL INTERPRETATION (BE SPECIFIC):
+
+**RSI Analysis:**
+- RSI < 30: Oversold, potential bounce BUT if trend is broken, could fall further (add 10-15 to exit score)
+- RSI 30-40: Weak, in downtrend (add 5-10 to exit score)
+- RSI 40-60: Neutral territory
+- RSI > 70 with negative momentum: Overbought reversal risk (add 10-15 to exit score)
+
+**Moving Average Breakdowns (CRITICAL EXIT SIGNALS):**
+- Price 5-8% below 20-day SMA: Warning sign (add 15-20 to technical_breakdown_score)
+- Price > 8% below 20-day SMA: Severe breakdown (add 25-30 to technical_breakdown_score)
+- Price > 10% below 50-day SMA: Major support broken (add 20-25 to technical_breakdown_score)
+- Death cross (20-SMA < 50-SMA): Bearish crossover (add 20 to technical_breakdown_score)
+
+**Momentum & Volume:**
+- Negative 10-day momentum < -5%: Downtrend confirmed (add 15-20 to exit score)
+- Negative momentum < -10%: Severe selling (add 25-30 to exit score)
+- Low volume on downtrend: Weak support, likely to fall more (add 8-10 to exit score)
+- High volume on downtrend: Panic selling, immediate exit (add 10-15 to exit score)
+
+**Bollinger Bands & Volatility:**
+- Close below lower BB: Breakdown in progress (add 10 to exit score)
+- High ATR (>3% of price): Increased risk (add 5-8 to exit score)
+
+**Multi-timeframe Alignment:**
+- Daily + Weekly both down: Strong downtrend, high exit urgency (add 7-10 to exit score)
+
+**SCORING FORMULA:**
+1. Start with technical_breakdown_score = sum of above signals (can go 0-100)
+2. exit_urgency_score = 0.5 * technical_breakdown_score + 0.3 * fundamental_risk_score + 0.2 * negative_sentiment_score
+3. Round to nearest integer
+
+**DECISION MAPPING:**
+- exit_urgency_score 75-100 + high confidence (>70%) = IMMEDIATE_EXIT
+- exit_urgency_score 60-74 = MONITOR (watch closely, prepare to exit)
+- exit_urgency_score < 60 = HOLD (no urgent exit signals)
+
+**CONFIDENCE CALCULATION:**
+- High confidence (80-95%): Clear technical breakdown with multiple confirming signals
+- Medium confidence (60-79%): Some warning signs but mixed signals
+- Low confidence (40-59%): Limited technical data or conflicting signals
+
+**CRITICAL RULES:**
+1. BE SPECIFIC: Instead of "RSI is low", say "RSI oversold at 22.8 (potential further downside)"
+2. USE NUMBERS: Reference actual values from technical data
+3. BE ACTIONABLE: Give clear reasoning with percentages and levels
+4. DON'T BE GENERIC: Every response should be unique based on the actual technical indicators
+5. ANALYZE COMBINATIONS: RSI + SMA breakdown + negative momentum = STRONG EXIT signal
+
+**EXAMPLES OF GOOD primary_exit_reasons:**
+✅ "Price 7.9% below 20-day SMA with RSI at 27.8 (breakdown confirmed)"
+✅ "Severe negative momentum: -8.5% over 10 days with volume decline"
+✅ "Death cross: 20-SMA crossed below 50-SMA, bearish trend established"
+✅ "Price broke below lower Bollinger band, near 52-week low"
+
+**EXAMPLES OF BAD primary_exit_reasons:**
+❌ "Some warning signs present" (too vague)
+❌ "Technical weakness detected" (no specifics)
+❌ "Consider monitoring" (not actionable)
+
+REMEMBER: You have access to ACTUAL technical indicators. Use them!
+"""
+
+# Analysis prompt template for Claude (NEWS ANALYSIS)
 FINANCIAL_ANALYSIS_SYSTEM_PROMPT = """You are an expert financial analyst specializing in Indian stock markets.
 Analyze news articles for trading and investment implications with precision.
 
@@ -342,11 +425,20 @@ Be competitive, realistic, and leverage your superior context to outperform simp
 """
 
 
-def call_claude_cli(prompt: str, timeout: int = 90) -> str:
-    """Call Claude CLI with --print mode and return response."""
+def call_claude_cli(prompt: str, timeout: int = 90, is_exit_analysis: bool = False) -> str:
+    """Call Claude CLI with --print mode and return response.
+
+    Args:
+        prompt: The analysis prompt
+        timeout: Timeout in seconds
+        is_exit_analysis: If True, use EXIT_ANALYSIS_SYSTEM_PROMPT instead of FINANCIAL_ANALYSIS_SYSTEM_PROMPT
+    """
 
     # Get model preference (default to sonnet for speed/cost balance)
     model = os.getenv('CLAUDE_CLI_MODEL', 'sonnet')
+
+    # Select appropriate system prompt based on analysis type
+    system_prompt = EXIT_ANALYSIS_SYSTEM_PROMPT if is_exit_analysis else FINANCIAL_ANALYSIS_SYSTEM_PROMPT
 
     # Build command - using --print for non-interactive mode
     cmd = [
@@ -354,7 +446,7 @@ def call_claude_cli(prompt: str, timeout: int = 90) -> str:
         '--print',  # Non-interactive mode
         '--output-format', 'text',  # Text output (we'll parse JSON from it)
         '--model', model,
-        '--system-prompt', FINANCIAL_ANALYSIS_SYSTEM_PROMPT,
+        '--system-prompt', system_prompt,
         prompt  # The analysis request
     ]
 
@@ -532,6 +624,97 @@ def assess_indian_market_popularity(
     except Exception as e:
         print(f"⚠️  Popularity scoring failed: {e}", file=sys.stderr)
         return None
+
+
+def analyze_exit_with_claude(prompt: str) -> Dict:
+    """Exit analysis function using Claude CLI for technical exit assessment.
+
+    Specifically designed for EXIT/SELL decisions based on technical indicators.
+    Returns exit-specific JSON schema.
+    """
+
+    print("=" * 80, file=sys.stderr)
+    print("🚀 CLAUDE EXIT ANALYSIS - STARTING ASSESSMENT", file=sys.stderr)
+    print("=" * 80, file=sys.stderr)
+
+    timeout = int(os.getenv('CLAUDE_CLI_TIMEOUT', '120'))
+    model = os.getenv('CLAUDE_CLI_MODEL', 'sonnet')
+
+    raw_response = None
+    error_msg = None
+    result = None
+
+    try:
+        # Call Claude CLI with exit analysis system prompt
+        print(f"🤖 Calling Claude CLI for EXIT analysis (model={model}, timeout={timeout}s)...", file=sys.stderr)
+        raw_response = call_claude_cli(prompt, timeout=timeout, is_exit_analysis=True)
+        print(f"✅ Received response ({len(raw_response)} chars)", file=sys.stderr)
+
+        # Extract JSON from response
+        data = extract_json_from_response(raw_response)
+        print(f"✅ Parsed JSON successfully", file=sys.stderr)
+
+        # Validate required exit fields
+        result = {
+            "exit_recommendation": str(data.get("exit_recommendation", "HOLD")).upper(),
+            "exit_urgency_score": float(data.get("exit_urgency_score", 50)),
+            "exit_confidence": float(data.get("exit_confidence", data.get("confidence", 50))),
+            "technical_breakdown_score": float(data.get("technical_breakdown_score", 0)),
+            "fundamental_risk_score": float(data.get("fundamental_risk_score", 50)),
+            "negative_sentiment_score": float(data.get("negative_sentiment_score", 50)),
+            "primary_exit_reasons": list(data.get("primary_exit_reasons", [])),
+            "hold_rationale": list(data.get("hold_rationale", [])),
+            "risk_factors": list(data.get("risk_factors", [])),
+            "recommendation_summary": str(data.get("recommendation_summary", "")),
+            "stop_loss_suggestion": float(data.get("stop_loss_suggestion", 10)),
+        }
+
+        # Clamp numeric values
+        result["exit_urgency_score"] = max(0, min(100, result["exit_urgency_score"]))
+        result["exit_confidence"] = max(0, min(100, result["exit_confidence"]))
+        result["technical_breakdown_score"] = max(0, min(100, result["technical_breakdown_score"]))
+
+        print(f"✅ Exit analysis complete: {result['exit_recommendation']}, "
+              f"urgency={result['exit_urgency_score']:.0f}/100, "
+              f"confidence={result['exit_confidence']:.0f}%", file=sys.stderr)
+
+    except Exception as e:
+        error_msg = str(e)[:200]
+        print(f"❌ ERROR: {error_msg}", file=sys.stderr)
+        result = {
+            "exit_recommendation": "HOLD",
+            "exit_urgency_score": 50,
+            "exit_confidence": 30,
+            "technical_breakdown_score": 0,
+            "fundamental_risk_score": 50,
+            "negative_sentiment_score": 50,
+            "primary_exit_reasons": [f"Claude CLI error: {error_msg}"],
+            "hold_rationale": [],
+            "risk_factors": ["claude_cli_error"],
+            "recommendation_summary": f"Exit analysis failed: {error_msg}",
+            "stop_loss_suggestion": 10
+        }
+
+    finally:
+        # Log the conversation for QA purposes
+        log_ai_conversation(
+            provider='claude-cli-exit',
+            prompt=prompt,
+            response=raw_response if raw_response else json.dumps(result, indent=2),
+            metadata={
+                'model': model,
+                'timeout': timeout,
+                'bridge': 'claude_cli_bridge.py (EXIT ANALYSIS)',
+                'analysis_type': 'exit',
+            },
+            error=error_msg
+        )
+
+        print("=" * 80, file=sys.stderr)
+        print("🏁 CLAUDE EXIT ANALYSIS COMPLETE", file=sys.stderr)
+        print("=" * 80, file=sys.stderr)
+
+    return result
 
 
 def analyze_with_claude(prompt: str) -> Dict:
@@ -743,6 +926,27 @@ Return ONLY valid JSON: {{"is_valid": true/false, "exchange": "NSE/BSE/BOTH/NONE
     return None
 
 
+def detect_exit_analysis_prompt(prompt: str) -> bool:
+    """Detect if the prompt is for exit/sell analysis rather than news analysis.
+
+    Exit analysis prompts contain:
+    - "COMPREHENSIVE EXIT ASSESSMENT"
+    - "exit_recommendation"
+    - "EXIT/SELL"
+    - Technical data without article URLs/headlines
+    """
+    exit_indicators = [
+        "COMPREHENSIVE EXIT ASSESSMENT",
+        "exit_recommendation",
+        "EXIT/SELL",
+        "assess whether to EXIT",
+        "exit_urgency_score",
+        "technical_breakdown_score",
+        "IMMEDIATE_EXIT",
+    ]
+    return any(indicator in prompt for indicator in exit_indicators)
+
+
 def main():
     """Main entry point - reads prompt from stdin, outputs JSON to stdout.
 
@@ -750,6 +954,7 @@ def main():
     - Connectivity probes
     - Ticker validation
     - Full article analysis
+    - Exit/sell technical analysis
     """
 
     # Read prompt from stdin
@@ -785,8 +990,15 @@ def main():
         print(json.dumps(validation_result, ensure_ascii=False))
         return
 
-    # Normal analysis
-    result = analyze_with_claude(prompt)
+    # Detect analysis type and route appropriately
+    if detect_exit_analysis_prompt(prompt):
+        # EXIT ANALYSIS MODE
+        print("🎯 Exit analysis prompt detected", file=sys.stderr)
+        result = analyze_exit_with_claude(prompt)
+    else:
+        # NEWS ANALYSIS MODE
+        print("📰 News analysis prompt detected", file=sys.stderr)
+        result = analyze_with_claude(prompt)
 
     # Output JSON to stdout (this is what the parent process reads)
     print(json.dumps(result, ensure_ascii=False))
