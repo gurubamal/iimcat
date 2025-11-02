@@ -1,0 +1,3 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+RELIANCE,44.4,35,1,Certainty 35% below threshold (40%),Facebook to hold 30% in Reliance’s AI venture; both companies to jointly invest ,Detected 0 catalyst(s). Score: 59/100. Certainty: 35%. BULLISH sentiment.
+MARUTI,37.4,30,1,Certainty 30% below threshold (40%),Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment,Detected 0 catalyst(s). Score: 50/100. Certainty: 30%. BULLISH sentiment.

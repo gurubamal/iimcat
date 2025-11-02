@@ -1,0 +1,48 @@
+# Core data analysis and scientific computing
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Web scraping and HTTP requests
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+urllib3>=1.26.0
+
+# Financial data
+yfinance>=0.2.0
+
+# Text processing and readability
+readability-lxml>=0.8.1
+
+# MCP (Model Context Protocol) dependencies
+mcp>=1.0.0
+
+# Standard library modules (these are built-in, but listed for completeness)
+# asyncio - built-in
+# pathlib - built-in  
+# typing - built-in
+# json - built-in
+# subprocess - built-in
+# datetime - built-in
+# argparse - built-in
+# logging - built-in
+# re - built-in
+# math - built-in
+# collections - built-in
+# csv - built-in
+# os - built-in
+# sys - built-in
+# glob - built-in
+# time - built-in
+# sqlite3 - built-in
+# html - built-in
+# xml.etree.ElementTree - built-in
+# threading - built-in
+# random - built-in
+# functools - built-in
+# concurrent.futures - built-in
+# hashlib - built-in
+# pickle - built-in
+# shutil - built-in
+# signal - built-in
+# dataclasses - built-in
+# enum - built-in

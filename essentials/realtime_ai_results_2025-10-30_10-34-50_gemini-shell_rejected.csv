@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+MARINE,MARINE ELECTRICALS (INDIA) LIMITED,33.4,30,1,Certainty 30% below threshold (40%),National Marine Fisheries Census: Household enumeration to be launched on Friday,No relevant information found from Google Search.
+QUESS,QUESS CORP LIMITED,32.4,30,1,Certainty 30% below threshold (40%),Quess Corp Q2FY26 PAT up 2% at ₹52 crore; headcount dips 5% amid steady revenue ,No relevant information found from Google Search.

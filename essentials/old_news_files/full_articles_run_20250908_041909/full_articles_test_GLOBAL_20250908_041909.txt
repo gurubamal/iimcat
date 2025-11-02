@@ -1,0 +1,56 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Supreme Court restores Shailaja Krishna as Satori Global’s majority shareholder
+Source  : www.livemint.com
+Published: 2025-09-07T12:36:17
+Fetched : 2025-09-08T04:40:01.861383
+URL     : https://www.livemint.com/companies/news/sc-supreme-court-majority-shareholder-satori-global-share-transfer-dispute-nclt-nclat-governance-11757230923832.html
+--------------------------------------------------------------------------------
+Supreme Court restores Shailaja Krishna as Satori Global’s majority shareholder
+The ruling affirms the jurisdiction of company law tribunals over share transfer disputes and signals stricter scrutiny of procedural lapses.
+MUMBAI :
+In a decisive judgment, the Supreme Court reinstated Shailaja Krishna as the majority shareholder and executive director of Satori Global Ltd (formerly Sargam Exim Pvt. Ltd), which is engaged in paper trading, overturning her removal orchestrated through invalid board meetings and a questionable transfer of nearly her entire shareholding to her mother-in-law.
+In a judgment delivered on 2 September, the court set aside the 2023 order of the National Company Law Appellate Tribunal (NCLAT) and restored the ruling of the National Company Law Tribunal (NCLT). The apex court held that the 2010 board meetings, which helped to remove Krishna, lacked proper notice, quorum, and compliance with the Companies Act, while the share transfer itself violated the company’s Articles of Association (AoA).
+The dispute dates to 2010 when Krishna claimed she was coerced into signing blank forms amid marital discord with her husband, Ved Krishna. These documents were later used to orchestrate her resignation and transfer 39,500 equity shares, amounting to over 98% of the company, to her mother-in-law, Manjula Jhunjhunwala, through a gift deed.
+Ved Krishna played a central role in facilitating the transfer by obtaining her signatures on blank documents during their marital discord, which were later used to engineer her resignation and transfer her majority shareholding to his mother, Manjula Jhunjhunwala, through a gift deed.
+Pointing to overwriting, date mismatches, and irregular extensions of expired transfer forms, the court concluded the documentation was riddled with “serious inconsistencies and illegalities." It further noted the glaring contradiction between the deed’s claim of “love and affection" and a police complaint lodged by the mother-in-law against Krishna on the same day.
+Satori Global was managed by a board comprising directors inducted after Shailaja Krishna’s ouster, including her mother-in-law and other respondents, who controlled the company during the litigation until her reinstatement was ordered.
+The message from the bench also touches on the role of directors. When illegalities in meetings and transfers are brushed aside, courts may now not hesitate to view such inattention as complicity. “Companies cannot be treated as glorified proprietorships," said Sharad Abhyankar, partner at Khaitan & Co.
+Jurisdiction battle
+The apex court also struck down the validity of the board meetings of 15 and 17 December 2010. The absence of mandatory notice to Krishna, then a director, combined with the lack of quorum, rendered the meetings nullities. Subsequent attempts to induct a director to cure the quorum defect were deemed legally unsustainable.
+“This ruling reiterates that the NCLT has jurisdiction to determine the validity of gift deeds concerning shares," said company secretary Gaurav Pingle. “That point had been contentious, and the Supreme Court has now laid it to rest."
+The NCLT's jurisdiction was at the heart of the long-running dispute. While the tribunal in 2018 had restored Krishna’s shareholding and directorship, the NCLAT in 2023 reversed that finding, reasoning that allegations of coercion and fraud in transfers were issues fit for a civil court. The Supreme Court firmly disagreed, holding that the company law tribunal has both the responsibility and authority to adjudicate such questions.
+Experts say this clarification will prevent promoters from using jurisdictional objections to stall or derail shareholder petitions. It also reinforces tribunals as the first line of recourse for minority and majority shareholders subject to corporate oppression.
+The judgment, lawyers note, sends a message to Indian businesses, particularly closely-held companies, about the importance of procedural discipline. “It affirms that steadfast adherence to procedural safeguards, including quorum, notice, and documentation, is essential, even in closely held or family-run companies," said Ketan Mukhija, senior partner at Burgeon Law.
+According to him, the ruling is a “watershed moment" because it establishes adherence to statutory procedures. “The decision also highlights the urgent need for clearer regulatory frameworks and stronger enforcement mechanisms," Mukhija added.
+Governance lessons
+For Nilesh Tribhuvann, managing partner at White & Brief, the takeaways are particularly stark for directors and promoters. “Procedural irregularities and doctored paperwork can unravel entire corporate actions," he said, emphasizing how this puts pressure on the directors and promoters to ensure strict compliance.
+“This ruling creates a 'presumption of scrutiny' by signalling that fabricated records, backdated transfers, and quorum manipulations will not withstand judicial scrutiny," he said, adding the court's willingness to look behind documents valid on a superficial level and examine the 'circumstances surrounding' transactions will provide some comfort to investors and promoters.
+Tribhuvann added that the corporate affairs ministry may now feel compelled to tighten procedures for document authentication, given the court’s criticism of lapses in processing statutory forms like Form 7C. To be clear, Form 7C is an application under the Companies Act to the Registrar of Companies for extending the validity of a share transfer deed that has expired before it was lodged with the company.
+“The judgment reaffirms that the procedural requirements prescribed under the Companies Act regarding the conduct of meetings or the transfer of shares are not empty formalities," Khaitan & Co’s Abhyankar said.
+While Abhyankar does not see the ruling prompting amendments to company law, he said it reconfirms existing governance principles.
+
+Title   : S&P Global expects dated Brent crude to hit $55 per barrel by year-end 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-08T03:42:37
+Fetched : 2025-09-08T04:40:01.861383
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/sp-global-expects-dated-brent-crude-to-hit-55-per-barrel-by-year-end/articleshow/123756563.cms
+--------------------------------------------------------------------------------
+Brent crude futures were up about 0.5% on Monday at $65.84 per barrel after OPEC+ agreed over the weekend to raise output from October at a slower pace than in previous months, on expectations of weaker global demand.
+"We still see prices coming down closer to the $55 a barrel dated Brent, with OPEC continuing to unwind production into the market," said Dave Ernsberger, co-president, S&P Global Commodity Insights.
+"If there's a massive surplus, if Russian oil continues to flow into the market, if stock-building stops and some of this stuff goes into commercial inventory, contangos blow out, we can see a lower price than that," he said.
+Contango occurs when prompt prices are lower than those in future months, indicating comfortable supplies.
+Dated Brent is used to price more than 60% of globally traded crude and underpins oil futures.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

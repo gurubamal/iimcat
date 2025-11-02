@@ -1,0 +1,15 @@
+{
+  "conversation_id": "87d9a2a522949f9b34c5462d6c64da47e5451e73e0a660b2dab090d4b8bd7c38",
+  "timestamp": "2025-10-28T07:06:05.684903",
+  "provider": "test",
+  "prompt": "Analyze this stock: RELIANCE - Reports Q1 profit of ₹5000 crores",
+  "response": "{\n  \"score\": 85,\n  \"sentiment\": \"positive\",\n  \"impact\": \"high\",\n  \"recommendation\": \"BUY\"\n}",
+  "error": null,
+  "metadata": {
+    "model": "test-model",
+    "temperature": 0.2,
+    "max_tokens": 1200
+  },
+  "prompt_length": 64,
+  "response_length": 91
+}

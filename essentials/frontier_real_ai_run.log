@@ -1,0 +1,191 @@
+2025-10-22 15:29:05,466 - INFO - Reading news from: aggregated_full_articles_48h_20251021_220636.txt
+2025-10-22 15:29:05,471 - INFO - Found news for 36 companies
+2025-10-22 15:29:05,472 - INFO - [AI+Quant] Analyzing TRU...
+2025-10-22 15:29:05,477 - INFO - [AI+Quant] Analyzing RELIANCE...
+2025-10-22 15:29:05,480 - INFO - [AI+Quant] Analyzing TRUST...
+2025-10-22 15:29:05,480 - INFO - [AI+Quant] Analyzing IT...
+2025-10-22 15:29:05,481 - INFO - [AI+Quant] Analyzing TECH...
+2025-10-22 15:29:05,481 - INFO - [AI+Quant] Analyzing GLOBAL...
+2025-10-22 15:29:05,481 - INFO - [AI+Quant] Analyzing KORE...
+2025-10-22 15:29:05,482 - INFO - [AI+Quant] Analyzing BIL...
+2025-10-22 15:29:05,482 - INFO - [AI+Quant] Analyzing STEL...
+2025-10-22 15:29:05,483 - INFO - [AI+Quant] Analyzing URBAN...
+2025-10-22 15:29:05,484 - INFO - [AI+Quant] Analyzing YATRA...
+2025-10-22 15:29:05,487 - INFO - [AI+Quant] Analyzing ATL...
+2025-10-22 15:29:05,490 - INFO - [AI+Quant] Analyzing BFSI...
+2025-10-22 15:29:05,492 - INFO - [AI+Quant] Analyzing CLEAN...
+2025-10-22 15:29:05,493 - INFO - [AI+Quant] Analyzing DOLLAR...
+2025-10-22 15:29:05,494 - INFO - [AI+Quant] Analyzing EDELWEISS...
+2025-10-22 15:29:05,495 - INFO - [AI+Quant] Analyzing EMBASSY...
+2025-10-22 15:29:05,496 - INFO - [AI+Quant] Analyzing GNA...
+2025-10-22 15:29:05,497 - INFO - [AI+Quant] Analyzing PREMIUM...
+2025-10-22 15:29:05,498 - INFO - [AI+Quant] Analyzing PROV...
+2025-10-22 15:29:05,499 - INFO - [AI+Quant] Analyzing RAIN...
+2025-10-22 15:29:05,500 - INFO - [AI+Quant] Analyzing STAR...
+2025-10-22 15:29:05,501 - INFO - [AI+Quant] Analyzing SUMIT...
+2025-10-22 15:29:05,502 - INFO - [AI+Quant] Analyzing ADANIENT...
+2025-10-22 15:29:05,502 - INFO - [AI+Quant] Analyzing BEL...
+2025-10-22 15:29:05,505 - INFO - 
+✅ Results saved to: frontier_real_ai_20251022_152905.csv
+
+====================================================================================================
+🤖 FRONTIER AI + REAL AI INTEGRATED ANALYSIS
+====================================================================================================
+
+Features:
+  ✅ Real AI news understanding (context + reasoning)
+  ✅ Enhanced certainty calculation (6-component)
+  ✅ Investment recommendations with confidence
+  ✅ Risk/opportunity identification
+
+====================================================================================================
+
+
+[1/25] Analyzing TRU...
+  ⭐⭐⭐ ACCUMULATE - Score: 55.4/100
+  Sentiment: BULLISH, Action: watch
+
+[2/25] Analyzing RELIANCE...
+  ❌ SELL - Score: 23.8/100
+  Sentiment: MIXED, Action: hold
+
+[3/25] Analyzing TRUST...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[4/25] Analyzing IT...
+  ⭐⭐ HOLD - Score: 52.7/100
+  Sentiment: BULLISH, Action: buy
+
+[5/25] Analyzing TECH...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[6/25] Analyzing GLOBAL...
+  ⭐⭐⭐ ACCUMULATE - Score: 62.2/100
+  Sentiment: BULLISH, Action: hold
+
+[7/25] Analyzing KORE...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[8/25] Analyzing BIL...
+  ⭐⭐ HOLD - Score: 54.2/100
+  Sentiment: BULLISH, Action: watch
+
+[9/25] Analyzing STEL...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[10/25] Analyzing URBAN...
+  ❌ SELL - Score: 28.0/100
+  Sentiment: MIXED, Action: hold
+
+[11/25] Analyzing YATRA...
+  ❌ SELL - Score: 31.0/100
+  Sentiment: MIXED, Action: hold
+
+[12/25] Analyzing ATL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[13/25] Analyzing BFSI...
+  ❌ SELL - Score: 26.5/100
+  Sentiment: MIXED, Action: hold
+
+[14/25] Analyzing CLEAN...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 84.1/100
+  Sentiment: BULLISH, Action: buy
+
+[15/25] Analyzing DOLLAR...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[16/25] Analyzing EDELWEISS...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[17/25] Analyzing EMBASSY...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[18/25] Analyzing GNA...
+  ❌ SELL - Score: 23.0/100
+  Sentiment: MIXED, Action: watch
+
+[19/25] Analyzing PREMIUM...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[20/25] Analyzing PROV...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 82.3/100
+  Sentiment: BULLISH, Action: watch
+
+[21/25] Analyzing RAIN...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[22/25] Analyzing STAR...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 88.1/100
+  Sentiment: BULLISH, Action: buy
+
+[23/25] Analyzing SUMIT...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[24/25] Analyzing ADANIENT...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[25/25] Analyzing BEL...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 77.2/100
+  Sentiment: BULLISH, Action: buy
+
+====================================================================================================
+🏆 TOP 10 PICKS
+====================================================================================================
+
+22. STAR - STRONG BUY
+   Score: 88.1 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+14. CLEAN - STRONG BUY
+   Score: 84.1 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+20. PROV - STRONG BUY
+   Score: 82.3 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+25. BEL - STRONG BUY
+   Score: 77.2 | Sentiment: bullish
+   Catalysts: earnings_beat
+
+6. GLOBAL - ACCUMULATE
+   Score: 62.2 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+3. TRUST - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+9. STEL - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+16. EDELWEISS - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+23. SUMIT - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+1. TRU - ACCUMULATE
+   Score: 55.4 | Sentiment: bullish
+   Catalysts: management_change, foreign_investment
+
+====================================================================================================
+✅ Analysis Complete!
+====================================================================================================
+

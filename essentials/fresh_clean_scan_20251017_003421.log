@@ -1,0 +1,59 @@
+
+================================================================================
+🔍 ENHANCED NEWS COLLECTION STARTED
+================================================================================
+📅 Time window: Last 48 hours (cutoff: 2025-10-14 19:04:21 UTC)
+🎯 Tickers to scan: 2993
+📰 News sources: 9
+================================================================================
+
+[1/2993 (0.0%)] Processing 21STCENMGM... ⚫ NO NEWS
+    └─ Fetched: 16 items
+    └─ Filtered (old): 16, (non-financial): 0
+[2/2993 (0.1%)] Processing A2ZINFRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[3/2993 (0.1%)] Processing ACL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[4/2993 (0.1%)] Processing AGSTRA... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[5/2993 (0.2%)] Processing ANSALAPI... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+[6/2993 (0.2%)] Processing BLUECHIP... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 81, (non-financial): 19
+[7/2993 (0.2%)] Processing DHARAN... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[8/2993 (0.3%)] Processing EXCEL...00:34:40 [INFO] <module>:159 - 🚀 Performance debugging enabled: False
+00:34:40 [WARNING] <module>:5888 - Enhanced screener modules not available - using legacy methods
+00:34:40 [WARNING] <module>:5901 - sklearn not available - some institutional modules will use fallback methods
+00:34:40 [WARNING] __init__:5930 - Institutional modules initialized with limited functionality
+ ✅ FOUND 1 articles
+    ├─ Fetched: 101 items from base sources
+    ├─ Filtered out: 63 (too old), 37 (non-financial)
+    └─ Latest headlines:
+       1. [2h ago] Tata Power launches Solar Skill Centres of Excellence in Tamil Nadu
+Warning: enhanced_backtester.py not found. Backtesting features disabled.
+Warning: scikit-learn not available. Some institutional features will be limited.
+[WARNING] Transformers not available (No module named 'transformers'...). Using simple sentiment scoring.
+    └─ 💾 Saved to: aggregated_full_articles_48h_20251016_190421
+[9/2993 (0.3%)] Processing FEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 98, (non-financial): 2
+[10/2993 (0.3%)] Processing GVKPIL... ⚫ NO NEWS
+    └─ Fetched: 84 items
+    └─ Filtered (old): 84, (non-financial): 0
+[11/2993 (0.4%)] Processing IEL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[12/2993 (0.4%)] Processing ITTL... ⚫ NO NEWS
+    └─ Fetched: 97 items
+    └─ Filtered (old): 96, (non-financial): 1
+[13/2993 (0.4%)] Processing KRISHIVAL... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 99, (non-financial): 1
+[14/2993 (0.5%)] Processing MANUGRAPH...

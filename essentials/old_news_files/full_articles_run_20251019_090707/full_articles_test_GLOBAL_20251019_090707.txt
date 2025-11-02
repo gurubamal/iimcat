@@ -1,0 +1,51 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 42.08M
+
+Title   : Global Startup Summit in Coimbatore draws ₹127 cr investment
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T09:39:19
+Fetched : 2025-10-19T09:15:15.208548
+URL     : https://www.thehindubusinessline.com/news/national/global-startup-summit-in-coimbatore-draws-127-cr-investment/article70178713.ece
+--------------------------------------------------------------------------------
+The two-day Global Startup Summit held in Coimbatore was a "huge success," attracting investment commitments worth ₹127 crore, the government said on Saturday.
+The event laid the foundation for Tamil Nadu’s vision of becoming a $1-trillion economy by 2030, the government said in a press release.
+A total of 21 country pavilions were set up at the Coimbatore District Small Industries Association (CODISSIA) grounds during the event, where 23 MoUs were signed and investment commitments worth ₹127 crore were secured from various companies, the release said.
+"Several more MoUs are expected to be signed in the coming months," it added.
+Organised by StartupTN, the event showcased Tamil Nadu’s innovative industrial ecosystem globally.
+Chief Minister M K Stalin inaugurated the summit on October 9 and launched the fund-of-funds initiative with an allocation of ₹100 crore, the release said.
+Under this initiative, the State government will invest in venture capital funds, which in turn will invest in startups operating in Tamil Nadu.
+On the occasion, the chief minister also released the 'Tamil Nadu Startup Ecosystem Strategic Roadmap Report 2035'.
+Highlighting key achievements of the Summit, the government said that 72,278 people attended the event, making it one of the largest startup conferences held in Coimbatore.
+Nearly 115 investors participated, while 453 budding entrepreneurs showcased their ventures at the summit, it said.
+Among the MoUs exchanged with the State government were agreements with Link Innovations (France), RXN Hub (Canada) and Asia Berlin (Germany).
+Several corporate firms also signed agreements with the government during the event, the release added.
+Published on October 18, 2025
+
+Title   : Signature Global raises Rs 875 cr via debentures to reduce debt, expand business 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-18T10:56:34
+Fetched : 2025-10-19T09:15:15.209083
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/signature-global-raises-rs-875-cr-via-debentures-to-reduce-debt-expand-business/articleshow/124664092.cms
+--------------------------------------------------------------------------------
+In a regulatory filing on Friday, the company informed that a debenture committee in its meeting has approved the allotment of 87,500 NCDs of face value of Rs 1 lakh each aggregating to Rs 875 crore on private placement basis.
+Signature Global did not disclose the name of investors who have subscribed to these NCDs.
+The committee had earlier approved the terms for issuance of these NCDs.
+The tenure of the NCDs, having a coupon rate of 11 per cent, would be 3 years, 2 months and 30 days. The date of maturity is January 15, 2029.
+The amount will be used for repayment of the existing debt and growth capital, a company official said.
+Gurugram-based firm Signature Global is one of the leading real estate developers in the country.
+In 2024-25, the company emerged as the fifth-largest listed real estate firm in terms of sales bookings. The company sold properties worth Rs 10,290 crore in the last fiscal and is targeting Rs 12,500 crore in pre-sales in the current financial year.
+During the April-September period of 2025-26, the Gurugram-based company reported a 21 per cent decline in sales bookings to Rs 4,650 crore from Rs 5,900 crore in the year-ago period, according to its latest operational update.
+"With a robust launch plan and a disciplined financial approach, we remain confident of sustaining growth momentum in the coming quarters, meeting our annual performance targets across key parameters, and are fully comfortable with our guidance across all operating metrics, including pre-sales, collections and net debt," Signature Global Chairman Pradeep Kumar said recently.
+The company has so far delivered 15.7 million sq ft of real estate. Its project pipeline remains robust, comprising 17.1 million sq ft of recently launched projects, 24.5 million sq ft of forthcoming developments, and 9.2 million sq ft of ongoing construction.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+

@@ -1,0 +1,74 @@
+Full Article Fetch Test - TI
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-20): 885.08M
+
+Title   : BIAL woos Tiruppur exporters to use the Kempegowda airport 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T11:32:35
+Fetched : 2025-10-20T20:07:31.076492
+URL     : https://www.thehindubusinessline.com/economy/logistics/bial-woos-tiruppur-exporters-to-use-the-kempegowda-airport/article70182273.ece
+--------------------------------------------------------------------------------
+Bangalore International Airport Limited (BIAL), which owns and operates the Kempegowda International Airport (KIA) in Bengaluru, is trying to woo garment exporters in Tiruppur to send their cargo through the airport daily. BIAL is exploring to set up a cargo collection center in Tiruppur to facilitate seamless cargo movement to the airport through a non-bonded trucking system. At present, the volume is very low from the textile town through the airport. Data is unavailable on the volume.
+The proposed center will support daily scheduled truck operations from Tiruppur, enhancing logistical efficiency and minimizing transit delays, says a social media post by TEA General Secretary Thirukumaran Natarajan.
+BIAL sources said it is only exploring what are trade requirements and how it can facilitate them.
+During the meeting, the exporters raised various issues faced by them at the airport. For instance, they expressed difficulty in knowing whether their cargo is routed through Terminal 1 or Terminal 2. On this, BIAL officials clarified that this information is available on their online tracking portal, which exporters can access for real-time updates, the post said.
+On cargo stickering and labeling, the exporters sought clarity on where the final cargo stickering will be done either at the warehouse, collection center or by exporters themselves. The BIAL officials assured that this will be reviewed internally and communicated shortly.
+Exporters requested BIAL to coordinate a Permanent Trade Facilitation Committee meeting with Bangalore Customs to resolve exporter-related operational issues.
+There is an Inland Container Depot in Tirupur to complete customs formalities. Post clearance the move on a bonded truck to be despatched to any port or airport, said sources.
+An official with a freight forward company in Chennai said most of the exporters in Tiruppur use the sea transport to send their cargo abroad. Only if there is an urgency, the air movement is done. Today, Bengaluru gives better options with competitive air freight and international connectivity for them.
+Bonded trucking is maturing over India providing multiple options to the curated route to route their Inbound and outbound cargoes. The concept of dry ports was created to move the regulator (Customs) to the doorstep (close proximity) of the trade.
+Establishing the final mile connectivity either by road or rail was also approved. While full container load prefer rail , the air cargo is primarily moved through bonded trucking. Airports to expand their reach have leveraged this position to expand their clients, the official said.
+Published on October 19, 2025
+
+Title   : Hyderabad, Bengaluru, Chennai together see 47% rise in housing sales in Jul-Sep: PropTiger 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T11:52:05
+Fetched : 2025-10-20T20:07:31.076574
+URL     : https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/hyderabad-bengaluru-chennai-together-see-47-rise-in-housing-sales-in-jul-sep-proptiger/articleshow/124704821.cms
+--------------------------------------------------------------------------------
+Housing sales in three major southern cities -- Hyderabad, Bengaluru, and Chennai -- stood at 38,644 units during the September quarter, up 47 per cent from 26,284 units in the year-ago period.
+Real estate consultant PropTiger, which has recently been acquired by listed entity Aurum PropTech Ltd, data showed that the sales of residential properties in Hyderabad grew 53 per cent to 17,658 units from 11,564 units.
+In Bengaluru, the housing sales rose 18 per cent to 13,124 units from 11,160 units.
+Housing sales in Chennai more than doubled to 7,862 units during the July-September period this year from 3,560 units in the corresponding period of the preceding year.
+Overall, India's top-eight primary housing markets (first-sale) saw a 1 per cent decline in sales during July-September, mainly due to lower demand in Mumbai, Pune, and Delhi-NCR, the consultant said.
+As per the data, the housing sales across eight major cities fell 95,547 units during the third quarter of this calendar year from 96,544 units in the corresponding period of the preceding year.
+Among the eight cities, housing sales in the Mumbai Metropolitan Region (MMR) fell 22 per cent to 23,334 units during the period under review from 30,010 units in the year-ago period.
+In Pune, the sales declined 28 per cent to 12,990 units from 18,004 units.
+Sales of residential properties in Delhi-NCR decreased 21 per cent to 7,961 units from 10,098 units.
+Ahmedabad saw a 5 per cent dip in sales to 8,889 units from 9,352 units.
+Lastly, sales of residential properties in Kolkata increased 33 per cent to 3,729 units during July-September this year from 2,796 units in the year-ago period.
+On the outlook, Aurum PropTech Executive Director Onkar Shetye noted that favourable conditions, such as the stability in interest rates and proactive policy reforms like the recent GST reduction on cement, have provided a crucial buffer against rising input costs and bolstered developer confidence.
+"We are optimistic about the upcoming festive quarter, which will serve as a key indicator of consumer demand. However, it will also be a true test of the market's ability to balance this growth momentum with emerging affordability challenges, particularly in the mid and entry-level segments," he observed.
+Aurum PropTech owns and operates a rental marketplace NestAway Technologies, data analytics firm Aurum Analytica and sales automation platform Sell.do, besides PropTiger.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Infosys, Wipro, LTIMindtree deliver steady Q2 growth, but Goldman warns AI shift may cap valuations 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T11:18:49
+Fetched : 2025-10-20T20:07:31.076628
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-ltimindtree-deliver-steady-q2-growth-but-goldman-warns-ai-shift-may-cap-valuations/articleshow/124704335.cms
+--------------------------------------------------------------------------------
+“While there are early signs of demand stabilisation, visibility into CY26 remains poor, and company commentary suggests AI-related productivity pass-throughs may be becoming more mainstream, which may keep multiples depressed,” Goldman analysts said in a report.
+The brokerage’s latest report highlights that all three firms managed sequential revenue growth in the second quarter of FY26, suggesting some stability is returning to technology budgets among global clients.
+Infosys led the group with a 2.2% rise in quarterly revenues, including inorganic contributions, matched by an 8% year-on-year increase in underlying earnings before interest and tax.
+Although the company sealed a multi-year, large-scale outsourcing deal, management chose to raise only the lower end of full-year growth guidance, now at 2–3%, a revision rooted in concerns that several ongoing contracts are still ramping down and the uncertain demand recovery across key geographies.
+The company’s workforce has expanded by roughly 2.5% as it gears up for new projects, even as discretionary IT spending remains unpredictable.
+LTIMindtree posted a slightly higher 2.4% growth rate for quarterly revenues, though this fell a touch short of analyst expectations. Nevertheless, the Bengaluru-based firm delivered robust margin expansion, with EBIT surging 13% over the past year and sequential operational margins up by 160 basis points, a sign of efficient cost management. LTIMindtree’s optimistic outlook stands out: it expects to reach USD revenue growth near 10% this fiscal year, a pace that outstrips most Indian peers. Yet, the company acknowledged revenue declines among top accounts, directly attributing this to productivity gains from advanced AI tools.
+Wipro, for its part, saw more subdued momentum, with quarterly revenue growth of just 0.3%, flat EBIT performance, and guidance for the next quarter that sits marginally below market consensus. Management flagged continued margin pressure, likely as new deals take time to scale up and become profitable.
+Despite broad sequential growth, the sector continues to show vertical divergence, with retail IT spending lagging while most other industry segments remain resilient. Currency movements and operational efficiencies helped all three companies boost margins during the quarter. Investor sentiment, however, remains cautious. Goldman Sachs notes that while LTIMindtree and Tech Mahindra currently command higher earnings multiples, Wipro trades at the bottom end of sector valuation, reflecting ongoing growth and margin concerns.
+Also read: Gold, silver or Nifty this Diwali? 35 years of data reveals the clear winner
+According to the report, upside risks exist if global IT budgets rebound faster than expected or if improvements in efficiency continue to drive margin expansion. Yet, the long-term trajectory will depend on how quickly discretionary technology spending returns and how deeply AI-led transformation changes the revenue and cost structure for Indian tech majors. For now, investors are advised to watch for sustained signals of a broad-based recovery, as the sector continues to navigate a delicate balance between cost discipline and competitive growth aspirations.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

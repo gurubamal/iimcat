@@ -1,0 +1,3 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,360ONE,97.5,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,2,N/A,"AI startup Uniphore raises $260 million in Series F from Nvidia, AMD, Snowflake, Databricks - Mint",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.
+2,20MICRONS,95.0,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,1,N/A,Page 776 - Capital Market/workspace/business Standard Web/video - Business Standard,Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.

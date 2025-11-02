@@ -1,0 +1,47 @@
+Full Article Fetch Test - URBAN
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 102.58M
+
+Title   : Urban India's spending appetite is back, but cautious
+Source  : www.livemint.com
+Published: 2025-10-15T15:55:24
+Fetched : 2025-10-15T17:02:53.146003
+URL     : https://www.livemint.com/companies/indian-consumers-spending-cautious-shopping-deloitte-consumer-pulse-survey-retail-gst-festivals-11760522522570.html
+--------------------------------------------------------------------------------
+Urban India's spending appetite is back, but cautious
+The upcoming festivals and easing prices are nudging households to loosen their wallets, even as job-related anxiety threatens to temper the mood.
+New Delhi: A calmer inflation outlook and recent tax relief have given India’s urban consumers room to breathe, and to spend. Deloitte’s latest consumer survey shows a rebound in discretionary spending, especially in leisure, restaurants, electronics and household goods. The upcoming festivals and easing prices are nudging households to loosen their wallets, even as job-related anxiety threatens to temper the mood.
+“Consumers remain financially confident, supported by easing price inflation concerns and higher savings. They are selectively increasing discretionary spend, favouring premium and experience-driven purchases," said Deloitte's September quarter consumer pulse survey of 1,000 consumers, which measured financial security among households as well as future shopping intentions.
+India is now in the final stretch of the festive season, which typically runs from August to October, sometimes extending into early November. This year, business activity saw temporary disruptions as companies transitioned to the new goods and services tax (GST) rate regime from 22 September. The revamped structure saw GST rates lowered on most items used by the common man.
+“The overall mood from Navratri and post-GST cuts has been quite upbeat. We have seen a surge in walk-ins (8–10%) in our malls. Electronics posted the biggest growth due to GST reduction. Electronics retailers have grown around 30% compared to the last festive season," said Abhishek Bansal, executive director at New Delhi based Pacific Development Corp that operates Pacific Malls in north India. “Department stores and premium apparel brands have reduced inventory by 5–10%; since 45% of their inventory has seen an increase in price, there is no GST uplift as such, but business has been good."
+“Overall consumption growth in malls on a like-for-like basis stands at 10%, with total sales up 30%," Bansal added.
+Spending, but with caution
+The spending intentions index for the September quarter points to a steady revival in discretionary spending alongside elevated savings. The index measures the change in monthly spending amounts.
+Discretionary spending remains below the pre-pandemic peak, but it continues to rise year-on-year, especially during festive and seasonal cycles. Leisure continues to anchor discretionary spending along with travel, entertainment and wellness.
+Meanwhile, India’s financial wellbeing sentiment has shown mixed signals in recent quarters, recording a slight uptick in September after a dip in the previous month, indicating improving comfort across multiple financial health indicators, Deloitte's consumer survey shows.
+For instance, asked whether they were confident about making upcoming payments—81% consumers agreed they were, up 3% from the previous month and the year ago period . Similarly, 62% said they were confident about making large purchases, up 3% month-on-month but down 1% from a year ago.
+The survey showed that 78% of those surveyed said their finances were at last year's level, while 59% said they could afford to spend on things that bring them joy, a 1% improvement from a year ago. Of those surveyed, 57% consumers were comfortable with the amount of money saved, 2% less from a year ago.
+Households remain value-conscious and the savings levels remain high, suggesting that consumers are spending selectively, rather than impulsively, Deloitte noted.
+Softening food inflation
+A key factor supporting consumer confidence is easing food inflation. Deloitte's Food Frugality Index for India slipped to its second-lowest point in two years in the September quarter, suggesting that households are feeling less constrained on food spendings.
+Among those surveyed, 21% said they were only buying food essentials, down 3% from a year ago; while 9% purchased lower cost ingredients, 1% less than the year-ago level.
+The survey showed urban Indians' vehicle purchase intentions rose in July–September, driven by the robust trend in September. This index reported a 6.6-point rise from a year ago.
+India’s retail inflation fell to 1.54% in September, the lowest reading since June 2017, from 2.07% in the previous month. India’s food inflation was at (-)2.28% in September from (-)0.64% in August. Apart from the base effect, the fall in prices of vegetables and pulses helped pull down headline inflation. Food makes up nearly 40% of the inflation basket.
+Declining retail inflation since November last year and the recent GST reforms are expected to further ease prices and boost growth, the report said.
+Demand triggers
+The timing of festivals that typically see huge spendings is important. “It is generally observed that when Diwali falls in the first week of the month, the festival season tends to be stronger, as salaried consumers have freshly credited incomes. This year, the market continues to reflect strong positivity and optimism despite Diwali falling in the second half of the month," said Manoj Verma, chief operating officer of Bikaji Foods International Ltd.
+Diwali will be celebrated on 20-21 October this year.
+“So far, the festive business has performed very well for us. This is reflected across primary sales, secondary movements, and strong offtakes from retail shelves. We expect festive business growth to be in the high teens," Verma added.
+Electronics retailer Vijay Sales said the first half of September was a washout, with sales picking up only post 22 September, when the new GST rates kicked in. The retailer passed on the benefits of lower tax on appliances such as televisions and air conditioners, which saw GST rates cut to 18% from 28%.
+“We have more of less covered up for the loss of sales in early September because we saw a huge spike in the nine days of Navratri (from 22 September)," said Nilesh Gupta, managing director of Vijay Sales.
+Gupta said the demand for 43-inch television screens has shot up and surpassed that for 32-inch ones following the GST cuts. Air conditioners are still lagging due to cooler temperatures in north India, he said.
+Appliances such as air-conditioners and refrigerators saw poor sales in the June quarter due to unseasonal rains that pulled down summer temperatures. The retailer expects a 15-20% growth versus last year's Diwali period, with the biggest growth likely in large TVs and laptops.
+Indians more anxious
+Even amid easing concerns around price inflation, the anxiety among Indian remains higher than the global average, the Deloitte report said. While the overall anxiety level is significantly lower since 2022, it was marginally higher than September last year, it added.
+The anxiety largely revolves around the uncertainly related to employment in the country.
+“The overall anxiety is falling, but job-related anxiety has jumped 7 % year-on-year, pointing to employment uncertainty that could curb short-term spending, especially on non-essentials, and drive sharper value-for-money behaviour. Anxiety levels have started to ease as compared to since March (20)25, with an exception of a slight increase last month," the survey said.
+
+(skipped: outside allowed sources) Title: SEBI Hosts Municipal Bond Outreach Programme in Bhopal to Boost Urban Infrastructure Financing
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2025/sebi-hosts-municipal-bond-outreach-programme-in-bhopal-to-boost-urban-infrastructure-financing_96406.html
+

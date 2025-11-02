@@ -1,0 +1,20 @@
+Full Article Fetch Test - STAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 996.08M
+
+Title   : SpaceX launches the 11th test flight of its mega Starship rocket with another win
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T03:41:52
+Fetched : 2025-10-14T12:38:23.852265
+URL     : https://www.thehindubusinessline.com/news/science/spacex-launches-the-11th-test-flight-of-its-mega-starship-rocket-with-another-win/article70161181.ece
+--------------------------------------------------------------------------------
+SpaceX launched another of its mammoth Starship rockets on a test flight Monday, successfully making it halfway around the world while releasing mock satellites like last time.
+Starship — the biggest and most powerful rocket ever built — thundered into the evening sky from the southern tip of Texas. The booster peeled away and made a controlled entry into the Gulf of Mexico as planned, with the spacecraft skimming space before descending into the Indian Ocean. Nothing was recovered.
+“Hey, welcome back to Earth, Starship,” SpaceX's Dan Huot announced as employees cheered. “What a day.” It was the 11th test flight for a full-scale Starship, which SpaceX founder and CEO Elon Musk intends to use to send people to Mars. NASA's need is more immediate. The space agency cannot land astronauts on the moon by decade's end without the 403-foot (123-meter) Starship, the reusable vehicle meant to get them from lunar orbit down to the surface and back up.
+Instead of remaining inside Launch Control as usual, Musk said that for the first time, he was going outside to watch — “much more visceral.” The previous test flight in August — a success after a string of explosive failures — followed a similar path with similar goals. More manoeuvring was built in this time, especially for the spacecraft. SpaceX conducted a series of tests during the spacecraft's entry over the Indian Ocean as practice for future landings back at the launch site.
+Like before, Starship carried up eight mock satellites mimicking SpaceX's Starlinks. The entire flight lasted just over an hour, originating from Starbase near the Mexican border.
+NASA's acting administrator Sean Duffy praised Starship's progress. “Another major step toward landing Americans on the moon's south pole,” he said via X.
+SpaceX is modifying its Cape Canaveral launch sites to accommodate Starships, in addition to the much smaller Falcon rockets used to transport astronauts and supplies to the International Space Station for NASA. (AP) AMJ AMJ
+Published on October 14, 2025
+

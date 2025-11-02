@@ -1,0 +1,33 @@
+Full Article Fetch Test - TRENT
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-11
+
+Title   : Oracle Financial Services, Trent among 6 F&O stocks saw a high increase in futures open interest 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-11T03:01:48
+Fetched : 2025-09-11T04:33:28.862170
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/oracle-financial-services-trent-among-6-fo-stocks-saw-a-high-increase-in-futures-open-interest/slideshow/123820707.cms
+--------------------------------------------------------------------------------
+There was a notable surge in futures open interest for six stocks in the NSE F&O pack, contributing to a total increase in open interest of over 5% as of September 10, as compared to the previous trade. A significant uptick in futures open interest signifies a substantial growth in the number of active, unexpired futures contracts in a specific security. This uptrend reflects an increasing number of participants either initiating new positions or expanding the size of their existing positions within the futures market.
+TIL Creatives
+2/6
+Oracle Financial Services Software
+OI: 9,51,150| Chg OI: 80,325 | Chg OI (%): 9.22
+ETMarkets.com
+3/6
+UPL
+OI: 4,40,38,855| Chg OI: 34,64,735 | Chg OI (%): 8.54
+ETMarkets.com
+4/6
+Trent
+OI: 74,20,900| Chg OI: 4,04,600 | Chg OI (%): 5.77
+ETMarkets.com
+5/6
+Nuvama Wealth Management
+OI: 22,1,175| Chg OI: 11,850 | Chg OI (%): 5.66
+ETMarkets.com
+6/6
+Bajaj Auto
+OI: 31,32,600| Chg OI: 1,62,450 | Chg OI (%): 5.47
+

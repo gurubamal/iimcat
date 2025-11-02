@@ -1,0 +1,685 @@
+2025-10-23 23:27:29,656 - INFO - ✅ Frontier AI components loaded
+2025-10-23 23:27:29,658 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 23:27:29,659 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-23 23:27:29,659 - INFO -    Time window: 24 hours
+2025-10-23 23:27:29,660 - INFO -    Max articles per ticker: 10
+2025-10-23 23:27:29,660 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-23 23:27:29,660 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 23:27:34,879 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 23:27:34,881 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-23 23:27:34,881 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-23 23:27:38,352 - INFO - ✅ Found 1 recent articles for A2ZINFRA
+2025-10-23 23:27:38,362 - INFO - 🔍 INSTANT ANALYSIS: A2ZINFRA
+2025-10-23 23:27:38,367 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:27:38,389 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:38,395 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:38,404 - INFO - [3/50] Processing ACL...
+2025-10-23 23:27:38,407 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-23 23:27:42,290 - INFO - ✅ Found 2 recent articles for ACL
+2025-10-23 23:27:42,291 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:27:42,292 - INFO -    Headline: �f� ANDHRA CEMENTS LIMITED - bsmedia.business-standard.com...
+2025-10-23 23:27:42,296 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:42,299 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:42,299 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:27:42,299 - INFO -    Headline: Chelsea vs Ajax: Who will win Champions League clash? AI predictions, confirmed ...
+2025-10-23 23:27:42,300 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:42,300 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:42,300 - INFO - [4/50] Processing AGSTRA...
+2025-10-23 23:27:42,300 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-23 23:27:43,784 - INFO - ✅ Found 0 recent articles for AGSTRA
+2025-10-23 23:27:43,785 - INFO - [5/50] Processing ANSALAPI...
+2025-10-23 23:27:43,785 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-23 23:27:45,108 - INFO - ✅ Found 0 recent articles for ANSALAPI
+2025-10-23 23:27:45,109 - INFO - [6/50] Processing BLUECHIP...
+2025-10-23 23:27:45,113 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-23 23:27:46,657 - INFO - ✅ Found 1 recent articles for BLUECHIP
+2025-10-23 23:27:46,658 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 23:27:46,659 - INFO -    Headline: Microsoft Azure, Galleri5 partner to drive AI leap in filmmaking - The Economic ...
+2025-10-23 23:27:46,664 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:46,664 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:46,666 - INFO - [7/50] Processing DHARAN...
+2025-10-23 23:27:46,666 - INFO - 📰 Fetching news for DHARAN (last 24h)
+2025-10-23 23:27:48,425 - INFO - ✅ Found 2 recent articles for DHARAN
+2025-10-23 23:27:48,426 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:27:48,426 - INFO -    Headline: Advance Chart - Moneycontrol - Moneycontrol...
+2025-10-23 23:27:48,431 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:48,432 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:48,433 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:27:48,433 - INFO -    Headline: India-UN Development Partnership Fund empowers 10 Pacific nations through solar ...
+2025-10-23 23:27:48,440 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:48,441 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:48,442 - INFO - [8/50] Processing EXCEL...
+2025-10-23 23:27:48,443 - INFO - 📰 Fetching news for EXCEL (last 24h)
+2025-10-23 23:27:50,021 - INFO - ✅ Found 3 recent articles for EXCEL
+2025-10-23 23:27:50,022 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:27:50,022 - INFO -    Headline: Unilever's India arm posts profit rise on strong beauty products demand - ET CFO...
+2025-10-23 23:27:50,026 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:50,027 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:50,027 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:27:50,027 - INFO -    Headline: Man with 150+ Degrees: Prof. Parthiban spends 90% of his salary on studies — all...
+2025-10-23 23:27:50,027 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:50,027 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:50,027 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:27:50,027 - INFO -    Headline: Horoscope Today, October 23, 2025: Job, Business and Money Predictions for Every...
+2025-10-23 23:27:50,028 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:50,028 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:50,029 - INFO - [9/50] Processing FEL...
+2025-10-23 23:27:50,029 - INFO - 📰 Fetching news for FEL (last 24h)
+2025-10-23 23:27:51,551 - INFO - ✅ Found 1 recent articles for FEL
+2025-10-23 23:27:51,551 - INFO - 🔍 INSTANT ANALYSIS: FEL
+2025-10-23 23:27:51,552 - INFO -    Headline: Trump’s Russian oil sanctions gambit will test his tolerance for pain - Reuters...
+2025-10-23 23:27:51,556 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:51,558 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:51,559 - INFO - [10/50] Processing GVKPIL...
+2025-10-23 23:27:51,560 - INFO - 📰 Fetching news for GVKPIL (last 24h)
+2025-10-23 23:27:52,545 - INFO - ✅ Found 0 recent articles for GVKPIL
+2025-10-23 23:27:52,557 - INFO - [11/50] Processing IEL...
+2025-10-23 23:27:52,572 - INFO - 📰 Fetching news for IEL (last 24h)
+2025-10-23 23:27:53,940 - INFO - ✅ Found 2 recent articles for IEL
+2025-10-23 23:27:53,940 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 23:27:53,941 - INFO -    Headline: IEL - Moneycontrol - Moneycontrol...
+2025-10-23 23:27:53,949 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:53,949 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:53,950 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 23:27:53,950 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:27:53,953 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:53,953 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:53,953 - INFO - [12/50] Processing ITTL...
+2025-10-23 23:27:53,953 - INFO - 📰 Fetching news for ITTL (last 24h)
+2025-10-23 23:27:55,322 - INFO - ✅ Found 0 recent articles for ITTL
+2025-10-23 23:27:55,323 - INFO - [13/50] Processing KRISHIVAL...
+2025-10-23 23:27:55,323 - INFO - 📰 Fetching news for KRISHIVAL (last 24h)
+2025-10-23 23:27:56,858 - INFO - ✅ Found 1 recent articles for KRISHIVAL
+2025-10-23 23:27:56,875 - INFO - 🔍 INSTANT ANALYSIS: KRISHIVAL
+2025-10-23 23:27:56,886 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:27:56,887 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:56,888 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:56,888 - INFO - [14/50] Processing MANUGRAPH...
+2025-10-23 23:27:56,888 - INFO - 📰 Fetching news for MANUGRAPH (last 24h)
+2025-10-23 23:27:58,245 - INFO - ✅ Found 0 recent articles for MANUGRAPH
+2025-10-23 23:27:58,245 - INFO - [15/50] Processing MEP...
+2025-10-23 23:27:58,245 - INFO - 📰 Fetching news for MEP (last 24h)
+2025-10-23 23:27:59,741 - INFO - ✅ Found 1 recent articles for MEP
+2025-10-23 23:27:59,755 - INFO - 🔍 INSTANT ANALYSIS: MEP
+2025-10-23 23:27:59,802 - INFO -    Headline: Why did Garuda Construction share price zoom 9% in trade today? Find here - Busi...
+2025-10-23 23:27:59,807 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:59,809 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:59,811 - INFO - [16/50] Processing MVKAGRO...
+2025-10-23 23:27:59,811 - INFO - 📰 Fetching news for MVKAGRO (last 24h)
+2025-10-23 23:28:03,157 - INFO - ✅ Found 0 recent articles for MVKAGRO
+2025-10-23 23:28:03,159 - INFO - [17/50] Processing NORBTEAEXP...
+2025-10-23 23:28:03,167 - INFO - 📰 Fetching news for NORBTEAEXP (last 24h)
+2025-10-23 23:28:05,273 - INFO - ✅ Found 0 recent articles for NORBTEAEXP
+2025-10-23 23:28:05,273 - INFO - [18/50] Processing ORTINGLOBE...
+2025-10-23 23:28:05,273 - INFO - 📰 Fetching news for ORTINGLOBE (last 24h)
+2025-10-23 23:28:06,364 - INFO - ✅ Found 0 recent articles for ORTINGLOBE
+2025-10-23 23:28:06,364 - INFO - [19/50] Processing OSELDEVICE...
+2025-10-23 23:28:06,365 - INFO - 📰 Fetching news for OSELDEVICE (last 24h)
+2025-10-23 23:28:08,194 - INFO - ✅ Found 0 recent articles for OSELDEVICE
+2025-10-23 23:28:08,194 - INFO - [20/50] Processing PATTECH...
+2025-10-23 23:28:08,195 - INFO - 📰 Fetching news for PATTECH (last 24h)
+2025-10-23 23:28:09,760 - INFO - ✅ Found 1 recent articles for PATTECH
+2025-10-23 23:28:09,761 - INFO - 🔍 INSTANT ANALYSIS: PATTECH
+2025-10-23 23:28:09,761 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:09,768 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:09,769 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:09,771 - INFO - [21/50] Processing POLYSIL...
+2025-10-23 23:28:09,771 - INFO - 📰 Fetching news for POLYSIL (last 24h)
+2025-10-23 23:28:11,423 - INFO - ✅ Found 0 recent articles for POLYSIL
+2025-10-23 23:28:11,424 - INFO - [22/50] Processing PPAP...
+2025-10-23 23:28:11,424 - INFO - 📰 Fetching news for PPAP (last 24h)
+2025-10-23 23:28:12,106 - INFO - ✅ Found 0 recent articles for PPAP
+2025-10-23 23:28:12,106 - INFO - [23/50] Processing PRAXIS...
+2025-10-23 23:28:12,111 - INFO - 📰 Fetching news for PRAXIS (last 24h)
+2025-10-23 23:28:14,438 - INFO - ✅ Found 0 recent articles for PRAXIS
+2025-10-23 23:28:14,439 - INFO - [24/50] Processing RAJRILTD...
+2025-10-23 23:28:14,439 - INFO - 📰 Fetching news for RAJRILTD (last 24h)
+2025-10-23 23:28:17,017 - INFO - ✅ Found 0 recent articles for RAJRILTD
+2025-10-23 23:28:17,018 - INFO - [25/50] Processing RSSOFTWARE...
+2025-10-23 23:28:17,018 - INFO - 📰 Fetching news for RSSOFTWARE (last 24h)
+2025-10-23 23:28:18,576 - INFO - ✅ Found 0 recent articles for RSSOFTWARE
+2025-10-23 23:28:18,577 - INFO - [26/50] Processing SADHNANIQ...
+2025-10-23 23:28:18,577 - INFO - 📰 Fetching news for SADHNANIQ (last 24h)
+2025-10-23 23:28:19,986 - INFO - ✅ Found 0 recent articles for SADHNANIQ
+2025-10-23 23:28:19,987 - INFO - [27/50] Processing SANWARIA...
+2025-10-23 23:28:19,988 - INFO - 📰 Fetching news for SANWARIA (last 24h)
+2025-10-23 23:28:21,470 - INFO - ✅ Found 0 recent articles for SANWARIA
+2025-10-23 23:28:21,473 - INFO - [28/50] Processing SITINET...
+2025-10-23 23:28:21,473 - INFO - 📰 Fetching news for SITINET (last 24h)
+2025-10-23 23:28:23,005 - INFO - ✅ Found 0 recent articles for SITINET
+2025-10-23 23:28:23,008 - INFO - [29/50] Processing SRPL...
+2025-10-23 23:28:23,014 - INFO - 📰 Fetching news for SRPL (last 24h)
+2025-10-23 23:28:24,717 - INFO - ✅ Found 0 recent articles for SRPL
+2025-10-23 23:28:24,717 - INFO - [30/50] Processing TANKUP...
+2025-10-23 23:28:24,717 - INFO - 📰 Fetching news for TANKUP (last 24h)
+2025-10-23 23:28:26,318 - INFO - ✅ Found 0 recent articles for TANKUP
+2025-10-23 23:28:26,318 - INFO - [31/50] Processing UMAEXPORTS...
+2025-10-23 23:28:26,319 - INFO - 📰 Fetching news for UMAEXPORTS (last 24h)
+2025-10-23 23:28:27,550 - INFO - ✅ Found 2 recent articles for UMAEXPORTS
+2025-10-23 23:28:27,553 - INFO - 🔍 INSTANT ANALYSIS: UMAEXPORTS
+2025-10-23 23:28:27,556 - INFO -    Headline: Advance Chart - Moneycontrol - Moneycontrol...
+2025-10-23 23:28:27,557 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:27,557 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:27,557 - INFO - 🔍 INSTANT ANALYSIS: UMAEXPORTS
+2025-10-23 23:28:27,557 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:27,558 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:27,558 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:27,558 - INFO - [32/50] Processing UNITEDPOLY...
+2025-10-23 23:28:27,559 - INFO - 📰 Fetching news for UNITEDPOLY (last 24h)
+2025-10-23 23:28:28,913 - INFO - ✅ Found 0 recent articles for UNITEDPOLY
+2025-10-23 23:28:28,913 - INFO - [33/50] Processing VOLERCAR...
+2025-10-23 23:28:28,913 - INFO - 📰 Fetching news for VOLERCAR (last 24h)
+2025-10-23 23:28:31,429 - INFO - ✅ Found 1 recent articles for VOLERCAR
+2025-10-23 23:28:31,430 - INFO - 🔍 INSTANT ANALYSIS: VOLERCAR
+2025-10-23 23:28:31,431 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:31,433 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:31,433 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:31,433 - INFO - [34/50] Processing WELINV...
+2025-10-23 23:28:31,433 - INFO - 📰 Fetching news for WELINV (last 24h)
+2025-10-23 23:28:32,544 - INFO - ✅ Found 1 recent articles for WELINV
+2025-10-23 23:28:32,544 - INFO - 🔍 INSTANT ANALYSIS: WELINV
+2025-10-23 23:28:32,544 - INFO -    Headline: The Economic Times - The Economic Times...
+2025-10-23 23:28:32,545 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:32,545 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:32,545 - INFO - [35/50] Processing WINSOME...
+2025-10-23 23:28:32,545 - INFO - 📰 Fetching news for WINSOME (last 24h)
+2025-10-23 23:28:34,158 - INFO - ✅ Found 0 recent articles for WINSOME
+2025-10-23 23:28:34,159 - INFO - [36/50] Processing AAKASH...
+2025-10-23 23:28:34,159 - INFO - 📰 Fetching news for AAKASH (last 24h)
+2025-10-23 23:28:35,876 - INFO - ✅ Found 1 recent articles for AAKASH
+2025-10-23 23:28:35,876 - INFO - 🔍 INSTANT ANALYSIS: AAKASH
+2025-10-23 23:28:35,877 - INFO -    Headline: Abu Dhabi T10 2025: Harbhajan Singh, Kieron Pollard, Piyush Chawla among big nam...
+2025-10-23 23:28:35,879 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:35,880 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:35,880 - INFO - [37/50] Processing AAREYDRUGS...
+2025-10-23 23:28:35,880 - INFO - 📰 Fetching news for AAREYDRUGS (last 24h)
+2025-10-23 23:28:37,300 - INFO - ✅ Found 1 recent articles for AAREYDRUGS
+2025-10-23 23:28:37,301 - INFO - 🔍 INSTANT ANALYSIS: AAREYDRUGS
+2025-10-23 23:28:37,302 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:37,310 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:37,311 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:37,312 - INFO - [38/50] Processing AARTECH...
+2025-10-23 23:28:37,312 - INFO - 📰 Fetching news for AARTECH (last 24h)
+2025-10-23 23:28:39,276 - INFO - ✅ Found 1 recent articles for AARTECH
+2025-10-23 23:28:39,277 - INFO - 🔍 INSTANT ANALYSIS: AARTECH
+2025-10-23 23:28:39,277 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:39,278 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:39,279 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:39,279 - INFO - [39/50] Processing AARTISURF...
+2025-10-23 23:28:39,280 - INFO - 📰 Fetching news for AARTISURF (last 24h)
+2025-10-23 23:28:40,733 - INFO - ✅ Found 0 recent articles for AARTISURF
+2025-10-23 23:28:40,734 - INFO - [40/50] Processing AARVEEDEN...
+2025-10-23 23:28:40,736 - INFO - 📰 Fetching news for AARVEEDEN (last 24h)
+2025-10-23 23:28:42,277 - INFO - ✅ Found 0 recent articles for AARVEEDEN
+2025-10-23 23:28:42,279 - INFO - [41/50] Processing ABAN...
+2025-10-23 23:28:42,280 - INFO - 📰 Fetching news for ABAN (last 24h)
+2025-10-23 23:28:45,657 - INFO - ✅ Found 1 recent articles for ABAN
+2025-10-23 23:28:45,660 - INFO - 🔍 INSTANT ANALYSIS: ABAN
+2025-10-23 23:28:45,665 - INFO -    Headline: Israel Tourism reaffirms Asian market focus post-ceasefire at ITB Asia 2025 - ET...
+2025-10-23 23:28:45,669 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:45,670 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:45,670 - INFO - [42/50] Processing ABHAPOWER...
+2025-10-23 23:28:45,671 - INFO - 📰 Fetching news for ABHAPOWER (last 24h)
+2025-10-23 23:28:47,320 - INFO - ✅ Found 1 recent articles for ABHAPOWER
+2025-10-23 23:28:47,320 - INFO - 🔍 INSTANT ANALYSIS: ABHAPOWER
+2025-10-23 23:28:47,320 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:47,321 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:47,324 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:47,327 - INFO - [43/50] Processing ABINFRA...
+2025-10-23 23:28:47,327 - INFO - 📰 Fetching news for ABINFRA (last 24h)
+2025-10-23 23:28:49,401 - INFO - ✅ Found 0 recent articles for ABINFRA
+2025-10-23 23:28:49,402 - INFO - [44/50] Processing ABMINTLLTD...
+2025-10-23 23:28:49,402 - INFO - 📰 Fetching news for ABMINTLLTD (last 24h)
+2025-10-23 23:28:50,718 - INFO - ✅ Found 0 recent articles for ABMINTLLTD
+2025-10-23 23:28:50,719 - INFO - [45/50] Processing ACCENTMIC...
+2025-10-23 23:28:50,719 - INFO - 📰 Fetching news for ACCENTMIC (last 24h)
+2025-10-23 23:28:52,126 - INFO - ✅ Found 0 recent articles for ACCENTMIC
+2025-10-23 23:28:52,127 - INFO - [46/50] Processing ACCORD...
+2025-10-23 23:28:52,128 - INFO - 📰 Fetching news for ACCORD (last 24h)
+2025-10-23 23:28:53,967 - INFO - ✅ Found 7 recent articles for ACCORD
+2025-10-23 23:28:53,967 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,967 - INFO -    Headline: Tripura Bandh: Widespread protests erupt; demand grows for Inner Line Permit & T...
+2025-10-23 23:28:53,968 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,969 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,969 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,969 - INFO -    Headline: University of Virginia signs deal with Trump admin, secures federal funding - Bu...
+2025-10-23 23:28:53,970 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,970 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,971 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,971 - INFO -    Headline: Bandh called by civil society on October 23: All Tripura govt offices to remain ...
+2025-10-23 23:28:53,971 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,972 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,972 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,972 - INFO -    Headline: World Diamond Council head says lab-grown gems losing their sparkle - ET Retail...
+2025-10-23 23:28:53,972 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,973 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,973 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,973 - INFO -    Headline: JP Nadda: Bihar needs strong leadership, not Tejashwi Yadav’s empty promises - T...
+2025-10-23 23:28:53,974 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,974 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,974 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,975 - INFO -    Headline: Israel's parliament gives initial nod to occupied West Bank annexation - Moneyco...
+2025-10-23 23:28:53,976 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,976 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,976 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 23:28:53,976 - INFO -    Headline: Russia's Sergey Lavrov slams West, says ‘should've never trusted’ them, pins hop...
+2025-10-23 23:28:53,977 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:53,978 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:53,978 - INFO - [47/50] Processing AESTHETIK...
+2025-10-23 23:28:53,978 - INFO - 📰 Fetching news for AESTHETIK (last 24h)
+2025-10-23 23:28:56,143 - INFO - ✅ Found 2 recent articles for AESTHETIK
+2025-10-23 23:28:56,146 - INFO - 🔍 INSTANT ANALYSIS: AESTHETIK
+2025-10-23 23:28:56,146 - INFO -    Headline: aesthetik - Moneycontrol - Moneycontrol...
+2025-10-23 23:28:56,147 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:56,148 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:56,148 - INFO - 🔍 INSTANT ANALYSIS: AESTHETIK
+2025-10-23 23:28:56,149 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:28:56,150 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:56,150 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:56,154 - INFO - [48/50] Processing AGARWALFT...
+2025-10-23 23:28:56,158 - INFO - 📰 Fetching news for AGARWALFT (last 24h)
+2025-10-23 23:28:57,642 - INFO - ✅ Found 3 recent articles for AGARWALFT
+2025-10-23 23:28:57,644 - INFO - 🔍 INSTANT ANALYSIS: AGARWALFT
+2025-10-23 23:28:57,645 - INFO -    Headline: agarwalft - Moneycontrol - Moneycontrol...
+2025-10-23 23:28:57,646 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:57,647 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:57,647 - INFO - 🔍 INSTANT ANALYSIS: AGARWALFT
+2025-10-23 23:28:57,649 - INFO -    Headline: Agarwal Float Glass India Profit & Loss account, Agarwal Float Glass India Finan...
+2025-10-23 23:28:57,656 - INFO -    ✅ Score: 100.0 | Sentiment: neutral
+2025-10-23 23:28:57,682 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:57,682 - INFO - 🔍 INSTANT ANALYSIS: AGARWALFT
+2025-10-23 23:28:57,683 - INFO -    Headline: Agarwal Float Glass India Cash Flow, Agarwal Float Glass India Financial Stateme...
+2025-10-23 23:28:57,684 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:28:57,684 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:28:57,684 - INFO - [49/50] Processing AGNI...
+2025-10-23 23:28:57,684 - INFO - 📰 Fetching news for AGNI (last 24h)
+2025-10-23 23:28:59,970 - INFO - ✅ Found 0 recent articles for AGNI
+2025-10-23 23:28:59,984 - INFO - [50/50] Processing AGROPHOS...
+2025-10-23 23:28:59,986 - INFO - 📰 Fetching news for AGROPHOS (last 24h)
+2025-10-23 23:29:02,324 - INFO - ✅ Found 1 recent articles for AGROPHOS
+2025-10-23 23:29:02,325 - INFO - 🔍 INSTANT ANALYSIS: AGROPHOS
+2025-10-23 23:29:02,325 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:29:02,327 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:29:02,328 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:29:02,328 - INFO - 
+✅ Collection complete!
+2025-10-23 23:29:02,329 - INFO -    Total articles: 37
+2025-10-23 23:29:02,329 - INFO -    Successfully analyzed: 37
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+[1/50] Processing 21STCENMGM...
+   ℹ️  No recent articles found
+
+[2/50] Processing A2ZINFRA...
+   📰 Analyzing 1 article(s)...
+
+[3/50] Processing ACL...
+   📰 Analyzing 2 article(s)...
+
+[4/50] Processing AGSTRA...
+   ℹ️  No recent articles found
+
+[5/50] Processing ANSALAPI...
+   ℹ️  No recent articles found
+
+[6/50] Processing BLUECHIP...
+   📰 Analyzing 1 article(s)...
+
+[7/50] Processing DHARAN...
+   📰 Analyzing 2 article(s)...
+
+[8/50] Processing EXCEL...
+   📰 Analyzing 3 article(s)...
+
+[9/50] Processing FEL...
+   📰 Analyzing 1 article(s)...
+
+[10/50] Processing GVKPIL...
+   ℹ️  No recent articles found
+
+[11/50] Processing IEL...
+   📰 Analyzing 2 article(s)...
+
+[12/50] Processing ITTL...
+   ℹ️  No recent articles found
+
+[13/50] Processing KRISHIVAL...
+   📰 Analyzing 1 article(s)...
+
+[14/50] Processing MANUGRAPH...
+   ℹ️  No recent articles found
+
+[15/50] Processing MEP...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+2. ACL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+3. DHARAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. A2ZINFRA - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+[16/50] Processing MVKAGRO...
+   ℹ️  No recent articles found
+
+[17/50] Processing NORBTEAEXP...
+   ℹ️  No recent articles found
+
+[18/50] Processing ORTINGLOBE...
+   ℹ️  No recent articles found
+
+[19/50] Processing OSELDEVICE...
+   ℹ️  No recent articles found
+
+[20/50] Processing PATTECH...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+2. ACL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+3. DHARAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. A2ZINFRA - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+[21/50] Processing POLYSIL...
+   ℹ️  No recent articles found
+
+[22/50] Processing PPAP...
+   ℹ️  No recent articles found
+
+[23/50] Processing PRAXIS...
+   ℹ️  No recent articles found
+
+[24/50] Processing RAJRILTD...
+   ℹ️  No recent articles found
+
+[25/50] Processing RSSOFTWARE...
+   ℹ️  No recent articles found
+
+[26/50] Processing SADHNANIQ...
+   ℹ️  No recent articles found
+
+[27/50] Processing SANWARIA...
+   ℹ️  No recent articles found
+
+[28/50] Processing SITINET...
+   ℹ️  No recent articles found
+
+[29/50] Processing SRPL...
+   ℹ️  No recent articles found
+
+[30/50] Processing TANKUP...
+   ℹ️  No recent articles found
+
+[31/50] Processing UMAEXPORTS...
+   📰 Analyzing 2 article(s)...
+
+[32/50] Processing UNITEDPOLY...
+   ℹ️  No recent articles found
+
+[33/50] Processing VOLERCAR...
+   📰 Analyzing 1 article(s)...
+
+[34/50] Processing WELINV...
+   📰 Analyzing 1 article(s)...
+
+[35/50] Processing WINSOME...
+   ℹ️  No recent articles found
+
+[36/50] Processing AAKASH...
+   📰 Analyzing 1 article(s)...
+
+[37/50] Processing AAREYDRUGS...
+   📰 Analyzing 1 article(s)...
+
+[38/50] Processing AARTECH...
+   📰 Analyzing 1 article(s)...
+
+[39/50] Processing AARTISURF...
+   ℹ️  No recent articles found
+
+[40/50] Processing AARVEEDEN...
+   ℹ️  No recent articles found
+
+[41/50] Processing ABAN...
+   📰 Analyzing 1 article(s)...
+
+[42/50] Processing ABHAPOWER...
+   📰 Analyzing 1 article(s)...
+
+[43/50] Processing ABINFRA...
+   ℹ️  No recent articles found
+
+[44/50] Processing ABMINTLLTD...
+   ℹ️  No recent articles found
+
+[45/50] Processing ACCENTMIC...
+   ℹ️  No recent articles found
+
+[46/50] Processing ACCORD...
+   📰 Analyzing 7 article(s)...
+
+[47/50] Processing AESTHETIK...
+   📰 Analyzing 2 article(s)...
+
+[48/50] Processing AGARWALFT...
+   📰 Analyzing 3 article(s)...
+
+[49/50] Processing AGNI...
+   ℹ️  No recent articles found
+
+[50/50] Processing AGROPHOS...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. ACCORD - Score: 99.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 7
+
+2. EXCEL - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+3. AGARWALFT - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+4. ACL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. DHARAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. ACCORD - Score: 99.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 7
+
+2. EXCEL - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+3. AGARWALFT - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+4. ACL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. DHARAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+6. IEL - Score: 97.5/100
+2025-10-23 23:29:02,342 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_232729.csv
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+7. UMAEXPORTS - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+8. AESTHETIK - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+9. A2ZINFRA - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+10. BLUECHIP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+11. FEL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+12. KRISHIVAL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+13. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+14. PATTECH - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+15. VOLERCAR - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+16. WELINV - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+17. AAKASH - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+18. AAREYDRUGS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+19. AARTECH - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+20. ABAN - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+21. ABHAPOWER - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+22. AGROPHOS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 37
+   Results saved: realtime_ai_analysis_20251023_232729.csv

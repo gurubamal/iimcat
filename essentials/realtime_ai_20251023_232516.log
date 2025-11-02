@@ -1,0 +1,84 @@
+2025-10-23 23:25:16,851 - INFO - ✅ Frontier AI components loaded
+2025-10-23 23:25:16,852 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 23:25:16,852 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-23 23:25:16,852 - INFO -    Time window: 24 hours
+2025-10-23 23:25:16,852 - INFO -    Max articles per ticker: 10
+2025-10-23 23:25:16,852 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-23 23:25:16,852 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 23:25:17,425 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 23:25:17,427 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-23 23:25:17,429 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-23 23:25:25,292 - INFO - ✅ Found 1 recent articles for A2ZINFRA
+2025-10-23 23:25:25,300 - INFO - 🔍 INSTANT ANALYSIS: A2ZINFRA
+2025-10-23 23:25:25,301 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:25:25,311 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:25,311 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:25,313 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:25,319 - INFO - [3/50] Processing ACL...
+2025-10-23 23:25:25,319 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-23 23:25:28,070 - INFO - ✅ Found 2 recent articles for ACL
+2025-10-23 23:25:28,070 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:25:28,071 - INFO -    Headline: �f� ANDHRA CEMENTS LIMITED - bsmedia.business-standard.com...
+2025-10-23 23:25:28,079 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:28,079 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:28,080 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:28,080 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:25:28,084 - INFO -    Headline: Chelsea vs Ajax: Who will win Champions League clash? AI predictions, confirmed ...
+2025-10-23 23:25:28,089 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:28,089 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:28,091 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:28,091 - INFO - [4/50] Processing AGSTRA...
+2025-10-23 23:25:28,091 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-23 23:25:30,367 - INFO - ✅ Found 0 recent articles for AGSTRA
+2025-10-23 23:25:30,369 - INFO - [5/50] Processing ANSALAPI...
+2025-10-23 23:25:30,372 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-23 23:25:33,152 - INFO - ✅ Found 0 recent articles for ANSALAPI
+2025-10-23 23:25:33,152 - INFO - [6/50] Processing BLUECHIP...
+2025-10-23 23:25:33,152 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-23 23:25:35,184 - INFO - ✅ Found 1 recent articles for BLUECHIP
+2025-10-23 23:25:35,186 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 23:25:35,186 - INFO -    Headline: Microsoft Azure, Galleri5 partner to drive AI leap in filmmaking - The Economic ...
+2025-10-23 23:25:35,191 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:35,191 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:35,196 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:35,197 - INFO - [7/50] Processing DHARAN...
+2025-10-23 23:25:35,199 - INFO - 📰 Fetching news for DHARAN (last 24h)
+2025-10-23 23:25:37,374 - INFO - ✅ Found 2 recent articles for DHARAN
+2025-10-23 23:25:37,379 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:25:37,379 - INFO -    Headline: Advance Chart - Moneycontrol - Moneycontrol...
+2025-10-23 23:25:37,384 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:37,411 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:37,414 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:37,414 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:25:37,415 - INFO -    Headline: India-UN Development Partnership Fund empowers 10 Pacific nations through solar ...
+2025-10-23 23:25:37,415 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:37,415 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:37,415 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:37,415 - INFO - [8/50] Processing EXCEL...
+2025-10-23 23:25:37,415 - INFO - 📰 Fetching news for EXCEL (last 24h)
+2025-10-23 23:25:39,481 - INFO - ✅ Found 3 recent articles for EXCEL
+2025-10-23 23:25:39,481 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:25:39,481 - INFO -    Headline: Unilever's India arm posts profit rise on strong beauty products demand - ET CFO...
+2025-10-23 23:25:39,485 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:39,485 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:39,499 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:39,501 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:25:39,505 - INFO -    Headline: Man with 150+ Degrees: Prof. Parthiban spends 90% of his salary on studies — all...
+2025-10-23 23:25:39,512 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:39,513 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:39,513 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:39,513 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:25:39,513 - INFO -    Headline: Horoscope Today, October 23, 2025: Job, Business and Money Predictions for Every...
+2025-10-23 23:25:39,514 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:39,514 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:39,514 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:39,515 - INFO - [9/50] Processing FEL...
+2025-10-23 23:25:39,515 - INFO - 📰 Fetching news for FEL (last 24h)
+2025-10-23 23:25:42,379 - INFO - ✅ Found 1 recent articles for FEL
+2025-10-23 23:25:42,379 - INFO - 🔍 INSTANT ANALYSIS: FEL
+2025-10-23 23:25:42,381 - INFO -    Headline: Trump’s Russian oil sanctions gambit will test his tolerance for pain - Reuters...
+2025-10-23 23:25:42,387 - WARNING - Frontier scoring failed: LLMNewsScorer.score_news() got an unexpected keyword argument 'headline'
+2025-10-23 23:25:42,394 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:25:42,398 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:25:42,402 - INFO - [10/50] Processing GVKPIL...
+2025-10-23 23:25:42,402 - INFO - 📰 Fetching news for GVKPIL (last 24h)

@@ -1,0 +1,35 @@
+Full Article Fetch Test - BIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 55.84M
+
+Title   : China’s $1 Billion of daily US exports show Xi’s bargaining power
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T10:31:28
+Fetched : 2025-10-22T12:31:23.373296
+URL     : https://www.thehindubusinessline.com/news/world/chinas-1-billion-of-daily-us-exports-show-xis-bargaining-power/article70189458.ece
+--------------------------------------------------------------------------------
+Six months into Donald Trump’s trade war, the resilience of Chinese exports is proving just how essential many of its products remain even after US levies of 55%.
+Every day, about a billion dollars worth of goods is crossing the Pacific from China to the US, with the amount ticking up in September from August. Despite double-digit drops in the value of overall trade during the past half a year, some products have recently seen an increase from 2024, defying trade strains between Beijing and Washington.
+The upshot is that US tariffs appear somewhat limited in their ability to control what American firms import, as China’s sway over sectors such as rare earths and electronics makes its products hard to dislodge, at least in the short term. That may change over time, especially if Trump further hikes tariffs, as the Republican leader has repeatedly threatened to do.
+“China’s strong position in global supply chains gives it some bargaining power with US importers in the near term,” wrote Bloomberg economists Chang Shu and David Qu, who cautioned other countries can’t quickly displace China as a supplier to the US. “Realigning production will take time,” they added.
+All that’s giving President Xi Jinping more bargaining power as his trade negotiators head into talks aimed at extending a 90-day tariff truce that’s set to expire in November. In the third quarter, more than $100 billion worth of Chinese goods arrived in the US, helping Beijing keep economic growth on track for its annual target and pushing the bilateral trade surplus up to $67 billion.
+Trump on Tuesday predicted an upcoming meeting with his Chinese counterpart would yield a “good deal” on trade, while also cautioning the expected sitdown at a summit in South Korea next week could still fall apart. The US leader has listed rare earths, fentanyl and soybeans as the top trade issues for his side to discuss with China.
+The pairing between the world’s two biggest economies goes beyond products whose global supply is dominated by China, such as magnets critical to American manufacturing or chemicals in widely used medicines.
+While almost all the top 10 exports to the US slumped last quarter from a year earlier, shipments of e-cigarettes rose, according to a Bloomberg analysis of China’s customs data. E-bikes are also seeing strong US demand, with Chinese firms exporting more than $500 million worth in the three months through September, slightly up on a year earlier.
+Exports of refined copper cathodes have soared in value terms from almost nothing to $270 million in the past three months, with electrical cables rising 87% to $405 million.
+“Both sides may reduce dependence on each other but it cannot be reduced to zero,” said Zhaopeng Xing, senior China strategist at Australia & New Zealand Banking Group.
+Cracks in Trump’s tariff wall are probably making some of the trade possible by keeping costs down.
+ANZ’s Xing said American importers are able to pay a lower levy by declaring the customs value of goods based on their first sale in a third country, and then raising the price when the items reach a US port. Trans-shipping via Mexico or Vietnam means some firms are likely not paying the full tax.
+“There are a lot of loopholes,” Xing added. US Customs “just don’t have enough manpower to address them.”
+In the July-September quarter, companies in China shipped almost $8 billion worth of smartphones, laptops, tablets and computer parts to the US. While that was less than half the amount sold in the same period last year, it still represented a substantial haul considering the high tariffs.
+And despite the end of the “de minimis” rule allowing small parcels to enter the US duty-free, US consumers have kept buying billions of dollars worth of packages from e-commerce platforms such as Shein Group Ltd. and PDD Holdings Inc.’s Temu. While tariffed at 54%, Chinese data showed about $5.4 billion worth of these small packages were sent to the US since the Trump administration closed the loophole in May.
+Business to business e-commerce exports also soared, jumping to $201 million in September from about $31 million in August. The surge may indicate Chinese online platforms are moving from selling direct to US consumers to shipping first in bulk and then breaking that down into smaller packages in the US.
+Despite all that, China and the US do seem set for a downsized future in trade, as Trump seeks to revive manufacturing in the US and makes onshoring critical industries a priority. Already, shipments from China this year have dropped to less than $320 billion, about the same level as in 2017 before the first trade war under Trump.
+There’s been a collapse in exports of games consoles, with companies such as Nintendo Co. and Microsoft Corp. choosing to deliver them from Vietnam and elsewhere instead of paying the higher tariff to ship from China. And US consumers now look to be buying TVs elsewhere, with a 73% drop in the value of LCD sets exported from China to the US last quarter.
+When it comes to other products, such as commercial ships, the US had decoupled from China before Trump imposed fees on Chinese-built vessels docking in US ports.
+Despite the resilience, the damage done to US-China trade this year is already worse than during Trump’s first presidency, according to the International Monetary Fund.
+“Bilateral trade decoupling between the United States and China appears to be happening sooner when compared with the 2018–19 tariff shock,” it said in a report this month.
+More stories like this are available on bloomberg.com
+Published on October 22, 2025
+

@@ -1,0 +1,104 @@
+Full Article Fetch Test - SIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): -10199000.00
+
+Title   : Tata MF temporarily suspends subscription to units in Silver ETF Fund of Fund 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T15:08:48
+Fetched : 2025-10-13T21:16:50.586078
+URL     : https://www.thehindubusinessline.com/markets/tata-mf-temporarily-suspends-subscription-to-units-in-silver-etf-fund-of-fund/article70159567.ece
+--------------------------------------------------------------------------------
+Tata Mutual Fund has decided to temporarily suspend subscription to the units in Tata Silver ETF Fund of Fund (FoF) with effect from October 14, 2025, due to prevailing market conditions and shortage of physical silver in the domestic market.
+However, all existing SIP (systematic investment plan) and STP (systematic trading plan) registered under the Tata Silver ETF FoF (scheme) will remain operational.
+Moreover, during this suspension period, redemptions, switch-out, and Systematic Withdrawal Plan (SWP) will continue to be permitted in accordance with the terms outlined in the Scheme Information Document.
+Noting that silver is trading at a premium relative to international prices, Tata MF, in an addendum to the Tata Silver ETF FoF, said the premium in domestic silver prices directly impacts the valuation of the scheme.
+“In light of the current market scenario, Tata Mutual Fund has decided to temporarily suspend all lump sum investments, switch-in into the scheme & fresh registration of SIP and STP into the scheme from the effective date....The aforesaid suspension is temporary in nature and shall continue only till further notice in this regard,” per the addendum.
+The scheme is an open-ended FoF investing in Tata Silver Exchange Traded Fund (Tata Silver ETF). Tata Silver ETF is an open-ended scheme replicating/tracking Domestic Price of Silver.
+Published on October 13, 2025
+
+Title   : Silver roars higher on short squeeze as gold rallies to record 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T11:14:54
+Fetched : 2025-10-13T21:16:50.586078
+URL     : https://www.thehindubusinessline.com/markets/gold/silver-roars-higher-on-short-squeeze-as-gold-rallies-to-record/article70158232.ece
+--------------------------------------------------------------------------------
+Silver hit the highest in decades as a historic short squeeze in London reinforced a powerful year-to-date rally, while gold surged to a record aided by broad investor enthusiasm toward precious metals.
+Spot silver climbed as much as 3 per cent to near $52 an ounce — exceeding last week’s intraday high — as gold surpassed $4,068 an ounce, building on a run of eight weekly gains. Platinum and palladium also gained strongly.
+Precious metals have surged this year, with the complex’s main quartet of members surging between 50 per cent and 80 per cent, in a rally that’s dominated commodity markets.
+Gold’s advance has been underpinned by central-bank buying, rising holdings in exchange-traded funds, and rate cuts by the Federal Reserve. Demand for havens has also been aided by recurrent US-China trade tensions, threats to the Fed’s independence, and a US government shutdown.
+On Sunday, China urged Washington to halt tariff threats and return to talks, warning it would retaliate if the US pressed ahead with new measures. President Donald Trump — who mooted an extra 100 per cent tariff on Chinese goods last week — struck a more conciliatory tone in weekend remarks.
+“Just when geopolitical and trade risks were diminishing tailwinds for gold, we’ve got this flare-up in US-China tensions,” said Kyle Rodda, an analyst at Capital.com. Despite both sides’ openness to talks, “trade volatility may go silent but it never disappears. That’s a really good thing for gold.”
+Concerns about a lack of liquidity in London drove silver closer to a $52.50 an ounce record from 1980 — set on a now-defunct contract on the Chicago Board of Trade exchange. Benchmark prices in London have soared to near-unprecedented levels over New York, prompting some traders to book cargo slots on transatlantic flights for silver bars — an expensive mode of transport typically reserved for gold — to profit off the massive premiums in London.
+Traders also remain on edge ahead of the conclusion of the US administration’s so-called Section 232 probe into critical minerals — which includes silver, as well as platinum and palladium.
+Fears the metals could be swept up in new levies have exacerbated market tightness, partly laying the foundations for the squeeze in silver after a major drawdown of freely available supplies in London.
+Spot gold rose as much as 1.3 per cent to $4,068.21 an ounce, and traded near $4,067 at 1:19 p.m. in Singapore. The Bloomberg Dollar Spot Index was little changed, after gaining about 1 per cent last week. Silver was up 2.8 per cent, above $51 an ounce. Platinum was near $1,634 an ounce, while palladium rose as much as 3.6 per cent.
+More stories like this are available on bloomberg.com
+Published on October 13, 2025
+
+Title   : Silver roars higher on short squeeze as gold rallies to record 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T08:56:03
+Fetched : 2025-10-13T21:16:50.586078
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/silver-roars-higher-on-short-squeeze-as-gold-rallies-to-record/articleshow/124522207.cms
+--------------------------------------------------------------------------------
+Spot silver climbed as much as 3% to near $52 an ounce — exceeding last week’s intraday high — as gold surpassed $4,068 an ounce, building on a run of eight weekly gains. Platinum and palladium also gained strongly.
+Precious metals have surged this year, with the complex’s main quartet of members surging between 50% and 80%, in a rally that’s dominated commodity markets. Gold’s advance has been underpinned by central-bank buying, rising holdings in exchange-traded funds, and rate cuts by the Federal Reserve. Demand for havens has also been aided by recurrent US-China trade tensions, threats to the Fed’s independence, and a US government shutdown.
+On Sunday, China urged Washington to halt tariff threats and return to talks, warning it would retaliate if the US pressed ahead with new measures. President Donald Trump — who mooted an extra 100% tariff on Chinese goods last week — struck a more conciliatory tone in weekend remarks.
+“Just when geopolitical and trade risks were diminishing tailwinds for gold, we’ve got this flare-up in US-China tensions,” said Kyle Rodda, an analyst at Capital.com. Despite both sides’ openness to talks, “trade volatility may go silent but it never disappears. That’s a really good thing for gold.”
+Concerns about a lack of liquidity in London drove silver closer to a $52.50 an ounce record from 1980 — set on a now-defunct contract on the Chicago Board of Trade exchange. Benchmark prices in London have soared to near-unprecedented levels over New York, prompting some traders to book cargo slots on transatlantic flights for silver bars — an expensive mode of transport typically reserved for gold — to profit off the massive premiums in London.
+Traders also remain on edge ahead of the conclusion of the US administration’s so-called Section 232 probe into critical minerals — which includes silver, as well as platinum and palladium. Fears the metals could be swept up in new levies have exacerbated market tightness, partly laying the foundations for the squeeze in silver after a major drawdown of freely available supplies in London.
+Spot gold rose as much as 1.3% to $4,068.21 an ounce, and traded near $4,067 at 1:19 p.m. in Singapore. The Bloomberg Dollar Spot Index was little changed, after gaining about 1% last week. Silver was up 2.8%, above $51 an ounce. Platinum was near $1,634 an ounce, while palladium rose as much as 3.6%.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Silver prices could rise, but your ETF may not. Here’s why 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T10:59:45
+Fetched : 2025-10-13T21:16:50.586078
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-could-rise-but-your-etf-may-not-heres-why/articleshow/124525264.cms
+--------------------------------------------------------------------------------
+Silver investors have already enjoyed a spectacular rally in 2025, with prices soaring nearly 90% so far this year. Globally, silver is trading around $49 per ounce—hovering near record highs—as political and economic uncertainty fuels safe-haven demand. On the Comex, silver has jumped roughly 70% year-to-date, while on the MCX, prices have gained about 71%.
+Emkay Wealth Management attributes the bullish outlook to robust industrial demand and a persistent supply deficit of around 20%, which is expected to continue in the near term. But even as silver’s fundamentals remain strong, ETF prices in India have detached from the metal’s actual value due to an acute supply crunch.
+According to Mirae Asset Management, trading volumes in silver ETFs have surged dramatically this year. The average daily trading volume, which stood at Rs 77.53 crore in 2024, has shot up to Rs 211.76 crore till September 2025. In September alone, the figure spiked to Rs 642 crore. Over the three months ending August, silver ETFs saw net inflows of about Rs 5,700 crore.
+However, on October 9, silver ETFs in India spiked sharply even though international silver prices remained stable. The reason: a shortage of inventory among commodity traders who act as market makers. With “low to negligible inventory” of LBMA-certified silver bars—the only type permitted for procurement by silver ETFs—market makers began quoting higher prices both on and off exchange.
+This led to a rare situation where ETFs traded at a 5% to 10% premium over their net asset value (NAV). For instance, the Mirae Asset Silver ETF closed at Rs 156.52 on October 9, compared with a NAV of Rs 149.11 a day earlier, it said in a note.
+Typically, MCX futures serve as the benchmark for silver prices in India, and physical silver trades at a small premium or discount relative to it. But the ongoing supply crunch has distorted this relationship, pushing acquisition costs sharply higher.
+Mirae Asset has warned investors to be cautious while making fresh purchases in silver ETFs, as high premiums increase entry costs. If silver prices stay flat and premiums normalize, investors could suffer mark-to-market losses as prices realign.
+Following this market distortion, several fund houses—including Kotak Mutual Fund, UTI Mutual Fund, and now SBI Mutual Fund—have suspended fresh subscriptions in their silver ETF funds of funds (FoFs) from October 13. SBI MF said the move was aimed at protecting investor interests amid abnormal market conditions.
+Existing systematic investment and transfer plans will continue as usual, and investors can redeem or switch out their units.
+While Emkay Wealth Management remains optimistic about silver’s long-term prospects, it also expects short-term consolidation after the steep rally. For now, investors may be better off waiting for ETF premiums to cool before adding more shine to their portfolios.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Commodities hype alert: Silver is next gold, copper next silver... beware investors, warns Gurmeet Chadha 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T16:04:52
+Fetched : 2025-10-13T21:16:50.586826
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/commodities-hype-alert-silver-is-next-gold-copper-next-silver-beware-investors-warns-gurmeet-chadha/articleshow/124531645.cms
+--------------------------------------------------------------------------------
+The comments came in the wake of comparisons now being made among metals.
+"Aluminium is next copper, Copper is next silver, Silver is next gold.. All these stories and comparisons have started... Commodities are more complex and have much longer cycles than equities. Be careful and don’t go overboard..," Chadha said in a tweet.
+Both gold and silver have had a great run in 2025, so far, with gold rallying around 60% and silver surging by over 70%. The demand for these safe haven assets has been on the rise primarily due to global uncertainties arising out of US President Donald Trump's tariff policies. The latest threat on imposing a further 100% tariff on China from November 1 by Trump after Beijing imposed "extraordinarily aggressive" export curbs on rare earth minerals, triggered a significant surge in gold and prices on Monday.
+Also Read: Too early to write obituaries for Indian IT companies, says Gurmeet Chadha, slams analysts
+The peace deal between Israel and Hamas had no adverse impact on gold and silver prices on Monday which rallied nearly 3% and 6.6% on the COMEX today. Gold surpassed $4,100 mark while silver which was hovering around $50.375 at 11:19 AM ET (8:50 pm India time) inche towards its life time high of $51.70/oz.
+In another development, Bank of America on Monday raised its price forecasts for both gold and silver while not ruling out a near-term correction. BofA has lifted the yellow metal price target for the 2026 outlook for gold to $5,000 an ounce, with an average of $4,400. For white metal, the target is placed at $65 an ounce, averaging $56.25, Reuters reported.
+"The White House's unorthodox policy framework should remain supportive for gold given fiscal deficits, rising debt, intentions to reduce the current account deficit/capital inflows, along with a push to cut rates with inflation around 3%," the report said, quoting the US-based lender.
+Bank of America is the first major bank to raise its gold price forecast to $5,000/oz for 2026.
+Also Read: BofA hikes gold’s 2026 target to $5,000; sees silver testing $65 but with this caution
+(Disclaimer: The recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times.)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

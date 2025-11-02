@@ -1,0 +1,41 @@
+Full Article Fetch Test - CDSL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 1.02B
+
+Title   : Market Trading Guide: Buy Eternal, CDSL and 3 other stocks on Tuesday for up to 10% gains 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T15:35:29
+Fetched : 2025-10-13T21:29:00.939919
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-eternal-cdsl-and-3-other-stocks-on-tuesday-for-up-to-10-gains/articleshow/124530478.cms
+--------------------------------------------------------------------------------
+Nilesh Jain, Head – Technical and Derivatives Research Analyst at Centrum Broking said that Nifty managed to defend and close above its immediate support at the 25,200 mark despite today's losses. "The overall trend remains bullish as long Nifty trades above 25,050. A gradual upward move towards 25,400 appears likely in the near term. On the derivatives front, fresh CALL writing was observed at the 25,300 strike, which now holds the highest open interest (OI) on the Call side. A decisive break above 25,300 could trigger short covering, paving the way for further upside. Meanwhile, the base has shifted higher to the 25,200 strike, indicating strong support at that level," Jain said.
+Here are 5 stock recommendations for Tuesday:
+Buy CDSL at Rs 1,620 | Upside: 6%
+Stop Loss: Rs 1,552Target: Rs 1,720
+The stock has given a strong closing above its previous swing high as well as its channel resistance level, indicating a breakout with renewed strength. It is sustaining well above its 20-day EMA, reflecting positive short-term momentum and trend continuation. Additionally, the RSI has entered a bullish crossover, signaling improving strength and increasing buying interest. These technical setups suggest that the stock may continue its upward momentum in the near term, provided it sustains above its breakout and short-term moving averages.
+(Vatsal Bhuva, Technical Analyst at LKP Securities)
+Buy Delhivery at Rs 470-473 | Upside: 7%
+Stop Loss: Rs 430Target: Rs 505
+After forming a bullish Morning Star candlestick pattern near its 50-day EMA during the corrective phase, the stock is showing early signs of a reversal. It continues to hold above its 20-day EMA, reflecting improving short-term strength and momentum. Moreover, a minor positive RSI divergence along with a bullish crossover adds confirmation to the reversal setup. These technical indicators point toward strengthening sentiment and suggest the potential for further upside movement in the stock in the upcoming sessions.
+(Vatsal Bhuva, Technical Analyst at LKP Securities)
+Buy Eternal at Rs 348 | Upside: 6%
+Stop Loss: Rs 334Target: Rs 370
+The chart structure of the stock is displaying a clear pattern of higher highs and higher lows, indicating a strong ongoing uptrend. The stock continues to sustain above its 20-day EMA, reflecting consistent buying support and positive short-term momentum. Additionally, the presence of a hidden bullish divergence further strengthens the likelihood of trend continuation. These technical indicators together suggest that the current upward momentum is likely to persist, with the stock expected to extend its uptrend in the coming sessions.
+(Vatsal Bhuva, Technical Analyst at LKP Securities)
+Buy Kfin Technologies at Rs 1,143.80 | Upside: 10%
+Stop Loss: Rs 1,087 Target: Rs 1,258
+KFINTECH has witnessed a breakout above a falling trend line on the daily chart, closing the session with a strong bullish candlestick supported by volumes well above the 20-day average, indicating robust accumulation. The stock is trading comfortably above its 20, 50, 100, and 200-day EMAs, reaffirming the strength of the prevailing uptrend. With the RSI at 61.74 and trending higher, bullish momentum remains healthy, suggesting potential for further upside in the near term.
+(Kunal Kamble, Sr. Technical Research Analyst, Bonanza Portfolio)
+Buy Motilal Oswal Financial Services at Rs 1003.95 | Upside: 8%
+Stop Loss: 964Target: 1084
+MOTILALOFS has registered a breakout from a cup and handle pattern on the daily chart, closing the session with a strong bullish candlestick accompanied by volumes significantly above the 20-day average, indicating robust accumulation. The stock is trading comfortably above its 20, 50, 100, and 200-day EMAs, reaffirming the strength of the prevailing uptrend. With the RSI at 65.89 and trending higher, bullish momentum remains firm, suggesting potential for further upside in the near term.
+(Kunal Kamble, Sr. Technical Research Analyst, Bonanza Portfolio)
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

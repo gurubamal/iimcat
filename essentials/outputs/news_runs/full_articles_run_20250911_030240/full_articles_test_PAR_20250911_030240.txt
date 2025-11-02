@@ -1,0 +1,25 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-11
+
+Title   : Embassy Office Parks REIT rejects Sterling Wilson Renewable Energy claim 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-10T11:42:50
+Fetched : 2025-09-11T04:05:00.739973
+URL     : https://www.thehindubusinessline.com/companies/embassy-office-parks-reit-rejects-sterling-wilson-renewable-energy-claim/article70033439.ece
+--------------------------------------------------------------------------------
+Sterling and Wilson Renewable Energy (SWREL) has moved the capital market SEBI to act against Embassy Office Parks REIT over alleged regulatory violations, citing serious criminal charges against individuals linked to the REIT’s management.
+However, Embassy REIT has dismissed the accusations as “false, frivolous and vexatious,” asserting that the matter has already been rejected by judicial forums.
+SWREL, in a letter to SEBI, said that the case involves chargesheets filed by the Economic Offences Wing and Enforcement Directorate for alleged offences of cheating, criminal breach of trust and money laundering.
+Jagannadha Rao, Company Secretary and Compliance Officer of SWREL, said key personnel associated with Embassy REIT are facing a chargesheet for serious economic offences, directly implicating the ‘fit and proper’ criteria under SEBI regulations. This situation demands regulatory intervention to protect the interests of the market and all investors, he said.
+The REIT pointed out that both the NCLT Bengaluru and NCLT Chennai have dismissed the claims, ruling that no contractual relationship existed between Embassy Energy Private Ltd (EEPL) and Sterling Wilson Pvt Ltd.
+Solar project
+EEPL had engaged IL&FS Solar Power (ISPL) in 2017 to build a 100-MW solar project at Bellary in Karnataka. ISPL subcontracted work to IL&FS Energy Development Company, which in turn engaged Sterling Wilson.
+Embassy REIT emphasised that EEPL fully discharged its obligations by paying ₹778 crore to ISPL between 2019 and 2020, after which ISPL issued a no-dues certificate, terminating all contracts.
+Despite this, Sterling Wilson has pursued multiple proceedings, including a summary suit in Bengaluru seeking ₹189 crore, criminal complaints against key executives and regulatory complaints to SEBI, it said.
+Published on September 10, 2025
+
+(skipped: outside allowed sources) Title: Common Contract Note with Single Volume Weighted Average Price (VWAP) – Enhancing Ease of Doing Business for Market Participants
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/common-contract-note-with-single-volume-weighted-average-price-vwap-enhancing-ease-of-doing-business-for-market-participants_94976.html
+

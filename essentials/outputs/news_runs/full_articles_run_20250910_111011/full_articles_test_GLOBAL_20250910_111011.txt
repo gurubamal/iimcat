@@ -1,0 +1,46 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Global military spending soars to $2.7 trillion in 2024, but peace still elusive: UN warns
+Source  : www.thehindubusinessline.com
+Published: 2025-09-10T08:04:09
+Fetched : 2025-09-10T11:34:03.772281
+URL     : https://www.thehindubusinessline.com/economy/logistics/global-military-spending-soars-to-27-trillion-in-2024-but-peace-still-elusive-un-warns/article70032850.ece
+--------------------------------------------------------------------------------
+Global military spending surged to an unprecedented $2.7 trillion in 2024, but this massive expenditure has failed to deliver peace or stability, according to a stark new report from the United Nations.
+UN Secretary-General António Guterres, speaking at the launch of the report, criticised the growing arms race, saying that excessive military spending “does not guarantee peace” and instead diverts vital resources away from the world’s most urgent human needs.
+“The world is spending far more on waging war than on building peace,” Guterres said, highlighting that military budgets now outweigh efforts to fight poverty, improve education, and strengthen healthcare systems by a staggering margin.
+While military budgets grew across all five global regions in 2024 — marking the steepest year-on-year rise in three decades — the report warns that even a fraction of this expenditure could dramatically alter the global development landscape.
+For instance, the UN estimates that redirecting a small portion of military funds could: put every child in low and lower-middle-income countries into school, provide primary healthcare to millions in vulnerable communities, eliminate child malnutrition, and help fund climate adaptation in the developing world.
+“Redirecting even a fraction of today’s military spending could close vital gaps – putting children in school, strengthening healthcare, and protecting the most vulnerable,” Guterres emphasised.
+The report also points out a troubling contrast: the $2.7 trillion spent on militaries is 750 times larger than the UN’s annual operating budget, and almost 13 times more than the total global development aid disbursed by OECD nations in 2024.
+Experts say the world is caught in a vicious cycle: economic instability, poverty, and underdevelopment fuel violence, which in turn leads to more military investment — further draining resources from social and economic development.
+UN disarmament chief Izumi Nakamitsu echoed the urgency of realigning global priorities.
+“Rebalancing global priorities is not optional – it is an imperative for humanity’s survival,” she said.
+With only one of the 17 Sustainable Development Goals (SDGs) on track for achievement by 2030, the report urges a fundamental shift in thinking — away from militarisation and toward diplomacy, cooperation, and sustainable development.
+“Investing in people is investing in the first line of defence against violence in any society,” Guterres concluded, calling for a new, human-centred approach to global security.
+Published on September 10, 2025
+
+Title   : CVC Capital to exit Healthcare Global via  ₹550 crore block deal
+Source  : www.livemint.com
+Published: 2025-09-10T09:43:49
+Fetched : 2025-09-10T11:34:03.772281
+URL     : https://www.livemint.com/companies/news/cvc-capital-to-exit-healthcare-global-via-rs-550-crore-block-deal-11757496240367.html
+--------------------------------------------------------------------------------
+CVC Capital to exit Healthcare Global via ₹550 crore block deal
+CVC initially acquired a 31% stake in HCG in 2020 for ₹1,049 crore, followed by an open offer for an additional 26%.
+MUMBAI : MUMBAI: Nine months after selling a controlling stake in cancer care hospital chain Healthcare Global (HCG) to private equity giant Kohlberg Kravis Roberts (KKR), CVC Capital is planning to exit its remaining stake via a block deal, three people familiar with the development said. The so-called clean-up trade will allow CVC to fully exit the company, they said.
+Ambit Capital is acting as the sole advisor for the transaction, these people added.
+In February, CVC sold its 54% stake in HCG to KKR for $400 million, or ₹445 a share. On Wednesday, HCG shares traded at ₹694.50 apiece on the National Stock Exchange, giving the company a total market capitalization of ₹9,682.4 crore.
+“It is a ₹550 crore block deal with marquee investors buying out the stake," one of the persons cited above said on conditions of anonymity as the talks are private.
+The block deal, likely to be launched after market hours on Wednesday, 10 September, is expected to close on 11 September.
+CVC initially acquired a 31% stake in HCG in 2020 for ₹1,049 crore, followed by an open offer for an additional 26%. Exchange filings show that promoters BS Ajaikumar and family held roughly 11% of the company as of June.
+Emails sent to CVC, HCG, and Ambit remained unanswered at the time of publishing.
+In a February newsbreak, Mint reported that CVC, which earlier held a 60% stake in the entity, will initially sell 51% to KKR and retain the balance stake. Founder Ajaikumar will retain 10%. Once the transaction is completed, KKR is expected to hold an equity stake of between 54% and 77%.
+Founded in 1989, HCG is one of India’s largest oncology hospital chains, operating 25 medical care centres across 19 cities. Its facilities include 2,500 beds, nearly 100 operating theatres, and 40 linear accelerator machines.
+

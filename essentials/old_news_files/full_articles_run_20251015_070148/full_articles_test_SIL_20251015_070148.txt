@@ -1,0 +1,58 @@
+Full Article Fetch Test - SIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -10199000.00
+
+Title   : Silver soars to record high of $53/oz as supply shortage surges across the globe
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:29:02
+Fetched : 2025-10-15T08:20:56.334142
+URL     : https://www.thehindubusinessline.com/markets/gold/silver-soars-to-record-high-of-53oz-as-supply-shortage-surges-across-the-globe/article70163469.ece
+--------------------------------------------------------------------------------
+Silver is facing a supply shortage globally with a couple of government mints, such as the Canadian Royal Mint and Australia’s Perth Mint, stopping sales of products made with the white precious metal.
+The development comes amid silver soaring to a record high of $53 an ounce early on Tuesday before easing towards $50.5 an ounce and then rebounding to $51.63 at 1945 hours IST. With a 75 per cent gain year-to-date, silver has outperformed gold in 2025. The yellow precious metal has gained about 55 per cent this year, with prices zooming to a record high of $4,140 an ounce on Tuesday before easing to $4,105.
+In India, gold in the Mumbai spot market was quoted at ₹1,24,155 per 10 gm. Silver was quoted at ₹1,78,100 a kg. On MCX, silver December futures ended the first session at ₹1,56,707 a kg, while gold December contracts finished at ₹1,25,244 per 10 gm.
+Soaring silver prices have resulted in exchange-traded funds (ETFs) charging premiums of about 10 per cent, leading to Kotak, SBI, UTI, ICICI and Tata Mutual Funds suspending subscription to their silver funds. The subscriptions will likely open only after the shortage eases.
+Rates for borrowing
+“Global silver supply has failed to keep pace with demand for seven consecutive years, leading to a structural market deficit, which is forecast to continue for a fifth consecutive year in 2025. This structural shortfall creates a unique floor for prices,” said Motilal Oswal Wealth Management (MOWM) in a note.
+Geopolitical risk, persistent inflationary concerns and renewed investor interest, evidenced by significant inflows into exchange-traded products (ETFs) — reaching 95 million ounces in the first half of 2025 — have provided the speculative leverage required for sharp price increase, it said.
+The supply squeeze in silver has led to the interest rate for borrowing the metal from banks to over 30 per cent (the metal will have to be replaced with a 30 per cent interest) in major centres such as London, Zurich and Singapore.
+Data show that silver holdings in the London vault have dropped by over 30 per cent to 24,851 tonnes as of September 30, 2025, from 35,667 tonnes in April 2020.
+Mints stop sales
+MOWM said the drain was due to massive inflows into consumer markets such as India, while there has been a sustained demand for investment in bars and coins from the US and Germany. Market participants in China have withdrawn 480 tonnes of silver so far this year.
+The Silver Academy reported that US mint production of one ounce Silver Eagles is only 20 per cent of last year’s output. This has resulted in premium for the coins and delays for delivery. “What was once the backbone of retail silver demand is now barely a trickle — demand overwhelming supply in a spectacular fashion,” it said.
+The Royal Canadian Mint has stopped selling 10 and 100 ounces silver bars that meet demands from institutions. “Never before has the Canadian Mint failed to deliver these bars to market. Today, buyers get a simple answer: ‘none in stock and no timeline for resupply’,” the academy said.
+Australia’s Perth Mint has suspended sales of all silver products. The UK’s Royal Mint has limited silver sales to one-ounce coins currently.
+Why the shortage
+Bloomberg reported that investment managers are saying that there is “no liquidity of silver available” for spot delivery at the London Bullion Market Association. MOWM said silver ETFs in India have outperformed so far in 2025, surging by about 70 per cent. This led to monthly silver ETFs investments increasing by 180 per cent in August.
+Trade analysts say silver demand has exceeded 1.16 million ounces annually but supplies have been 800 million ounces short annually over the past five years.
+The supply shortage is because 70 per cent of silver production is derived as a byproduct of metals such as copper and zinc, curbing the flexibility in production.
+The current scenario in silver is not a repeat of what happened in 1980 or 2011. According to analysts, including from MOWM, silver is being re-priced as a critical industrial and monetary metal. They warn that the global market could witness one of the most critical supply crises now.
+Published on October 14, 2025
+
+Title   : Gold's poor cousin crowned 2025's richest! Silver ETFs just doubled money and the rally isn't over yet 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T05:58:24
+Fetched : 2025-10-15T08:20:56.334269
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/golds-poor-cousin-crowned-2025s-richest-silver-etfs-just-doubled-money-and-the-rally-isnt-over-yet/articleshow/124569165.cms
+--------------------------------------------------------------------------------
+The rally has left traditional investments far behind. Gold ETFs have managed only 63% returns this year, while the Sensex and Nifty have crawled forward with meagre 6-7% gains each.
+Silver prices hit a record high of $53.60 on Tuesday in international markets, while MCX Silver December futures touched a peak of Rs 162,700 this week. The physical market is witnessing unprecedented tightness, with spot prices trading at a premium amid shortage reports. ETFs are commanding even higher prices as commodity traders acting as market makers grapple with depleted inventory and diminishing confidence in the immediate replenishment of LBMA-certified silver bars.
+"Unlike previous speculative spikes (1980, 2011), the 2025 surge is fundamentally underpinned by irreversible, material demand from the green energy transition and expanding technology sectors (EVs, Solar, 5G)," Motilal Oswal analysts said. "This fundamental support suggests that breaking $50 is not merely a technical event but a necessary repricing mechanism to balance global demand with constrained supply, thereby establishing a new, higher baseline for the metal going forward."
+Also Read | Silver's white-hot rally triggers supply crisis as ETFs trade at shocking 10-15% premium
+Motilal Oswal projects consolidation around the $50-55 mark over the next few months, with potential peaks reaching $75 per ounce by 2026 and a sustained movement toward $77 per ounce in 2027 on COMEX. Assuming the average USDINR stays around 90, the brokerage said silver can touch Rs 2,40,000 by the end of 2026 and Rs 2,46,000 on the domestic front.
+Bank of America has raised its silver target to $65 an ounce with an average of $56.25, even as it anticipates an 11% decline in demand next year. The bank cited a continued supply shortfall, with the Silver Institute projecting the metal is on track to record its fifth consecutive year of structural market deficit.
+The silver market is forecasted to remain in deficit for the fifth consecutive year in 2025, with a projected shortfall of approximately 118 million ounces. This structural imbalance underscores the metal's critical role in the green economy.
+Silver's industrial demand is projected to rise approximately 3% in 2025, reaching a record high driven by green economy applications. With uses spanning solar panels and batteries, silver is emerging as a strategic metal as the global renewable push drives fresh demand.
+The supply constraints are structural. Approximately 70% of silver comes as a by-product of zinc, lead, copper, or gold mining, meaning silver output depends on the economics of those metals rather than silver prices themselves. Unless base metal prices rise significantly, silver output elasticity remains limited. Analysts say a meaningful supply-demand balance may not occur before 2028, even with higher prices.
+"While momentum has carried prices higher and could accelerate beyond the critical $50/oz resistance level, current technical indicators suggest a potential near-term pullback," Nomura said. "These dips could present attractive entry points for investors looking to capitalise on silver's strong fundamental outlook and its unprecedented 45-year cup and handle formation."
+Also read: Nifty glitters before Diwali; post-Diwali fizzle may be just a market myth
+Even celebrity investors are jumping on the silver bandwagon. Personal finance author and 'Rich Dad Poor Dad' fame Robert Kiyosaki has been aggressively bullish on silver, calling it and cryptocurrency Ethereum "hot, hot, hot" in a recent social media post. Kiyosaki predicted that silver could soon hit $75 per ounce, after recently crossing the $50 mark.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

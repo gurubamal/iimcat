@@ -1,0 +1,30 @@
+Full Article Fetch Test - ITC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 52.44B
+
+Title   : Itch to bet: Cryptos crawl into real money games bypassing banks, leave no trail 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-21T03:15:50
+Fetched : 2025-10-21T20:27:06.140738
+URL     : https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/itch-to-bet-cryptos-crawl-into-real-money-games-bypassing-banks-leave-no-trail/articleshow/124712748.cms
+--------------------------------------------------------------------------------
+Spurred by a penchant for betting, they are placing cryptocurrencies, instead of cash, with offshore bookmakers incorporated in Curacao, a South Caribbean island, to gamble in a slew of games - from poker and rummy to cricket and soccer. They think it could be a neat way to stay off the radar - sidestep the banking channels and leave no transaction trail.
+Depositing cryptos is an option few tried in the past. But with a blanket ban on RMGs in India and banks keeping close vigil on new customers to shun mule accounts, Indian players with deep pockets and the wherewithal to source cryptos are trying it out. They are players in a niche market where the crypto deposits and the subsequent gaming wins in cryptos from RMG wagers double up as a bet on the digital coins as their prices surge.
+"This is leading to the possibility of massive undetected money-laundering and tax evasion through such illegal betting platforms."
+Overseas betting websites have started promoting their services more aggressively after the passage of the Promotion & Regulation of Online Gaming Act, 2025, and consequent stopping of services by most legitimate online RMG companies based in India, he said.
+For these international gaming firms, Curacao, an autonomous constituent region within the Kingdom of the Netherlands, has been an obvious choice. A loose compliance regime till 2023 paved the way for several gaming startups and crypto casinos to set up base there as the island offered a "faster, cheaper, and more accessible licensing route".
+While these overseas gaming companies may well be within the broad contours of their home country laws, Indian RMG players dealing with them are ending up treading a grey zone. Most of them procure cryptos like USDT (stablecoins linked to the US dollar) from the black market and then move the coins to the digital wallets of the foreign gaming companies to place their bets.
+"Just as there is a hawala market for foreign exchange, there exists a black market for cryptos. Of course, it's not a mass market, but seasoned players know the agents who can source them cryptos at a slight premium for cash. Once the USDT is credited to their private wallets, they move the digital assets to another private wallet to make sure these are not 'flash USDT', which are fake coins that disappear after a day or two," said a senior official with one of the crypto exchanges.
+For this bunch of RMG players, tapping the black market is necessary because there are hurdles in freely withdrawing virtual digital assets (VDAs) bought on Indian exchange platforms. Not only do most local platforms restrict easy withdrawals and transfers of cryptos to private wallets, but such transactions are reported to the Financial Intelligence Unit, a central anti-money laundering agency.
+The offshore RMG outfits, however, are not bound by such regulations. "The digital currency," says the website of one such foreign platform, "stands out from other payment options as you don't have to worry about any third-party interference, thus making it one of the fastest and cost-efficient transactions available."
+"Once your deposit is verified, your Bitcoin will be available on site to place bets. Another advantage of the digital currency is its added security and discretion with online transactions," it promises. The combination of public and private keys offers a greater level of security to the individual users, it adds.
+Another foreign RMG company, peddling its crypto-deposit option, says that transactions in cryptocurrencies are "relevant for users who prefer digital currencies".
+Faced with such loopholes and technologies to game the system, Sayta is of the view that the government should reconsider its decision to ban online money gaming, as it has failed to curb betting through illegal offshore websites, and instead look at a regulatory framework for skill-based real money games within the country that will allow such transactions to be tracked and taxed.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

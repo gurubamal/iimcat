@@ -1,0 +1,27 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 127.60B
+
+Title   : TCS to retrain 1,00,000 employees every year amid AI-driven changes. Here's what CTO Harrick Vin says
+Source  : www.livemint.com
+Published: 2025-10-18T09:44:35
+Fetched : 2025-10-19T18:51:02.132400
+URL     : https://www.livemint.com/companies/news/tcs-tech-chief-harrick-vin-will-retrain-100000-employees-each-year-ai-challenge-transform-demand-outsource-models-11760777565193.html
+--------------------------------------------------------------------------------
+IT giant Tata Consultancy Services (TCS) will retrain about 1,00,000 employees each year, as the IT services giant tackles changes and challenges due to artificial intelligence, Chief Technology Officer Harrick Vin told Nikkei Asia.
+Notably, 1 lakh employees is approximately one-sixth or around 17 per cent of its global workforce. TCS is facing AI-driven challenges in “client demands and the traditional outsourcing model”, the agency reported.
+AI-driven technology wave, especially generative AI, is “redefining” employee roles and “forcing a big shift” away from traditional operation models, Vin told the publication on the sidelines of an event on October 13. He said that the demand for re-skilling has now increased from 30 years to less than six.
+“A lot of the code and software will get auto-generated, so those roles (software engineers) will diminish over time,” Vin said, adding that traditional software testing, he added, “will probably go away”.
+“When you deal with AI solutions that are self-evolving, the concept of testing and assurance is completely different. An AI solution may give different answers every time it runs, so you need continuous assurance rather than development-time testing. It requires a very different set of roles and very different set of competencies,” he added.
+According to Vin, TCS will retrain around 1 lakh employees each year and staff are being encouraged to use AI tools and participate in hackathons to build hands-on skills.
+“It is not an easy problem. Every organisation will have to do this,” he added.
+Notably, TCS cut 12,000 jobs or 2 per cent of its workforce in July, with aim to become a “future-ready organisation” by March 2026. The company has slashed headcount by around 20,000 in the recent quarter, taking the employee total to 5,93,000, the report added.
+The tech giant is “redirecting” investment toward emerging tech, new markets and large-scale AI deployments, it added.
+Despite the disruption, Vin feels that generative AI “will be a boon” for the broader IT services industry. He said that instead of having AI replace people, the company has adopted tools that “augment” human judgement.
+As an example, he pointed to TCS' collaborations with pharma companies to develop a cancer drug, where AI was used to identify candidate molecules and reduced the search process from the typical two years to eight weeks.
+“We are seeing the boundaries of what's possible move very fast,” he added.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsTCS to retrain 1,00,000 employees every year amid AI-driven changes. Here's what CTO Harrick Vin says
+

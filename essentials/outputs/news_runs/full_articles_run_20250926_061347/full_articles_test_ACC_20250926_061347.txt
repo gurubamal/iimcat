@@ -1,0 +1,51 @@
+Full Article Fetch Test - ACC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-26
+
+Title   : Accenture braces for slowdown and job cuts, says AI's returns ‘underwhelming’
+Source  : www.livemint.com
+Published: 2025-09-25T17:18:17
+Fetched : 2025-09-26T06:14:59.649992
+URL     : https://www.livemint.com/companies/gen-ai-accenture-revenue-headcount-job-cuts-it-technology-wipro-h-1b-visa-trump-infosys-11758810002655.html
+--------------------------------------------------------------------------------
+Bengaluru: Accenture Plc is bracing for slower days ahead even as artificial intelligence (AI) captures its clients' mind space at an unprecedented pace. The consulting giant said AI’s promise has so far outstripped its real-world impact, forcing the company to point towards job cuts.
+“It is well recognized that advanced AI has taken the mind share of CEOs, the C suite and boards faster than any technology development we've seen in the past few decades,” said Julie Sweet, chair and chief executive of Accenture at the company’s post-earnings call with analysts. “At the same time, as reported widely, value realization has been underwhelming for many and enterprise adoption at scale is slow, other than with digital natives.”
+While Accenture navigates the Gen AI uncertainty, on recent policy swings, Sweet said the company is largely unaffected by the changes in the country’s visa policies introduced by US President Donald Trump.
+“This (H-1B) is really a non-issue because we only have about 5% of our people in the US on H-1B visas, and they are for really specialized experience and skills for our clients. So, you know, (this is) not something that is really a big impact on Accenture,” said Sweet.
+On Friday, Trump signed an executive order requiring companies to pay $100,000 annually for every new foreign worker under the H-1B visa, up from about $1,000 earlier. The White House clarified on Sunday that the one-time fee would apply only to new applications, not to existing visa holders. H-1B visas allow highly skilled non-immigrants to work in the US temporarily.
+Accenture ended its September-August financial year with a revenue of $69.7 billion, up 7% from the previous year. This translates to about $4.78 billion in incremental revenue. For perspective, Accenture alone has added more revenue during the year than India's 10 largest IT firms did on a cumulative basis, which was about $3.1 billion for their fiscal year ended March.
+The company’s management said this performance comes in the backdrop of a “bad economic, macro-economic backdrop that did not improve over FY24”. Accenture derives half of its revenue from the US, its biggest market.
+The company said it expects growth to slow down hereon, and guided for a revenue growth of 2-5% in local currency terms for FY26. “From a discretionary perspective, what we've assumed is, at the top end of the range, there's no change in discretionary spend, while at the bottom of the range, it allows for deterioration,” said Angie Park, chief financial officer of Accenture.
+Investors were disappointed with the company's performance; its shares were down 2% at $234.26 as of 9:54 pm IST on the New York Stock Exchange
+Accenture said it had trimmed the company's headcount by 11,000 during June-August to end the year with 779,000 employees. The rise of AI is likely to lead to more job cuts, even as the company believes it will add more people on a net-net basis in the current fiscal year.
+“We’re trying to—in a very compressed timeline where we don't have a viable path for skilling—sort of exiting people, so we can get more of the skills we need,” Sweet said.
+To this effect, the company initiated a six-month business optimization programme and expects costs of $865 million over the six months, primarily severance costs associated with this talent strategy. This also includes the cost of impairment of assets, “mostly related to the divestiture of two acquisitions that are no longer aligned with the company’s strategic priorities”, the company said in its earnings press release.
+As a result of the six-month programme, Accenture expects to save over a billion dollars, which the company said it will reinvest in its business and people.
+In India, top IT service provider Tata Consultancy Services had recently let go 2% of its workforce, or 12,200 employees, in middle and senior roles. TCS attributed its decision to “strategic initiatives on multiple fronts”, including investing in new-tech areas, entering new markets, deploying AI at scale, deepening partnerships, creating next-gen infrastructure and realigning the workforce model.
+Accenture said its Gen-AI bookings during the year totalled $5.9 billion. This takes the total tally of Gen AI orders to $8.9 billion since September 2023. Its current Gen AI orders comprise almost 7.3% of its overall order bookings of $80.6 billion for the year. The company's Gen AI-related revenue for the year totalled $2.7 billion.
+Accenture is the first company in the sector to detail the value of its Gen AI contracts. India's homegrown IT service providers are yet to spell out their revenue or confirmed orders from the new technology.
+Accenture’s dim outlook stokes further uncertainty for India’s five largest software service providers—Tata Consultancy Services Ltd, Infosys Ltd, HCL Technologies Ltd, Wipro Ltd and Tech Mahindra Ltd, that are set to announce their quarterly earnings next month.
+
+Title   : Accel-backed edtech unicorn Vedantu raises $11 mn in internal round, larger secondary round to follow
+Source  : www.livemint.com
+Published: 2025-09-26T05:16:13
+Fetched : 2025-09-26T06:14:59.649992
+URL     : https://www.livemint.com/companies/edtech-vedantu-fundraise-2025-accel-backed-unicorn-ai-in-edtech-11758861029752.html
+--------------------------------------------------------------------------------
+Online tutoring firm Vedantu has raised $11 million from existing investors, including ABC World Asia, Accel India and Omidyar Network India, in a convertible equity round, the company said on Friday.
+The fresh capital, part of a larger ongoing fundraise, will be deployed towards category expansion, both organic and inorganic, alongside investments in technology, AI and adaptive content to improve personalization and learning outcomes, Vedantu said.
+Mint was the first to report in June that Vedantu was in talks to raise $10–15 million from its existing investors through a convertible round as it sought to strengthen its balance sheet and prepare for a potential public listing.
+The funding comes at a time when fresh investments in edtech have slowed, with many companies struggling to reconcile 2020–21 valuation benchmarks with current market conditions.
+Convertible equity allows investors to defer valuation until a priced round or IPO, a structure that has gained traction as startups navigate mismatched valuation expectations following the pandemic-era funding boom.
+Vedantu also said in the statement that it is in advanced talks with external investors for additional capital as well as a secondary share sale aimed at providing exits to some early backers, including Chinese and legacy shareholders.
+Mint also reported in July that Vedantu, among other startups like Udaan, and Pocket FM is looking to offer exits to their Chinese backers as the industry's appeal to ease restrictions on such investments has failed to secure a policy shift.
+Founded in 2011, Vedantu became a unicorn in September 2021 after raising $100 million in a Series E round led by ABC World Asia. It has also regularly tapped venture debt from lenders such as Stride Ventures, Innoven Capital and Alteria Capital.
+Vedantu is targeting a $150–200 million IPO between 2027 and 2028 to provide exits to early investors and raise growth capital, as reported by Mint earlier in March.
+Vedantu, which acquired offline player Deeksha to build a hybrid test-preparation platform, reported its first profitable quarter in Q4 FY25, posting ₹90 crore in collections, a 67% year-on-year increase, along with more than ₹6 crore in free cash flow, it said.
+The company has been expanding its offline presence alongside online tutoring, now operating over 100 hybrid centres and onboarding franchise partners.
+Collections for the April–June 2025 quarter rose to ₹110 crore, keeping the company's cash flow positive for six consecutive months. For FY25 overall, Vedantu’s collections grew about 55% to ₹284 crore, while it cut cash burn by 30%, the company added.
+The company has been on a path to profitability. In FY24, the company reported revenue of around ₹184 crore and reduced losses by 58% to ₹157 crore.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesAccel-backed edtech unicorn Vedantu raises $11 mn in internal round, larger secondary round to follow
+

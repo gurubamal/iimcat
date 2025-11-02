@@ -1,0 +1,22 @@
+Full Article Fetch Test - ITC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-16
+
+Title   : Insurers not to get ITC benefit towards GST paid on commission on individual health, life policies
+Source  : www.thehindubusinessline.com
+Published: 2025-09-16T14:32:22
+Fetched : 2025-09-16T19:51:50.050130
+URL     : https://www.thehindubusinessline.com/economy/insurers-not-to-get-itc-benefit-towards-gst-paid-on-commission-on-individual-health-life-policies/article70057266.ece
+--------------------------------------------------------------------------------
+Insurance companies will not get Input Tax Credit on commission or brokerages for individual health and life insurance policies, Central Board of Indirect Taxes & Custom (CBIC) said on Tuesday. It has also said that hotels with room tariff of less than ₹7,500 will not get ITC.
+At present, insurers are availing ITC on many inputs and input services such as commissions, brokerage and reinsurance. “Out of these input services, reinsurance services will be exempted. Input Tax Credit of other inputs or input services is to be reversed because the output services will be exempted,” CBIC said in a set of Frequently Asked Questions (FAQ). GST Council, in its meeting on September 3, recommended exempting individual life and health insurance along with family floater.
+The board said services of individual health and life insurance business provided by insurers to the insured, where the insured is not a group, are included within the ambit of the exemption. When these services are provided to an individual or to an individual with his/her family, the same will be exempted, it said.
+Mandatory rate
+For hotels, the board said that suppliers of hotel accommodation service where the value of a unit of accommodation is less than or equal to ₹7,500 per unit per day, will have to charge GST at 5 per cent without ITC. “It is a mandatory rate prescribed for such services, and the option to pay GST at the rate of 18 per cent with ITC is not available for such units,” the board said.
+When asked how a service provider should deal with ITC in cases where GST is payable at a rate of 5 per cent without ITC, the board said that credit of input tax charged on goods or services used exclusively in supplying such services shall not be taken by the service provider. Also credit of input tax charged on goods or services used partly for supplying such services and partly for supplying other taxable supplies shall be reversed by the service provider as if the supply leviable to 5 per cent without ITC is an exempt supply. Consequently, proportionate ITC shall be required to be reversed by the service provider, it said.
+Another question was about liability to pay GST for local services provided by e commerce operators (ECO). According to the board, services by way of local delivery provided through an ECO where the person supplying such services is not liable to register then the liability to pay GST will be on the ECO. The services of local delivery are taxable at 18 per cent.
+Renting service
+On the issue of tax treatment for leasing or renting services without operator, the board said that majority of leasing or rental services without operator are taxed at the same rate of taxes applicable on supply of like goods. No change is proposed in this regard. The tax rate on such services will continue to be equal to the tax rate applicable on supply of like goods. For example, if cars or machines are taxed at 18 per cent then the rate of 18 per cent will be applicable for leasing or renting (without operator) of such cars or machines
+Published on September 16, 2025
+

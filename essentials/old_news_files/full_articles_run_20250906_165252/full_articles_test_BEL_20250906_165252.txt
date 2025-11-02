@@ -1,0 +1,54 @@
+Full Article Fetch Test - BEL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-06
+
+Title   : The Golden Thumb Rule | For Gen Z investors, time in the market beats timing the market, says Kaustubh Belapurkar 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-06T05:30:02
+Fetched : 2025-09-06T17:03:40.668766
+URL     : https://economictimes.indiatimes.com/markets/expert-view/the-golden-thumb-rule-for-gen-z-investors-time-in-the-market-beats-timing-the-market-says-kaustubh-belapurkar/articleshow/123730705.cms
+--------------------------------------------------------------------------------
+But as Kaustubh Belapurkar, Director – Fund Research at Morningstar Investment Adviser India, points out, the true essence of wealth creation lies not in timing the market but in spending enough time in it.
+In a conversation with ETMarkets.com, he explains why patience, diversification, and understanding simple metrics like capture ratios can help investors navigate market cycles more effectively—and why resisting the urge to constantly switch funds could be the smartest move for young investors. Edited Excerpts –
+Kshitij Anand: And for actively managed funds, what is a simple rule of thumb to compare them against their benchmark?
+Kaustubh Belapurkar: So, I would look at a couple of things. One is, in fact, some proprietary ratios that we publish, which you can find on our website, called the capture ratio.
+It is a very interesting way of comparing a fund versus the benchmark because what we want from an ideal actively managed fund—and every investor wants something like this—is that when the markets are running up, in a bull market, the fund should at least meet the benchmark.
+So, if the benchmark has done 10%, the fund should at least do 10% if not more. We all want the best. But in a falling market, you want a fund that falls less than the benchmark.
+So, we have these two capture ratios, which are called the up capture and the down capture ratio. These essentially tell you what percentage of the benchmark return the fund captured in months when the benchmark was positive, and the same thing on the downside—when the market was negative, what percentage did the fund fall versus the benchmark.
+An ideal scenario would be a fund that has an up capture ratio of close to 100, so it is capturing almost all the bull run in the market, while at the same time having as low a down capture ratio as possible.
+What we have seen with more consistent, well-managed strategies is that they have an up capture ratio typically in the range of 85% to 95%. So, they are probably not running up as much as the benchmark, but they are still doing a pretty good job.
+But the down capture ratio tends to be in the 60s or 70s, which means they are actually protecting a lot of capital when the market falls. These are the funds that, over a market cycle, have consistently done well and outperformed the benchmark.
+So that is an interesting way of looking at how a fund captures market cycles, and it can be a good way of comparing funds.
+Kshitij Anand: Is it similar to the beta of a stock?
+Kaustubh Belapurkar: In a sense, yes. Beta obviously captures across both market cycles—it gives you sensitivity to the market. So, it will also give you a signal. Most funds again tend to have a beta less than one or around one.
+We know that there are funds with higher beta, and they can be much more cyclical in their performance. So, you just want to take that with a pinch of salt if a fund does really well in a bull market because you know that it is going to fall a lot more when the market corrects.
+Kshitij Anand: Let us make the conversation slightly more technical for retail investors as well. Risk-adjusted metrics often sound technical—things like Sharpe ratio, alpha, and so on. Do you have an easy thumb rule for these ratios? Do they really matter to retail investors or not?
+Kaustubh Belapurkar: Fair point. Some of these numbers can get a little challenging for investors to understand. Risk adjustment is obviously a very important factor, and there are no two ways about it. But sometimes the Sharpe ratio can also hide things.
+So, while it is a good starting point—and the better the Sharpe, the better the fund has done—sometimes what happens is, when you think of it as an investor, the Sharpe ratio gives you what they call the volatility of the returns, which is the denominator.
+Now, the challenge is that volatility can be both good and bad. If a fund significantly outperforms, that is also considered volatility, so that can sometimes be a little confusing to an investor.
+We have some interesting terms and a proprietary kind of adjustment to the Sharpe ratio called the Morningstar Risk-Adjusted Return, which adjusts for this. And again, this is data that is freely available, and investors can look at it.
+The other thing that an investor can do—and this is available across various investment sites—is to do a simple SIP analysis, which I was alluding to earlier. Since most retail investors tend to invest through SIPs, this makes sense.
+For example, if you invested Rs 1,000 every month for the last three, five, or ten years, you can plot the internal rate of return or the return on that portfolio. This will give you a sense of whether fund A did better than fund B.
+This approach also includes an element of risk adjustment because you are investing periodically—monthly SIP or whatever frequency you choose. So, that is another good way of looking at the past performance of a strategy.
+Kshitij Anand: And you did highlight one point at the beginning—that timing is not that important, but spending time in the market is more important, one of the key adages that we have. So, my next question is also related to that: patience is key in mutual fund investing. Is there a thumb rule as to how long one should stay invested before judging a fund’s performance? You did take anecdotal data of 10 years. But at this point, at this age, when Gen Z is investing, I am not too sure whether 10 years will feel really long, or even five years will feel long.
+Kaustubh Belapurkar: That is a very important question because what we have seen is people tend to be a little impatient with their investments. If you are invested in fund A and you see fund B is doing 5% more, it is human nature to think, “Oh, maybe I made the wrong choice, let me move to fund B.” But in fact, if you have done a good job of identifying a strategy you believe is well managed, then you need to have conviction and stay invested.
+Again, I am going back to the point that you need to have a good investment team and a solid investment process backing it up. You can look at data that will help you—by investment team I mean not just the manager, but the rest of the people supporting it, how consistently they have been with the team, and what the manager’s experience is. These are things you can look at.
+You can also see how the holdings have changed. If there are a lot of frequent changes in the portfolio holdings, maybe the investment process is not that solid.
+Once you have made that good assessment, more often than not, it is in your best interest to actually stay put if nothing has changed with, say, the management team or the investment process. I will use some anecdotes here.
+Most people think about investing in terms of market capitalisations, but what often gets forgotten is the style of investing. The most traditional styles are value, blend, and growth.
+If we go back in time, 2018, 2019, and early 2020 were completely favouring quality and growth. High-growth companies were getting re-rated at excellent multiples, and those were the stocks going up. At the same time, value stocks were being beaten down—no one really wanted to look at them.
+The money moved into growth-style funds, more often than not very late, after growth had already played out. Then the market cycle turned—2021 to 2023, and even more recently, value has come to the fore.
+Now, the challenge is: if you were holding a value-style fund and you exited because growth was doing better, you would have been hit both ways. You exited value, got into growth, and you did not make the returns of value while actually entering an underperforming growth cycle at that point.
+So, that is very important. One, if you have the conviction and you have identified a good fund, stay invested. And when I say patience, you probably need to be patient for even a couple of years because the market cycle might take time to turn.
+The other thing you can do is diversify your portfolio with what we call complementary strategies. So, if you had a growth-style fund, add a value-style fund. They both work at different points of time.
+You will always have some strategies working well, and this brings an additional element of diversification to your portfolio. What we observed was that either investors were heavily 100% into growth, or now moving completely towards value.
+It can be very, very counterproductive if you are trying to chase the tail of the market. Follow a disciplined approach, build in that diversification, and it will actually help your portfolio significantly.
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

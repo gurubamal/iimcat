@@ -1,0 +1,50 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 42.08M
+
+Title   : Global momentum helps domestic markets recover sharply 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T14:52:22
+Fetched : 2025-10-15T16:44:59.690655
+URL     : https://www.thehindubusinessline.com/markets/global-momentum-helps-domestic-markets-recover-sharply/article70167611.ece
+--------------------------------------------------------------------------------
+Arresting a three-day slide, equity markets witnessed a notable recovery on Wednesday, propelled by a combination of favourable global cues and domestic factors such as a strong rupee, amid expectation of rate cut by the US Federal Reserve.
+Asian markets were trading higher, providing a positive backdrop for Indian equities. Investor sentiment remains cautiously optimistic, bolstered by expectations of potential interest rate cuts by the US Federal Reserve. Domestically, strong buying interest in sectors such as power, metal, and telecom has contributed to the uptick, with the realty index leading the gains.
+Ajit Mishra – SVP, Research, Religare Broking Ltd, said, “The up move was driven by some easing in the US-China trade tussle and a rebound in the rupee from recent lows. Additionally, a stable start to the earnings season and rating agencies reaffirming their positive outlook on India helped counter lingering worries around global growth and trade tensions.”
+Mid & smallcap indices surge
+The BSE Sensex closed 575.45 points, or 0.70 per cent higher at 82,605.43, after it rose to a high of 82,727.02 in intraday. The Nifty 50 gained 178.05 points, or 0.71 per cent, to 25,323.55. The midcap and the smallcap indices outperformed with gains of 1 per cent and 0.82 per cent, respectively.
+“Buying was broad-based, marking a complete reversal of the previous day’s selling concentration. Except for Nifty Media, all sectoral indices closed in the green. Leadership was prominent in sectors like realty, PSU banks and metal, which ended with the highest gains,” said Nandish Shah – Deputy Vice-President, HDFC Securities.
+Shares of Bajaj Finance, Nestle India, Bajaj Finserv, Asian Paints, L&T and Jio Financial led the gainers of Nifty 50 pack, with 2-5 per cent uptick. Meanwhile, Infosys emerged as the top loser, followed by Tata Motors, Axis Bank, Tech Mahindra, Titan and Dr Reddy’s Lab, with 0.16-1.04 per cent.
+Market breadth was positive, with 2,393 shares advancing, 1,587 declining, and 152 remaining unchanged on the BSE.
+Nearly 60 stocks, including Bank of Maharashtra, RBL Bank, Cholamandalam Investment and Inox Green, hit their 52-week highs, highlighting investor optimism, whereas 75 stocks (including Bansal Wire) hit their 52-week lows.
+As many as 69 stocks, featuring NIBA and Genesys International, scaled to their upper circuit, while 49 hit the lower circuit, signalling both aggressive buying and selective profit-booking across sectors.
+Under the midcap segment, Persistent Systems was the major gainer following strong Q2 show. Prestige Estates, Vodafone Idea, Godfrey Phillips and Godrej Properties followed with 2-5 per cent increase.
+On the other hand, Policy Bazaar, OFSS, Bharti Hexacom, IndusInd Bank, MRF and Aurobindo Pharma dropped 1-2 per cent.
+Smallcap stocks Newgen, Ola Electric, IIFL, CGCL, CESC and Poonawalla surged 4-5 per cent, while BLS International, Data Patterns, Shyam Metalics and Delhivery declined 2-4 per cent.
+On the BSE, shares of Bank of Maharashtra, ICICI Lombard and Persistent Systems led the gainers’ chart with 7-9 per cent rally following Q2 results. Cyient DLM declined nearly 5 per cent.
+Additionally, shares of LG Electronics India extended its gaining streak on the second day of listing.
+Published on October 15, 2025
+
+Title   : ReNew Global promoters offer higher price to delist co from Nasdaq
+Source  : www.livemint.com
+Published: 2025-10-14T18:32:41
+Fetched : 2025-10-15T16:44:59.690698
+URL     : https://www.livemint.com/companies/news/renew-global-promoters-offer-higher-price-to-delist-nasdaq-cppib-adia-sumant-sinha-11760461765608.html
+--------------------------------------------------------------------------------
+New Delhi: ReNew Global Energy Plc on Tuesday said its promoters have made a final non-binding offer to buy back shares and delist the Nasdaq-listed company.
+The promoters’ consortium has increased its offer price to $8.15 per share, payable in cash, ReNew said. Last December, the promoters had offered $7.07 per share, and revised it to $8 in June this year.
+“This represents an increase of $1.08 per share, equivalent to 15.3%, from the initial non-binding proposal dated December 10, 2024. The revised proposal represents a 28.5% premium versus the undisturbed share price of $6.34 on December 10, 2024, being the closing share price prior to the initial non-binding proposal becoming public and a 41.5% premium to the 30-day volume-weighted average price of $5.76 per share (as of December 10, 2024),” ReNew said in a statement.
+The company received the revised offer on 10 October.
+ReNew’s board of directors has formed a special committee led by lead independent director Manoj Singh and consisting of six independent non-executive directors to consider the proposals received from the consortium. The special committee is in the process of evaluating the revised proposal alongside its independent financial adviser Rothschild & Co. and independent legal counsel Linklaters Llp.
+“Active discussions with the consortium remain ongoing and the special committee will provide a conclusive update as soon as reasonably practicable,” the statement said.
+It, however, added that no assurance can be given regarding the likelihood, terms or details of a potential transaction resulting from the revised proposal received from the consortium or any other potential transaction.
+“Further decisions or disclosures by the special committee will be made as appropriate or required,” it added.
+In December last year, the promoters’ consortium including the Canada Pension Plan Investment Board (CPPIB), the Abu Dhabi Investment Authority (ADIA) and founder Sumant Sinha, along with new investor Masdar, proposed to buy out the listed shares to take the company private.
+CPPIB, ADIA and Sinha together own 64% of the company. Masdar, the new investor, is a UAE government-backed renewable energy company.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+

@@ -1,0 +1,24 @@
+Full Article Fetch Test - ONGC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 98.04B
+
+Title   : ONGC eyes cost optimization as subdued oil prices, maturing fields threaten profits
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T16:15:00
+Fetched : 2025-10-13T18:04:37.789580
+URL     : https://www.thehindubusinessline.com/companies/ongc-eyes-cost-optimization-as-subdued-oil-prices-maturing-fields-threaten-profits/article70159844.ece
+--------------------------------------------------------------------------------
+State-run ONGC has initiated a cost optimisation drive to save more than ₹9,000 crore over the next two years as maturing oil and gas fields as well as continuously subdued oil prices threaten its bottom line.
+The exploration & production (E&P) major has targeted to reduce its operating and capital expenditure, which amounts to roughly ₹61,000 crore, by 15 per cent till FY27. The company expects to save around ₹9,300 crore.
+ONGC has embarked on a strategic journey to prepare itself for a future with $60 per barrel crude-price environment, the company said.
+The Maharatna company has set up a dedicated cost council to suggest alternatives to bring down costs, Pankaj Kumar, Director (Production) at ONGC, said at a media briefing.
+ONGC is scaling up its supply base at the Pipavav port which is being scaled-up with end-goal of accounting for around two-thirds of the company’s work load on the West coast. The company expects to save over ₹1,000 crore from the exercise when completed.
+ONGC expects international crude oil price to remain in the range of $60-65 per barrel for the next 2-3 years.
+Currently more than 20 initiatives are under implementation with a potential of saving around ₹4,300 crore by FY26. Besides, the potential of other initiatives that are in the planning stage is roughly ₹5,000 crore by FY27.
+Offshore resource optimization, increasing drilling, efficiency, logistics route, optimization, inventory reduction, increasing fuel efficiency are the key cost reduction initiatives of the government-owned company.
+Under the revival plan for Mumbai High, ONGC and BP have split the Mumbai High into six hubs for faster, optimized redevelopment. In the first phase, ONGC has already committed $400 million capital expenditure. The presentation showed that under the phase 2 of redevelopment of the Mumbai High filed, both companies have targeted 100 new wells in FY28 and FY29.
+The company is also exploring technical service providers to boost production in other fields.
+The board of directors of the company has approved a development scheme to produce 12 million metric tonne oil and 13.5 billion cubic metre of gas in next few years.
+Published on October 13, 2025
+

@@ -1,0 +1,13 @@
+Full Article Fetch Test - ACI
+================================================================================
+
+(skipped: outside allowed sources) Title: Reuters/14 - Read all News, Stories, Videos and Photos from Reuters/14 - Business Standard
+URL     : https://news.google.com/rss/articles/CBMibEFVX3lxTE14MFZ3NndkVXR2eFRkZDJoT1lXQzIwZG9fRFdXbGxGOFZwT0xhYlVVSkd1MkdmdFBXd1hCNVlPTzFCWnNBVk5MQ1FFVXRtbFZZZXcwLVV3UXljd3hPbkM2Y0dHRXlmQ2FzdmNFWA?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Explained: How digital payments are fuelling India's economic growth - Business Standard
+URL     : https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWt3WE8yRVA2MjhhMml1RjFCT3cxRV9jaUhEdGZNX3ZhWjJJNWNIX1N6UzhzTFowVDZOdWEzQThHQmdWV1p1eUYwTzNYYUZvdzdrREx2UG9DQVY1STNGREFIMmdfNmlGSG5HZVM3Y3g4X3RmSUVsbmdWUUp2UTlZVlpha2hNYlhQWUxVaHVhMmVQUU1kc01aMEdUQnFOWmpnaE5RX2lSYkQ4a05oWnZBYmxEZmhBN19JNkJoY3l0RE5PcTQxV21nOTZEMmRQUlHSAdQBQVVfeXFMTzBEdHFBakVFQ05PZFRkWEJUbzc0V0lreXlndmlEcWhhZFpUeEdCb05yZkN0dWN5VTdybU1wZGljVElPdEVTUS1NbUQ4eGdiNUNXSUxPemZxRXpOSHBudEJacW14VjdNX21haVZBRlE4Q0pkZU5BUkp5ZkhLb0ozendlY2ZhdEFrV3IzQWhMb1MzMERNZFBpamJmOW5hekxodzUycGJFWmFodC1VNDBoakk3S1E0M25EQmxXdTVrdW12Z25MR0FCZWphc2toYmtiR1RWSHM?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: value: (ACI.TH) | Stock Insights & Latest News - Reuters
+URL     : https://news.google.com/rss/articles/CBMibkFVX3lxTE9RRmp2dThLMWlWbVc4cEFZQ0VTWEYwcWdfUzFxUXMzOUt4cjNvNmZIU1pQU2NEUzFka0NsSEFDdXByYjFTbS1iekhla1pLN1d4N2hqUU85SzZkUDRSR19yeEluR2Fid2d3REhoS3ZR?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

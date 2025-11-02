@@ -1,0 +1,96 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 42.08M
+
+Title   : Global stocks decline as tech sell-off follows lackluster Wall Street session
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T10:17:27
+Fetched : 2025-10-22T12:18:27.488596
+URL     : https://www.thehindubusinessline.com/markets/global-stocks-decline-as-tech-sell-off-follows-lackluster-wall-street-session/article70189390.ece
+--------------------------------------------------------------------------------
+Global shares were mostly lower Wednesday on selling of technology shares following a lackluster day on Wall Street.
+France's CAC 40 fell 0.5 per cent in early trading to 8,213.90. The German DAX dipped 0.3 per cent to 24,251.58. Britain's FTSE 100 climbed 0.6 per cent to 9,487.52.
+The futures for the S&P 500 and the Dow Jones Industrial Average were little changed. On Tuesday, the S&P 500 was nearly flat and the Dow gained 0.5 per cent. The Nasdaq composite index lost 0.2 per cent.
+In Asian trading, Chinese markets retreated after US President Donald Trump cast doubt on whether or not he will meet with Chinese leader Xi Jinping later this month.
+“Maybe it won't happen, maybe it won't happen,” he said while hosting a lunch for Republican Party senators at the White House.
+However, Trump also said he was expecting “to do well” in negotiations with China.
+“I'm going to see President Xi in two weeks... We're going to meet in South Korea,” he said. “We're going to talk about a lot of things they want to discuss.”
+Trump is travelling in the next several days to Japan and South Korea, in part, to finalise the terms of investments from those countries as part of an agreement to minimise the tariff rates Trump is charging on foreign goods.
+Hong Kong's Hang Seng dropped 0.9 per cent to 25,781.77, while the Shanghai Composite index inched down less than 0.1 per cent to 3,913.76.
+Japan's benchmark Nikkei 225 wavered between slight gains and losses a day after its parliament chose Sanae Takaichi to be its first female prime minister.
+It closed almost flat at 49,307.79, pulled lower by declines for tech companies like SoftBank Group Corp, whose shares fell nearly 5 per cent
+The government reported that Japan's exports grew 4.2 per cent in September from a year earlier, boosted by robust shipments to Asia that offset a 13 per cent decline in those destined for the US Auto shipments fell 24 per cent as they were hit hard by Trump's tariff hikes.
+Australia's S&P/ASX 200 lost 0.7 per cent to 9,030.00, while South Korea's Kospi rose 1.6 per cent to 3,883.68.
+Upcoming corporate earnings reports also can provide details on the strength of the US economy at a time when the US government's shutdown has delayed important economic updates.
+That's making the job of the Federal Reserve more difficult, as it tries to decide whether high inflation or the slowing job market is the bigger issue for the economy.
+Despite the shutdown, the Commerce Department will release its consumer prices report on Friday, which could help guide the Fed's interest rate policy. It will be the government's first data release since the shutdown began on Oct 1.
+In energy trading, benchmark US crude oil rose 96 cents to $58.20 a barrel. Brent crude, the international standard, jumped 99 cents to $62.31 a barrel.
+In currency trading, the US dollar fell to 151.71 Japanese yen from 151.93 yen. The euro fell to $1.1594 from $1.1600.
+Published on October 22, 2025
+
+Title   : Global lessors protest India’s draft aviation rules on payment of dues to reclaim jets
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T08:08:32
+Fetched : 2025-10-22T12:18:27.488648
+URL     : https://www.thehindubusinessline.com/economy/logistics/global-lessors-protest-indias-draft-aviation-rules-on-payment-of-dues-to-reclaim-jets/article70189129.ece
+--------------------------------------------------------------------------------
+(
+A group of global lessors has asked India to reconsider draft aviation rules they say complicate the task of reclaiming aircraft from distressed carriers by requiring lessors to first clear airline taxes and salaries, sources said.
+India is a key market for lessors as hundreds of new planes are on order by the likes of Air India and IndiGo. About 80 per cent of commercial passenger jets in the country are leased rather than owned, well above the global average of 58 per cent.
+The bankruptcy of Go First in 2023 left lessors scrambling to reclaim planes as they negotiated its complex laws, leading some to call India a risky jurisdiction.
+That prompted New Delhi’s new law this year to ease repossession.
+But the draft rules released in September to give effect to the law say wages to employees and government taxes owed by a distressed airline “shall have priority and would need to be cleared” by lessors before they can take their planes back.
+The rules are impractical and could delay plane repossessions, the Aviation Working Group (AWG), has told India’s civil aviation ministry in a letter, said three industry sources with knowledge of the confidential communication.
+The AWG represents leasing giants such as AerCap and Avolon, as well as planemakers Boeing and Airbus .
+The ministry did not respond to Reuters queries. The sources sought anonymity as AWG’s letter is confidential.
+INDIAN RULES WORRY GLOBAL LESSORS
+The AWG has asked the ministry to reconsider the rules, which were open for public consultation until October 17 and have yet to be finalised.
+“It’s like we took two steps ahead with the law, and then we took four steps back with the rules ... Some dues being sought are not even related to the aircraft,” said Mansi Singh, an aviation lawyer with BTG Advaya, which advises lessors.
+The new draft rules state no reason why lessors are liable for other airline dues before they can recover their planes.
+But the demise of Kingfisher Airlines in 2012 and Jet Airways in 2019 left millions of dollars in unpaid dues owed to government bodies and scores of employees without salaries.
+Among the debts the draft rules require lessors to pay before taking possession of their planes are items such as unpaid wages of airline employees, airport operators’ charges, including landing charges, and even fuel charges.
+DISCUSSIONS SET TO TAKE PLACE
+One of the sources said lessors were amenable to paying some levies concerning their planes for 30 days to 60 days before they take them back, but worried about being held responsible overall for all the past charges.
+Jeffrey Wool, the secretary general of AWG, confirmed it had submitted detailed comments to the government on the draft rules which “would materially benefit the Indian aviation sector”, but did not comment on the lessors’ concerns.
+Prime Minister Narendra Modi has faced many challenges in his quest to turn India into an aviation hub.
+In 2023, when Go First went bankrupt, lessors complained about not getting back their planes in time, with one even claiming that aircraft “were robbed” of some components.
+AWG representatives and ministry officials are set to hold talks on the new rules in coming weeks, one source said. Aviation lawyer Ravi Nath, AWG’s coordinator in India, declined to comment.
+Published on October 22, 2025
+
+Title   : Global investors like the new-look Japan government, for now 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-22T01:59:23
+Fetched : 2025-10-22T12:18:27.488682
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/global-investors-like-the-new-look-japan-government-for-now/articleshow/124731845.cms
+--------------------------------------------------------------------------------
+Her promises of stimulative spending, tax breaks, low interest rates and investments have powered Japan's Nikkei to record highs and are spurring investors to think about diversifying some cash from Europe and a frothy-looking Nasdaq.
+Takaichi's election along with "the psychological impact of having finally overcome the 'lost decades' of Japanese stocks, can certainly spur inflows," said Boston-based Peter Vassallo, FX portfolio manager at BNP Paribas Asset Management.
+"It could dovetail with concerns about U.S. valuations and policy uncertainty to encourage some investors to reallocate away from what have become highly concentrated U.S. positions to Japan on the margin."
+Financial markets have been on a tear since September as the Federal Reserve cuts interest rates, broadening a rally that had until then been concentrated in global technology and artificial intelligence giants. Wall Street's big and small indices, European and Japanese stocks, gold and bitcoin have all hit record highs recently.
+Japan's allure lies in its stock market valuation. While the Nasdaq is up 19% this year and trades at 34 times current earnings, the Nikkei is up 24% and cheaper at a price-earnings (P/E) ratio of 22 and Europe's STOXX index is up 13% for the year and at a P/E of 18. Heading into the Japanese leadership election, foreigners bought 4.36 trillion yen ($28.9 billion) worth of Japanese stocks in the two weeks through October 11, the biggest amount of purchases in consecutive weeks since at least 2005. They had been selling for three weeks prior to that.
+But money managers expect the rotation from other markets into Japan to be measured and selective. The biggest risk to the "Takaichi trade" as it is known is that investors do not yet understand the dynamics between the ruling Liberal Democratic Party and its new coalition partner Ishin, nor are they familiar with the new finance minister, Satsuki Katayama.
+While ideologically aligned, Ishin advocates a small government and Takaichi has already begun cutting back on her promises of higher spending to revive the economy and support households squeezed by inflation.
+TRUMP OR TRUSS
+James Malcolm, a Japan market analyst at financial advisor JB Drax Honore in London, has been inundated with calls from hedge funds and real-money investors since the Japanese election.
+Money managers who initially worried that conflicting agendas of the coalition partners might mean policy flip-flops, like those that cut short UK Prime Minister Liz Truss' leadership to just 45 days in 2022, now say Takaichi's latest nationalist comments and machinations are also quite like those of U.S. President Donald Trump.
+"There is a bit of the Trump trade there, there's going to be a lot more stimulus," Malcolm said. "But she has less political latitude, no AI boom and a submerging economy instead to steer."
+"In the short term, yes, people will look at it as a good thing, and they will look at it as a bad thing when interest rates start to rise more quickly or when the currency weakens."
+The weakening yen has become the sticking point in investment decisions. In the rates markets, the "Takaichi trade" has been to sell both the yen and longer-term Japanese government bonds (JGBs) for fear of low rates and more stimulus in an economy with one of the highest debt burdens in the developed world.
+At multi-month lows and down nearly 4% this month, a weak yen helps Japan's export-led economy but is anathema to foreign investors.
+Nigel Foo, head of Asian fixed income at First Sentier Investors, believes the Bank of Japan will keep raising rates, despite the political pressure not to, and he is bullish on JGBs.
+"We are always the type who will buy more when everyone else is panicking, because that's when you see value," said Foo.
+"Especially when you look at the valuation compared to bunds, it's looking very attractive. And also another thing that could be on our side is, if the distrust towards the U.S. government is to continue, I can imagine more Japanese money will come back to their home turf."
+Van Luu, global head of solutions strategy for fixed income and foreign exchange for Russell Investments in London, also thinks Japanese money invested in Treasuries will move home.
+"Repatriation of Japanese investments from the U.S. seems the most likely source of reallocations at the time," Luu said.
+($1 = 150.7800 yen)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+(skipped: short content) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+

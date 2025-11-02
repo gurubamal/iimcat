@@ -1,0 +1,161 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-29T05:37:20.025267
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com
+Tickers planned: 21
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-29
+
+Title   : 'Non-promoters offered fair value': NCLAT sets aside plea against Reliance Retail capital share reduction
+Source  : www.thehindubusinessline.com
+Published: 2025-09-28T09:36:15
+Fetched : 2025-09-29T05:37:26.481133
+URL     : https://www.thehindubusinessline.com/companies/non-promoters-offered-fair-value-nclat-sets-aside-plea-against-reliance-retail-capital-share-reduction/article70104918.ece
+--------------------------------------------------------------------------------
+In a relief to the Reliance Industries arm Reliance Retail, appellate tribunal NCLAT has set aside a petition against the leading retailer, which in 2023 reduced the equity share capital of the company, saying non-promoters were offered a "fair value" of their shares.
+Reliance Retail had in 2023 decided to reduce and cancel 78,65,423 equity shares of the company, held by the minority shareholders, other than the promoters/holding company.
+Observing that non-promoter shareholders were offered a "fair value" of their shares during the exercise and an overwhelming majority voted in favour of the resolution, the appellate tribunal upheld the earlier order passed by the National Company Law Tribunal (NCLT) and said it found "no reason to upset a reasoned order passed" by it.
+The NCLAT, while referring to previous judgements, said "selective reduction is permissible if objecting shareholders are paid a fair value of their shares".
+On July 4, 2023, the board of Reliance Retail Ltd (RRL), through a special resolution, approved the proposal to reduce and cancel 78,65,423 equity shares of the company, held by minority shareholders, other than promoters/holding company.
+The company had then offered ₹1,380 per share to shareholders other than its promoter and holding company, which constituted only 0.09 per cent of the total shareholding.
+This was challenged by one N G Joshi, a shareholder of RRL having 129 shares, constituting 0.0000014 per cent of the authorised and issued paid-up capital of the company before the Mumbai bench of the NCLT, which had on January 5, 2024 dismissed the petition.
+As an intervenor, he had objected to the reduction of share capital, alleging that such a reduction is against the minority interest and is not permitted under Section 66 of the Companies Act, 2013, since RRL is forcefully removing its shareholders, and promoters are increasing their stakes by using this process.
+Subsequently, an appeal to the NCLT order was also filed before the National Company Law Appellate Tribunal (NCLAT), which also dismissed it last week.
+Passing its order, a two-member NCLAT bench observed that the special resolution for reduction of the share capital was passed with 99.99 per cent approval and ₹1,380 per share, consideration paid by RRL was at a premium of 56 per cent to its fair value determined by two independent valuers.
+The six-page-long NCLAT noted that Article 56 of the Articles of Association of RRL permits the company to reduce its capital in the manner and in accordance with the provisions of the Act and the rules.
+Moreover, the Regional Director and ROC (Registrar of Companies) have not objected to the reduction of share capital, though it was remarked by the Regional Director that the proposed reduction is a selective reduction.
+NCLAT also observed the appellant held mere 129 shares and no other shareholder of RRL has filed any appeal against the NCLT order.
+Moreover, it is settled law the question of reduction of share capital is treated as a matter of domestic concern, it is the decision of the majority which prevails, the appellate tribunal said.
+"Thus once it is established that non-promoter shareholders are being paid a fair value of their shares and at no point of time it was suggested the amount paid was less and where an overwhelming majority voted in favour of resolution, we find no reason to upset a reasoned order passed by the NCLT," said NCLT bench comprising Member (Judicial) Justice Yogesh Khanna and Member (Technical) Ajai Das Mehrotra.
+Published on September 28, 2025
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHARTIARTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARUTI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - WIPRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GRASIM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HINDALCO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-29
+
+Title   : Hindalco Share Price Live Updates: Hindalco's Closing Price Analysis 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-29T02:33:22
+Fetched : 2025-09-29T05:37:50.653117
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-29-sep-2025/liveblog/124203379.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Hindalco Share Price Live Updates: Hindalco's Closing Price Analysis
+LIVE BLOG
+Hindalco share price live updates
+Stay updated with the Hindalco Stock Liveblog, your one-stop destination for real-time information and analysis of a leading stock. Explore the latest updates on Hindalco stock, including: Last traded price 754.0, Market capitalization: 168957.73, Volume: 725496, Price-to-earnings ratio 10.0, Earnings per share 75.34. Our liveblog combines fundamental and technical insights to offer a comprehensive overview of Hindalco's performance. Gain valuable market knowledge and make informed decisions with our expert analysis. Be the first to know about breaking news that can impact Hindalco's trajectory. Join us on this journey as we explore the exciting potential of Hindalco. The data points are updated as on 10:50:49 AM IST, 29 Sep 2025
+Show more1 New Update
+Hindalco's current price stands at Rs 754.5, reflecting a 1.44% increase today, alongside a robust return of 7.99% over the last three months.
+Hindalco is currently trading at Rs 752.95, reflecting a significant rise of 1.23% today. The 3-day simple moving average at Rs 747.32 suggests a positive trend in its recent performance.
+Discover the latest market updates and real-time stock information on Hindalco Stock
+Hindalco's current price is Rs 751.6, reflecting a 1.05% increase today, with an average daily volatility of 4.5888 over the past three months.
+The previous day saw Hindalco's stock close at Rs 743.85, indicating its trading activity.
+Hindalco's returns for the week stand at 0.07%, showcasing a consistent performance amidst market fluctuations.
+Hindalco's trading volume reached 3,636,265 shares, compared to an average of 3,650,386 shares in the previous week.
+With a six-month beta of 1.2822, Hindalco demonstrates significant volatility compared to the broader market.
+Hindalco's shares finished at Rs 743.85 yesterday, with no percentage change recorded, and a trading volume of 3,636,265.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TITAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBILIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIPRULI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBICARD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCAMC
+================================================================================
+
+(no fresh items in last 48h)
+

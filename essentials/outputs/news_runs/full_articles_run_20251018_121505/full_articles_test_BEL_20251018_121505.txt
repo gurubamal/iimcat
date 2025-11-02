@@ -1,0 +1,19 @@
+Full Article Fetch Test - BEL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 9.70B
+
+Title   : Belgian court clears extradition of fugitive diamond trader Mehul Choksi to India
+Source  : www.thehindubusinessline.com
+Published: 2025-10-17T16:55:35
+Fetched : 2025-10-18T14:12:52.605534
+URL     : https://www.thehindubusinessline.com/news/belgian-court-clears-extradition-of-fugitive-diamond-trader-mehul-choksi-to-india/article70176710.ece
+--------------------------------------------------------------------------------
+A Belgian court in Antwerp has cleared the extradition of fugitive diamond trader Mehul Choksi to India, declaring his arrest by Belgian authorities earlier this year as lawful. The ruling represents a major development in India's long-running efforts to secure his return in connection with the Punjab National Bank (PNB) fraud case.
+While granting the extradition request, the Antwerp court clarified that Choksi would not be immediately sent back, as he retains the right to appeal the decision before a higher court. Choksi was arrested by Antwerp police on April 11, 2025, following a formal request from Indian authorities. Since his detention, he has remained lodged in a Belgian prison, with multiple bail pleas rejected on the grounds that he posed a flight risk. The court's decision now places the focus on India's assurances regarding his detention conditions and fair trial once extradited.
+Earlier, the Ministry of Home Affairs (MHA) had furnished a comprehensive letter of assurance to the Kingdom of Belgium's Ministry of Justice and its judicial authorities. The document detailed the specific material, medical, and procedural safeguards that would govern Choksi's custody in India to address human-rights concerns raised during the extradition proceedings.
+According to the MHA, Choksi would be detained in Barrack No. 12 at Arthur Road Jail in Mumbai, a section reserved for non-violent and white-collar offenders. The facility is equipped with a range of safeguards, including adequate personal space, ventilated cells, 24x7 medical care, attached sanitation facilities, and CCTV monitoring. Detainees are provided three meals a day, access to exercise yards, recreation, and legal consultations.
+The Indian government also assured that Choksi's medical needs would be fully addressed, with provisions for specialised care and treatment at Sir J J Group of Hospitals, located nearby. Oversight mechanisms involving the National and State Human Rights Commissions (NHRC/SHRC), along with judicial supervision, have been emphasised to ensure transparency and compliance with international standards.
+Choksi, along with his nephew Nirav Modi, is accused of orchestrating one of India's largest banking frauds, involving fraudulent letters of undertaking that defrauded Punjab National Bank of over Rs 13,000 crore. Both face multiple charges under the Indian Penal Code (IPC) and the Prevention of Corruption Act, 1988. (ANI)
+Published on October 17, 2025
+

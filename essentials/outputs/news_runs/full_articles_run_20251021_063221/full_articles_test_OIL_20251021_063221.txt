@@ -1,0 +1,25 @@
+Full Article Fetch Test - OIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 18.96B
+
+Title   : Oil prices slip on concerns over US-China trade tensions
+Source  : www.thehindubusinessline.com
+Published: 2025-10-20T07:02:18
+Fetched : 2025-10-21T08:09:03.352495
+URL     : https://www.thehindubusinessline.com/markets/commodities/oil-prices-slip-on-concerns-over-us-china-trade-tensions/article70184483.ece
+--------------------------------------------------------------------------------
+Oil prices dipped on Monday, pressured by worries over a global glut as U.S.-China trade tensions added to concerns about an economic slowdown and weaker energy demand.
+Brent crude futures were down 53 cents, or 0.86 per cent, at $60.76 a barrel as of 0610 GMT, while U.S. West Texas Intermediate futures fell 55 cents, or 0.96 per cent, to $56.99, erasing gains from Friday.
+Both benchmarks declined more than 2 per cent last week, marking their third consecutive weekly decline, partly due to the International Energy Agency's outlook for a growing supply glut in 2026.
+"Concerns about oversupply from increased production by oil- producing nations, coupled with fears of an economic slowdown stemming from escalating U.S.-China trade tensions, are fuelling selling pressure," said Toshitaka Tazawa, an analyst at Fujitomi Securities.
+China's third-quarter economic growth slowed to the weakest pace in a year, data from China's statistics bureau showed on Monday. The results were pulled down by weak domestic demand, raising questions about Beijing's reliance on exports amid trade tensions with the U.S.
+Last week, the head of the World Trade Organization said she had urged the U.S. and China to de-escalate trade tensions, warning that a decoupling by the world's two largest economies could reduce global economic output by 7 per cent over the longer term.
+The two top oil consumers have recently renewed their trade war, imposing additional port fees on ships carrying cargo between them - tit-for-tat moves that could disrupt global freight flows.
+Uncertainty remains over what may happen with Russian oil supply, with U.S. President Donald Trump warning again on Sunday that Washington would maintain "massive" tariffs on India unless it stopped buying Russian oil.
+Meanwhile, Trump and Putin agreed on Thursday to hold another summit on the war in Ukraine, even as Washington pressured India and China to stop buying Russian oil.
+Following talks with Ukrainian President Volodymyr Zelenskiy at the White House on Friday, Trump implored both Ukraine and Russia to "stop the war immediately," even if it means Ukraine conceding territory.
+U.S. and European pressure on Asian buyers of Russian energy could restrict India's oil imports from December, leading to cheaper supplies for China, trade sources and analysts said.
+On the supply side, U.S. energy firms last week added oil and natural gas rigs for the first time in three weeks, energy services firm Baker Hughes said in its closely followed report on Friday.
+Published on October 20, 2025
+

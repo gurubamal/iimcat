@@ -1,0 +1,22 @@
+Full Article Fetch Test - GLENMARK
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 468.71M
+
+Title   : Glenmark, Dr Reddy’s recall drugs in US over quality issues: USFDA
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T05:28:30
+Fetched : 2025-10-19T11:00:32.748514
+URL     : https://www.thehindubusinessline.com/companies/glenmark-dr-reddys-recall-drugs-in-us-over-quality-issues-usfda/article70181836.ece
+--------------------------------------------------------------------------------
+Drugmakers Glenmark and Dr Reddy's Laboratories are recalling products in the US due to manufacturing issues, according to the US Food and Drug Administration (USFDA).
+As per its latest Enforcement Report, the US health regulator noted that a US-based unit of Glenmark Pharmaceuticals is recalling 26,928 packs of oral contraceptive medication in the US.
+Mahwah, New Jersey-based Glenmark Pharmaceuticals Inc, USA is recalling the affected lot of Viorele, Desogestrel and Ethinyl Estradiol (USP, 0.15 mg/ 0.02 mg) and Ethinyl Estradiol tablets due to "failed impurities/degradation specifications." The affected lot was produced at Mumbai-headquartered drug maker's Goa manufacturing facility.
+The drug firm issued the Class II nationwide recall on September 3, 2025.
+USFDA stated that a US-based subsidiary of Dr Reddy's Laboratories is recalling the medication used to provide muscle relaxation during surgery.
+Princeton, New Jersey-based Dr. Reddy's Laboratories, Inc is recalling 571 vials of Succinylcholine Chloride Injection due to "out-of-specification results during the 6-month stability testing", USFDA stated.
+The company initiated the Class II recall on September 26 this year.
+As per the USFDA, a Class-II recall is initiated when the use of, or exposure to, a violative product may lead to temporary or medically reversible health consequences, or when the likelihood of serious adverse health outcomes is minimal.
+India has the highest number of USFDA-compliant pharmaceutical plants outside of the US.
+Published on October 19, 2025
+

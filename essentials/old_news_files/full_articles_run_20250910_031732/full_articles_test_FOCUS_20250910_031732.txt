@@ -1,0 +1,14 @@
+Full Article Fetch Test - FOCUS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : At multi-year highs: Prime Focus, BGR Energy among 8 stocks witness 5-year swing high breakout 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-10T03:00:34
+Fetched : 2025-09-10T03:36:46.419120
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/at-multi-year-highs-prime-focus-bgr-energy-among-8-stocks-witness-5-year-swing-high-breakout/slideshow/123798566.cms
+--------------------------------------------------------------------------------
+In the NSE list of stocks with a market cap over Rs 1,000 crore, 14 stocks witnessed a 5-year swing high at the close on September 9, suggesting bullishness in counters, according to stockedge.com's technical scan data. Of these, we have highlighted the top 8 that posted gains of more than 2.5%.
+A 5-year swing high represents the highest price a stock has reached within a five-year timeframe. This level acts as a significant resistance point where the price has historically struggled to go beyond. This occurrence may be seen as a bullish sign, indicating the potential for further upward movement in the stock. However, it's worth noting that this is different from a 5-year breakout, which occurs when a stock's price surpasses a key resistance level that has held for five years or longer.
+

@@ -1,0 +1,19 @@
+Full Article Fetch Test - MCX
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 2.03B
+
+Title   : Broker’s call: MCX (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T11:06:11
+Fetched : 2025-10-13T18:03:54.227427
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-mcx-buy/article70158251.ece
+--------------------------------------------------------------------------------
+Target: ₹10,000
+CMP: ₹8,937
+MCX continues to present a compelling growth story built on its earlier drivers — new product launches, a robust product pipeline, tech upgrades and rising participation. As we had highlighted in our earlier report “The new gold standard,” gold and silver were expected to emerge as major contributors to options premium and this trend is firmly on track and gaining strength.
+Options premium ADTV has witnessed strong growth, jumping to about ₹6,700 crore in October 2025 vs ₹4,100 crore in Q2FY25, led by surging gold and silver volumes, which now account for around 60 per cent of total notional volume and about 30 per cent of premium ADTV. The bullion contracts have scaled rapidly post the shift to monthly expiry, gaining traction and diversifying the revenue mix.
+We believe bullion could reach around 40 per cent of total premium by Q4FY27E, materially reducing earlier concentration risk from crude and natural gas contracts (about 85 per cent share previously). The upcoming launch of cash-settled index contracts such as Metldex and Bulldex is expected to generate growth thrust and attract higher participation from FPIs and institutions.
+We maintain Buy with a target price of ₹10,000, based on 46x Sep-27E core EPS and adding cash excluding SGF and trading margin.
+Published on October 13, 2025
+

@@ -1,0 +1,116 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 127.60B
+
+Title   : TCS begins talks for selling stake in newly created data centre business
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T00:30:00
+Fetched : 2025-10-13T10:21:21.718362
+URL     : https://www.thehindubusinessline.com/info-tech/tcs-begins-talks-for-selling-stake-in-newly-created-data-centre-business/article70154670.ece
+--------------------------------------------------------------------------------
+Tata Consultancy Services is in talks with multiple players, including private equity firms, to divest stake in its newly created data centre subsidiary.
+“We are looking at an equity partner. The investment for the data center business is not only from TCS, it would be a combination of debt and equity. It is too early to talk about the quantum of the stake sale and the value,” Sameer Seksaria, Chief Financial Officer, TCS told businessline.
+On Thursday last week, TCS had announced plan to set up a 1 gigawatt data centre unit in India. As per industry estimates, this would require about $7 billion investments over the next 5 to 6 years.
+When asked why TCS has decided to enter a space that is already crowded with real estate players and tech giants, Seksaria said that he expects the demand for data centres to outstrip supply as digital economy picks up scale. “A real estate player would not have the relationships that we have with customers. We have relationships with the hyperscalers who will be one of the anchor customers. We do not have to go and sell into it. Overall, the demand for data centres is going to increase significantly. Over and above the anchor customers, we will have Indian enterprises, and the government will also have a lot of demand in terms of usage. So, the entire thought process is the demand is going to be there, supply is not there and it is an early area to get into,” Seksaria said.
+The CFO explained that the data centre business should not be seen in isolation but as part of the company’s five-pronged strategy to build a full suite of AI-led solutions.
+The strategy aims to help clients complete their AI transformation journeys in just six months — a process that earlier took three to four years. Seksaria added that TCS is investing heavily in data infrastructure and talent to position itself as a partner of choice in enterprise AI adoption. “To move AI from prototypes and use cases to using it at scale, we are looking at using rapid builds to get the AI modernisation. A transformation process that took three to four years can now happen in six months. CIOs are ready to take a six-month risk rather than a three-year transformation journey,” Seksaria said.
+He added that TCS is investing heavily in data infrastructure and talent to position itself as a partner of choice in enterprise AI adoption.
+During the Q2 results, TCS announced its ambition to become the world’s largest AI-led IT services company. The data centre is a significant part of TCS’s overall AI stack. The company listed five pillars towards this ambition: internal transformation, creating AI-first services, future-ready talent, AI modernisation for customers and ecosystem play involving partnerships. These partnerships would be with hyperscalers, with niche AI players, with more M&A and inorganic focus.
+Published on October 13, 2025
+
+Title   : H-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+Source  : www.livemint.com
+Published: 2025-10-13T07:08:48
+Fetched : 2025-10-13T10:21:21.718425
+URL     : https://www.livemint.com/companies/news/h1b-visa-crackdown-not-an-existential-threat-to-tcs-ceo-krithivasan-says-firm-can-survive-11760337946989.html
+--------------------------------------------------------------------------------
+Amid the uncertainty around H-1B visas, Tata Consultancy Services' (TCS) K Krithivasan has opened up about the IT giant's view on the work visa, restrictions on which, introduced by US President Donald Trump, have rocked the industry.
+Krithivasan's comments take on particular importance, with TCS being the second-biggest beneficiary of the H-1B programme in 2025 after Amazon, with over 5,000 H-1B visas approved in 2025 alone.
+In an interview with Business Standard, Krithivasan addressed not just concerns regarding the work visa, but also spoke about the company's recent move to lay off 12,000 people globally.
+On the back of the layoffs, US Senators Chuck Grassley and Dick Durbin had raised questions about the company hiring over 5,500 H-1B workers, which the tech CEO addressed directly in the interview.
+Commenting on facing questions from US Senators, Krithivasan said, "I was neither happy nor unhappy. It gave me an opportunity to articulate our positions more clearly and to address the Senators’ questions about the H-1B issue."
+Explaining that the "figure of 5,500" pertained to people amending or renewing their H-1B petitions, the TCS CEO said that fresh applications were much lower, "probably around 2,500".
+"We have 31,000 to 32,000 employees in the US, of whom only 11,000 to 12,000 are on H-1B visas, while the rest are on other types of visas. We have been progressively increasing local workforce participation, which will continue because the way of work has changed with new kinds of projects and AI coming into play, where you need to work closely with the customer and need different skill sets," Krithivasan was quoted as saying.
+"It is not just about engineering skills anymore; there is a growing demand for creative thinking and prompt engineering skills. In FY26, we sent just 500 people from India to the US on H-1B visas, which means we can survive without them (H-1B visas). There is no dependence on H-1B visas," the TCS CEO, most notably, said.
+"There was a time when this was a significant retention policy, but over the past four-five years, it has been on a declining trend. It is now far less of a retention policy than it once was, and we should not be assessing today’s scenario through yesterday’s lens," he added.
+When quizzed about the mass layoffs at TCS, Krithivasan explained that only two categories of employees had been affected: those on the bench for three to six months, and those who were underperforming.
+"I don’t believe the Tata group, while humane, would have retained employees with performance issues," the chief of the IT giant was quoted as saying.
+He also explained that a "skill mismatch" also contributed to some of the layoffs.
+"We have relieved individuals where we see a skill mismatch for the future. The company is pivoting to be future-ready and a big player in the AI ecosystem. If someone doesn’t fit into the scheme of things, we need to exit them gracefully. This approach, I believe, does not conflict with our ethos," Krithivasan said.
+The Trump administration, which has described the H-1B programme as the one of the "most abused visa" systems in the US' immigration framework, recently slapped a $100,000 ( ₹88 lakh) fee on fresh applications, sending shockwaves across firms that rely on the programme to employ highly-skilled talent from around the world.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsH-1B visa crackdown not an existential threat to TCS; CEO Krithivasan says firm 'can survive'
+
+Title   : We will be a net job creator: Sudeep Kunnumal, TCS CHRO
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T00:30:00
+Fetched : 2025-10-13T10:21:21.718461
+URL     : https://www.thehindubusinessline.com/info-tech/we-will-be-a-net-job-creator-sudeep-kunnumal-tcs-chro/article70154684.ece
+--------------------------------------------------------------------------------
+Tata Consultancy Services is under intense scrutiny lately facing criticism over layoffs, with social media and even MPs questioning the lack of transparency. At the same time, skeptics said that TCS is not moving fast enough to leverage AI in its services, raising concerns about its strategy to become an AI-led IT powerhouse. In this conversation, Chief Financial Officer Sameer Seksaria and Chief Human Resources Officer Sudeep Kunnumal addressed these questions head-on, explaining how the company is balancing workforce readiness for its AI-led growth strategy, while maintaining care for employees and sustaining long-term competitiveness.
+There is a perception that TCS is not giving the complete picture when it comes to layoffs. Could you have done this in a better way?
+Kunnumal: These are perceptions, not reality. We have stated 2 per cent (of the total employees), but this is not a target. The fact is, we have made a decision to be future-ready. After all the benchmark investment, mentoring support, and then we see someone is still not able to get the right role based on seniority, that is when we take this decision. And we are doing it with a lot of care and empathy. We communicated this to the media and, before that, internally through an announcement to our people globally. We have been very transparent. So, we don’t see any big unrest internally. The social media is buzzing with all sorts of numbers. If someone is separated, we provide support in terms of severances, emotional support out placements, and help them with their transition.
+Then why are MPs and employees union raising red flag?
+Kunnumal: The external narrative is exaggerated. There are a lot of interest at play. I would like to make it clear that this is not about AI or cost. We are going to be a net job creator. All of us individuals, the amount of technology we consume compared to yesterday to today is high.
+We know there is so much more to our business; companies have so much tech debt, so we see a lot of opportunities. But people have to pick this up quickly. This is also not about cost. We announce our salary increases in September. Eighty per cent of our employees and our top performers have got double-digit raise. We are paying higher quarterly bonuses than what we have paid in the last few quarters. Our mid and senior leaders will get a higher bonus.
+Yet your headcount count is down to 20,000 in just one quarter. So, that means people are leaving TCS...
+Kunnumal: There’s always a voluntary attrition. So, we have hired on need. There is an element of some amount of inefficiencies. We try to bring in efficiency controls into it.
+So, is this one-off quarter where the numbers have actually dipped overall?
+Kunnumal: It is evolving. We want to bring in a lot more efficiency. But as I said, we will invest in growth, hire talent. And the way I’m seeing is we are going to be a net job creator. We will increase our employment employee headcount.
+When you say net job creator, do you have a number in terms of hiring by the end of this year?
+Kunnumal: We don’t really put a number on it. It is about business demand and we will make those investments. We made job offers at campuses. We are honoring all offers. We are on track to onboard them. As we speak, we are forming plans to go to the campus this year.
+You went from the term ‘LTM attrition’ to ‘voluntary LTM attrition’. Why did you make this change?
+Kunnumal: We just want to be aligned with how our peers report, we have also moved to voluntary attrition. It is basically voluntary attrition where an individual has made a decision to leave. So, that’s what we are reporting.
+But wasn’t LTM always voluntary in nature?
+Seksaria: We did not have involuntary so far, or it was only a small percentage. Now, we called it out. So, we are being more open about it.
+Do you feel that your workforce is ready for the plan that you have set up to become an AI-led services company?
+Kunnumal: Definitely yes, and we are constantly investing in it. Just this quarter, we have onboarded 18,500 people globally, and this includes some of the talents, global markets who come from with a lot of experience. While we are grooming internally, we have been able to get some great talent externally as well. So, we are sort of bringing that inside leadership promotions and then external. Most of the large language models are now democratically available. Every office has AI garages and we have something called AI Fridays to allow people to collaborate and create.
+Rules around H1B have tightened. How are you managing this and do you think those aspiring for a dream job in the US can find equally challenging roles in India to do cutting edge work?
+Kunnumal: In my opinion, it is already there. Coming to H1B specifically, our dependency over the last few years has been consistently reducing because we have been hiring at scale globally in all markets. Just to give you a number, we have 30,000 people hired in the US just in the last 5 years. In this current financial year, less than 500 people are the net new H1Bs who have actually travelled.
+Seksaria: US versus India opportunities can be linked to about two things: quality of living, earnings and opportunity in terms of what work you do.
+India as a nation has gotten ahead only because of the opportunities in IT. The standard of living, quality of life also has gone up.
+So what does all this do to the margins because new investments, new talent will be expensive, you still have aspiration to hit the 26-28 per cent levels ?
+Seksaria: Still 26-28 is our aspiration. We make early investments and we will continue to make investments. If you look at H1, we have improved margins by 100 basis points. Salary hikes were effective 1st of September, there would be an impact coming in. So if you take the medium to long term horizon, we still want to inch closer to the aspirational level but on the short term, we will not be micromanaging it that I will forgo investments to get to 26. We will make the right investments to get the lever to move towards our margin band.
+TCS wants to become the world’s largest AI led IT services company in the world. What are the key steps to get there ?
+Seksaria: We have five pillars in which we want to make changes and each one would have investments. The first one is in terms of internal transformation. This would include the change in culture, making our enabling functions AI first. We have already enabled various AI models, GPT models or various others in a safe secure environment within TCS to almost all our employees.
+Then second is, how do you have your functions be AI first, HR, finance, marketing functions – imagination of services to be AI-led.
+The third one is future-ready talent. Investments on re-skilling continue but our focus is also on getting top tier talent. The fourth is faster AI modernisation for clients. To move AI from prototypes and use cases to using it at scale, we are looking at using rapid builds to get the AI modernisation. A transformation process that too three to four years can now happen in six months. CIOs are ready to take a six months risk rather than a three-year transformation journey.
+The last one is the ecosystem play that leverages our partnships in terms of hyperscalers, with niche AI players, and also has elements of two more: increasing M&A focus that is linked to acquiring capabilities that will help us faster time to market. The last one is the capabilities and infrastructure on AI-linked capabilities and infrastructure.
+Data Centre business is already crowded with real estate players, PEs and big tech? How will TCS gain by entering this market?
+Seksaria: Data center is not just an isolated investment. It is part of our overall AI strategy. A real estate player would not have the relationships that we have with customers. We have relationships with the hyperscalers who will be one of the anchor customers. We do not have to go and sell into it. Overall, the demand for data centres is going to increase significantly. Over and above the anchor customers, we will have Indian enterprises and the government will also have a lot of demand in terms of usage. So, the entire thought process is the demand is going to be there, supply is not there and it is an early area to get into, and it is also a nation first thing.
+Have you started talks to sell stake in the data centre business?
+Seksaria: Yes, we are looking at an equity partner. The investments for the data center business are not only from TCS, it would be a combination of debt and equity. It is too early to talk about the quantum of the stake sale and the value.
+Your geographical markets had a negative trend YoY but quarterly there has been a positive growth. Does this indicate revival in demand?
+Seksaria: Looking at sequential performance, all geographies except the UK and one vertical showed positive growth. We are now seeing a momentum pick-up, and while the gains are incremental rather than dramatic, they are meaningful and give us confidence. One of the key reasons for earlier project delays has now been significantly reduced, contributing to this improving trend.
+Published on October 13, 2025
+
+Title   : TCS results signal cautious optimism, but IT outlook remains uncertain: Dhananjay Sinha 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T03:41:00
+Fetched : 2025-10-13T10:21:21.718626
+URL     : https://economictimes.indiatimes.com/markets/expert-view/tcs-results-signal-cautious-optimism-but-it-outlook-remains-uncertain-dhananjay-sinha/articleshow/124470253.cms
+--------------------------------------------------------------------------------
+“TCS results were fairly muted in terms of dollar revenue growth. The guidance was realistic but not overly robust,” said Sinha. “They’re investing in data centres and trying to reassure markets on H-1B visa concerns. Deal wins have been strong, but realization remains uncertain.”
+Muted optimism despite solid deal wins
+Sinha noted that while TCS’s large deal pipeline and strong client engagement are encouraging, macroeconomic challenges could limit near-term growth for Indian IT majors.“The protectionism trend, which started with manufacturing, is now extending into services. That’s an emerging risk for Indian IT exporters,” he said.
+He added that despite attractive valuations — with TCS trading around 22 times forward earnings — investor sentiment may remain cautious until revenue growth visibility improves.
+Cautious view on banks amid margin pressures
+Turning to the banking sector, Sinha highlighted that the second quarter is likely to show continued margin compression, even as lending activity picks up modestly.“There’s an expectation that margins will remain under pressure, and overall profits for the banking sector could see some moderation,” he said. “However, lending picked up in September, which is a positive sign. We’ll have to see if that momentum sustains.”
+He pointed out that deposit growth has slowed, pushing the credit-deposit ratio back above 80%, indicating tight liquidity conditions.“The earlier repo rate cuts have had a lagged impact on margins. Large corporates continue to deleverage, and even wholesale trade lending has seen some repayment pressure,” he said.
+PSU banks and retail lending offer selective opportunities
+Despite these challenges, Sinha said public sector banks (PSUs) could offer selective opportunities due to attractive valuations and relative improvement in fundamentals. “PSU banks are trading at much lower valuations compared to private peers, but their operational performance has caught up. So, there could be pockets of outperformance there,” he observed.He added that microfinance and gold loans continue to show strong growth within retail lending.
+“In the retail segment, gold loans have picked up significantly, while small business and microfinance borrowers have seen good traction,” Sinha noted.
+Autos outperform as markets rotate away from banks
+Sinha also noted a sectoral rotation in the markets, with investors increasingly favouring auto stocks over financials due to stronger earnings visibility and operating performance. “The market seems to have shifted from banks to autos. Auto stocks are showing better performance from an operational standpoint, which is reflected in their market cap growth,” he said.Second half could see gradual improvement
+Sinha remains cautiously optimistic about the second half of the fiscal year, expecting some improvement in operating performance and margins as credit growth broadens and demand revives across sectors.“For banks, the second half could be better, provided credit growth becomes more broad-based,” he said. “For IT, execution on large deals and demand recovery will be key drivers.”
+While TCS’s pivot toward AI-led transformation and data centre expansion signals long-term growth potential, near-term sentiment in both IT and banking is expected to remain subdued due to global uncertainties and domestic liquidity constraints.
+“The outlook for the next few quarters is one of cautious optimism,” Sinha concluded. “Investors will need to focus on selective opportunities rather than broad-based bets.”
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

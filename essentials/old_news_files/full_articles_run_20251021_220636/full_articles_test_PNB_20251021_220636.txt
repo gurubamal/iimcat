@@ -1,0 +1,28 @@
+Full Article Fetch Test - PNB
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 21.20B
+
+Title   : Muhurat Trading: PNB shares in focus after company flags Rs 9,000 crore hit from RBI credit loss rules 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-21T06:07:26
+Fetched : 2025-10-21T23:34:13.171547
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-pnb-shares-in-focus-after-company-flags-rs-9000-crore-hit-from-rbi-credit-loss-rules/articleshow/124715139.cms
+--------------------------------------------------------------------------------
+The disclosure makes PNB one of the first major public-sector banks to quantify the potential impact of the RBI’s proposed guidelines, which require lenders to make provisions for likely loan losses before defaults occur, rather than after. The new norms mark a significant shift from the current incurred-loss model and are aimed at strengthening India’s banking system against future credit shocks.
+“The impact comes to around Rs 9,000 crore,” said Ashok Chandra, managing director and CEO of PNB, in an interview with Reuters. “The bank has done a rough estimate as this new credit rule was already in the pipeline. I don’t see any further deviation.”
+Under the RBI’s draft framework, banks must move to an ECL-based provisioning system over a five-year transition period starting April 1, 2027, giving lenders time to adjust their balance sheets and capital buffers. The new system will require lenders to set aside provisions for potential defaults based on forward-looking models rather than waiting for loans to turn non-performing.
+According to Chandra, the estimated Rs 9,000 crore impact translates to about 0.85 percentage points of PNB’s capital-to-risk weighted assets ratio (CRAR) — a key metric that measures a bank’s financial strength. The bank’s CRAR stood at 17.19% as of September 30, comfortably above the regulatory minimum.
+The CEO emphasised that the hit would be manageable and could be absorbed through regular business profits rather than through fresh capital infusion. “We will be able to manage with our internal accruals itself,” he said. “The bank is well poised to take care of all requirements that are going to come in the future.”
+For PNB, the majority of additional provisions under the new framework will apply to stage-two assets — loans that have shown early signs of stress but are not yet classified as non-performing. These are largely concentrated in the retail, agriculture, and SME segments, which account for a significant share of the bank’s loan book.
+Stage-two assets represent exposures where borrowers have missed repayments but remain within regulatory limits. Under the ECL model, banks will need to assign higher risk weights and maintain adequate provisions even before such accounts slip into default.
+PNB reported a 14% year-on-year rise in net profit to Rs 4,904 crore for the September quarter, aided by higher interest income and improved asset quality. Chandra said the lender is on track to deliver a net profit of over Rs 15,000 crore for FY26, driven by growth in retail and corporate credit as well as cost controls.
+The RBI’s shift to the ECL regime is expected to make provisioning across India’s banking sector more transparent and forward-looking. However, analysts say public-sector banks with large retail and agricultural exposure may see higher initial provisioning costs.
+While the stock has corrected in recent weeks after a strong run-up, PNB’s early disclosure of the ECL impact and management confidence in offsetting the costs through profits could help stabilise investor sentiment in the near term.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

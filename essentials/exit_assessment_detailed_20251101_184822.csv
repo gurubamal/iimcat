@@ -1,0 +1,10 @@
+ticker,recommendation,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,urgency_score,primary_reasons,summary
+CANBK,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+HYUNDAI,MONITOR,47,50,20,LOW,0,0,0,,No AI summary available
+IOC,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+MARUTI,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+ACC,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+RELIANCE,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+FOCUS,MONITOR,47,50,20,LOW,0,0,0,,No AI summary available
+URBAN,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available
+CDSL,MONITOR,40,50,0,NONE,0,0,0,,No AI summary available

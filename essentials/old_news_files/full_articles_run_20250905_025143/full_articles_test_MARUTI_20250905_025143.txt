@@ -1,0 +1,43 @@
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 145.49B INR
+
+Title   : Maruti Suzuki, M&M among 10 stocks that hit 52-week high; rally up to 20% in a month 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T12:47:18
+Fetched : 2025-09-05T03:22:43.917725
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-mampm-among-10-stocks-that-hit-52-week-high-rally-up-to-20-in-a-month/slideshow/123700136.cms
+--------------------------------------------------------------------------------
+Benchmark Sensex rose by 150 points, closing at 80,718 on Thursday. During the broader market rally, 10 stocks from the BSE 200 index surged to their 52-week highs — marking their highest levels in the past year. These breakouts are often viewed by traders and investors as bullish signals, indicating strong upward momentum and the potential for further gains.
+ANI
+2/11
+TVS Motor Company | New 52-week high: Rs 3,543.05| CMP: Rs 3,433.3. In the last one month stock has gained about 20%.
+ANI
+3/11
+Maruti Suzuki India | New 52-week high: Rs 1,5349.85| CMP: Rs 1,4655.65. In the last one month stock has gained about 19%.
+ETMarkets.com
+4/11
+Eicher Motors | New 52-week high: Rs 6,707.7| CMP: Rs 6,435. In the last month stock has gained about 16%.
+Agencies
+5/11
+FSN E-Commerce Ventures | New 52-week high: Rs 243.75| CMP: Rs 239.3. In the last month stock has gained about 14%.
+ETMarkets.com
+6/11
+Cummins India | New 52-week high: Rs 3,959| CMP: Rs 3,939.6. In the last one month stock has gained about 11%.
+ETMarkets.com
+7/11
+Mahindra & Mahindra | New 52-week high: Rs 3,539.25| CMP: Rs 3,480.25. In the last one month stock has gained about 10%.
+Representative image.
+ANI
+8/11
+Muthoot Finance | New 52-week high: Rs 2,834.4| CMP: Rs 2,826.65. In the last one month stock has gained about 9%.
+ETMarkets.com
+9/11
+Ultratech Cement | New 52-week high: Rs 13,101.8| CMP: Rs 12,665. In the last one month stock has gained about 5%.
+ETMarkets.com
+10/11
+Marico | New 52-week high: Rs 761.45| CMP: Rs 739.45. In the last one month stock has gained about 4%.
+11/11
+MRF | New 52-week high: Rs 1,55,554.95| CMP: Rs 1,49,010. In the last one month stock has gained about 2%.
+

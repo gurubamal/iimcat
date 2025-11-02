@@ -1,0 +1,2 @@
+rank,ticker,company_name,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,BPCL,BHARAT PETROLEUM CORPORATION LIMITED,76.6,neutral,STRONG BUY,"earnings, investment, expansion",,76,1,57.5,Oil India explores equity investments in BPCL's proposed  ₹1 tn refinery in Andhra Pradesh,Detected 3 catalyst(s). From www.livemint.com [unknown:0.65]. Score: 100/100. Certainty: 76%. NEUTRAL.

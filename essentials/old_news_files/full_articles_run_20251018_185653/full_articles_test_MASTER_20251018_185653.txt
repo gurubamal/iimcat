@@ -1,0 +1,21 @@
+Full Article Fetch Test - MASTER
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 64.93M
+
+Title   : Mastering Derivatives: Trading capital matters
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T15:13:06
+Fetched : 2025-10-18T19:06:13.270642
+URL     : https://www.thehindubusinessline.com/portfolio/commodity-analysis/mastering-derivatives-trading-capital-matters/article70166891.ece
+--------------------------------------------------------------------------------
+NSE has issued a circular stating that the permitted lot size on four of its index futures and options (F&O) contracts (except the Nifty Next 50 Index) will be revised from December 30. Of interest to most traders is the change in the Nifty F&O contracts. The permitted lot size will be revised from 75 to 65. Will the change motivate retail traders to dabble in these contracts? This week, we discuss retail traders’ typical mindset in relation to this proposed change.
+Futures vs options
+Retail traders are sensitive to the proportion of the total capital that they deploy in each transaction. The reduction in the permitted lot size from 75 to 65 could only result in a small decrease in capital required to trade Nifty futures. Therefore, the suggested change may not motivate retail traders to dabble in these contracts. Note that many of them may have stopped trading Nifty futures contracts since the regulatory changes implemented by SEBI last November to discourage speculative (noise) activity in the F&O segment.
+Perhaps, individuals will continue to trade options because it requires lower trading capital, not because it is optimal to set up option positions for a given view on an underlying. But options expose traders to time decay (theta), which causes large losses if not managed well. The limited loss the long option position exposes an individual to gives them a false sense of comfort, with the maximum loss being the option premium. But such small frequent losses can easily accumulate to sizable amount. This is because options expose a trader to gains that are lower than losses for a given change in the underlying. Why? When an underlying moves up, a call option will gain from delta and gamma while theta works against the position. But when the underlying declines, the call option loses from delta (large factor) and theta with only the gamma (small factor) working in its favour. In contrast, futures move nearly one-to-one with the underlying. Therefore, retail traders can view futures like a leveraged spot transaction. That makes it easier to understand and manage the position with appropriate stop-loss.
+The proposed revision in the contract size on the Nifty Index is an opportunity for retail traders to reassess their strategies. Futures contract is best initiated when traders have strong conviction on the directional movement of the underlying. Options can be set up to bet on underlying price reversals because of their asymmetric payoff.
+Optional reading
+Retail traders typically bet on deep out-of-the-money (OTM) strikes. The objective is to take small bets hoping for large gains. Typically, these strikes expire worthless, causing frequent small losses that accumulate to large losses over time. Perhaps, SEBI can consider introducing Nifty mini futures with lower permitted lot size (say, 30). The lower trading capital could wean traders off long-shot bets (trading deep OTM strikes) and encourage them to take a realistic view on an underlying.
+(The author offers training programmes for individuals to manage their personal investments)
+Published on October 18, 2025
+

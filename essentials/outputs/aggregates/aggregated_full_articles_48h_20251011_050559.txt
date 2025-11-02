@@ -1,0 +1,48 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-11T05:05:59.340370
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com, sebi.gov.in, nseindia.com, bseindia.com
+Tickers planned: 150
+====================================================================================================
+
+Full Article Fetch Test - 20MICRONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 360ONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3IINFOLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3MINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3PLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 5PAISA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 63MOONS
+================================================================================
+
+(no fresh items in last 48h)
+

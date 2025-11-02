@@ -1,0 +1,24 @@
+Full Article Fetch Test - PERSISTENT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 4.25B
+
+Title   : Strong order flow, margin improvement to support Persistent’s growth 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-17T13:14:51
+Fetched : 2025-10-18T10:31:29.794437
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/strong-order-flow-margin-improvement-to-support-persistents-growth/articleshow/124631730.cms
+--------------------------------------------------------------------------------
+Persistent staged a recovery in revenue for the September quarter after posting a five-quarter low growth in the previous quarter. Revenue grew by 4.2% sequentially to $406.2 million compared with 3.9% increase in the prior quarter. The acceleration can be attributed to a sequential improvement of 4% in the revenue from the healthcare vertical, which contributes over one-fourth to the topline. In the prior quarter, the division had recorded 2.2% revenue drop. The other major divisions of hi-tech (40% of revenue) and banking and finance (35%) continued to grow sequentially in the September quarter.
+The company reported record quarterly operating margin (EBIT margin) of 16.3% for the second quarter aided by 80 basis point support from the reversal of software license cost for a client. The company CFO Vinit Teredesai told ET that it should not be considered as a one-off benefit as it is expected to repeat in the future as well. The margin also reflected 60 basis points of currency benefit and another 20 basis points from increased offshoring of work for some of the clients.
+Persistent has undertaken salary revisions for employees since October 1, which is expected to induce 180 basis points of impact on the margin. However, Teredesai is confident that the net impact will be limited to 80-100 basis points due to high employee utilisation and improving offshoring component in some of the projects.
+The company bagged orders worth $609.2 million, a record high, driven by renewal projects as the share of new deals in the total contract value (TCV) fell to 50.8% from 64.7% in the previous quarter and 73.7% a year ago.
+Though the employee attrition rate has remained more or less stable at 13.8% sequentially, it has moved up from 12% a year ago. To address this and an elevated utilisation level of above 88%, the company has been adding to the headcount for the past four quarters. For the September quarter, the employee count increased by 884 to 26,224.
+Motilal Oswal projects 19% and 26% revenue and earnings growth between FY25 and FY27. The broker has reiterated a buy call on the stock with a target price of Rs6,550. The stock closed at Rs5,755.8 on Friday on the BSE.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

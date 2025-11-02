@@ -1,0 +1,31 @@
+Full Article Fetch Test - CYIENT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 1.54B
+
+Title   : Cyient DLM shares in focus after Q2 profit more than doubles despite revenue decline 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T04:18:26
+Fetched : 2025-10-15T08:35:40.882919
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/cyient-dlm-shares-in-focus-after-q2-profit-more-than-doubles-despite-revenue-decline/articleshow/124567300.cms
+--------------------------------------------------------------------------------
+Strong Q2 performance
+Cyient DLM on Tuesday reported a 113.3% YoY jump in net profit to Rs 32 crore for Q2 ended September 30, 2025, compared with Rs 15 crore in the same period last year. Revenue from operations, however, fell 20.3% YoY to Rs 310.6 crore from Rs 389.5 crore a year ago.
+The company attributed the decline in revenue to the completion of a major defence order, though profitability benefited from an improved business mix and lower material costs. Material costs fell 30.7% during the quarter, while other income surged 219% to Rs 22.7 crore.
+At the operating level, EBITDA came in at Rs 31.1 crore, slightly down from Rs 31.6 crore last year. However, the EBITDA margin improved to 10% from 8.1% a year ago, supported by supply chain efficiencies and a more favourable business mix.
+One-time gain boosts bottom line
+Other income was higher mainly due to a one-off earnout reversal of Rs 19.6 crore, which also brought down the effective tax rate to 11.8%. Excluding this gain, the normalised effective tax rate stood at 25.8%, and normalised PAT was Rs 12.6 crore — up 68.4% sequentially but down 18.7% YoY.
+Cyient DLM said the material cost ratio improved due to its US operations, which also led to increases in employee and other expenses. Depreciation and amortisation rose due to intangibles from the acquired entity.
+Strong order pipeline
+Among business segments, the defence vertical declined 90% YoY due to the large order completion, while aerospace grew 47%. Industrial and med-tech segments posted robust growth of 256% and 114%, respectively.
+The company added two new global clients during the quarter — a Japanese eVTOL firm and an EV charging company — and reported an order intake of Rs 497.7 crore, expanding its order backlog. The order pipeline includes large deals at advanced stages, with first-half FY25 order intake up 130% YoY.
+The results were announced after market hours on Tuesday. Shares of Cyient DLM closed at Rs 465.50 on the BSE, down 4.4%.
+Also read | TCS, Tata Motors tumble up to 42% from peak, with over Rs 4 lakh crore wiped off Tata stocks in 2025 amid boardroom turmoil
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

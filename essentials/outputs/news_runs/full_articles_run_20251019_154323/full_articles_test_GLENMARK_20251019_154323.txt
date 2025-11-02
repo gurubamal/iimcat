@@ -1,0 +1,19 @@
+Full Article Fetch Test - GLENMARK
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 468.71M
+
+Title   : Glenmark recalls product in US over manufacturing issue: USFDA
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T05:28:30
+Fetched : 2025-10-19T18:45:59.186691
+URL     : https://www.thehindubusinessline.com/companies/glenmark-recalls-product-in-us-over-manufacturing-issues-usfda/article70181836.ece
+--------------------------------------------------------------------------------
+Drugmaker Glenmark is recalling a product in the US due to a manufacturing issue, according to the US Food and Drug Administration (USFDA).
+As per its latest Enforcement Report, the US health regulator noted that a US-based unit of Glenmark Pharmaceuticals is recalling 26,928 packs of oral contraceptive medication in the US.
+Mahwah, New Jersey-based Glenmark Pharmaceuticals Inc., USA is recalling the affected lot of Viorele, Desogestrel and Ethinyl Estradiol (USP, 0.15 mg/ 0.02 mg) and Ethinyl Estradiol tablets due to “failed impurities/degradation specifications.” The affected lot was produced at the Mumbai-headquartered drug maker’s Goa manufacturing facility.
+The drug firm issued the Class II nationwide recall on September 3, 2025.
+As per the USFDA, a Class-II recall is initiated when the use of, or exposure to, a violative product may lead to temporary or medically reversible health consequences, or when the likelihood of serious adverse health outcomes is minimal.
+India has the highest number of USFDA-compliant pharmaceutical plants outside of the US.
+Published on October 19, 2025
+

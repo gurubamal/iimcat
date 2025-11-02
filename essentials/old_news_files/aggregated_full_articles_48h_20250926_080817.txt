@@ -1,0 +1,218 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-26T08:08:17.156616
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com
+Tickers planned: 21
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-26): 199.43B INR
+
+Title   : ITC Executive Director: Optimistic about festive season with GST benefits, but inflation a concern
+Source  : www.livemint.com
+Published: 2025-09-25T14:21:57
+Fetched : 2025-09-26T08:08:57.255571
+URL     : https://www.livemint.com/companies/news/itc-executive-director-optimistic-about-festive-season-with-gst-benefits-but-inflation-a-concern-11758810117998.html
+--------------------------------------------------------------------------------
+New Delhi, Sep 25 (PTI) Leading FMCG player ITC expects a surge in the festive demand this season after the GST rate cut, and reduced prices will have a “multiplier impact” on volumes for the packaged food industry, a senior company official said.
+However, the FMCG major is also cautious about the existing inflation on some products, its Executive Director and Divisional Chief Executive of the Foods Business Division, Hemant Malik, said.
+ITC, which owns popular brands as Aashirvaad, Sunfeast, Bingo!, and B Natural, has already passed on the benefits of the GST rate cuts applicable from September 22, and expects a boost in consumption and investment as well as a multiplier impact on the economy.
+"A lot of expenditure by consumers is also driven by sentiment. When the message reaches consumers that prices have come down, it does allow people to open their purses. Once that happens, it is a multiplier impact in terms of volume increase … It has a multiplier impact on the economy, both from the aspect of employment as well," Malik told PTI on the sidelines of the fourth edition of World Food India 2025.
+The packaged food industry has been impacted significantly by slower growth due to high inflation. However, the company is “optimistic” on a rise in urban demand following GST reduction and the government’s production-linked schemes in the food processing industry, he said.
+“Inflation is still a concern,” he said and added that because edible oil consumption remains higher in the food industry and its prices continue to go up, Malik said, noting that this challenge needs to be addressed.
+Malik said the company has passed on the GST benefits to the consumers, which he said “will make a difference in terms of growth of the economy.”
+Under GST 2.0, the government had kept all daily essentials, including food products, under the lowest tax bracket of 5 per cent from earlier higher slabs.
+However, Malik also said there are some challenges, such as magical price points; however, those are 'transitory' in nature for a period of one and a half to two months.
+"Most importantly, the government has been fairly confident that market forces will ensure that each of us pass the benefit to the consumer," he said, terming it as a "very mature move" instead of putting some anti-profiteering kind of pressure.
+According to Malik, for the snack industry, it is easy to pass the grammage immediately from September 22, the day it was implemented.
+"However, when you look at a magic price point of biscuits for 5 rupees or a 10 rupee price point, you are not able to, as it takes a lot of effort to get the weight changes," he said adding, "It might take about two months. So right now we have passed the MRP drops but the problem with that MRP drop is I don't know whether it will finally reach the consumer or not."
+The Industry has to work very fast to make sure that the benefit in the grammage is available.
+Over the Production Linked Incentive (PLI) Scheme for the Food Processing Industry, Malik said ITC has participated in both the ‘ready to eat’ segment and the ‘fruit and vegetable’ segment.
+"I am happy to report that we have completed all the investments that we had committed and I think even the process of giving the incentives back has been fairly detailed, smooth. I would say that we are getting benefit or whatever we have looked at," he said.
+However, Malik also added that there has been some challenges in the last few years in certain segments, where the consumption has taken a dip.
+"Therefore to that extent, certain categories have not been able to... although investments have happened but the growth has not happened. We are in touch with the ministry to keep a little easier look towards that," he said.
+According to Malik, the food industry has a 'huge opportunity' for India as only about 10 to 15 per cent of packaged food is there, compared to 40 to 70 per cent of developed economies.
+"So the growth that is likely to happen in food processing is significant," he said, adding, "We are all committed to continue to invest. (3:33) We have invested over the year more than 15,000 crores, and this journey continues."
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsITC Executive Director: Optimistic about festive season with GST benefits, but inflation a concern
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHARTIARTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-26): 145.27B INR
+
+Title   : Maruti Suzuki sells around 80,000 cars on first 4 days of GST 2.0
+Source  : www.thehindubusinessline.com
+Published: 2025-09-25T14:52:20
+Fetched : 2025-09-26T08:09:08.446362
+URL     : https://www.thehindubusinessline.com/companies/maruti-suzuki-sells-around-80000-cars-on-first-4-days-of-gst-20/article70094084.ece
+--------------------------------------------------------------------------------
+Country’s largest passenger vehicles maker, Maruti Suzuki India (MSIL) on Thursday said that it is getting a lot of traction at its showrooms since September 22, and has sold around 80,000 units in this last four days of Navratris.
+The company is also getting enquiries of around 80,000 per day, which is double of other days, Partho Banerjee, Senior Executive Officer - Marketing & Sales, MSIL, said.
+On the first day of GST 2.0 and Navratri on September 22, MSIL had delivered over more than 30,000 vehicles and secured bookings for of more than 75,000 cars.
+“After the start of the Navratris, our retails have touched 75,000 vehicles (till 6PM on Thursday). We are expecting that this will further be going up by the end of the day and cross 80,000 units. The bookings are very strong,” Banerjee told reporters in a briefing with select mediapersons.
+In the entry-level cars segment also (S-Presso and Alto K10), he said the company was seeing “very good traction” with the all-India booking growth of 50 per cent. “In places beyond the top 100 cities, the growth in the booking is to the tune of 100 per cent,” he noted.
+Overall bookings
+On the overall bookings currently, he said on an average, MSIL is getting close to 18,000 bookings per day as compared to around 10,000 per day on normal days.
+Lauding the Centre’s decision for the GST rate reduction, Banerjee also said, “Customers were just waiting for it and this is a golden opportunity for the customers to upgrade to a four-wheeler...they just need to expedite their finance process to get the delivery during the festive period.”
+In some of the variants of certain models like Brezza, Dzire and Baleno, he said MSIL may not be able to supply after four-five days because of the very high demand, since production cannot be suddenly increased, he added.
+Published on September 25, 2025
+
+Full Article Fetch Test - WIPRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GRASIM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HINDALCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-26): 53.91B INR
+
+Title   : Sun Pharma, Cipla or Dr Reddy's: Which pharma major is most vulnerable to Trump's 100% tariff 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-26T05:22:07
+Fetched : 2025-09-26T08:09:24.292224
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/sun-pharma-cipla-or-dr-reddys-which-pharma-major-is-most-vulnerable-to-trumps-100-tariff/articleshow/124146390.cms
+--------------------------------------------------------------------------------
+With 30-47% of their revenues linked to the US market, analysts are assessing which balance sheets could be hit hardest if Trump’s tariff measures extend beyond branded drugs to include complex generics and specialty medicines.
+The US is the largest market for Indian pharma, accounting for roughly 35% of exports, valued at about $10 billion in FY25.
+"President Trump's tantrums with tariffs are resuming with new tariff imposts on patented and branded drugs," said Dr. VK Vijayakumar, Chief Investment Strategist at Geojit Investments Limited. "India, being an exporter of generic drugs, is unlikely to be impacted by this. But perhaps the president's next target can be generic drugs."
+"While the tariff primarily targets branded drugs, there is ambiguity over whether complex generics and specialty medicines might also be affected," warned Maitri Sheth from Choice Institutional Equities. "However, firms with manufacturing plants under construction in the U.S. will be exempt, offering an opportunity to mitigate tariff exposure."
+"Predominantly, Sun Pharma seems to be most impacted. Dr Reddy’s will also be impacted. The majority of the players are into generics. The impact on branded generics is not very clear," Sunny Agarwal of SBI Securities told ET Markets.
+Dr Reddy's: The Most Exposed?
+Dr. Reddy's has emerged as one of the most vulnerable, with a staggering 47% of its revenue dependent on the US market–the highest among major peers. Nomura estimates DRL's US revenues at $1.5 billion in FY26, making any tariff expansion potentially catastrophic."Products manufactured in the US should contribute less than 15% to FY27F revenues," Nomura noted, meaning the bulk of DRL's American operations remain exposed to potential tariff warfare. Select products like gSuboxone are currently formulated in the US, offering limited protection.
+Also Read | Pharma stocks crack up to 5% on Trump’s 100% tariff plan; index sinks 2.5%
+Sun Pharma: Specialty Brands Under Fire
+Sun Pharma’s 37% US exposure puts $2.1-2.3 billion of its FY26 revenues at risk. The company’s Achilles heel? “Specialty brands account for 55–57% of revenues,” according to Nomura, with only 10% of US specialty revenues produced domestically.The company’s top-selling product, Ilumya, is formulated outside the US, most likely in Ireland, placing it squarely in the crosshairs of Trump’s policies. However, Nomura analysts note that “since Ilumya is a chronic therapy, Sun may be able to pass on the impact of tariffs and retain existing volumes.”
+Sun Pharma shares have already felt the impact, plunging up to 5% to a fresh 52-week low of Rs 1,547.25 on the BSE.
+Cipla: The Relative Safe Haven
+Cipla appears the least exposed, with 30% of its revenues tied to the US, estimated at $900–950 million in FY26/27. The company’s Invagen sites operating in the US contribute 25–30% of US revenues, providing some protection against tariffs."The company is expanding its US manufacturing post regulatory issues at Indian sites," providing a potential buffer against future tariff escalations.
+The Broader Impact Across Indian Pharma
+Other major players face varying degrees of exposure. Lupin's US revenues are estimated at $1.1 billion in FY26, with manufacturing sites in the US contributing around $70-80 million in revenues-roughly 6-7% of total revenues, according to the company.Zydus Lifesciences faces significant risk with US revenues estimated at $1.3 billion in FY26/27 and very limited US production. "Given the high dependence of US revenues, we expect the earnings impact can be high in case the company were to absorb the impact of tariffs," analysts noted.
+Aurobindo Pharma, the largest Indian generic company with US sales of $1.6 billion in CY2024, has three manufacturing sites in the US, though production and contribution from these sites remain limited. The company expects oral dosage form production could be scaled up to 12–15 billion units, potentially catering to a third of US sales.
+Glenmark has set up a manufacturing site in Monroe, but it currently contributes nothing, as the facility remains under a warning letter. US revenues are estimated at $393–461 million in FY26/27.
+Gland Pharma is “relatively better placed compared to other generic companies,” with US revenues of $372–393 million in FY26/27. Competition in injectables is relatively low, and the company primarily competes with Chinese players likely to face higher tariffs.
+Alkem faces potential impact, with US revenues of $336–372 million in FY26/27, largely supplied from India. “The company may be impacted if the tariff is not passed on to customers,” as it has small-scale operations and is not vertically integrated.
+Torrent Pharma has the smallest US exposure, at $141–156 million in FY26/27. “Given the small scale of operations and a lack of differentiating products, the profitability of its US operations is low,” raising questions about the sustainability of its US strategy if tariffs expand.
+ICICI Securities’ Pankaj Pandey notes that the “near-term impact of the tariffs is likely to be limited, as India mainly exports generics.” However, he adds: “Uncertainty still remains over whether complex generics and biosimilars will come under the tariff embargo in the future.”
+Trump’s exemption clause offers a lifeline – companies that have “broken ground on building a manufacturing plant in the United States” can escape the 100% duty. But for firms still wedded to Indian manufacturing, October 1 marks the start of a potential earnings bloodbath.
+As pharma shares brace for a sell-off in the days ahead, the market awaits clarity on whether Trump’s tariff crusade will expand beyond branded drugs to engulf the entire $10 billion Indian pharma export industry.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Sun Pharma, Cipla & other pharma stocks crack up to 5% as Trump announces 100% tariff on imported patented drugs 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-26T03:36:17
+Fetched : 2025-09-26T08:09:24.292224
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/cipla-sun-pharma-biocon-other-pharma-stocks-in-focus-after-trump-announces-100-tariff-on-imported-patented-drugs-from-october-1/articleshow/124143393.cms
+--------------------------------------------------------------------------------
+Sun Pharma led the losses, hitting a 52-week low of Rs 1,547, down 5% from the previous close. Biocon followed with a 3.3% decline to Rs 344, while Zydus Lifesciences slipped 2.8% to Rs 990.
+Aurobindo Pharma fell 2.4% to Rs 1,070, and Dr. Reddy’s dropped 2.3% to Rs 1,245.30. Lupin and Cipla each lost 2%, closing at Rs 1,923.30 and Rs 1,480, respectively. Torrent Pharma was the least affected, sliding 1.5% to Rs 3,480.65.
+Around 9:30 am, the Nifty Pharma index was down by 2.54%.
+Trump's Tariff Jitters
+According to Trump’s statement on his Truth Social account, starting October 1, a 100% tariff will be imposed on any branded or patented pharmaceutical product imported into the United States—unless the company is actively setting up a pharmaceutical manufacturing plant in the country.Major Indian pharmaceutical companies with significant exports to the USA include Sun Pharma, Dr. Reddy's Laboratories, Cipla, Lupin, Aurobindo Pharma, and Zydus Lifesciences.
+Other companies like Syngene, Gland Pharma, Biocon, and Piramal Pharma also derive a high percentage of their revenue from the U.S. market, primarily focusing on generics, speciality drugs, and biosimilars.
+The post outlines that the exemption will only apply if the company has “broken ground” or is “under construction” on a pharmaceutical facility in the U.S. This effectively incentivises domestic manufacturing and discourages reliance on foreign production of high-value, patent-protected drugs.
+“There will, therefore, be no Tariff on these Pharmaceutical Products if construction has started,” the post clarified, defining "IS BUILDING" as having commenced physical construction or site development.
+Also read: Maruti Suzuki becomes world’s 8th most valuable carmaker, surpasses Ford, GM and Volkswagen
+The announcement is expected to impact Indian pharmaceutical firms that currently manufacture their branded drugs overseas for the U.S. market. Investors will be closely watching stocks of companies with significant export exposure to the United States, as well as domestic drug manufacturers that may benefit from potential shifts in global supply chains.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Full Article Fetch Test - TITAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBILIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIPRULI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBICARD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCAMC
+================================================================================
+
+(no fresh items in last 48h)
+

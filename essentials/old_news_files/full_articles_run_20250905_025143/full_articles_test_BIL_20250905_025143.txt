@@ -1,0 +1,67 @@
+Full Article Fetch Test - BIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 288.73M INR
+
+Title   : Smaller Banks Tackle $395 Billion Bond Headache With Share Sales
+Source  : www.livemint.com
+Published: 2025-09-04T18:41:59
+Fetched : 2025-09-05T03:00:06.721452
+URL     : https://www.livemint.com/companies/news/smaller-banks-tackle-395-billion-bond-headache-with-share-sales-11757011320284.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Regional and community lenders are turning to stock sales to help them shore up their low-yielding bond portfolios, as the US banking sector grapples with $395 billion in unrealized losses.
+At least three regional banks have sold stock in the past month ahead of revamping their balance sheets as the lenders look to partly fund buying new bonds to improve lackluster portfolio returns. Investment bankers expect more deals to follow.
+The need for these repositioning transactions was exposed in 2023, with the collapse of a clutch of smaller banks including SVB Financial Group. Many of the bonds these lenders are holding were issued when rates were ultra-low, and yielded 2% or less. When rate hikes ramped up in 2022, the bonds’ value fell, leaving less of a cushion in case they needed to be sold in times of stress – as SVB found out.
+Imminent interest rate cuts from the Federal Reserve are only adding urgency for the group to capture higher yields.
+Read the QuickTake: The Search for Lessons From Another US Banking Crisis
+Today, regional lenders are in demonstrably better shape than they were in 2023 with a KBW gauge of shares up more than 50% from the depths of the SVB crisis, though the gains trail the rally in bigger banks. That’s given smaller lenders extra incentive to deal with the issue, and investors are more comfortable with the transactions, suggesting the trend has room to run.
+Though only undertaken once the equity is raised, such balance sheet revamps involve these banks selling most of the underwater and low-yielding bonds sitting on their balance sheets. The proceeds from both the stock sale and from selling the bonds can be used to buy new bonds at much higher yields and to repay other debt.
+One recent example is Indiana-based Horizon Bancorp Inc., which raised $103.5 million of equity from an overnight stock sale in August to help cover losses from the sale of $1.4 billion of low-yielding securities. Arkansas’ Simmons First National Corp. raised $300.1 million from a similar deal in July.
+Investors were not scared of these transactions, said Scott Hildenbrand, Piper Sandler’s chief balance sheet strategist.
+“Investors want to see what you are going to do next, now you have real live balance sheet,” Hildenbrand said, adding that the moves could even be a stepping stone to bigger plans such as mergers and acquisitions.
+“This is step one. Clear the house and then do an addition.”
+Making Progress
+Banks are making a solid dent in a problem. Unrealized losses on available-for-sale and held-to-maturity securities across the 4,421 banks and savings institutions insured by the Federal Deposit Insurance Corp. stood at $395.3 billion as of June 30, down by $117.6 billion or about 23% from the same time last year, according to a statement.
+“The market has seen enough of these that they are not overly surprised — if something comes it is not necessarily a shock to the market,” said Chris McGratty, Keefe, Bruyette & Woods’ head of US bank research.
+Logging Losses
+The downside is that the banks crystallize the loss on bonds. Yet the extra income from higher yields of 4% or 5% on the replacement bonds, versus 2% or less on the old bonds, typically delivers a boost to return on equity and earnings per share.
+Avidbank Holdings Inc. raised $60 million from an initial public offering last month to fund a repositioning involving the sale of about $280 million of debt securities. Though the San Jose-based bank took an estimated loss of $64.5 million on the sale, it reinvested the proceeds both from the bonds and the IPO in debt securities yielding 4.75% to 5.5%.
+There will be more of these deals, according to Umrai Gill, managing director, financial institutions group at Performance Trust Capital Partners, which worked on Horizon Bancorp’s stock sale.
+“Our purpose is to really champion the community banks so they continue to build value and stay healthy and do things the big banks can’t do,” Gill said in an interview. “They play a super important role.”
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Title   : AI Data Centers Near Tax Break With $165 Billion of Phantom Debt
+Source  : www.livemint.com
+Published: 2025-09-04T16:55:02
+Fetched : 2025-09-05T03:00:06.721452
+URL     : https://www.livemint.com/companies/company-results/ai-data-centers-near-tax-break-with-165-billion-of-phantom-debt-11757004903500.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Doña Ana County in New Mexico is the furthest thing from a tech hub.
+Located near the US Southern border in the Chihuahuan Desert, the region is known for its chile pepper farms and New Mexico State University. Now, county officials are trying to capitalize on the artificial intelligence boom by considering a $165 billion debt package and a sweeping set of tax incentives to become home to a data center campus.
+Doña Ana County commissioners voted four to one last week to advance a resolution that would provide tax breaks to the backer of a massive development dubbed Project Jupiter. The plan calls for four AI-oriented data centers as well as power generation, battery storage and micro-grid facilities near Santa Teresa, New Mexico.
+The proposal isn’t a real obligation of the county. Instead, it’s a way for local governments in New Mexico to give tax subsidies to corporations. The bonds also wouldn’t be sold to debt investors, instead they would be purchased by an an affiliate or parent of the company, according to a county resolution. The projects will be self-funded, it noted.
+BorderPlex Digital Assets, an Austin-based firm, is facilitating the development in partnership with STACK Infrastructure, a data-center operator owned by Blue Owl Capital, which is constructing the facilities. After the data centers are built, STACK typically leases out the capacity to technology companies.
+Through the transaction, Doña Ana County will acquire the data-center campus, leasing it back to the company for the term of the bonds. The corporation will then acquire the project when the debt matures, which is a maximum of 30 years.
+Because the county will own the land, it is exempt from property taxes, Christopher Muirhead, a lawyer on the deal, said during an Aug. 26 commission meeting.
+The deal — known as an industrial revenue bond — also allows the purchase of data-center equipment to be free from state sales levies. The $165 billion represents the total amount of investment in the project and was calculated by the company in their bond application, Muirhead said in an interview.
+“This is critical, it is not a debt of Doña Ana County,” Muirhead said. “This large number — $165 billion — is not a debt of the county, it is not money the county is providing the company, it is not an obligation the county will ever be asked to repay.”
+Public hearings on the transaction are set for later this month, when commissioners will take final votes on the ordinances. If approved, construction is expected to begin this year.
+In return for the break, the company will pay $300 million to the county in payments-in-lieu-of-taxes — known as PILOTs — over time. It’s estimated the project will create roughly 2,500 construction jobs and 750 permanent positions, according to BorderPlex’s presentation to the county.
+BorderPlex projects $5 billion in construction spending over the next decade, New Mexico Governor Michelle Lujan Grisham said in a February release.
+The project will be privately financed with no risk to taxpayers, according to an Aug. 28 statement from STACK. A spokesperson for BorderPlex declined to comment, referring further comments to the STACK release. A spokesperson for STACK declined to comment.
+A popular economic development tool, more than 100 series of such industrial revenue bonds have been issued in New Mexico since the 1980s to support companies including Meta Platforms, Inc., Intel Corp. and Walmart Inc., according to a 2018 report from a law firm based in Albuquerque.
+The surge in demand for AI has touched off a expansion of data centers that house the semiconductors necessary to build, grow and run the systems. ChatGPT creator OpenAI alone is expecting to drop trillions of dollars on infrastructure in the coming years. Such a quick-growing industry caused a frenzy among states and local governments for the developments, shelling out tax incentives to lure new projects.
+It also provoked a backlash over corporate subsidies and the enormous resources required to power and cool the sprawling facilities. Data centers typically employ fewer people than a factory, making the economic trade-off less rosy compared to the construction of a manufacturing plant.
+In Doña Ana, residents pressed commissioners on how the project might strain already-limited water supplies and cut into revenues for schools and infrastructure. Project Jupiter’s data centers will be designed with a cooling system designed to minimize water use, STACK said.
+Supporters of the deal contend that Project Jupiter will position the county as a leader in advanced computing.
+“By securing digital infrastructure today, New Mexico is investing in its economy to build a more prosperous tomorrow,” Governor Lujan Grisham said in February.
+--With assistance from Lynn Doan, Dina Bass and Brody Ford.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesCompany ResultsAI Data Centers Near Tax Break With $165 Billion of Phantom Debt
+

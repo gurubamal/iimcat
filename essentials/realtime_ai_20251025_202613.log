@@ -1,0 +1,222 @@
+2025-10-25 20:26:14,132 - INFO - AI provider configured: Heuristic
+2025-10-25 20:26:14,656 - INFO - ✅ Frontier AI components loaded
+2025-10-25 20:26:14,656 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-25 20:26:14,656 - INFO - 🚀 Starting real-time collection + analysis for 21 tickers
+2025-10-25 20:26:14,656 - INFO -    Time window: 48 hours
+2025-10-25 20:26:14,657 - INFO -    Max articles per ticker: 10
+2025-10-25 20:26:14,657 - INFO - [1/21] Processing RELIANCE...
+2025-10-25 20:26:14,658 - INFO - 📰 Fetching news for RELIANCE (last 48h)
+2025-10-25 20:26:21,079 - INFO - ✅ Found 7 recent articles for RELIANCE
+2025-10-25 20:26:21,079 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,080 - INFO -    Headline: FIIs pull back, LIC and retail step in: Reliance Q2 shareholding pattern reveals...
+2025-10-25 20:26:21,080 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,086 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,087 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,087 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,088 - INFO -    Headline: Facebook to hold 30% in Reliance’s AI venture; both companies to jointly invest ...
+2025-10-25 20:26:21,088 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,089 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,089 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,089 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,089 - INFO -    Headline: We will comply with guidance from Indian government, EU: RIL on sanctions...
+2025-10-25 20:26:21,089 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,089 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,089 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,089 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,089 - INFO -    Headline: Reliance partners with Meta's Facebook to develop AI services, plans to set up 7...
+2025-10-25 20:26:21,089 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,090 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,092 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,092 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,092 - INFO -    Headline: Jury is out on how big a hole will Russian oil leave in Reliance's margins...
+2025-10-25 20:26:21,093 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,094 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,094 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,094 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,094 - INFO -    Headline: Reliance Industries says assessing implications of EU, UK, and US curbs on Russi...
+2025-10-25 20:26:21,094 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,095 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,095 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,095 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-25 20:26:21,095 - INFO -    Headline: Elon Musk pleads with Tesla investors to approve his $1 trillion pay package, bl...
+2025-10-25 20:26:21,096 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-25 20:26:21,097 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:21,097 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:21,097 - INFO - [2/21] Processing TCS...
+2025-10-25 20:26:21,097 - INFO - 📰 Fetching news for TCS (last 48h)
+2025-10-25 20:26:24,695 - INFO - ℹ️  No recent news for TCS
+2025-10-25 20:26:24,696 - INFO - [3/21] Processing HDFCBANK...
+2025-10-25 20:26:24,696 - INFO - 📰 Fetching news for HDFCBANK (last 48h)
+2025-10-25 20:26:28,151 - INFO - ℹ️  No recent news for HDFCBANK
+2025-10-25 20:26:28,151 - INFO - [4/21] Processing ICICIBANK...
+2025-10-25 20:26:28,151 - INFO - 📰 Fetching news for ICICIBANK (last 48h)
+2025-10-25 20:26:31,729 - INFO - ℹ️  No recent news for ICICIBANK
+2025-10-25 20:26:31,729 - INFO - [5/21] Processing INFY...
+2025-10-25 20:26:31,729 - INFO - 📰 Fetching news for INFY (last 48h)
+2025-10-25 20:26:35,499 - INFO - ℹ️  No recent news for INFY
+2025-10-25 20:26:35,500 - INFO - [6/21] Processing ITC...
+2025-10-25 20:26:35,500 - INFO - 📰 Fetching news for ITC (last 48h)
+2025-10-25 20:26:39,015 - INFO - ℹ️  No recent news for ITC
+2025-10-25 20:26:39,016 - INFO - [7/21] Processing SBIN...
+2025-10-25 20:26:39,016 - INFO - 📰 Fetching news for SBIN (last 48h)
+2025-10-25 20:26:42,457 - INFO - ℹ️  No recent news for SBIN
+2025-10-25 20:26:42,457 - INFO - [8/21] Processing BHARTIARTL...
+2025-10-25 20:26:42,458 - INFO - 📰 Fetching news for BHARTIARTL (last 48h)
+2025-10-25 20:26:45,697 - INFO - ℹ️  No recent news for BHARTIARTL
+2025-10-25 20:26:45,697 - INFO - [9/21] Processing MARUTI...
+2025-10-25 20:26:45,697 - INFO - 📰 Fetching news for MARUTI (last 48h)
+2025-10-25 20:26:49,151 - INFO - ✅ Found 1 recent articles for MARUTI
+2025-10-25 20:26:49,151 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-25 20:26:49,151 - INFO -    Headline: Motilal Oswal sees Maruti Suzuki, Endurance Technologies as top bets in post-GST...
+2025-10-25 20:26:49,151 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-25 20:26:49,152 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:49,152 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:49,152 - INFO - [10/21] Processing WIPRO...
+2025-10-25 20:26:49,153 - INFO - 📰 Fetching news for WIPRO (last 48h)
+2025-10-25 20:26:52,333 - INFO - ℹ️  No recent news for WIPRO
+2025-10-25 20:26:52,333 - INFO - [11/21] Processing GRASIM...
+2025-10-25 20:26:52,333 - INFO - 📰 Fetching news for GRASIM (last 48h)
+2025-10-25 20:26:55,404 - INFO - ℹ️  No recent news for GRASIM
+2025-10-25 20:26:55,404 - INFO - [12/21] Processing HINDALCO...
+2025-10-25 20:26:55,404 - INFO - 📰 Fetching news for HINDALCO (last 48h)
+2025-10-25 20:26:59,176 - INFO - ✅ Found 1 recent articles for HINDALCO
+2025-10-25 20:26:59,177 - INFO - 🔍 INSTANT ANALYSIS: HINDALCO
+2025-10-25 20:26:59,177 - INFO -    Headline: Gainers & Losers: EPack Prefab, Hindalco among 5 stocks that were in limelight o...
+2025-10-25 20:26:59,177 - INFO - Using heuristic analyzer for HINDALCO (no external AI configured).
+2025-10-25 20:26:59,178 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-25 20:26:59,178 - INFO -    Recommendation: STRONG BUY
+2025-10-25 20:26:59,178 - INFO - [13/21] Processing UPL...
+2025-10-25 20:26:59,178 - INFO - 📰 Fetching news for UPL (last 48h)
+2025-10-25 20:27:02,190 - INFO - ℹ️  No recent news for UPL
+2025-10-25 20:27:02,190 - INFO - [14/21] Processing CIPLA...
+2025-10-25 20:27:02,191 - INFO - 📰 Fetching news for CIPLA (last 48h)
+2025-10-25 20:27:05,628 - INFO - ℹ️  No recent news for CIPLA
+2025-10-25 20:27:05,628 - INFO - [15/21] Processing TITAN...
+2025-10-25 20:27:05,628 - INFO - 📰 Fetching news for TITAN (last 48h)
+2025-10-25 20:27:08,722 - INFO - ℹ️  No recent news for TITAN
+2025-10-25 20:27:08,722 - INFO - [16/21] Processing HDFCLIFE...
+2025-10-25 20:27:08,722 - INFO - 📰 Fetching news for HDFCLIFE (last 48h)
+2025-10-25 20:27:12,173 - INFO - ℹ️  No recent news for HDFCLIFE
+2025-10-25 20:27:12,173 - INFO - [17/21] Processing SBILIFE...
+2025-10-25 20:27:12,173 - INFO - 📰 Fetching news for SBILIFE (last 48h)
+2025-10-25 20:27:15,746 - INFO - ℹ️  No recent news for SBILIFE
+2025-10-25 20:27:15,746 - INFO - [18/21] Processing ICICIGI...
+2025-10-25 20:27:15,746 - INFO - 📰 Fetching news for ICICIGI (last 48h)
+2025-10-25 20:27:19,170 - INFO - ℹ️  No recent news for ICICIGI
+2025-10-25 20:27:19,170 - INFO - [19/21] Processing ICICIPRULI...
+2025-10-25 20:27:19,170 - INFO - 📰 Fetching news for ICICIPRULI (last 48h)
+2025-10-25 20:27:22,696 - INFO - ℹ️  No recent news for ICICIPRULI
+2025-10-25 20:27:22,696 - INFO - [20/21] Processing SBICARD...
+2025-10-25 20:27:22,697 - INFO - 📰 Fetching news for SBICARD (last 48h)
+2025-10-25 20:27:25,907 - INFO - ℹ️  No recent news for SBICARD
+2025-10-25 20:27:25,907 - INFO - [21/21] Processing HDFCAMC...
+2025-10-25 20:27:25,907 - INFO - 📰 Fetching news for HDFCAMC (last 48h)
+2025-10-25 20:27:29,129 - INFO - ℹ️  No recent news for HDFCAMC
+2025-10-25 20:27:29,129 - INFO - 
+✅ Collection complete!
+2025-10-25 20:27:29,129 - INFO -    Total articles: 9
+2025-10-25 20:27:29,129 - INFO -    Successfully analyzed: 9
+2025-10-25 20:27:29,130 - INFO - ✅ Results saved to: realtime_ai_stage1_20251025_202613.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/21] Processing RELIANCE...
+   📰 Analyzing 7 article(s)...
+
+[2/21] Processing TCS...
+   ℹ️  No recent articles found
+
+[3/21] Processing HDFCBANK...
+   ℹ️  No recent articles found
+
+[4/21] Processing ICICIBANK...
+   ℹ️  No recent articles found
+
+[5/21] Processing INFY...
+   ℹ️  No recent articles found
+
+[6/21] Processing ITC...
+   ℹ️  No recent articles found
+
+[7/21] Processing SBIN...
+   ℹ️  No recent articles found
+
+[8/21] Processing BHARTIARTL...
+   ℹ️  No recent articles found
+
+[9/21] Processing MARUTI...
+   📰 Analyzing 1 article(s)...
+
+[10/21] Processing WIPRO...
+   ℹ️  No recent articles found
+
+[11/21] Processing GRASIM...
+   ℹ️  No recent articles found
+
+[12/21] Processing HINDALCO...
+   📰 Analyzing 1 article(s)...
+
+[13/21] Processing UPL...
+   ℹ️  No recent articles found
+
+[14/21] Processing CIPLA...
+   ℹ️  No recent articles found
+
+[15/21] Processing TITAN...
+   ℹ️  No recent articles found
+
+[16/21] Processing HDFCLIFE...
+   ℹ️  No recent articles found
+
+[17/21] Processing SBILIFE...
+   ℹ️  No recent articles found
+
+[18/21] Processing ICICIGI...
+   ℹ️  No recent articles found
+
+[19/21] Processing ICICIPRULI...
+   ℹ️  No recent articles found
+
+[20/21] Processing SBICARD...
+   ℹ️  No recent articles found
+
+[21/21] Processing HDFCAMC...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 99.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 7
+
+2. MARUTI - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+3. HINDALCO - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 9
+   Results saved: realtime_ai_stage1_20251025_202613.csv

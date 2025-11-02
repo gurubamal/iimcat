@@ -1,0 +1,45 @@
+Full Article Fetch Test - MRF
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : MRF, TVS Motor among 8 stocks that hit 52-week highs, rallied up to 40% in a month 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-02T12:52:55
+Fetched : 2025-09-03T02:36:24.413098
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/mrf-tvs-motor-among-8-stocks-that-hit-52-week-highs-rallied-up-to-40-in-a-month/slideshow/123658164.cms
+--------------------------------------------------------------------------------
+On Tuesday, the benchmark Sensex declined by approximately 206 points, closing at 80,158. Despite the overall market downturn, eight stocks from the BSE 500 index reached their 52-week highs, marking their highest levels in the past year. Such breakouts are typically viewed by traders and investors as bullish signals, indicating strong upward momentum and the possibility of further gains.
+ETMarkets.com
+2/9
+HBL Engineering
+New 52-week high: Rs 864.85| CMP: Rs 853.7. In the last one month stock has gained about 42%.
+ETMarkets.com
+3/9
+UNO Minda
+New 52-week high: Rs 1322.85| CMP: Rs 1302.1. In the last one month stock has gained about 25%.
+ETMarkets.com
+4/9
+Star Cement
+New 52-week high: Rs 308.1| CMP: Rs 296.8. In the last one month stock has gained about 22%.
+ETMarkets.com
+5/9
+TVS Motor Company
+New 52-week high: Rs 3395.2| CMP: Rs 3368.05. In the last one month stock has gained about 18%.
+ANI
+6/9
+Eicher Motors
+New 52-week high: Rs 6389.1| CMP: Rs 6342. In the last one month stock has gained about 15%.
+Agencies
+7/9
+Maharashtra Scooters
+New 52-week high: Rs 16490| CMP: Rs 16397. In the last one month stock has gained about 8%.
+ETMarkets.com
+8/9
+MRF
+New 52-week high: Rs 154860| CMP: Rs 153943.9. In the last one month stock has gained about 5%.
+ETMarkets.com
+9/9
+Bosch
+New 52-week high: Rs 41550| CMP: Rs 41160. In the last one month stock has gained about 2%.
+

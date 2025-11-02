@@ -1,0 +1,442 @@
+Full Article Fetch Test - TECH
+================================================================================
+
+Title   : Tech Mahindra Q2 Preview: PAT may jump up to 20% QoQ, 4% revenue uptick seen on steady BFSI and retail. 5 things to track 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T09:21:20
+Fetched : 2025-10-14T12:41:10.402911
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q2-preview-pat-may-jump-up-to-20-qoq-4-revenue-uptick-seen-on-steady-bfsi-and-retail-5-things-to-track/articleshow/124548631.cms
+--------------------------------------------------------------------------------
+Meanwhile, the revenue from operations could grow between 2.3% to 3.7% on a quarter-on-quarter basis while rising 2.6%-4% on a YoY basis. The topline range is seen at Rs 13,661 crore to Rs 13,846 crore.
+The estimates of Nomura, Nuvama Institutional Equities, Axis Securities and HDFC Securities are taken into account.
+The highest PAT estimate is given by Nomura while HDFC Securities remains most modest in the pack even as it estimates a YoY decline in Tech Mahindra’s net profit. Meanwhile, the Japanese brokerage remains most conservative in its revenue estimates while Axis is most bullish.
+Tech Mahindra will announce its July-September quarter earnings on Tuesday after market hours. Here’s what brokerages expect from the company:
+5 key things to watch out:
+1. PAT
+Brokerages foresee a solid recovery in profitability sequentially, led by margin expansion and higher deal conversions.
+– Nomura expects net profit at Rs 1,363 crore, up 9% YoY and 19.5% QoQ
+– Nuvama estimates PAT at Rs 1,338 crore, rising 7.1% YoY and 17.3% QoQ, supported by improved operational performance.
+– Axis Securities projects profit at Rs 1,279 crore, an increase of 1.7% YoY and 13.4% QoQ
+– HDFC Securities, however, pegs PAT lower at Rs 1,270 crore, down 5.5% YoY but still up 11.4% QoQ.
+Overall, consensus points to double-digit sequential growth in the bottom line after several muted quarters.
+2. Revenue
+Revenue growth is expected to remain modest as the company navigates a still-challenging demand environment.
+– Nomura forecasts revenue at Rs 13,661 crore, up 2.3% QoQ and 2.6% YoY, led by both the communications and enterprise verticals.
+– Nuvama expects revenue to rise 3.2% QoQ and 3.5% YoY to Rs 13,773 crore, while Axis Securities estimates Rs 13,846 crore, indicating 3.7% sequential growth.
+– Axis Securities pegs Q2 topline at Rs 13,846 crore up 4% YoY and up 3.7% QoQ
+– HDFC Securities projects a similar trajectory at Rs 13,740 crore, reflecting a 3.2% YoY growth and 2.9% QoQ rise.
+The ramp-up of large deals in BFSI, retail, and communications is seen driving this steady top-line performance.
+3. EBIT
+Brokerages expect a strong improvement in Earnings Before Interest and Taxes (EBIT), supported by higher utilisation and productivity gains.
+Nuvama pegs EBIT at Rs 1,623 crore, up 9.9% QoQ and 26.7% YoY, the most optimistic among peers.
+Axis Securities expects EBIT at Rs 1,604 crore, an 8.6% QoQ and 25.3% YoY increase.
+HDFC Securities projects EBIT at Rs 1,574 crore, up 22.9% YoY and 6.5% QoQ, while Nomura expects margins to expand by 40 bps sequentially.
+This rebound reflects ongoing restructuring efforts and a focus on operational efficiency.
+4. Margins
+A broad-based recovery in margins is expected as cost controls and restructuring benefits start to reflect in Q2.
+Nuvama forecasts the highest EBIT margin at 11.8%, up 70 bps QoQ and 220 bps YoY.
+Axis Securities and HDFC Securities see margins at 11.6–11.5%, rising between 40–50 bps QoQ.
+Nomura expects margins to improve 40 bps QoQ to 11.5%.
+Most brokerages expect Tech Mahindra to maintain its FY27 EBIT margin guidance of 15%, underpinned by structural cost savings.
+5. Key monitorables
+Analysts will closely track management commentary on the demand trends in the BFSI and telecom verticals.
+Large deal wins and visibility in the deal pipeline will be a thing closely watched by Japanese brokerage Nomura, which expects net new deal wins of $600–800 million.
+Progress on cost optimisation initiatives and FY27 margin roadmap and client spending patterns amid global macro uncertainty and outlook for the enterprise business will be another top monitorable for the markets.
+(Disclaimer: The recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times.)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : KEC order wins, Tata Motors demerger, and HCL Tech’s AI momentum key to watch: Pankaj Pandey 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T07:14:16
+Fetched : 2025-10-14T12:41:10.403134
+URL     : https://economictimes.indiatimes.com/markets/expert-view/kec-order-wins-tata-motors-demerger-and-hcl-techs-ai-momentum-key-to-watch-pankaj-pandey/articleshow/124546523.cms
+--------------------------------------------------------------------------------
+KEC International order inflows signal sector strength
+Engineering major KEC International has bagged fresh orders worth nearly Rs 14,000 crore so far this financial year — about 50% of its annual guidance of Rs 28,000–30,000 crore. Pandey said this performance reflects continued momentum in the transmission and distribution (T&D) segment, which remains one of the most promising themes within the infrastructure space.“We like the entire T&D segment — both KEC International and Kalpataru Power look strong. The execution momentum is picking up, and we expect margin expansion over the next one to two years,” Pandey said.
+He added that while the power generation story often takes the spotlight, power transmission and distribution will likely emerge as a key growth driver due to strong execution visibility and government capex push.
+HCL Technologies shows improvement, but valuations cap upside
+Commenting on the latest HCL Technologies earnings, Pandey said the numbers were broadly encouraging with signs of improvement across verticals. The company’s AI monetization, though still small at about 3% of revenue, is a step in the right direction.However, he noted that valuations are rich, limiting near-term upside.
+“HCL Tech’s valuations are now similar to Infosys and TCS, which means it needs stronger earnings growth to justify further re-rating,” he said.
+“TCS is already commanding a premium due to its pivot toward data centres, while HCL’s numbers need to improve more meaningfully.”
+Pandey cautioned that while valuation multiples for Indian IT are near the lower end of their four-year range, the overall macro environment remains challenging, particularly given rising protectionist policies in global markets and subdued discretionary tech spending.
+“Until the global AI boom cools off, we don’t expect Indian IT stocks to deliver strong price performance,” he said.
+Tata Motors demerger could unlock value for investors
+On Tata Motors, which officially demerged its Passenger Vehicle (PV) and Commercial Vehicle (CV) businesses this week, Pandey said the vertical split is likely to create significant value for shareholders.“We are expecting Rs 300 per share for the CV business, based on 11x FY27 EV/EBITDA multiples, in line with peers,” he said.
+“The PV business could trade between ₹450–500, supported by strong growth visibility and the brand’s leadership in the electric vehicle segment.”
+Pandey added that the sum-of-the-parts valuation of the two independent businesses implies overall value creation, making Tata Motors one of the more anticipated demergers in recent years.
+“Both PV and CV businesses have different growth trajectories, so the split allows investors to play each theme independently,” he said.
+LG Balakrishnan listing to draw investor interest
+On the debut of LG Balakrishnan & Bros (LG) in the secondary market, Pandey said the listing is expected to see a positive pop, backed by a strong grey market premium.Brokerages have pegged the fair value between ₹1,750 and ₹1,800, compared to the IPO pricing of ₹1,500, which was seen as reasonable.
+“The IPO was attractively priced at 37x trailing 12-month earnings, and this is the first time in a long while that a sector leader is being listed,” Pandey noted.
+“The company’s strong market share across categories justifies a valuation premium, though we’ll need to see post-listing performance before assigning a definitive multiple.”
+Stock-specific action to dominate ahead
+Pandey expects stock-specific opportunities to dominate in the near term, with sectors like infrastructure, select auto, and utilities likely to outperform.He maintained that earnings recovery in IT, while encouraging, will take a few more quarters to translate into sustained market performance.
+“While the broader market remains range-bound, focused plays in power T&D, order-heavy EPC companies, and value-unlocking stories like Tata Motors are worth tracking,” he said.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : KFin Technologies acquires majority stake in Ascent Fund Services for $35 million 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T08:02:22
+Fetched : 2025-10-14T12:41:10.403274
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/kfin-technologies-acquires-majority-stake-in-ascent-fund-services-for-35-million/article70161697.ece
+--------------------------------------------------------------------------------
+KFin Technologies has completed the acquisition of a 51 per cent controlling stake in Singapore-based Ascent Fund Services for $34.68 million, marking its entry into the global fund administration industry. The deal, announced today, positions KFintech as the sole promoter of Ascent, one of the fastest-growing fund administrators globally.
+Ascent reported revenues of $17.5 million for the fiscal year ending July 2025, with assets under administration of $26 billion across 18 geographies, serving over 640 alternative investment funds. The acquisition increases KFintech’s global fund administration assets to approximately $340 billion as of September 2025, while raising the proportion of international business in overall revenue from 5 per cent to over 16 per cent.
+The transaction brings over 250 domain experts into the KFintech group, which now operates from more than 230 offices across 15 countries, with over 6,700 employees. The remaining 49 per cent stake will be acquired in three equal tranches after fiscal years 2028, 2029, and 2030, subject to EBITDA milestones.
+The investment has been funded entirely through internal accruals without impacting the company’s dividend policy or debt position. KFintech Managing Director Sreekanth Nadella said the combined entity targets international business revenues to exceed 25 per cent of the overall book in the near term. The integrated model will leverage India and Malaysia as centres of excellence for technology transformation and operational efficiency.
+The shares of Kfin Technologies Ltd were trading at ₹1,115.60 down by ₹28.20 or 2.47 per cent on the NSE today at 12.45 pm.
+Published on October 14, 2025
+
+Title   : Q2 Results Live Today: BoM, Persistent Systems, ICICI Prudential & IREDA Q2 profit up, Aditya Birla Money profit declines, Tech Mahindra, ICICIGI to announce Q2 results
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T03:10:27
+Fetched : 2025-10-14T12:41:10.403329
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/q2-results-live-updates-tech-mahindra-icicigi-automobile-corp-of-goa-persistent-systems-bank-of-maharashtra-ireda-leela-palaces-cyient-dlm-hcl-tech-anand-rathi-just-dial-14-october-2025/article70158345.ece
+--------------------------------------------------------------------------------
+Q2 Results October 14, 2025 live updates: Find all the latest Q2 results 2025 updates of Tech Mahindra, ICICI Lombard General Insurance Company, Automobile Corp of Goa, Persistent Systems, Bank of Maharashtra, Indian Renewable Energy Development Agency, Leela Palaces Hotels & Resorts, ICICI Prudential Life Insurance Company, Thyrocare Technologies, Cyient DLM, Navkar Corporation, GTPL Hathway, Aditya Birla Money, Rama Phosphates, Infollion Research Services, International Travel House, BITS, Damodar Industries, Infomedia Press, Sulabh Engineers & Services, Darshan Orna and Pan India Corporation.
+- October 14, 2025 17:08
+Q2 results live today: Leela Palaces, Hotels and Resorts reports consolidated net profit of ₹74.72 crore for September quarter
+- October 14, 2025 16:32
+Thyrocare Technologies Q2 results live:
+Thyrocare Technologies’ standalone net profit for the quarter ended September 2025 stood at ₹43.04 crore as against ₹29.59 crore in the same quarter last year.
+Board approved an interim dividend of ₹6 per share.
+Board also approved the issuance of bonus shares in the ratio of 2:1.
+- October 14, 2025 16:29
+Bank of Maharashtra Q2 Results live: profit rises 23% to ₹1,633 crore
+Public sector lender Bank of Maharashtra on Tuesday reported a 23 per cent growth in its standalone net profit to ₹1,633 crore in the September quarter of the current fiscal (FY26), driven by a decline in bad loans and a rise in interest income.
+- October 14, 2025 16:28
+Cyient DLM Q2 results live:
+Cyient DLM reported consolidated net profit for the quarter ended September 2025 at ₹32.1 crore as against ₹15.4 crore in the corresponding quarter last year.
+- October 14, 2025 15:54
+Persistent Systems Q2 results live: Q2 profit at ₹471.5 cr
+Persistent Systems reported consolidated net profit for the quarter ended September 2025 at ₹471.5 crore as against ₹324.99 crore in the corresponding quarter last year.
+- October 14, 2025 15:39
+Stock market live: Sensex, Nifty end in red
+Sensex ended 297.07 pts or 0.36% lower at 82,029.98, and Nifty 50 declined by 81.85 pts or 0.32% to 25,145.50.
+- October 14, 2025 15:21
+BoM Q2 results live: Key highlights
+➢ Total Business grew by 14.20% to ₹ 5,63,909 crore.
+➢ Total Deposits increased by 12.13% to ₹ 3,09,791 crore.
+➢ Gross Advances increased by 16.83% to ₹ 2,54,118 crore.
+➢ Credit - Deposit (CD) Ratio improved to 82.03%.
+➢ Gross NPA declined to 1.72% as on 30.09.2025.
+➢ Net NPA declined to 0.18% as on 30.09.2025.
+➢ Provision Coverage Ratio stood at 98.34%.
+➢ Net Profit increased by 23.09% to ₹ 1,633 crore.
+➢ Operating profit grew by 16.91% to ₹ 2,574 crore.
+➢ Net Interest Income increased by 15.71% to ₹ 3,248 crore.
+➢ Net Interest Margin (NIM) stood at 3.85%.
+➢ Cost to Income Ratio improved to 37.10%.
+➢ Return on Assets (ROA) improved to 1.82%.
+➢ Return on Equity (ROE) stood at 22.58%.
+➢ CRAR improved to 18.13% of which Tier I is 14.96%.
+- October 14, 2025 14:58
+Bank of Maharashtra Q2 results live: Q2 profit up
+Bank of Maharashtra reported consolidated net profit for the quarter ended September 2025 at ₹1668.61 crore as against ₹1332.77 crore in the corresponding quarter previous year.
+- October 14, 2025 14:56
+Navkar Corporation Q2 results live:
+Navkar Corporation reported net profit for the quarter ended September 2025 at ₹4.35 crore as against ₹2.29 crore loss in the corresponding quarter last year.
+- October 14, 2025 14:52
+Aditya Birla Money Q2 results live: Q2 profit declines
+Aditya Birla Money’s profit for the quarter ended September 2025 declined to ₹10.14 crore as against ₹26.68 crore in the corresponding quarter last year.
+- October 14, 2025 14:49
+Leela Palaces Hotels & Resorts Q2 results live:
+Leela Palaces Hotels & Resorts reported consolidated net profit for the quarter ended September 2025 at ₹74.72 crore as against ₹51.17 crore loss in the corresponding quarter last year.
+Board has approved the investment of funds in Aries Holdings (DIFC) Limited, a wholly owned subsidiary of the Company incorporated outside India.
+Shares flat on the NSE at ₹462.
+- October 14, 2025 14:22
+Q2 results live: HDFC Securities Bullish on Cement Sector, Sees Demand Recovery from H2FY26E
+HDFC Securities on Q2 cement sector performance: The brokerage believes cement demand will accelerate from the second half of FY26E, aided by a potential GST rate cut that could boost retail consumption, following subdued offtake in FY25. Cement prices are expected to remain stable quarter-on-quarter in Q3, while margins are likely to rise in Q4FY26 as utilization increases.
+Fuel costs are anticipated to stay low, and combined with a rising share of low-cost green energy and ongoing logistics improvements, this could further support margin recovery in FY26–28E. HDFC Securities has introduced FY28E estimates in its report, projecting average net sales realization (NSR) growth of 3%, 1%, and 1% in FY26, FY27, and FY28E, respectively. The brokerage notes that industry consolidation should help maintain stable to higher realizations from FY26E onward.
+Unit operating expenses are expected to decline by 2% and 1% year-on-year in FY26 and FY27E, and remain flat in FY28E, driven by all-round cost efficiencies. This is projected to expand unit EBITDA by approximately INR 110/120/50 per MT in FY26/27/28E, reaching ~INR 1,200/MT by FY28E. Based on these assumptions, HDFC Securities remains positive on the sector, supporting current valuations.
+- October 14, 2025 14:18
+ICICI Prudential Q2 results live: Financial metrics
+(Investor presentation)
+- October 14, 2025 14:00
+ICICI Prudential Life Insurance Company Q2 results live:
+ICICI Prudential Life Insurance Company reported consolidated net profit for the quarter ended September 2025 at ₹295.83 crore as against ₹250.99 crore in the corresponding quarter last year.
+Shares up 1% on the NSE to Rs 600.55.
+- October 14, 2025 13:15
+IREDA Q2 results live: Company posts 42% rise in Q2 profit on clean energy loans growth - Reuters
+The Indian Renewable Energy Development Agency on Tuesday posted a 42% growth in its second quarter profit, helped by robust green lending growth.
+- October 14, 2025 12:56
+IREDA Q2 results live: Asset quality
+(Investor presentation)
+- October 14, 2025 12:37
+Q2 results live: Key results to watch out for the day
+Q2FY26 EARNING CALENDAR 14.10.2025
+ACGL, BIRLAMONEY, CYIENTDLM, GTPL, IREDA ICICIGI, ICICIPRULI, MAHABANK, NAVKARCORP, PERSISTENT, TECHM, THELEELA, THYROCARE
+ICICIGI YoY
+* GPW expected at Rs 7300 crore versus Rs 6948 crore
+* EBIT expected to be seen at Rs 764 crore versus Rs 968 crore
+* EBIT margin expected to be seen at 13.32% versus 16.55%
+* Net profit expected to be seen at Rs 790 crore versus Rs 694 crore
+ICICIPRULI YoY
+* APE expected at Rs 2475 crore versus Rs 2504 crore
+* EBIT expected to be seen at Rs 441 crore versus Rs 221 crore
+* EBIT margin expected to be seen at 3.56% versus 2.06%
+* Net profit expected to be seen at Rs 238 crore versus Rs 251 crore
+PERSISTENT YoY
+* Revenue expected at Rs 3511 crore versus Rs 2897 crore
+* EBITDA expected to be seen at Rs 640 crore versus Rs 480 crore
+* EBITDA margin expected to be seen at 18.24% versus 16.59%
+* Net profit expected to be seen at Rs 440 crore versus Rs 325 crore
+TECHM QoQ
+* Revenue expected at Rs 13716 crore versus Rs 13351 crore
+* EBIT expected to be seen at Rs 1605 crore versus Rs 1477 crore
+* EBIT margin expected to be seen at 11.70% versus 11.06%
+* Net Profit expected to be seen at Rs 1286 crore versus Rs 1140 crore
+Q2FY26 EARNING CALENDAR 15.10.2025
+ADOR, AMAL, AXISBANK, DELTACORP, HATHWAY, HDBFS, HDFCAMC, HDFCLIFE, HERITGFOOD, HUHTAMAKI, IRFC, KEI, KKCL, LTF, MRPL, NETWORK18, NUVOCO, OBEROIRLTY, QUICKHEAL, RIIL, ROSSARI, TATACOMM, TIPSMUSIC
+AXISBANK QoQ
+* NII expected at Rs 13180 crore versus Rs 13559 crore
+* EBIT expected to be seen at Rs 10691 crore versus Rs 11515 crore
+* EBIT margin expected to be seen at 66.50% versus 84.92%
+* Net profit expected to be seen at Rs 5850 crore versus Rs 5806 crore
+HDFCAMC YoY
+* Revenue expected at Rs 1027 crore versus Rs 887 crore
+* EBIT expected to be seen at Rs 789 crore versus Rs 689 crore
+* EBIT margin expected to be seen at 76.88% versus 77.74%
+* Net profit expected to be seen at Rs 657 crore versus Rs 576 crore
+HDFCLIFE YoY
+* GPW expected at Rs 19163 crore versus Rs 16934 crore
+* EBIT expected to be seen at Rs 665 crore versus Rs 437 crore
+* EBIT margin expected to be seen at 3.61% versus 1.53%
+* Net profit expected to be seen at Rs 484 crore versus Rs 435 crore
+KEI YoY
+* Revenue expected at Rs 2732 crore versus Rs 2279 crore
+* EBITDA expected to be seen at Rs 281 crore versus Rs 220 crore
+* EBITDA margin expected to be seen at 10.30% versus 9.67%
+* Net profit expected to be seen at Rs 204 crore versus Rs 154 crore.
+LTF YoY
+* NII expected at Rs 2321 crore versus Rs 2178 crore
+* EBIT expected to be seen at Rs 1661 crore versus Rs 1490 crore
+* EBIT margin expected to be seen at 61.54% versus 58.49%
+* Net profit expected to be seen at Rs 699 crore versus Rs 695 crore
+OBEROIRLTY YoY
+* Revenue expected at Rs 1560 crore versus Rs 1319 crore
+* EBITDA expected to be seen at Rs 951 crore versus Rs 816 crore
+* EBITDA margin expected to be seen at 61.05% versus 61.84%
+* Net profit expected to be seen at Rs 669 crore versus Rs 589 crore
+TATACOMM YoY
+* Revenue expected at Rs 6020 crore versus Rs 5767 crore
+* EBITDA expected to be seen at Rs 1210 crore versus Rs 1117 crore
+* EBITDA margin expected to be seen at 20.10% versus 19.37%
+* Net profit expected to be seen at Rs 330 crore versus Rs 184 crore
+- October 14, 2025 11:23
+Just Dial Q2 results live: Shares fall
+Just Dial shares fell 5% on the NSE to Rs 818.85 after opening at Rs 821 against the previous close of Rs 860.95.
+The company reported a 22.47 per cent decline in its consolidated net profit to Rs 119.44 crore for the second quarter ended September 2025.
+- October 14, 2025 10:18
+IREDA Q2 results live:
+Indian Renewable Energy Development Agency reported standalone net profit for the quarter ended September 2025 at ₹549 cr as against ₹387.75 crore in the year-ago period.
+- October 14, 2025 10:16
+Anand Rathi Wealth Q2 results live: Shares jump
+- October 14, 2025 10:04
+Anand Rathi Wealth Q2 results live: Shares rally 8% in early trade
+Anand Rathi Wealth shares rallied over 8% to a fresh high of ₹3,180.20, following Q2 results. At 10.02 am, the stock traded 5% higher at ₹3,085.40.
+- October 14, 2025 09:24
+HCL Tech Q2 results live: Leads Nifty 50
+HCL Tech led the gainers of the Nifty 50, following a steady Q2 performance, up 1%, trading at Rs 1,512.50 at 9:22 am after opening at Rs 1,515.40, against the previous close of Rs 1,494.70.
+- October 14, 2025 09:22
+HCL Tech Q2 Live: Brokerage recommendations
+Jefferies on HCL Tech
+Buy, TP Rs 1730
+Q2 beat estimates, with higher revenue growth & strong deal wins
+HCLT raised FY26 services growth guidance to 4-5% – highest among India’s Top 5 IT firms.
+HCLT’s infrastructure services lineage and AI strategy position it well to gain market share.
+Raise EPS est. by 1% & expect 9% EPS CAGR in FY26-28.
+Superior growth/FCF conversion will support premium valuations
+Nomura on HCL Tech
+Buy, TP Rs 1660
+2QFY26 results – strong performance on all counts
+Strong margin performance; we see normalisation of margins in FY27F
+FY26E revenue guidance for services raised at lower end to 4-5% from 3-5% earlier
+Focussing on AI through services route; intends to remain asset light
+CITI On HCL Tech
+Neutral, TP Rs 1600
+Reported a good 2Q – revenues ahead & raised lower end of services revenue guidance
+Fwd. looking indicators
+(a) Overall revenue guidance unchanged at 3-5% yoy cc; services now at 4-5% (earlier 3-5%);
+(b) Headcount +3.7% yoy
+(c) LTM TCV +13% yoy;
+(d) Mgmt. commentary – external environment unpredictable; business indicators promising
+Raise FY27E-FY28E EPS est. by 0-1%
+CLSA on HCL Tech
+O-P, TP Rs 1660
+Strong 2Q beat across revenue growth, Ebit margin and order booking.
+It revised upwards its services business revenue growth guidance to 4-5% (from 3-5%) on back of 2Q beat and good visibility for 2H on back of strong deal wins.
+For overall revenue growth though, it kept the 3-5% FY26 guidance band intact due to weakness in the software business
+Believe key to HCL’s re-rating from current levels depends on Ebit margin recovering back to 18-19% in FY27
+GS on HCL Tech
+Maintains Neutral with a target price of ₹1,620 (vs 1,530 earlier)
+Q2FY26 growth outpaced peers, with 2.4% QoQ CC revenue rise and headcount addition showing improving demand
+Share gains in key renewals suggest company-specific strength rather than broad industry momentum
+Some deal declines tied to Al productivity gains setu may weigh on sector valuations
+FY26 services growth guidance raised to 4-5%, with expectations near ~5.1%
+Nuvama on HCL Tech
+Recommendation Hold; Target Price ₹1,650, Earlier Target ₹1,630
+Valuations are on a par with TCS and Infosys, we see limited upside potential
+Sequential broad-based growth with improved margins
+Strong client interest with Al force now deployed in 47 accounts (versus 35 QoQ)
+USB on Autos
+While street thinks that GST cuts will lead to a medium-term entry-level and 2W demand revival, our analysis, past precedent & channel checks show consumers want to trade up to premium.
+Meanwhile, upcoming regulatory changes (CAFE, 2W ABS) & state government tax hikes may erode the GST cut benefits
+Prefer premiumization plays M&M, TVS & Hyundai (all Buy), while see downside risk for Hero, Bajaj (both Sell) & Maruti (Neutral)
+CLSA on Autos
+GST boost well-timed amid weak Q1 demand.
+Consumers shifting to premium models per channel checks.
+CAFE norms & ABS may dilute GST benefit.
+CLSA prefers M&M, TVS, Hyundai as premiumisation plays.
+Ambit on LG Electronics
+Initiates coverage with Buy & TP of ₹1,820.
+Exports to gain from Sri City plant expansion.
+Localisation + premiumisation to lift margins.
+GST cuts may aid growth revival.
+Motilal Oswal on LG Electronics
+Initiate with BUY rating with TP ₹1800/sh
+Expected to trade at higher multiples
+Strong RoE/RoIC of ~30%/66% by FY28E
+High OCF conversion ~74% (FY26-28E)
+Strategic localization to expand gross margins
+Focus on high-margin B2B & AMC business
+Leadership across key product categories
+Nomura on Tata Motors
+NEUTRAL | TP ₹732
+PV business ₹365/share, CV ₹367/share
+Premiumisation trend: surge in micro & compact SUV bookings
+Management targets double-digit margins in medium term
+JLR 5–7% EBIT margins may have downside risk
+CV EBIT guidance 5.4–7.5% (FY24–28)
+Nuvama on Just Dial
+Buy, TP cut to Rs 1200
+reported a weak set of Q2 with revenue at INR3.03bn (+1.8% QoQ/+6.4% YoY) in line with est.
+EDITDA margin came in at 28.7%, in line & PAT at INR1.2bn, below est.
+Paid campaigns grew +1.1% QoQ/+4.3% YoY.
+Collections reported further slippage of +7.3% QoQ/-1.9% YoY.
+Margin decreased due to higher employee cost and advertisement expense
+Tweaking FY26E/27E EPS by -5.8%/-3.9%, as cutting growth & profitability expectations in near term due to subdued growth in collections
+BOFA on September CPI
+Headline inflation at 1.5% YoY, lowest in 100 months
+Food & beverage deflation key, vegetable & pulses prices dip further
+CPI expected to stay below 4% through 2025
+No major GST cut impact seen on CPI
+Projecting two 25bps rate cuts in Dec & Feb MPC meetings
+October CPI to moderate to 0.5% YoY, series low
+UBS on India Gas Utilities
+CNG Vehicle addition trend for Sep’25 - Mixed Trend
+IGL led with 13,950 CNG vehicle additions (+22% YoY), driven by strong car & LCV demand
+MGL saw a 5% YoY decline, weak car & bus additions
+GGL reported 37% YoY growth with higher car & 3W registrations
+Overall: IGL strong momentum, MGL lags, GGL steady recovery
+UBS on Consumer Durables Trends
+GST cut boosted LED panel sales
+RAC (AC) demand weak due to unseasonal rains
+Voltas offers heavy discounts to clear AC stock
+Godrej less aggressive; undercuts Voltas by ₹2-3K
+Samsung focuses on premium panels & large fridges
+LG targets entry-level buyers with 8-10% dealer incentives
+Whirlpool passive, Haier pushing rural markets
+CLSA on India Oil & Gas Sector
+IOC, BPCL, HPCL PAT set for sharp jump on LPG subsidy reimbursement
+RIL to see steady QoQ growth; retail & Jio remain strong
+ONGC & Oil India profits rise on higher dividend income
+Gas demand up 3% QoQ
+IGL only player with margin improvement
+Macquarie on Eternal
+Maintains ‘Underperform’ With Target Price Of ₹200
+Expect Rising Competition To Dent Consensus Forecasts
+Consensus Overstates Turnaround & Sustainability Of Profits
+See Risk Of Reversal In Market Cap
+See Limited Margin Of Safety For Shares
+- October 14, 2025 08:43
+Q2 results live: Wipro may see flat revenue
+Wipro is expected to report yet another weak quarter with Q2FY26, with brokerages indicating that the IT major may see a revenue decline of 0.3 per cent QoQ in CC & flattish growth in USD terms due to weakness in the Capco business and the retail segment.
+- October 14, 2025 08:42
+HCLTech Q2 results live: Records steady Q2 performance amid auto sector slowdown; AI, new bookings drive growth
+HCLTech posted a flat consolidated net profit of ₹4,235 crore for the quarter ended September 2025, unchanged from the same period last year.
+Published on October 14, 2025
+
+Title   : HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+Source  : www.livemint.com
+Published: 2025-10-13T16:09:15
+Fetched : 2025-10-14T12:41:10.403498
+URL     : https://www.livemint.com/companies/hcltech-reports-fastest-q2-growth-in-five-years-calls-ai-revenue-in-a-first-11760365179969.html
+--------------------------------------------------------------------------------
+HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+HCL Technologies Ltd reported a strong second-quarter performance with a 2.8% sequential revenue growth to $3.64 billion, surpassing estimates. The company also marked revenue from AI, contributing $100 million. HCLTech's net profit rose 8% to $486 million.
+Defying market uncertainties, HCL Technologies Ltd recorded its strongest second-quarter performance in July-September 2025 in five years. The Noida-headquartered company also became the first of the big five to report revenue from artificial intelligence (AI).
+India’s third-largest IT services company reported revenue growth of 2.8% sequentially to $3.64 billion—beating an estimate of $3.54 billion by a Bloomberg poll of 31 analysts. Its net profit also jumped 8% sequentially to $486 million in the quarter.
+The company became the first among India’s biggest IT outsourcing companies to report revenue from advanced AI, $100 million in Q2.
+Before HCLTech, Accenture was the only large IT outsourcer to call out revenue from AI. The world’s largest IT services company got $2.7 billion in revenue from the new technology, which is roughly a fifth of HCL’s total revenue last fiscal.
+Notably, its growth trajectory is at odds with larger peer Tata Consultancy Services Ltd, which last Friday reported subdued second-quarter earnings, even as it made its biggest pivot by committing to invest upwards of $6 billion in data centres over five-seven years.
+Much of HCLTech's growth in Q2 came from banks and financial institutions, which made up a fourth of the incremental revenue of $99 million. In terms of geography, much of the company’s incremental revenue came from the Americas, which fetched more than half of its business.
+During HCLTech’s post-earnings media interaction on Monday, its top executive said the macro environment was largely unchanged. “Overall demand environment is more or less similar to what we saw in the last quarter," said C Vijayakumar, the company’s chief executive.
+“I think discretionary spend in certain pockets is almost becoming mandatory," he said, adding that a lot of non-essential spending was being ploughed into AI.
+HCLTech’s AI approach through its products and IP-led platforms is similar to Accenture Plc and in contrast to TCS, which is taking a hardware route through data centres.
+TCS also differed in its interpretation of the demand environment. “Lingering uncertainties in the broader economic environment continue to remain a key challenge," the company’s chief executive and managing director, K. Krithivasan, said during the company’s post-earnings press conference on 9 October.
+“Companies are keeping a tight control over their discretionary budgets in response to economic and demand volatility," Krithivasan said. “Clients are consolidating vendors to achieve transformation objectives effectively and efficiently." TCS ended the previous quarter with $7.47 billion in revenue, up 0.6% sequentially.
+HCLTech’s guidance
+HCLTech’s tempered outlook on the demand environment is reflected in its guidance. The company retained its revenue guidance of 3-5% in constant currency terms for the full year. Constant currency does not take currency fluctuations into account.
+“We are raising our full-year services revenue guidance to 4-5% in constant currency from the earlier 3-5% in constant currency. Given the softness in the software segment, we are keeping the company-level guidance unchanged at 3-5% in constant currency," said Vijayakumar.
+At least one analyst mirrored the company’s caution. “Revenue growth was better than our expectation," said Amit Chandra, vice-president for HDFC Securities. “The lower end of the services revenue guidance increase is good but that does not imply optimism."
+Restructuring and layoffs
+The management also threw light on the restructuring plan announced last quarter, as part of which facilities that were redundant would be shut off and employees that were not redeployable would be let go of.
+“When you're trying to restructure, there will be some reductions, but those are all managed through the regular process that we go through," Ram Sundararajan, the company’s chief people officer, said during the post-earnings call.
+However, the company added headcount of 3,489, ending the second quarter with 226,640 employees. This comes on the back of TCS cutting headcount by more than 19,000 in the same period. TCS announced its plans to cut 2% of its headcount, primarily in middle and higher-level roles, on 27 July.
+To be sure, HCLTech was the only other large IT services company apart from TCS that called out workforce reduction last quarter, and that too before the latter. During the company’s post-earnings press conference in July, the management attributed workforce reductions to meet the company’s operating margin aspiration of up to 19%.
+The company retained its operating margin guidance for the full year at 17-18%, and its profitability jumped 110 basis points to 17.4% in Q2, which the management attributed to the recovery plan outlined last quarter. The margins include a restructuring cost of 55 basis points. One basis point is a hundredth of a percentage point.
+No data centre plans
+During the post-earnings press conference, the company also dismissed plans of foraying into the data centre business like TCS did.
+“From our perspective, we are very focused on two broad elements in AI. One is, of course, building intellectual property," said Vijayakumar, adding that “companies like Open AI and tech OEMs and hyperscalers, they're really investing and enhancing the intelligence layer. Now we see a tremendous opportunity to build IP to make that intelligence layer relevant and scalable for enterprises. This is where we are investing."
+He added that the second element included the company’s physical and agentic AI solutions.
+His commentary comes after TCS announced its intent to build AI data centres in the country, in a bid to make it the world’s largest AI-led technology services company. The company plans to invest upwards of $6 billion over the next five-seven years to construct and run a data centre with 1GW (gigawatt) capacity. Its management attributed this move to creating additional revenue streams from Gen AI.
+HCLTech’s shares ended flat at ₹1,494.7 at the end of market hours on Monday. In contrast, the 30-share BSE Sensex index closed 0.2% lower at 82,327.05 points. The company’s earnings were announced after market hours.
+
+Title   : Tech Mahindra Q2 preview: Margins to grow 40-70 bps, but marginal growth in revenue
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T04:40:51
+Fetched : 2025-10-14T12:41:10.403551
+URL     : https://www.thehindubusinessline.com/info-tech/tech-mahindra-q2-preview-margins-to-grow-40-70-bps-but-marginal-growth-in-revenue/article70161236.ece
+--------------------------------------------------------------------------------
+Tech Mahindra’s EBIT margin is seen rising 40-70 bps in the quarter ending on September 30, 2025, while revenue growth is expected to grow marginally at around 1 per cent, according to analyst estimates.
+Elara Capital estimates Tech Mahindra will post a 0.5 per cent sequential revenue improvement, led by the BFSI and retail verticals. In terms of margins, it expects an improvement by 40bps on continued cost rationalisation under Project Fortius. Similarly, JM Financial expects margins to grow due to Project Fortius gains and rupee depreciation, and expects the total contract value of new deals to remain in the $700-800 million range.
+“The Tech Mahindra stock is down 15 per cent over the past three months, making the risk reward balanced. We upgrade both from HOLD to ADD accounting for the sharp stock correction post H-1B announcements,’ it said.
+The software company will be announcing its second quarter results later in the day.
+Nuvama Research, on the other hand, projects higher estimates of 0.9 per cent revenue growth for telecom and enterprise businesses and a margin expansion of over 70bps.
+“We expect management to retain FY27 margin guidance of 15 per cent. Watch out for comments on FY27 revenue and margin guidance, and TechM’s progress on it,” said Nuvama.
+Meanwhile, Motilal Oswal observed early signs of transformation under the new leadership and improving execution in BFSI. However, it expects the company’s transformation to be relatively decoupled from discretionary spending. In terms of margins, it expects 50-60bps of margin improvement driven by lower sub-contractor costs and SG&A efficiency.
+Axis Securities voiced the most trust in Tech Mahindra, estimating revenue growth of 3.7 per cent sequentially due to the ramp-up of deal wins in BFSI, retail, and communications. Margins are expected to expand marginally on account of cost optimisation initiatives.
+In terms of monitorables, firms keep a look out on Deal TCVs and pipeline from the communication vertical, H1B visa impact, impact of large deal ramp-ups on revenue momentum, commentary on H2 recovery, commentary on margins and FY27 margin target; any large deal wins and impact of Project Fortius on margins.
+Published on October 14, 2025
+
+Title   : HCL Tech announces big changes to variable pay policy - Who will benefit? When will employees get hike? Details here
+Source  : www.livemint.com
+Published: 2025-10-13T13:57:42
+Fetched : 2025-10-14T12:41:10.403606
+URL     : https://www.livemint.com/companies/news/hcl-tech-announces-big-changes-to-variable-pay-policy-who-will-benefit-when-will-employees-get-hike-details-here-11760360156364.html
+--------------------------------------------------------------------------------
+IT giant HCL Tech has announced its plan to change its quarterly variable pay policy to fixed salaries for all employees and roll out salary increments from October, following last year's process.
+“We have also taken a decision to move the quarterly variable pay and convert that into fixed pay and merge it with fixed salary for all our employees,” HCL Tech's Chief People Officer Ram Sundararajan said at a press conference following the release of quarterly earnings on Monday.
+HCL Tech's variable pay system has two components. The first applies to most project-related employees. It involves variable pay based on project performance metrics, distributed quarterly. According to Sundararajan, the IT firm has combined this portion with fixed pay, so it is now paid as a fixed monthly salary.
+“We had the variable pay, which is linked to project-level performance metrics that are distributed on a quarterly basis. That part is what we have merged with the fixed pay, so that it gets paid as fixed pay monthly,” the HR head said.
+Sundararajan said the second component of variable pay is the annual performance bonus, which will continue. If we consider linking your pay to performance, the ongoing component is the annual performance bonus, which will continue to be in place.
+The shift from a quarterly variable pay policy will primarily benefit junior staff, while senior employees continue with their annual performance bonuses, according to the IT major.
+The IT major will start rolling out the annual increments from October 2025. The company will follow the same process as last year.
+"We have gone ahead and made a decision to roll out the increments, which will be effective from October. We'll follow the same process as we did last year in terms of how we go about running the increment process,” said Ram Sundararajan.
+The IT major's voluntary employee attrition rate dropped to 12.6% in September 2025, from 12.9% in September 2024 and 12.8% in June 2025. This indicates a decline in the number of employees leaving the company over the past year, based on a trailing twelve-month (LTM) basis, as per the company’s regulatory filing.
+HCL Tech had a total of 226,640 employees as of September 30, 2025, compared to 223,151 at the end of June 2025, reflecting a net addition of 3,489 employees during the quarter. On a year-on-year (YoY) basis, the company added 8,019 employees, up from 218,621 in September 2024.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsHCL Tech announces big changes to variable pay policy - Who will benefit? When will employees get hike? Details here
+

@@ -1,0 +1,23 @@
+Full Article Fetch Test - MITTAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 8.43M
+
+Title   : ArcelorMittal M&A Head holds talks in South Africa over unit sale
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T11:07:53
+Fetched : 2025-10-14T19:09:12.171898
+URL     : https://www.thehindubusinessline.com/companies/arcelormittal-ma-head-holds-talks-in-south-africa-over-unit-sale/article70162130.ece
+--------------------------------------------------------------------------------
+ArcelorMittal SA’s head of mergers and acquisitions, Ondra Otradovec, is holding talks in South Africa with the nation’s top development-finance institution and trade department about the sale of the steelmaker’s local unit, people familiar with the situation said.
+The executive’s presence in the country is a sign that the discussions between the Luxembourg-based steelmaker and the Industrial Development Corp. have accelerated, said the people, asking not to be identified because the talks are private. The Department of Trade, Industry and Competition also took part, one of the people said.
+The IDC last month concluded a due-diligence study of ArcelorMittal South Africa Ltd., known as Amsa. It’s working with financial advisers on a possible bid of about 8.5 billion rand ($488 million) for the unit, including its current debt, Bloomberg reported earlier. The IDC will also seek a partner that contribute financially to a bid, the people said.
+In November 2023, Amsa announced it planned to shut two steel mills that produce grades that are crucial to the country’s key automotive and mining industries. The IDC, which at about 8 per cent is the biggest shareholder in Amsa after its parent, has been in talks with Arcelor and South Africa’s trade and industry ministry about staving off the closure and has extended loans to the steelmaker to keep it open.
+ArcelorMittal declined to comment, with a spokesman saying the company doesn’t “comment on M&A speculation.” The IDC referred queries to Amsa, adding that any progress on a solution “would be welcomed by all stakeholders.” The DTIC also declined.
+The two mills — Newcastle and Vereeniging — employ about 3,500 people, while about 100,000 more work at their suppliers or customers.
+In addition to the so-called long-steel plants it may close, Amsa operates a flat-steel facility that produces sheets and other products used in manufacturing and construction in Vanderbijlpark, south of Johannesburg. It also owns idled works in Pretoria, the capital, and in Saldanha, on the west coast, as well as a shuttered iron-ore mine that could be reopened.
+Amsa has attributed its decision to close the steel mills to high power prices, erratic rail service, low-priced imports and government policy that gives local competitors a discount on their raw material, steel scrap.
+Amsa, formerly known as Iscor Ltd., was acquired by Indian billionaire Lakshmi Mittal’s Mittal Steel Co. in 2003. Mittal in 2006 combined with Arcelor SA to form ArcelorMittal SA.
+More stories like this are available on bloomberg.com
+Published on October 14, 2025
+

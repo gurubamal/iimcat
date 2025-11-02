@@ -1,0 +1,300 @@
+            if allowed_sources and any(dom.lower() in raw_host for dom in allowed_sources):
+                final_url = link
+            else:
+                final_url = resolve_final_url(link)
+
+            if allowed_sources:
+                host = urllib.parse.urlparse(final_url).netloc.lower()
+                if not any(dom.lower() in host for dom in allowed_sources):
+                    return {
+                        'status': 'skip',
+                        'reason': 'outside allowed sources',
+                        'title': title,
+                        'url': final_url,
+                    }
+
+            text = extract_full_text(final_url)
+            if len(text or '') < 200:
+                try:
+                    from enhanced_news_extractor_patch import enhanced_fetch_article_content  # type: ignore
+                    alt = enhanced_fetch_article_content(final_url, max_retries=2)
+                    if alt and len(alt.strip()) >= 200:
+                        text = alt
+                except Exception:
+                    pass
+            if len(text or '') < 200:
+                return {
+                    'status': 'skip',
+                    'reason': 'short content',
+                    'title': title,
+                    'url': final_url,
+                }
+            return {
+                'status': 'ok',
+                'title': title,
+                'url': final_url,
+                'source': source,
+                'pubdt': pubdt,
+                'text': text,
+            }
+        except Exception:
+            return {
+                'status': 'skip',
+                'reason': 'error',
+                'title': item[0],
+                'url': item[1],
+            }
+
+    saved = 0
+    results = []
+    # Submit all items; per-host gates and retries keep it polite
+    with ThreadPoolExecutor(max_workers=_GLOBAL_MAX_WORKERS) as ex:
+        futs = [ex.submit(process_item, it) for it in articles]
+        for f in as_completed(futs):
+            try:
+                results.append(f.result())
+            except Exception:
+                results.append({'status': 'skip', 'reason': 'error', 'title': '', 'url': ''})
+
+    # Write results: preserve acceptance limit; still log skips
+    # Prepare Net Worth and Net Profit lines; print only when first full article is saved
+    nw_line = None
+    np_line = None
+    nw_written = False
+    np_written = False
+    today = dt.datetime.utcnow().strftime('%Y-%m-%d')
+    try:
+        # Quick test for rate limiting - if basic yfinance fails, skip the heavy functions
+        skip_financial_data = False
+        try:
+            import yfinance as yf
+            test_ticker = yf.Ticker(f'{ticker}.NS')
+            test_info = test_ticker.info
+            # If we get here without error, proceed with full financial data fetch
+        except Exception as e:
+            # If basic test fails (likely rate limited), skip the heavy functions
+            error_msg = str(e).lower()
+            if 'rate limit' in error_msg or 'too many requests' in error_msg or 'forbidden' in error_msg:
+                skip_financial_data = True
+        
+        if skip_financial_data:
+            # Skip financial data fetching and show fallback message
+            np_line = f"Financial metrics temporarily unavailable (rate limited) - {today}\n\n"
+            nw_val, np_val = None, None
+        else:
+            # Try to fetch financial data normally
+            try:
+                nw_val, nw_cur = get_net_worth_for_ticker(ticker)
+            except Exception:
+                nw_val, nw_cur = None, None
+                
+            try:
+                np_val, np_cur = get_net_profit_for_ticker(ticker)
+            except Exception:
+                np_val, np_cur = None, None
+            
+            # Process the results
+            if nw_val is None and np_val is None:
+                np_line = f"Financial metrics temporarily unavailable (rate limited) - {today}\n\n"
+            else:
+                # Net Worth check - only show if value > 0
+                if isinstance(nw_val, int) and nw_val > 0:
+                    nw_line = f"Net Worth ({today}): {_format_market_cap(nw_val, nw_cur)}\n"
+                
+                # Net Profit check - show if non-zero value
+                if isinstance(np_val, int) and np_val:
+                    np_line = f"Net Profit (TTM/latest) ({today}): {_format_market_cap(np_val, np_cur)}\n\n"
+            
+    except Exception:
+        # If any error, use fallback message
+        np_line = f"Financial metrics temporarily unavailable - {today}\n\n"
+        nw_line = None
+    for res in results:
+        if res.get('status') != 'ok':
+            # Write skip note for visibility
+            write_line(f"(skipped: {res.get('reason')}) Title: {res.get('title')}\n")
+            write_line(f"URL     : {res.get('url')}\n\n")
+            continue
+        if saved >= max_articles:
+            continue
+        fetched_utc = dt.datetime.utcnow().isoformat()
+        if not nw_written and nw_line:
+            write_line(nw_line)
+            nw_written = True
+        if not np_written and np_line:
+            write_line(np_line)
+            np_written = True
+        write_line(f"Title   : {res['title']}\n")
+        write_line(f"Source  : {res.get('source','')}\n")
+        write_line(f"Published: {res.get('pubdt').isoformat() if res.get('pubdt') else 'Unknown'}\n")
+        write_line(f"Fetched : {fetched_utc}\n")
+        write_line(f"URL     : {res['url']}\n")
+        write_line("-" * 80 + "\n")
+        write_line(res['text'] + "\n\n")
+        saved += 1
+
+    if saved == 0:
+        write_line("No full-length articles saved (all items too short or blocked).\n")
+
+    if agg_fh:
+        agg_fh.close()
+    if per_fh:
+        per_fh.close()
+    return agg_path
+
+
+def main():
+    ap = argparse.ArgumentParser(description='Fetch full news articles for tickers (last 24h).')
+    # Tune networking knobs from CLI (declare globals early to avoid scope issues)
+    global _GLOBAL_MAX_WORKERS, _PER_HOST_MAX_CONCURRENCY, _PER_HOST_MIN_INTERVAL_SEC
+    ap.add_argument('--tickers', nargs='+', default=None, help='List of tickers to test')
+    ap.add_argument('--tickers-file', type=str, help='Path to file with tickers (one per line)')
+    ap.add_argument('--sources', nargs='*', default=DEFAULT_SOURCES, help='Preferred news domains')
+    ap.add_argument('--max-articles', type=int, default=2, help='Max articles per ticker to save')
+    ap.add_argument('--publishers-only', action='store_true', help='Use first-party publisher RSS only (skip Google News)')
+    ap.add_argument('--limit', type=int, default=0, help='Limit number of tickers from file (0=all)')
+    ap.add_argument('--hours-back', type=int, default=24, choices=[8, 16, 24, 48], help='Only include news published within the last N hours')
+    ap.add_argument('--output-file', type=str, help='Write all results into a single aggregated output file (default: auto-named with timestamp)')
+    ap.add_argument('--timestamp-output', action='store_true', help='[Deprecated] Timestamp aggregated output (now default)')
+    ap.add_argument('--no-timestamp-output', action='store_true', help='Do not append timestamp to --output-file')
+    ap.add_argument('--all-news', action='store_true', help='Disable finance-only filtering (finance-only is default)')
+    ap.add_argument('--per-ticker-dir', type=str, help='Directory to store per-ticker files (default: auto timestamped in CWD)')
+    ap.add_argument('--no-per-ticker', action='store_true', help='Do not write per-ticker files')
+    ap.add_argument('--concurrency', type=int, default=8, help='Global max worker threads for fetching')
+    ap.add_argument('--per-host', type=int, default=2, help='Max concurrent requests per host')
+    ap.add_argument('--per-host-interval', type=float, default=0.6, help='Minimum seconds between requests to same host')
+    ap.add_argument('--no-cleanup', action='store_true', help='Skip cleanup of old files')
+    ap.add_argument('--keep-files', type=int, default=2, help='Number of recent files to keep (default: 2)')
+    args = ap.parse_args()
+
+    now = dt.datetime.utcnow()
+    cutoff = now - dt.timedelta(hours=int(args.hours_back))
+    print(f"Filtering articles within the last {int(args.hours_back)} hours (UTC)")
+
+    # Apply networking knobs from CLI
+    _GLOBAL_MAX_WORKERS = max(1, int(args.concurrency))
+    _PER_HOST_MAX_CONCURRENCY = max(1, int(args.per_host))
+    _PER_HOST_MIN_INTERVAL_SEC = max(0.0, float(args.per_host_interval))
+
+    # Resolve tickers input (CLI list or file)
+    input_tickers = []
+    if args.tickers:
+        input_tickers = args.tickers
+    elif args.tickers_file:
+        try:
+            with open(args.tickers_file, 'r', encoding='utf-8') as fh:
+                lines = [ln.strip() for ln in fh.readlines()]
+                # basic cleanup: ignore empty lines and comments
+                input_tickers = [ln for ln in lines if ln and not ln.startswith('#')]
+        except Exception as e:
+            print(f"Error reading tickers file: {e}")
+            sys.exit(1)
+    else:
+        # Default to local valid_nse_tickers.txt if available
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        default_file = os.path.join(script_dir, 'valid_nse_tickers.txt')
+        if os.path.exists(default_file):
+            try:
+                with open(default_file, 'r', encoding='utf-8') as fh:
+                    lines = [ln.strip() for ln in fh.readlines()]
+                    input_tickers = [ln for ln in lines if ln and not ln.startswith('#')]
+                print(f"Using default tickers file: {default_file} ({len(input_tickers)} entries)")
+            except Exception as e:
+                print(f"Error reading default tickers file: {e}")
+                input_tickers = ['RELIANCE', 'TCS']
+        else:
+            # sensible fallback if no file exists
+            input_tickers = ['RELIANCE', 'TCS']
+
+    if args.limit and args.limit > 0:
+        input_tickers = input_tickers[: args.limit]
+
+    # Setup per-run timestamp and outputs
+    run_stamp = now.strftime('%Y%m%d_%H%M%S')
+    # Aggregated output default: always create a timestamped aggregated file in CWD when not provided
+    aggregate_path = args.output_file
+    if not aggregate_path:
+        aggregate_path = f"aggregated_full_articles_{int(args.hours_back)}h_{run_stamp}.txt"
+    else:
+        append_stamp = not getattr(args, 'no_timestamp_output', False)
+        if getattr(args, 'timestamp_output', False):
+            append_stamp = True
+        if append_stamp:
+            base, ext = os.path.splitext(aggregate_path)
+            aggregate_path = f"{base}_{run_stamp}{ext}"
+    # Create aggregated file header
+    try:
+        with open(aggregate_path, 'w', encoding='utf-8') as agg:
+            agg.write("Full Article Fetch - Aggregated Run\n")
+            agg.write("=" * 100 + "\n")
+            agg.write(f"Run UTC: {now.isoformat()}\n")
+            agg.write(f"Hours back: {int(args.hours_back)}\n")
+            agg.write(f"Publishers-only: {bool(args.publishers_only)}\n")
+            agg.write(f"Sources: {', '.join(args.sources or [])}\n")
+            agg.write(f"Tickers planned: {len(input_tickers)}\n")
+            agg.write("=" * 100 + "\n\n")
+    except Exception as e:
+        print(f"Error creating aggregate file: {e}")
+        aggregate_path = None
+
+    # Setup per-ticker directory unless disabled
+    mirror_dir = None
+    if not args.no_per_ticker:
+        mirror_dir = args.per_ticker_dir or f"full_articles_run_{run_stamp}"
+        try:
+            os.makedirs(mirror_dir, exist_ok=True)
+        except Exception as e:
+            print(f"[warn] Could not create per-ticker directory '{mirror_dir}': {e}")
+            mirror_dir = None
+
+    for ticker in input_tickers:
+        try:
+            items = fetch_rss_items(ticker, args.sources, publishers_only=bool(args.publishers_only))
+            # Keep within 24h and from preferred sources if specified
+            fresh = []
+            for title, link, source, pubdt in items:
+                if pubdt is None:
+                    continue
+                # Treat pubDate as UTC (Google News)
+                if pubdt < cutoff:
+                    continue
+                # If publishers-only, ensure link already matches preferred domains
+                if args.publishers_only and args.sources:
+                    host = urllib.parse.urlparse(link).netloc.lower()
+                    if not any(dom.lower() in host for dom in args.sources):
+                        continue
+                # Finance-only filtering (default). Require domain/path financial cues
+                if not args.all_news:
+                    if not is_financial_url(link):
+                        continue
+                fresh.append((title, link, source, pubdt))
+
+            if not fresh:
+                print(f"[{ticker}] No fresh items in last {int(args.hours_back)}h")
+                if aggregate_path:
+                    with open(aggregate_path, 'a', encoding='utf-8') as agg:
+                        agg.write(f"Full Article Fetch Test - {ticker}\n")
+                        agg.write("=" * 80 + "\n\n")
+                        agg.write(f"(no fresh items in last {int(args.hours_back)}h)\n\n")
+                continue
+
+            outfile = save_articles(ticker, fresh, args.max_articles, args.sources, output_file=aggregate_path, mirror_dir=mirror_dir, run_timestamp=run_stamp)
+            if aggregate_path:
+                print(f"[{ticker}] Appended to: {aggregate_path}")
+            else:
+                print(f"[{ticker}] Saved full articles to: {outfile}")
+            # brief pause to be polite
+            time.sleep(0.8)
+        except Exception as e:
+            print(f"[{ticker}] Error: {e}")
+
+    # Clean up old files at the end
+    if not args.no_cleanup:
+        try:
+            cleanup_old_files(aggregate_path, max_keep=args.keep_files)
+        except Exception as e:
+            print(f"[WARN] Cleanup failed: {e}")
+
+
+if __name__ == '__main__':
+    main()

@@ -1,0 +1,11 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+HINDALCO,38.2,35,1,Certainty 35% below threshold (40%),"Hindalco, Vedanta shares jump up to 2% on strong volumes; metal index advances o",Detected 0 catalyst(s). Score: 50/100. Certainty: 35%. BULLISH sentiment.
+CARTRADE,37.4,30,1,Certainty 30% below threshold (40%),"CarTrade Tech Q2 profit more than doubles, stock surges 18% to all-time high ",Detected 0 catalyst(s). Score: 50/100. Certainty: 30%. BULLISH sentiment.
+IMPAL,37.4,30,1,Certainty 30% below threshold (40%),IMPAL reports 13% rise in net profit for Q2FY26,Detected 0 catalyst(s). Score: 50/100. Certainty: 30%. BULLISH sentiment.
+GLOBAL,35.5,30,4,Certainty 30% below threshold (40%),Signature Global secures  ₹8.75 billion via NCDs for sustainable housing project,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+SIGNATURE,35.4,30,2,Certainty 30% below threshold (40%),Signature Global secures  ₹8.75 billion via NCDs for sustainable housing project,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+TITAN,30.1,30,1,Certainty 30% below threshold (40%),Titan Intech to raise ₹49 crore via rights issue,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+BPCL,29.7,30,1,Certainty 30% below threshold (40%),Oil India explores equity investments in BPCL's proposed  ₹1 tn refinery in Andh,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+MCX,29.7,30,1,Certainty 30% below threshold (40%),MCX shares fall 2% after technical issue halts trading once again ,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+OIL,29.7,30,1,Certainty 30% below threshold (40%),Oil India explores equity investments in BPCL's proposed  ₹1 tn refinery in Andh,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+TOTAL,28.7,30,3,Certainty 30% below threshold (40%),"Adani Green Q2 Results: Profit more than doubles to Rs 583 crore, total income d",Detected 0 catalyst(s). Score: 30/100. Certainty: 30%. BEARISH sentiment.

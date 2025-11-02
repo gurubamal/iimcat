@@ -1,0 +1,840 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-24T01:31:33.207283
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 150
+====================================================================================================
+
+Full Article Fetch Test - 20MICRONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 360ONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3IINFOLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3MINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3PLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 5PAISA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 63MOONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAATECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AADHARHFC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAREYDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIPHARM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTISURF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVEEDEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAVAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABBOTINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABCAPITAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABDL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABFRL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABLBL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABMINTLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABREL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABSLAMC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : Accenture proposes new campus in Andhra Pradesh, eyes adding 12,000 jobs amid Trump's H-1B visa shake-up
+Source  : www.livemint.com
+Published: 2025-09-23T15:02:11
+Fetched : 2025-09-24T01:32:39.806018
+URL     : https://www.livemint.com/companies/accenture-proposes-new-campus-in-andhra-pradesh-eyes-adding-12-000-job-11758634994917.html
+--------------------------------------------------------------------------------
+Accenture, a tech consultancy firm, has announced plans to establish a new campus in the southern Indian state of Andhra Pradesh, with the goal of creating approximately 12,000 new jobs in its Indian workforce over time, Reuters reported citing sources. India is home to Accenture's largest workforce globally, with over 300,000 of its 790,000 employees located here.
+This development comes amid a policy change by US President Donald Trump, introducing a $100,000 fee for new H-1B visa, a programme relied upon by tech companies to hire skilled foreign workers.
+According to Reuters' sources who wished to remain anonymous due to the confidentiality of the matter, Accenture has submitted a proposal to the state government requesting around 10 acres of land in the port city of Visakhapatnam under similar terms. Accenture did not respond to its request for comment on it. A state official expressed that the Andhra Pradesh government is keen to welcome Accenture and, although approvals might take some time, the proposal is likely to be approved.
+On condition of anonymity, an official mentioned, “It is not an unreasonable ask by Accenture, and the proposal will go through.”
+However, it remains unknown how much Accenture plans to invest in establishing the campus.
+The company's move also comes after similar agreements by IT companies Tata Consultancy Services and Cognizant, which are taking advantage of a new state policy that provides leased land at just 0.99 rupees ($0.0112) per acre to large companies committed to creating jobs.
+TCS and Cognizant obtained land leases under the new policy to establish campuses in Visakhapatnam, with the potential to create approximately 20,000 jobs. Cognizant plans to invest $183 million, while TCS has allocated just over $154 million for its campus, the report noted, adding that the technology companies are increasingly expanding into smaller Indian cities to take advantage of lower costs for land, rent, and wages. In the post-pandemic landscape, many firms are finding it easier to recruit talent locally in Tier-2 cities, marking a shift from the earlier trend of workers moving to major tech hubs.
+Meanwhile, Accenture Plc is providing training in agentic artificial intelligence to its workforce of over 7, 00,000 employees, as the consulting firm aims to meet growing client demand in this field, as per a Bloomberg report.
+“Every new wave of technology has a time where you have to train and retool. Accenture’s core competency is to do that at scale,” Accenture’s Chief Executive Officer Julie Sweet stated in a Bloomberg Television interview.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesAccenture proposes new campus in Andhra Pradesh, eyes adding 12,000 jobs amid Trump's H-1B visa shake-up
+
+Full Article Fetch Test - ACCELYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACCURACY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACEINTEG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : J&J to Withdraw Acid Reflux Device Outside US, Alarming Surgeons
+Source  : www.livemint.com
+Published: 2025-09-23T09:19:49
+Fetched : 2025-09-24T01:32:50.293737
+URL     : https://www.livemint.com/companies/news/jj-to-withdraw-acid-reflux-device-outside-us-alarming-surgeons-11758619189814.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Johnson & Johnson is withdrawing a device to treat debilitating acid reflux disease from markets outside the US, a move surgeons warned would set back the available treatment options for sufferers by more than a decade and also impact lung transplant patients.
+Sales of the Linx Reflux Management System will be stopped outside the US from the end of March, the company said in a letter to doctors dated Sept. 17 seen by Bloomberg. J&J confirmed it was stopping sales in “certain countries,” based on a commercial decision unrelated to the device’s safety or efficacy.
+“It’s devastating news,” said Majid Hashemi, a consultant surgeon specializing in anti-reflux and keyhole bariatric surgery. Initially cautious about using it, Hashemi said the device has become a default procedure and its withdrawal will deprive patients. He said he was contacted directly by J&J about its decision.
+Hashemi and other UK surgeons said there is currently no direct replacement for the Linx device, which is mainly used on patients with gastroesophageal reflux disease, or GERD, whose condition cannot be controlled with drugs.
+The disease, in which stomach acid flows back up into the esophagus and causes heartburn, is relatively common, affecting about 20% of adults in the US to some degree. Though the majority can use medications such as proton pump inhibitors, some require surgery. In the past that was typically a fundoplication, in which the stomach is wrapped around the lower esophagus.
+Transformative
+That changed with the Linx, a small bracelet of magnetic beads placed around the lower esophageal sphincter to strengthen it. Originally developed by Torax Medical Inc., a 2023 study said nearly 40,000 had been implanted globally since 2007. It was bought by J&J’s surgical device company Ethicon in 2017.
+Nick Boyle, a specialist gastrointestinal and laparoscopic surgeon who was one of the first to implant a Linx device in the UK, said its safety and efficacy was backed by “an enormous scientific literature.” Doctors are pressing J&J to reconsider what he called a “purely a commercial decision,” he said, adding that a company representative had come to meet him to explain.
+“The operation is very standardized and much quicker, with faster recovery for the patients,” said Antonios Athanasiou, a surgeon in the UK who specializes in keyhole surgery for conditions like acid reflux and gallbladder disease.
+“Following a thorough evaluation of market conditions and ability to effectively serve each market, we have made the decision to exit our Linx business in certain countries,” a J&J spokesperson said in an email. “There is no change in the safety or efficacy of the Linx device.”
+J&J doesn’t give a breakdown of its Linx sales.
+Lung transplant patients could also be severely impacted, as research shows a high prevalence of those being assessed for the surgery also have GERD, which needs to be treated to ensure that the transplanted organ isn’t rejected.
+St Thomas’ Hospital in London has been using the Linx in lung transplant patients for over five years, said James Gossage, a professor of oesophagogastric surgery. “It is our preferred option for preventing the stomach contents refluxing into the transplanted lungs causing damage and rejection,” he said in an email.
+Before Linx, surgeons used to use traditional anti-reflux surgery, but it often didn’t last very long and required repeat procedures, he added.
+Recall
+Still, the Linx isn’t without controversy.
+In 2018, there was a product recall over concerns about beads separating from the device. That problem was fixed, though the company faced lawsuits in the US after the recall. Some patients get the device removed if they have difficulty swallowing, and there are cases of the Linx eroding into the esophagus.
+Matyas Fehervari, a consultant upper gastrointestinal and bariatric surgeon as well as an academic, has been involved in several studies of Linx. “What that data shows is indeed it’s quite a good option, it’s a better option than what we had previously for certain patients,” he said.
+Meanwhile, a new medical device from Implantica called RefluxStop is available in some European countries, but not the US. Made of silicone, it is implanted in the upper stomach to reinforce the lower esophageal sphincter.
+In the UK, though, RefluxStop is recommended for a subset of GERD patients, and the only other way to access the device is through a formal research study. Boyle, the first surgeon to install one in the UK, said data is still limited.
+“We don’t have any long-term studies to tell us if it’s effective,” he said.
+--With assistance from Damian Garde.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Full Article Fetch Test - ACL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACLGATI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACMESOLAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACUTAAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIENSOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIENT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIGREEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIPORTS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADFFOODS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADOR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADROITINFO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADVANIHOTR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADVENZYMES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEGISLOG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEGISVOPAK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEROENTER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEROFLEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AERONEU
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AETHER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFCONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFFLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFFORDABLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGARIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGARWALEYE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGIIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGRITECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGROPHOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGSTRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLADA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLEAST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLUCONT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIAENG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIRAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIROLAM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJANTPHARM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJAXENGG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJMERA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJOONI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHARCHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHOPTFBR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKUMS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKZOINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALANKIT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALBERTDAVD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALEMBICLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALICON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALIVUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKALI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKYLAMINE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLCARGO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLDIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLTIME
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALMONDZ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALOKINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPHAGEO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPSINDUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBICAAGAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBIKCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBUJACEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMDIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMJLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMNPLST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMRUTANJAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANANDRATHI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANANTRAJ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANDHRAPAP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANDHRSUGAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANGELONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANIKINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANKITMETAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANMOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANSALAPI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANTGRAPHIC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANTHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANUHPHR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANUP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANURAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APARINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APCOTEXIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APLAPOLLO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : Competition Commission clears Apollo Hospitals group entities restructuring plan
+Source  : www.livemint.com
+Published: 2025-09-23T14:42:43
+Fetched : 2025-09-24T01:35:44.918516
+URL     : https://www.livemint.com/companies/news/competition-commission-clears-apollo-hospitals-group-entities-restructuring-plan-11758638564327.html
+--------------------------------------------------------------------------------
+New Delhi, Sep 23 (PTI) Fair trade regulator CCI on Tuesday approved a multi-layered restructuring plan involving Apollo Hospital's group entities Apollo Healthco and Keimed, and a wholly-owned subsidiary Apollo Healthtech Ltd.
+The move came after Apollo Hospitals Enterprise in June this year said its board has approved the separate listing of its omnichannel pharmacy and digital health businesses within 18-21 months, as part of reorganisation exercise to unlock value.
+According to the regulator, the restructuring will be carried out in several stages under a composite scheme of arrangement that was cleared by the boards and audit committees of the Apollo group entities in June this year.
+As part of the transaction, the identified business undertaking of Apollo Health Enterprise Ltd (AHEL) will be demerged into Apollo Healthtech Ltd (AHTL).
+This will be followed by the merger and amalgamation of Apollo Healthco Ltd (AHL) and Keimed Pvt Ltd with and into AHTL, paving the way for consolidation of healthcare and distribution businesses.
+After these steps, the equity shares of AHTL will be listed on the stock exchanges.
+The final stage of the transaction provides for the acquisition of 74.5 per cent shareholding of Apollo Medicals Pvt Ltd (AMPL) by AHTL from existing shareholders under a share purchase agreement executed between AHL, AMPL and its shareholders.
+"CCI approves the proposed combination involving demerger of the identified business undertaking of AHEL into AHTL, merger and amalgamation of AHL and Keimed with and into AHTL, and acquisition of 74.5 per cent shareholding of AMPL by AHTL," CCI said in a post on X.
+AHL operates the "Apollo 24|7" platform, which facilitates booking of doctor consultations and diagnostic tests, besides engaging in the pharmacy distribution business.
+On the other hand, Keimed is engaged in wholesale and retail distribution of pharmaceutical products, medical and surgical equipment, and FMCG items.
+In June, the board of directors of Apollo Hospitals and Apollo HealthCo, a subsidiary of the healthcare major, accorded in-principle approval for the composite scheme of arrangement.
+The scheme creates a formidable omnichannel pharmacy distribution and digital health platform leader in India, with stated plans to achieve ₹25,000 crore revenue by FY27.
+Apollo Hospitals Enterprise MD Suneeta Reddy said the proposal enables the healthcare provider's shareholders to gain direct shareholding in the country's largest omni-channel pharmacy and digital health platform.
+In a separate release, the competition watchdog cleared the proposed combination involving acquisition of IRB Hapur Moradabad Tollway Ltd, Kaithal Tollway Ltd, and Kishangarh Gulabpura Tollway Ltd by IRB InvIT Fund.
+The anti-trust regulator also granted its nod for the acquisition of units of IRB InvIT Fund by Anahera Investment Pte Ltd.
+"The acquisition of units of the public InvIT through institutional placement subject to pricing and other considerations. The manner and timing of such placement will be determined by the Public InvIT, and is subject to market and other considerations, the release said.
+Anahera is part of the Singapore's sovereign wealth fund GIC while IRB InvIT (Infrastructure Investment Trust) Fund is the country's first listed InvIT.
+In another release, the Competition Commission of India (CCI) also approved the acquisition of OC Oerlikon Textile Holding AG, Pfäffikon and Oerlikon Textile Inc (collectively targets) by Rieter Holding AG and Rieter North America Inc.
+Switzerland-headquartered Rieter Holding AG is a global manufacturerof machinery and components for the textile industry while the targets are manufacturers of spinning systems used for manufacturing filaments and manmade fibers, texturing machines, and non-woven solutions.
+The deals beyond a certain threshold require approval from the regulator, which keeps a tab on unfair business practices as well as promotes fair competition in the marketplace.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsCompetition Commission clears Apollo Hospitals group entities restructuring plan
+
+Full Article Fetch Test - APOLLOHOSP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLOPIPE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLOTYRE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLSINHOT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APTECHT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APTUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARCHIDPLY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARCHIES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARE&M
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARENTERP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARFIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARIES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARIHANTCAP
+================================================================================
+
+(no fresh items in last 48h)
+

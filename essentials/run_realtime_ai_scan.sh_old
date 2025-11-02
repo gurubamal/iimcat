@@ -1,0 +1,121 @@
+#!/bin/bash
+#
+# REAL-TIME AI ANALYSIS RUNNER
+# Fetches news and analyzes INSTANTLY with Copilot AI + Frontier AI
+# Each article scored and ranked in real-time
+#
+
+set -e
+
+cd /home/vagrant/R/essentials
+
+echo ""
+echo "╔════════════════════════════════════════════════════════════════════════════╗"
+echo "║                                                                            ║"
+echo "║       🤖 REAL-TIME AI NEWS ANALYZER                                        ║"
+echo "║                                                                            ║"
+echo "║       Instant analysis • Copilot AI • Live ranking                         ║"
+echo "║                                                                            ║"
+echo "╚════════════════════════════════════════════════════════════════════════════╝"
+echo ""
+
+# Configuration
+TIMESTAMP=$(date +%Y%m%d_%H%M%S)
+OUTPUT_FILE="realtime_ai_analysis_${TIMESTAMP}.csv"
+LOG_FILE="realtime_ai_${TIMESTAMP}.log"
+TICKERS_FILE="${1:-all.txt}"
+HOURS_BACK="${2:-48}"
+TOP_N="${3:-2999}"
+
+echo "📋 Configuration:"
+echo "   Tickers file: $TICKERS_FILE"
+echo "   Hours back:   $HOURS_BACK"
+echo "   Top N:        $TOP_N"
+echo "   Output:       $OUTPUT_FILE"
+echo ""
+
+# Verify prerequisites
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "📋 Verifying Prerequisites"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+python3 --version || { echo "❌ Python 3 not found"; exit 1; }
+
+if [ ! -f "realtime_ai_news_analyzer.py" ]; then
+    echo "❌ realtime_ai_news_analyzer.py not found"
+    exit 1
+fi
+
+if [ ! -f "$TICKERS_FILE" ]; then
+    echo "❌ Tickers file not found: $TICKERS_FILE"
+    exit 1
+fi
+
+echo "✅ All prerequisites satisfied"
+echo ""
+
+# Run real-time analysis
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "🚀 Starting Real-time Analysis"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "⏱️  Started at: $(date)"
+echo ""
+
+python3 realtime_ai_news_analyzer.py \
+    --tickers-file "$TICKERS_FILE" \
+    --hours-back "$HOURS_BACK" \
+    --max-articles 10 \
+    --output "$OUTPUT_FILE" \
+    --top "$TOP_N" \
+    2>&1 | tee "$LOG_FILE"
+
+EXIT_CODE=${PIPESTATUS[0]}
+
+echo ""
+echo "⏱️  Completed at: $(date)"
+echo ""
+
+# Verify output
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✅ Verifying Results"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+if [ $EXIT_CODE -ne 0 ]; then
+    echo "❌ Analysis failed with exit code: $EXIT_CODE"
+    echo "📋 Check log: $LOG_FILE"
+    exit 1
+fi
+
+if [ ! -f "$OUTPUT_FILE" ]; then
+    echo "❌ Output file not created"
+    exit 1
+fi
+
+echo "✅ Output file: $OUTPUT_FILE"
+echo ""
+
+# Display top picks
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "🏆 TOP 10 PICKS (Real-time AI Analysis)"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+head -11 "$OUTPUT_FILE" | tail -10
+
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "✅ REAL-TIME ANALYSIS COMPLETE!"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo ""
+echo "📁 Files Generated:"
+echo "   • Results: $OUTPUT_FILE"
+echo "   • Log:     $LOG_FILE"
+echo ""
+echo "🎯 Each news article was analyzed INSTANTLY with:"
+echo "   • Copilot AI with internet access"
+echo "   • Frontier AI + Quant scoring"
+echo "   • Real-time ranking updates"
+echo ""
+echo "🚀 Analysis complete!"
+echo ""
+
+exit 0

@@ -1,0 +1,4 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+SUZLON,SUZLON ENERGY LIMITED,77.7,36,2,Certainty 36% below threshold (40%),Suzlon appoints Rahul Jain as Chief Financial Officer,Detected 3 catalyst(s). From www.thehindubusinessline.com. Score: 100/100. Certainty: 36%. BULLISH.
+RELIANCE,RELIANCE INDUSTRIES LIMITED,77.0,36,1,Certainty 36% below threshold (40%),Nvidia nears $5 trillion valuation as AI chip orders top $500 billion,Detected 3 catalyst(s). From www.thehindubusinessline.com. Score: 100/100. Certainty: 36%. BULLISH.
+HAVELLS,HAVELLS INDIA LIMITED,75.1,38,1,Certainty 38% below threshold (40%),"Goldi Solar sees over ₹1,400 cr capital infusion from Havells India, others",Detected 3 catalyst(s). From www.thehindubusinessline.com. Score: 100/100. Certainty: 38%. BULLISH.

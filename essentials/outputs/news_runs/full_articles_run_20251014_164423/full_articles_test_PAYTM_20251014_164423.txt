@@ -1,0 +1,23 @@
+Full Article Fetch Test - PAYTM
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 1.23B
+
+Title   : Emkay calls Paytm’s leadership in merchant payments a challenge to Pine Labs 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T12:14:26
+Fetched : 2025-10-14T18:30:13.069289
+URL     : https://www.thehindubusinessline.com/money-and-banking/emkay-calls-paytms-leadership-in-merchant-payments-a-challenge-to-pine-labs/article70162528.ece
+--------------------------------------------------------------------------------
+Paytm’s dominance in India’s merchant payments arena has taken centre stage in Emkay Research’s latest Internet Sector Report, which crowns the fintech giant as “the strongest challenger to Pine Labs”.
+The brokerage says Paytm’s blend of scale, execution prowess, and deep-rooted merchant network gives it unparalleled strength — reinforced by innovations like QR-based payments and Soundbox.
+Maintaining its BUY rating with an upgraded target price of Rs 1,500, Emkay outlined a bullish growth trajectory for the Noida-headquartered company.
+The report positions Paytm as India’s most “comprehensive and future-ready merchant payments platform”. “We continue to maintain our positive stance on Paytm due to various optionalities like scale-up of RuPay credit cards on UPI, Postpaid, and wallet likely returning.
+“Paytm’s strong soundbox device distribution, combined with financial services monetisation, positions it as the leading full-stack merchant payments company,” the report said.
+Emkay believes Paytm’s swath of “earnings levers” could substantially lift profitability by FY28. These include scaling up Postpaid, expanding the RuPay Credit Card on the UPI footprint, and reintroducing its digital wallet, which together could contribute Rs 675 per share in incremental value.
+The brokerage highlighted Paytm’s low merchant loan penetration, which provides a long growth runway in financial services, supported by offerings in merchant lending, insurance, and wealth management.
+One of Paytm’s most prominent and key differentiators is the Soundbox, adoption of which has reached 27 million units nationwide as of March 2025. Projecting 54 million units by FY29, the report says adoption will accelerate, particularly in smaller towns and semi-urban hubs.
+While Pine Labs retains dominance in the enterprise POS segment, with a 1.7 million device base, Emkay noted that the wider market is rapidly shifting toward QR-based acceptance. Pine Labs’s recent move toward low-cost, non-Android devices has cut its capex-to-sales ratio sharply (from 35 per cent in FY22 to 6 per cent in 9MFY25), a strategy Emkay said could erode average revenue per device and limit growth.
+Emkay projected Paytm’s revenue to grow at a 24 per cent CAGR from FY25 to FY28, with the company breaking into profitability in Q1 FY26. EBITDA margins are forecast to reach 15.9 per cent by FY28.
+Published on October 14, 2025
+

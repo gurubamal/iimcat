@@ -1,0 +1,50 @@
+Full Article Fetch Test - KORE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 62.56M
+
+Title   : Taiwan to overtake Korea in per capita GDP in 2025: IMF
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T07:03:52
+Fetched : 2025-10-22T12:21:09.908413
+URL     : https://www.thehindubusinessline.com/news/world/taiwan-to-overtake-korea-in-per-capita-gdp-in-2025-imf/article70189029.ece
+--------------------------------------------------------------------------------
+South Korea's per capita gross domestic product (GDP) is projected to fall by three notches this year, according to a report released by the International Monetary Fund (IMF).
+As per a report by Pulse, the english service of Maeil Business News Korea, the IMF noted in its World Economic Outlook report that Korea's per capita GDP is estimated at $35,962 for 2025, down 0.8 per cent from last year's $36,239.
+Korea's ranking among the 197 countries included in the IMF's statistics is projected to slip from 34th last year to 37th this year.
+The IMF also forecasted that Korea will reach the $40,000 threshold in per capita GDP in 2028, with an estimated $40,802, one year earlier than its April projection, which had anticipated crossing that mark in 2029, the BOK said.
+However, Korea's global ranking is expected to continue declining - from 37th this year to 38th next year, 40th in 2028, and 41st in 2029.The outlook contrasts sharply with Taiwan's upward trajectory.
+The IMF expected Taiwan's per capita GDP to surge 11.1 per cent from $34,060 last year to $37,827 this year, lifting its global ranking from 38th to 35th.
+By next year, Taiwan's per capita GDP is projected to reach $41,586, surpassing the $40,000 mark two years earlier than Korea, with its ranking climbing to 31st.
+The IMF further noted that Taiwan will maintain its strong growth momentum, projecting its per capita GDP to surpass the $50,000 mark in 2030.
+Korea's per capita GDP in 2030 is forecast to reach $44,262.According to the Korea Centre for International Finance (KCIF), the average forecast for Taiwan's real GDP growth among eight major global investment banks (IBs) stood at 5.3 per cent as of late September.
+"The Taiwanese economy is growing at a faster pace in the third quarter than in the second quarter," said Nomura, which had offered the highest forecast of 6.2 per cent, in a recent report.
+"We have further raised our forecast for the country's third-quarter GDP growth rate from 3 percent to 7.6 per cent year-on-year."
+Although Taiwan's domestic demand and investment remain sluggish, Nomura added that its semiconductor production remains robust, sustaining the upward trend in technology-driven manufacturing.
+As for Japan, the IMF projected its per capita GDP to increase nearly 7 per cent from $32,443 last year to $34,713 this year, though its global ranking is expected to be unchanged at 40th.
+Japan is projected to surpass $40,000 in 2029 - one year later than Korea - but its global ranking is expected to stagnate, hovering around 40th through next year before slipping further to 42nd between 2027 and 2030.
+The IMF estimated that Liechtenstein will top the world in per capita GDP this year, reaching $231,071, followed by Luxembourg ($146,818), Ireland ($129,132), Switzerland ($111,047), Iceland ($98,150), Singapore ($94,481), Norway ($91,884), the United States ($89,599), Denmark ($76,481), and Macau ($74,921).
+Published on October 22, 2025
+
+Title   : South Korean court clears Kakao founder of stock manipulation charges
+Source  : www.livemint.com
+Published: 2025-10-21T03:44:56
+Fetched : 2025-10-22T12:21:09.908827
+URL     : https://www.livemint.com/companies/company-results/south-korean-court-clears-kakao-founder-of-stock-manipulation-charges-11761018296709.html
+--------------------------------------------------------------------------------
+By Heekyong Yang and Heejin Kim
+SEOUL -A South Korean court on Tuesday cleared Kakao Corp's billionaire founder Kim Beom-su of stock manipulation charges, sending shares of the country's dominant chat app operator 5% higher.
+The tech tycoon was arrested in July last year on charges of being involved in manipulation of the stock price of SM Entertainment in 2023 to hinder a competitor, Hybe, from acquiring it. He was released on bail in October 2024.
+In August, prosecutors had sought a 15-year jail term and a fine of 500 million won .
+Kim thanked the court for the ruling and said, "I hope this serves as an opportunity for Kakao to move, even slightly, out of the shadow of of stock price and market manipulation."
+Kim shot to fame in South Korea's digital industry for building Kakao's group of affiliates - worth 94 trillion Korean won by assets - from the ground up since launching the popular messaging app KakaoTalk in 2010.
+Kakao is South Korea's biggest messaging app used by nearly 50 million Koreans, with businesses ranging from gaming, shopping to banking to taxi-hailing.
+Kakao shares were trading up 5.1% after the court's ruling.
+“The case will likely proceed to the Supreme Court, but today’s ruling can be seen as easing legal risks to some extent as Kim was cleared of all charges," said Kim Dong-woo, an analyst at Kyobo Securities.
+The outcome of the case against Kim could have jeopardised Kakao's control of online bank arm KakaoBank, since the country's financial rules restrict those convicted of financial crime from owning more than a 10% stake in a bank.
+The high-profile tech entrepreneur is the largest shareholder of Kakao Corp, with a 24% stake that he and affiliated entities control.
+Kakao was not immediately available for a comment on the ruling.
+This article was generated from an automated news agency feed without modifications to text.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesCompany ResultsSouth Korean court clears Kakao founder of stock manipulation charges
+

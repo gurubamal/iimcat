@@ -1,0 +1,7 @@
+#!/bin/bash
+# MIT AI SCAN - One Command Solution
+# Super fast AI-based MIT stock analysis
+
+echo "🚀 Launching MIT AI Scan..."
+cd /home/vagrant/essentials
+python3 ai_mit_quick.py

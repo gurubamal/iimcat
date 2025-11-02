@@ -1,0 +1,44 @@
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-09): 815.20B INR
+
+Title   : Two billion-dollar disruptions, one Reliance: Can Mukesh Ambani deliver? 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-09T04:12:25
+Fetched : 2025-09-09T06:52:35.618394
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/two-billion-dollar-disruptions-one-reliance-can-mukesh-ambani-deliver/articleshow/123777735.cms
+--------------------------------------------------------------------------------
+Reliance Consumer Products Ltd (RCPL), housing the FMCG business being carved out of RIL into a subsidiary, is targeting a jaw-dropping Rs 1 lakh crore revenue milestone within five years. Meanwhile, Reliance Intelligence, powered by a joint venture with Meta and a cloud partnership with Google, is positioning itself as India's most ambitious AI play.
+"We believe Reliance has all the ingredients to become India's most aggressive play on Gen AI," Morgan Stanley analysts said, underlining both the scale of ambition and execution risks that investors will now track closely.
+BofA Securities’ Sachin Salgaonkar said as Reliance Intelligence helps RIL get future ready, the AI gameplan could even attract strategic investors after 2-3 years as seen in the case of Jio and Retail earlier.
+The AI Moonshot: Reliance Intelligence Takes Shape
+Reliance's AI bet centers on a 70:30 joint venture with Meta, committing an initial $100 million investment with the transaction expected to close by December quarter. The venture will house next-generation AI infrastructure, global partnerships, and India's most ambitious AI talent pool.
+Adding firepower to the AI arsenal, Reliance has partnered with Google Cloud to establish a state-of-the-art, AI-focused cloud region at Jamnagar—the same Gujarat facility that will host the company's AI network infrastructure.
+Also Read | Reliance Intelligence is the new Jio for Mukesh Ambani: Can AI leap help RIL become deep-tech giant?
+"Energy is key to the success of RIL Intelligence," Morgan Stanley noted. The facility will be powered by RIL's new energy business with RJio providing fiber connectivity linking Jamnagar to key metros like Mumbai and Delhi.
+The scale is staggering: A 1GW datacenter facility would need approximately 678,000 B100 chips, and if RIL uses around 200MW for its purposes, it would require about 135,000 B100 chips. When scaled up over 4-5 years, 1GW of datacenter capacity would need roughly 1.3GW of round-the-clock power.
+BofA analysts believe scaling of Reliance Intelligence in coming years will help the company in creation of AI use-cases, inference models and India specific workloads.
+FMCG Blitz: The ₹1 Lakh Crore Sprint
+RCPL's ambition appears equally audacious. From ₹11,500 crore in revenue last year, the consumer products arm is targeting a nine-fold jump to ₹1 lakh crore within five years with long-term ambitions to become India's largest FMCG company with global reach.
+Campa Cola now holds double-digit market share across many states, breaking a 30-year MNC duopoly, showcasing early wins in the beverage segment.
+The daily essentials brand Independence has already crossed ₹1,000 crore in revenue, expanding from India to West Asia, Sri Lanka, and Nepal, with exports now reaching West Africa. Management's target is to enter at least 25 countries in the next 12 months.
+Goldman Sachs noted that "RCPL plans to invest approximately $4.7 billion over the next 3 years to build mega food parks (manufacturing units)" which the company believes will deliver huge scale advantages.
+The strategy combines organic brand building with strategic acquisitions. "RCPL has followed a hybrid strategy of building brands like Independence, Good Life, and acquiring names like Campa Cola, Lotus Chocolates, Ravalgaon," Jefferies analysts observed. Notably, acquired brands are often those "which enjoyed strong recall in the past but lost momentum."
+RCPL's current ₹11,500 crore revenue already exceeds the India business of established players like Dabur, GCPL, and Marico. With reach across over 1 million outlets through 3,200+ distributors, nearly two-thirds of revenues now come from traditional mom-and-pop stores, signaling the portfolio has graduated beyond private labels.
+“This will make RCPL a big new value-creating engine for the RIL Group, comparable to the retail business in size and profitability,” Emkay Global said. Many brokerages like Goldman are yet to include the FMCG unit in their SOTP valuation for RIL.
+Market Verdict: Conservative Valuation, Ambitious Execution
+Despite the bold expansion plans, analysts see Reliance shares trading at attractive valuations. CLSA maintains an Outperform rating with a 12-month price target of ₹1,650, noting the stock trades within "a narrow range to its conservative valuation, which builds in a depressed valuation for each of its business units."
+"Flow-through of recent tariff hike for Jio, recovery in retail's growth momentum and possible IPO of Jio are other triggers over next 12-15 months," CLSA added.
+Also Read | Reliance share price target at Rs 1,733? What CLSA, Morgan Stanley, other top brokerages said after AGM
+BofA set a target price of ₹1,660, maintaining its Buy rating, while acknowledging the execution challenges ahead.
+The dual disruption strategy comes as Reliance targets doubling its size by FY30, with the company aiming to make its Jio and Retail businesses twice their current scale while ramping up new energy operations to match its oil-to-chemicals business.
+For investors, the question is whether Ambani can deliver on two billion-dollar disruptions simultaneously while maintaining momentum across existing verticals. The next 24 months will provide crucial answers as both AI monetization and FMCG expansion plans face their first major tests.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

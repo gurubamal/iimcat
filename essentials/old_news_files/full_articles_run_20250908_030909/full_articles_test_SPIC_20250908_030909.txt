@@ -1,0 +1,31 @@
+Full Article Fetch Test - SPIC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : SpiceJet shares in focus after airline reports Rs 234 crore net loss in Q1FY26 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-08T02:29:13
+Fetched : 2025-09-08T04:03:56.543178
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/spicejet-shares-in-focus-after-airline-reports-rs-234-crore-net-loss-in-q1fy26/articleshow/123755695.cms
+--------------------------------------------------------------------------------
+After the company’s Q1 results, domestic brokerage firm Nuvama has also cut its target price on the stock to Rs 40, against Rs 48 earlier, while maintaining a ‘Hold’ rating on the same.
+The airline’s revenue from operations fell sharply by 36% year-on-year, declining to Rs 1,060 crore in Q1FY26 from Rs 1,646 crore in the corresponding quarter of the previous fiscal.
+On a sequential basis, revenue was also down by 24% from Rs 1,394 crore reported in Q4FY25. The company had posted a consolidated profit after tax (PAT) of Rs 342 crore in the previous quarter.
+SpiceJet attributed the weak performance to several headwinds, including geopolitical tensions with a neighbouring country and airspace restrictions in key international markets. These factors adversely impacted leisure travel demand, further straining the airline’s top line.
+Additionally, the delay in returning grounded aircraft to service due to global supply chain disruptions and engine overhaul challenges further exacerbated the situation, according to the company’s filing.
+The airline reported an EBITDA loss of Rs 18 crore for Q1FY26, compared to an EBITDA of Rs 402 crore in the same quarter last year. Despite the operational challenges, some metrics showed relative stability. Passenger Revenue per Available Seat Kilometer (PAX RASK) stood at Rs 4.74, while the Passenger Load Factor (PLF) remained steady at 86%.
+Also read: Vijay Kedia's Big Bets: 6 stocks surge up to 45% in 5 months — Do You Own Any?
+In a positive development, the airline’s net worth improved to Rs 446 crore in Q1FY26, a significant turnaround from a negative Rs 2,398 crore in Q1FY25. The company credited this improvement to ongoing financial restructuring efforts.
+On Friday, shares of SpiceJet closed 1.5% lower at Rs 34.45 on the BSE.
+Following the Q1 results, Nuvama cut the target price of the stock to Rs 40. The brokerage noted that Q1 performance was below expectations, although the Q2 outlook remains steady. In the first quarter, SpiceJet’s EBITDAR declined year-on-year due to ASKMs and PLF contraction, while CASK rose. The increase in operational fleet has been slow and delayed, though Q2 read-through appears steady.
+SpiceJet’s qualified institutional placement (QIP) of Rs 3,000 crore is expected to aid repayment of outstanding dues and support the induction of aircraft on ground (AoG), a process that has already commenced.
+Nuvama also stated that recovery is likely to be gradual, with a full turnaround still a key factor to monitor. Consequently, it has cut FY26E and FY27E EBITDAR estimates by 14% each, reflecting the delayed turnaround.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

@@ -1,0 +1,101 @@
+Full Article Fetch Test - DIXON
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 2.25B
+
+Title   : Dixon Technologies net profit jumps 86% to ₹746 crore in September quarter
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T05:16:28
+Fetched : 2025-10-18T10:27:40.807350
+URL     : https://www.thehindubusinessline.com/companies/dixon-technologies-net-profit-jumps-86-to-746-crore-in-september-quarter/article70178184.ece
+--------------------------------------------------------------------------------
+Electronics manufacturing services firm Dixon Technologies has posted an 81 per cent jump in consolidated net profit to ₹745.7 crore in the second quarter ended September 30, 2025, according to an exchange filing.
+The company had reported a net profit of ₹411.7 crore in the same period a year ago.
+The revenue from operations of the company grew by 28.7 per cent to ₹14,855 crore during the reported quarter from ₹11,534 crore in the September 2024 quarter.
+The mobile devices manufacturing division of the company contributed 90 per cent of revenue during the reported quarter, while 6 per cent came from the consumer electronics and appliances division.
+The Nomination and Remuneration Committee of the company has approved the grant of 7,000 number of stock options to the employees of the company, its Subsidiary company(ies) and Joint Venture Company(ies) from time to time in one or more tranches.
+Published on October 18, 2025
+
+Title   : Dixon meets Q2 revenue target, bets on components to fuel growth
+Source  : www.livemint.com
+Published: 2025-10-17T15:28:10
+Fetched : 2025-10-18T10:27:40.807457
+URL     : https://www.livemint.com/companies/company-results/dixon-meets-q2-revenue-target-profit-growth-aided-by-unsold-goods-bets-on-components-to-drive-growth-11760708622358.html
+--------------------------------------------------------------------------------
+Dixon meets Q2 revenue target, bets on components to fuel growth
+Within the next two fiscal years, Dixon expect displays, mechanicals, power supplies and other components to represent a $12-billion net addressable industry in India with available margins of around 8%.
+Dixon Technologies Ltd’s revenue and profit rose in the September quarter as a growing volume of mobile phones and telecommunications products fuelled growth for India’s largest publicly listed electronics manufacturer.
+Noida-headquartered company’s operating revenue rose 15.7% sequentially and 33% year-on-year to ₹14,855 crore in the second quarter of FY26, according to its filings. Dixon met the guidance of 15% revenue growth that Atul Lall, its vice-chairman and managing director, had given in the June quarter.
+The company’s profitability rose 167% sequentially and 81% over a year earlier to ₹746 crore. However, this was largely due to Dixon selling goods manufactured in the past in the September quarter.
+The change in the company’s inventory of finished goods led to a loss of ₹413 crore in the June quarter, while it sold ₹297 crore of unsold goods during in July-September, leading to a jump in profits.
+While Lall did not offer guidance for future quarters during the post-earnings conference call with analysts, he expressed confidence in the company’s push to increase margins and navigate a slowdown in orders from Motorola, Dixon’s anchor client so far.
+JVs, diversification plans
+“Some of our components-linked joint ventures, such as with Q Tech for camera modules, are already leading to revenue realization since these are running factories. Others, such as display modules, will start adding revenue by the end of this fiscal or the first quarter of the next fiscal," Lall said.
+“Overall, within the next two fiscals, we expect displays, mechanicals, power supplies and other components to represent a $12-billion net addressable industry in India with available margins of around 8%," he said. “Of these, Dixon’s revenue opportunity can be around $1.5 billion ( ₹13,000 crore) annually."
+Lall further added that each of Dixon’s four joint ventures announced through the September quarter will start adding revenue by FY27 itself.
+“Among component manufacturing, we expect component supplies for 60 million smartphones by volume to generate $600 million in annual revenue. Similarly, the revenue addition from laptops could be $100 million, and we expect to see a further $60 million from television display manufacturing and $140 million from automotive display manufacturing—all adding up to at least $900 million ( ₹8,000 crore) over the next two years," Lall said.
+“All of this will add to our margin expansion process as we delve deeper into the electronics manufacturing ecosystem."
+The diversification play is already playing out in parts. Revenue from telecom equipment such as Wi-Fi routers grew 116% sequentially to ₹3,045 crore in September. Lall said that the company will actively seek enterprise-grade networking product clients.
+Risks and strategic moves
+However, Dixon’s growth opportunity does not come without risks. Revenue from pure-play mobile phone manufacturing dropped 5% sequentially to ₹9,312 crore, even though mobile phone revenue received a 130% sequential boost from Dixon’s subsidiary Ismartu, which makes phones for China-based Transsion Holdings. This clearly reflected a slowdown in Dixon’s production of phones from China-owned consumer electronics brand Motorola.
+Lall said that Vivo will be Dixon’s marquee client for the business. “That said, we do hope to have both Vivo and Motorola as two anchor clients for Dixon, and not just one."
+The company also said that it is negotiating a deal with a large original design manufacturer (ODM) based in the US—details may be signed by the end of this fiscal.
+Analysts have previously underlined the risk of Dixon’s dependency on singular large clients for a bulk of its revenue—Ismartu, for instance, alone accounted for 31% of Dixon’s quarterly revenue in Q2.
+Through the September quarter, Dixon made four partnership announcements—a 51:49 JV with China’s Kunshan Q Tech Microelectronics for camera, display and fingerprint modules; a 74:26 JV with Chongqing Yuhai for precision components of laptops and mobile phones; a 50:50 JV with Signify Innovations (formerly Philips Lighting) for LED light and accessories manufacturing; and an entry into battery production via wholly owned subsidiary, Dixon Electrocorp.
+“We're hearing the possibility of an export-target-based smartphone production incentive scheme in the works at the Centre. If such a plan plays out, this will work very well in Dixon's favour," said Harshit Kapadia, vice-president at Elara Capital.
+“Its current short-term risk is that of Chinese smartphone brand Xiaomi's market share declining in India, which may impact Dixon's earnings from its biggest revenue-driving segment," said Kapadia. “However, apart from this, Dixon remains on a steady track despite its dependency on select brands."
+
+Title   : Stocks to buy this Diwali: Dixon, Nykaa and 8 more scrips offer up to 31% gains in Samvat 2082 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-18T06:32:32
+Fetched : 2025-10-18T10:27:40.807545
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-this-diwali-dixon-nykaa-and-8-more-scrips-offer-up-to-31-gains-in-samvat-2082/slideshow/124657942.cms
+--------------------------------------------------------------------------------
+Brokerages Centrum Broking has come out with a list of 10 stock to buy this Diwali. The scrips come for varied sectors like manufacturing, banking, and automobile sectors, offering up to 31% over Samvat 2082. Here's what it recommends and why-
+ETMarkets.com
+2/11
+Buy Dixon Technologies at Rs 17,195 | Upside: 25%
+A fundamental pick from Centrum Broking. It expects Dixon’s healthy order book to result in 15% QoQ volume growth in Q2FY26. The stock is valued at 67X its Q2FY28E TTM EPS. Buy for the target of Rs 21,574
+ETMarkets.com
+3/11
+Buy Azad Engineering at Rs 1,640 | Upside: 31%
+Buy for target of Rs 2,145. Given a strong order book of Rs 6,000 crore, the company has a projected (FY27) book to bill of 10X. Margins at both EBITDA and PAT levels have constantly expanded, along with aggressive capacity expansion.
+ETMarkets.com
+4/11
+Buy Syrma SGS Technology at Rs 830 | Upside: 25%
+Buy for a target of Rs 1,035. With operating income expected to grow by a CAGR OF 30% over the next 2 year and PAT margins stablising at around 7%. Together with the margin expansion accruing from the PCB business, the company is valued at A P/E of 45X the FY27E EPS OF Rs 23.
+ETMarkets.com
+5/11
+Buy Canara Bank at Rs 128 | Upside: 18%
+Buy for a target of Rs 151. Canara Bank has seen a steady decline in NPAs over the past 3 years and NIMs stablising at around 2.4% levels. NIMs to gradually improve to the 2.7-2.8% levels between FY27 AND FY28. Stock is valued at 1.2 X FY27E ABV of Rs 126.
+ETMarkets.com
+6/11
+Buy Cholamandalam Investments at Rs 1,647 | Upside: 18%
+Buy for a target of Rs 1,935. Cholamandalam Investment & Finance Company (CIFC) will be able to overcome its challenges in Q2FY26 and sustain a 20% CAGR as guided by the management and expand NIM by around 15 bps. Stock is valued at 4.5X Q2FY28 book value of Rs 430.
+ETMarkets.com
+7/11
+Buy Nykaa at Rs 261 | Upside: 23%
+Target: Rs 320 Stop Loss: Rs 240
+The stock prices continue to trade in higher & higher bottom formation. The prices continue to trade above the cup & handle breakout. The neckline is placed near 230 levels which coincides with its 50 EMA & the 200 SMA is placed near 197 levels. The RSI is very comfortable on the bullish zone.
+Agencies
+8/11
+Buy Swiggy at Rs 435 | Upside: 19%
+Target: Rs 517 Stop Loss: Rs 401.5
+The stock prices continue to trade in higher top higher bottom formation in an uptrend channel. In the weekly time frame the stock prices have formed a bullish engulfing & retested the previous rectangle breakout. The RSI has also formed a positive reversal adding further bullishness.
+ETMarkets.com
+9/11
+Buy KEI Industries at Rs 4,311 | Upside: 22%
+Target: Rs 5,251 Stop Loss: Rs 3,878
+KEI has been consistently forming higher highs and higher lows, moving within a rising channel. It is trading well above all its short-term and long-term moving averages, showing strong upward momentum. Based on this setup, the stock is expected to move towards new record highs at 5,251.
+ETMarkets.com
+10/11
+Buy Bajaj Auto at Rs 9,066 | Upside: 21%
+Target: Rs 11,000 Stop Loss: Rs 8,250
+Bajaj Auto has formed a solid base and moved above its key short term and long-term moving averages. It has strong support at the long-term 200-DMA, placed near 8,250. Based on this setup, the stock is expected to move towards the 11,000 level, with strong support at 8,250.
+Agencies
+11/11
+Buy Bharat Electronics at Rs 409 | Upside: 22%
+Target: Rs 500 Stop Loss: Rs 369
+BEL is on the verge of a triangle pattern breakout on the daily chart. Trading well above all its short-term and long-term moving averages, it is indicating strong bullish momentum. Based on this setup, the stock is expected to move towards new record highs near 500.
+(Disclaimer: The recommendations, suggestions, views, and opinions given by the experts are their own. These do not represent the views of The Economic Times.)
+

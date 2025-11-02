@@ -1,0 +1,40 @@
+Full Article Fetch Test - HYUNDAI
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 13.69B
+
+Title   : Talegaon plant preps Hyundai for exports, multi-model production
+Source  : www.livemint.com
+Published: 2025-10-13T00:30:07
+Fetched : 2025-10-14T07:32:49.495836
+URL     : https://www.livemint.com/companies/news/talegaon-plant-preps-hyundai-for-exports-multi-model-production-11760260943708.html
+--------------------------------------------------------------------------------
+Talegaon plant preps Hyundai for exports, multi-model production
+The 170,000-units-per-annum plant in Talegaon, near Pune, will first produce the new facelift of its compact sports utility vehicle, Hyundai Venue, and another model which is likely to be a new launch.
+NEW DELHI : Hyundai Motor India Ltd (HMIL) will initially produce two car models at its Talegaon plant and prepare the facility to make vehicles for export to emerging markets, as the company marks its largest capacity addition in seven years.
+According to two people in the know, the 170,000-units-per-annum plant will first produce the new facelift of its compact sports utility vehicle, Hyundai Venue, and another model which is likely to be a new launch.
+According to the company's presentation to investors last month in New York as part of the Investor Day 2025, the Talegaon plant will focus on India-centric products, exports for emerging markets and have a multi-model assembly capability, allowing it to produce all types of vehicles, including electric vehicles (EVs) and internal combustion vehicles.
+The current capacity will gradually be increased to 250,000 units over the next three years, as plant operations scale up with new vehicles, taking Hyundai’s total production capacity in India to nearly 1 million units annually.
+Hyundai bought the Talegaon plant, near Pune, from General Motors in 2024 for an undisclosed amount and committed to invest ₹6,000 crore, which has reportedly been increased to ₹11,000 crore. In 2018, the company pledged to invest ₹7,000 crore to expand the Chennai plant capacity by over 100,000 units
+“As of now only two vehicles are being planned in Talegaon, the new Hyundai Venue and one more yet-to-be-announced vehicle," the first of the two persons cited earlier said, both of whom spoke on the condition of anonymity. Venue was Hyundai’s second-highest-selling vehicle in the financial year 2025, with 119,113 sales out of the total 598,666 unit sales in India.
+Export plans
+Hyundai’s global management’s plans for the new facility, which began production of vehicles on 1 October, to act as an export hub for emerging markets has led to some analysts drawing a contrast with Maruti Suzuki’s recent commitment of setting aside capacity to export its new electric vehicle to European markets.
+“While a key competitor, Maruti Suzuki, is making India the production base for some models including exporting to developed countries along with improving exports mix, HMI’s exports are seeing its product mix deteriorate and the company continues to remain a production base only for emerging markets," analysts at HDFC Securities wrote in a 1 October note.
+The second person cited earlier added that in the run-up to the commencement of production at the plant, workers were trained in batches at the Chennai plant, and many Korean nationals are also said to have flown to India to help prepare the workers and the plant.
+In a 11 August note, analysts at Goldman Sachs suggested that Hyundai will initially look to target higher-volume models at the plant.
+“We believe HMIL is likely to prioritize higher volume models in the new plant, in order to more efficiently absorb early start up costs and drive a pickup to optimal utilization levels within the first 30 months of operations," the note said.
+Puneet Gupta, director at S&P Global Mobility, said that Chinese automakers are aggressively entering developed markets with products far superior in technology and powertrains.
+"For Hyundai to capture a foothold in these markets with make-in-India models, it must build technologically-advanced models in India that can stand shoulder to shoulder with global competition. Right now, the plant mainly produces cars suited for Indian needs, so it makes sense to export them to other similar emerging markets."
+Queries sent to Hyundai Motor India on 8 October remained unanswered.
+Capacity push, rising competition
+As part of its push in the Indian market, Hyundai announced earlier this year that it will launch 26 new vehicles in the country, which will include fresh models and upgrades for existing cars. Out of these 26, 20 will be internal combustion engines (ICE), while the rest will be electric vehicles. The company also has plans to introduce hybrid vehicles.
+The company’s leadership is expected to lay out the details of its product plan to investors on 15 October when it is scheduled to hold its first investor day in Mumbai. According to the second person in the know, the company will look to add the Hyundai Bayon, a compact SUV, to the Indian market.
+Analysts have highlighted repeatedly that the company needed the new capacity as its manufacturing plant near Chennai, Tamil Nadu, was operating at peak capacity.
+“The capacity expansion is much-needed as the company has been operating at >90% utilization in FY24 and FY25," analysts at HDFC Securities wrote.
+Increasing production is also crucial as it comes at a time when the company is facing the threat of losing the second spot, behind Maruti, it has held in the Indian passenger vehicle market since 2009.
+Between January and September 2025, Hyundai has come under pressure from Tata Motors and Mahindra & Mahindra. During this period, Mahindra displaced Hyundai from the second spot with 446,000 sales as against Hyundai's 425,000 sales.
+Tata has also closed the gap with Hyundai, emerging as the second-largest car seller in September with nearly 60,000 sales. Between January and September, Tata Motors sold 410,000 units in the Indian market.
+Its rivals have also dialled up capacity expansion plans, with Tata Motors inaugurating a 300,000 units per annum capacity in Sanand, Gujarat, last year, and constructing a 250,000-unit capacity in Panapakkam, Tamil Nadu. With the new additions, the Mumbai-based carmaker’s capacity increased to over 1 million units.
+Mahindra and Mahindra also announced in August that it will add 240,000 units per annum capacity to its Chakan plant to accommodate its new vehicle technology platform, taking its capacity to over 750,000 units per year.
+Hyundai has seen its share price increase by 34% this year, as against a 15% rise in Nifty Auto index.
+

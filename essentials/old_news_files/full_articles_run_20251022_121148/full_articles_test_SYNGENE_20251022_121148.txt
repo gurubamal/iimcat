@@ -1,0 +1,21 @@
+Full Article Fetch Test - SYNGENE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 867.00M
+
+Title   : Syngene expands Biologics facility with new ADC bioconjugation capability
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T13:43:37
+Fetched : 2025-10-22T14:19:54.482977
+URL     : https://www.thehindubusinessline.com/companies/syngene-expands-biologics-facility-with-new-adc-bioconjugation-capability/article70190022.ece
+--------------------------------------------------------------------------------
+Contract research, development, and manufacturing organisation (CRDMO), Syngene International is adding a GMP bioconjugation suite at its commercial biologics facility [Unit 3] in Bengaluru.
+The new capability will offer end-to-end services for antibody-drug conjugates (ADCs) – from discovery through to GMP manufacturing, and is set to be operational within this financial year.
+The OEB-5-rated suite will accelerate ADC development timelines by enabling both Monoclonal Antibodies (mAb) production and GMP bioconjugation at a single site.
+The conjugation facility will also support a range of advanced conjugates and related modalities.
+Alex Del Priore, Head - LM CDMO, Syngene International. “By integrating bioconjugation capabilities with our commercial-scale biologics, payload, and linker production units in Bengaluru, we can significantly compress development timelines and offer a unique, end-to-end pathway from early discovery through to GMP manufacturing.”
+Building on a decade of experience in ADC discovery and with proven expertise in handling high-potency payloads, linkers, and mAbs across well-established, GMP-compliant facilities, Syngene is scaling its capabilities to support clinical programs and plans to develop commercial-scale capabilities in the future.
+Additionally, the laboratories will offer process development, analytical characterization, and scale-up for both early- and late-stage programs.
+The shares of Syngene closed at Rs 641.90 , down by 0.31 per cent on the BSE.
+Published on October 22, 2025
+

@@ -1,0 +1,113 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-06T14:51:34.516530
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com
+Tickers planned: 21
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHARTIARTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARUTI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - WIPRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GRASIM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HINDALCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TITAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBILIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIPRULI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBICARD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCAMC
+================================================================================
+
+(no fresh items in last 48h)
+

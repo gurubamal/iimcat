@@ -1,0 +1,45 @@
+Full Article Fetch Test - SHAH
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-25): 24.94M
+
+Title   : F&O Talk | Nifty takes breather after Diwali gains, 30,000 still a likely destination by next Diwali: Sudeep Shah 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-25T10:54:24
+Fetched : 2025-10-25T12:41:00.786024
+URL     : https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-takes-breather-after-diwali-gains-30000-still-a-likely-destination-by-next-diwali-sudeep-shahx/articleshow/124804638.cms
+--------------------------------------------------------------------------------
+Stronger-than-expected Q2 earnings from major companies buoyed market sentiment, bolstered further by renewed optimism around potential India–U.S. trade partnerships and easing tariff tensions between the U.S. and China. Continued foreign investor confidence also played a key role, with announced investments exceeding Rs 50,000 crore in India’s financial and banking sectors.
+However, some caution emerged on the macroeconomic front, as the output of eight core industries decelerated to 3% in September 2025, down from 6.5% in August. Meanwhile, the HSBC Flash India Composite Output Index dipped to a five-month low of 59.9 in October, signaling a slight slowdown in private-sector activity.
+With this, analyst Sudeep Shah, Vice President and Head of Technical & Derivatives Research at SBI Securities, interacted with ET Markets regarding the outlook for the Nifty and Bank Nifty, as well as an index strategy for the upcoming week. The following are the edited excerpts from his chat:
+What's the view on markets with all the optimism that was seen this week?
+The Indian equity market has been on a remarkable run this October, with the benchmark index Nifty clocking an impressive rally of over 1,500 points from its low of 24,588 — all within just 15 trading sessions. This swift upward move reflected strong bullish momentum, supported by festive optimism, robust domestic flows, and improving global sentiment.
+During the Diwali week, Nifty came within striking distance of its all-time high, sparking hopes of a fresh breakout. However, the index couldn’t sustain the momentum and faced profit booking, suggesting that investors may be turning cautious after the sharp run-up.
+This pause in momentum has led to the formation of a Shooting Star-like candlestick pattern on the weekly chart, a sign that the uptrend may be losing steam. The pattern suggests that bulls tried to push prices higher but faced resistance. However, for this to signal a true reversal, a confirmation candle — typically a bearish follow-through is needed. The daily RSI had touched a high of 72.69, and since then, it has dropped to 67.19, currently in a falling mode, which adds to the cautious tone.
+Meanwhile, the market is also waiting for details of the India-US trade deal, which could be a key trigger for the next move. With technical indicators cooling off and macro developments in focus, the next few sessions will be crucial in deciding whether this is just a pause or the beginning of a deeper correction.
+Talking about levels, the zone of 25,550-25,500 will act as crucial support for the index as it is the confluence of the 13-day EMA level and 38.2% Fibonacci retracement level of its recent upward rally (24,588-26,104). While on the upside, the zone of 25,950-26,000 will act as a crucial hurdle for the index. Any sustainable move above the level of 26,000 will lead to a sharp upside rally up to the 26,300 level.
+This Diwali brought in a lot of cheer in the market. Do historical Diwali to Diwali trends support this optimism? Where do you see Nifty next Diwali?
+This Diwali has brought renewed optimism to the markets — and historical trends seem to justify the mood. Over the past nine years, Nifty has delivered an average Diwali-to-Diwali return of nearly 14%, posting gains in eight out of nine years. The average positive gain stands at a healthy 15.78%, reflecting the index’s strong festive-season momentum. With Nifty currently around 25,795, a similar return trajectory could lift it to the 29,500–30,000 zone by next Diwali. Sustained earnings growth, strong domestic liquidity, and steady FII inflows could keep the uptrend intact — making the next Diwali another bright one for equity investors.
+FIIs also turned buyers. Is this likely to sustain?
+While FIIs have turned buyers in recent sessions, it’s too early if they have well and truly arrived. Over the past three months, they have sold equities worth Rs 1.29 lakh crore, and despite being buyers in 9 out of 15 sessions this month, the net outflow still stands at Rs 866 crore. The long-short ratio in index futures has risen from 6% to 24%, indicating that much of the recent Nifty rally stems from short covering rather than fresh long positions. FIIs remain cautious, watching developments around the India–US trade deal and the Bihar elections in November. Sustained confidence could see them return more decisively, driving markets higher.
+What are your views on the India-US trade deal? Will a favourable deal result in a further rally?
+Absolutely. A favourable trade agreement between India and the US could act as a strong catalyst for the markets, potentially triggering a sharp upside rally in benchmark indices.
+What's the take on Bank Nifty now?
+The banking benchmark index, Bank Nifty, marked a fresh all-time high on Thursday, reflecting strong sectoral momentum and investor confidence. However, the index couldn’t sustain above the crucial 58,500 level, and soon after, it witnessed profit booking, indicating a temporary shift in sentiment after the sharp rally.
+This pullback led to the formation of a Shooting Star candlestick pattern on the weekly chart, a technical signal that often points to trend exhaustion. The pattern suggests that bulls attempted to push prices higher but were met with resistance, resulting in a potential pause or reversal in the uptrend.
+Adding to the cautious tone, the daily RSI has also shown signs of weakness. After touching a high of 76, the RSI has now given a bearish crossover and is currently trending lower, which typically signals a cooling-off in momentum and a possible consolidation phase.
+With Bank Nifty at a critical juncture, traders will be watching closely for confirmation signals in the coming sessions. Whether this is a temporary breather or the start of a broader correction will depend on price action in the next couple of trading sessions.
+Talking about crucial levels, the zone of 57,000-56,900 will act as important support for the index as the 38.2% Fibonacci retracement level of its recent upward rally is placed in that region. On the upside, the zone of 58,200-58,300 will act as a crucial hurdle for the index. Any sustainable move above the level of 58,300 will lead to a sharp upside rally up to the level of 59,000, followed by 59,500 in the short term.
+Any sectors that are looking attractive?
+From a technical perspective, several sectoral indices are showing signs of continued strength and are likely to outperform in the short term. Leading the pack are Nifty Metal, IT, CPSE, Realty, and Oil & Gas, all of which have maintained bullish momentum supported by favourable chart structures and strong relative strength. These sectors have shown resilience even during broader market pauses.
+On the flip side, Nifty Media continues to lag behind and is likely to underperform in the near term. Weak price action and lack of buying interest have kept the index subdued, and technical indicators suggest limited upside unless a strong reversal pattern emerges.
+Any stocks that may be technically well-placed?
+Technically, Cummins India, Blue Star, Hindalco and Chola Finance are looking good.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

@@ -1,0 +1,2 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,HINDALCO,48.1,bullish,HOLD,,,90,1,N/A,"Hindalco shares jump over 6% in 3 days, hit record high on copper and aluminium rally ",Detected 0 catalyst(s). Score: 50/100. Certainty: 90%. BULLISH sentiment.

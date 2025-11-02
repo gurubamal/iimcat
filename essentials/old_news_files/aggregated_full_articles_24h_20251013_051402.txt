@@ -1,0 +1,49 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-13T05:14:02.863704
+Hours back: 24
+Publishers-only: True
+Sources: reuters.com, bloomberg.com, bqprime.com, economictimes.indiatimes.com, livemint.com, moneycontrol.com, business-standard.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, businesstoday.in, zeebiz.com
+Tickers planned: 8
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - LT
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+(no fresh items in last 24h)
+

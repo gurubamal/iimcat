@@ -1,0 +1,20 @@
+Full Article Fetch Test - ELLEN
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-09
+
+Title   : Broker’s call: Ellenbarrie (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T12:38:47
+Fetched : 2025-09-09T15:01:59.035218
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-ellenbarrie-buy/article70029269.ece
+--------------------------------------------------------------------------------
+Target: ₹680
+CMP: ₹553.55
+Ellenbarrie Industrial Gases (ELLEN), with a legacy of over five decades, is among the oldest industrial gas companies in India. The company manufactures and supplies a broad portfolio of gases, including oxygen, nitrogen, argon, hydrogen, helium and carbon dioxide. These gases are integral to essential systems and applications across industries such as steel, pharmaceuticals, healthcare, engineering, defence, energy and food & beverages, supporting recurring demand and fostering long-term customer relationships.
+The company’s business model is underpinned by strong customer retention and high entry barriers, arising from the core nature of industrial gases and the structural rigidity of long-term pipeline contracts that limit supplier substitution.
+Geographical expansion continues to be a core priority of Ellen, as it is progressing toward a pan-India footprint by increasing its presence in the northern and western parts of India while strengthening its manufacturing capabilities in the eastern and southern regions.
+We expect a CAGR of 39/49/52 per cent in revenue/EBITDA/PAT over FY25-28. Ellen is currently trading at 49.8x/30.6x/25x FY26E/FY27E/FY28E PE. We initiate coverage on Ellen with a Buy rating and a TP of ₹680, based on about 40x FY27E EPS.
+Key downside risks: dependent on key customer relationships, prolonged disruption in facilities, slower demand in key sectors like steel.
+Published on September 9, 2025
+

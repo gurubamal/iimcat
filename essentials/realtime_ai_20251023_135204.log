@@ -1,0 +1,68 @@
+2025-10-23 13:52:08,121 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 13:52:08,122 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 13:52:08,122 - INFO - 🚀 Starting real-time collection + analysis for 3 tickers
+2025-10-23 13:52:08,122 - INFO -    Time window: 24 hours
+2025-10-23 13:52:08,122 - INFO -    Max articles per ticker: 10
+2025-10-23 13:52:08,122 - INFO - 
+[1/3] Processing 20MICRONS...
+2025-10-23 13:52:08,122 - INFO - 📰 Fetching news for 20MICRONS (last 24h)
+2025-10-23 13:52:13,428 - INFO - ✅ Found 1 recent articles for 20MICRONS
+2025-10-23 13:52:13,430 - INFO - 🔍 INSTANT ANALYSIS: 20MICRONS
+2025-10-23 13:52:13,431 - INFO -    Headline: Page 776 - Capital Market/workspace/business Standard Web/video - Business Stand...
+2025-10-23 13:52:13,431 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:13,431 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:13,431 - INFO - 
+[2/3] Processing 21STCENMGM...
+2025-10-23 13:52:13,431 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 13:52:14,772 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 13:52:14,772 - INFO - 
+[3/3] Processing 360ONE...
+2025-10-23 13:52:14,772 - INFO - 📰 Fetching news for 360ONE (last 24h)
+2025-10-23 13:52:16,818 - INFO - ✅ Found 2 recent articles for 360ONE
+2025-10-23 13:52:16,853 - INFO - 🔍 INSTANT ANALYSIS: 360ONE
+2025-10-23 13:52:16,855 - INFO -    Headline: Buy 360 ONE WAM; target of Rs 1400: Motilal Oswal - Moneycontrol...
+2025-10-23 13:52:16,858 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:16,858 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:16,860 - INFO - 🔍 INSTANT ANALYSIS: 360ONE
+2025-10-23 13:52:16,860 - INFO -    Headline: AI startup Uniphore raises $260 million in Series F from Nvidia, AMD, Snowflake,...
+2025-10-23 13:52:16,868 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:16,869 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:16,869 - INFO - 
+✅ Collection complete!
+2025-10-23 13:52:16,869 - INFO -    Total articles: 3
+2025-10-23 13:52:16,869 - INFO -    Successfully analyzed: 3
+2025-10-23 13:52:16,873 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_135204.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. 360ONE - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+2. 20MICRONS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 3
+   Results saved: realtime_ai_analysis_20251023_135204.csv

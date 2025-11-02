@@ -1,0 +1,20 @@
+Full Article Fetch Test - ZAGGLE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 261.11M
+
+Title   : Broker’s call: Zaggle (Buy) 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T11:53:52
+Fetched : 2025-10-14T12:48:14.413267
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-zaggle-buy/article70162597.ece
+--------------------------------------------------------------------------------
+Target: ₹520
+CMP: ₹344.75
+Zaggle Prepaid Ocean Services (Zaggle) is a home-grown SaaS-fintech platform that helps businesses digitise spending across employee reimbursements, vendor payments, channel partner rewards and incentives, along with a host of expanding use cases.
+Founded in 2011, the company has steadily evolved from a corporate gifting player into a full-scale enterprise spend management platform. Its key products such as Save, Propel and Zoyer allow corporates to automate and track spends, while newer product launches are adding analytics and international payment capabilities.
+With a robust customer acquisition model, Zaggle has built strong partnerships with 19 banks and all major card networks. The company has issued 50mn+ prepaid cards for over 3,550 corporates with around 3.3mn active users, while operating an asset-light model with high customer stickiness.
+Monetisation includes SaaS subscription fees, interchange income and merchant commissions. With rising cross-sell via ecosystem play, growing adoption of digital spend tools and a strong portfolio of enterprise clients, Zaggle is perfectly positioned to benefit from the sustained formalisation of business spends in India.
+We initiate coverage on Zaggle with a Buy rating and a Sep’26 TP of ₹520, valuing the company at 30x Sep’27E EPS, slightly conservative compared to other B2B internet peers considering the recent margin dip and the rise in working capital requirement for Propel.
+Published on October 14, 2025
+

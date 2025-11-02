@@ -1,0 +1,65 @@
+Full Article Fetch Test - LT
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 158.47B INR
+
+Title   : Behind HCLTech’s Domino software bet
+Source  : www.livemint.com
+Published: 2025-09-05T00:30:17
+Fetched : 2025-09-05T03:20:49.099328
+URL     : https://www.livemint.com/companies/news/hcltech-hcl-domino-14-5-hclsoftware-public-sector-it-data-residency-security-solutions-11756961483669.html
+--------------------------------------------------------------------------------
+Behind HCLTech’s Domino software bet
+The latest upgrade to Domino signals a renewed push to retain government clients and boost profitability.
+Seven years after HCL Technologies Ltd bought the Domino software product from International Business Machines Corp., the former is expecting big business from the software after giving it a facelift.
+The country’s third-largest IT outsourcer bought Domino and seven other software products from IBM in 2018 as the company sought to enter the software products business.
+HCLTech’s move is aimed at seeking more government contracts with a software product that has stood the test of time. It follows Tata Consultancy Services Ltd’s bid to land more government contracts after the launch of a sovereign cloud network, or cloud solutions for governments, in April.
+On 27 August, India’s third-largest IT company, HCLTech, announced to stock exchanges that the recent launch of its HCL Domino 14.5 software was critical in addressing “the most pressing security concerns by guaranteeing data residency within national borders and eliminating service disruption risks from enterprise solution providers."
+This wasn’t just a routine release. It was a signal to over 400 government clients that Domino, despite its age, is evolving to meet modern demands.
+Supporting independence
+“Organizations in critical sectors, such as governments, should not be constrained by software and cloud decisions that compromise their digital independence and data privacy. With the recent launch of Domino 14.5, which includes sovereign AI, HCLSoftware is dedicated to leading the charge in providing secure sovereign collaboration solutions," said Richard Jefts, executive vice-president and general manager for HCLSoftware, adding that the company’s approach protects sensitive data within email, chat, video recordings and documents from potential exposure.
+Sovereign AI refers to AI solutions for governments, and Sovereign Collaboration Solutions is a new set of offerings for governments and government agencies.
+“Governments and critical infrastructure operators are no longer comfortable depending on hyperscalers or global SaaS platforms where data can cross borders or fall under foreign jurisdiction," said Phil Fersht, chief executive of HFS Research. "What HCL is doing with Domino 14.5 and its Sovereign AI layer is tapping directly into that sentiment, offering public sector clients not just collaboration tools, but the assurance that data residency, compliance, and control remain fully under domestic oversight."
+Put simply, HCLTech has given Domino a fresh boost with an eye on making enterprise applications run inside large government-run projects. The latest software upgrade to Domino sees the company building AI-led capabilities that make processes faster and more secure.
+Domino lets businesses manage communication and apps on their own infrastructure. According to HCL’s press release cited above, about half of the 400 government agencies use Domino. The latest update integrates automation tools and more security features into the software.
+“Domino has two facets. The first is customers running complex workflows and apps built over three decades on Domino, and we give them the flexibility to modernize the experience layer of Domino via VoltMX. Second and perhaps more important is “Secure Sovereign Collaboration", where we have brought more innovation in Domino 14.5 to provide critical sovereign features that addresses Data Sovereignty, Regulatory Compliance along with forward looking use cases with offline LLM and private AI," said a HCLTech spokesperson in response to Mint’s email
+What the press release didn’t reveal was the internal debate that preceded this upgrade.
+For context, HCLTech bought eight products from IBM in December 2018 for $1.8 billion (the acquisition was completed in July 2019). This was the largest purchase by an information technology (IT) services company at the time, and marked a rare entry by a homegrown software service provider into the software products space.
+Comfort levels
+At least two executives privy to the developments said HCL’s management was mulling over going slow with updates on the Domino software, with a wish to shift clients to a rival software developed internally. “At some point last year, HCL was planning on going slow on using the Domino software because it is old and has limitations," said the first executive.
+But Domino’s deep integration into client systems made that transition difficult. “Domino became more like a neural network. No one knew how many were using this software, and the moment our clients tried to stop using Domino, it would impact their existing processes."
+Clients were reluctant to switch, citing ease of use and data security concerns. “HCLTech even tried to move clients to a rival software called VoltMX, but the pickup for that was comparatively low because of Domino’s steady use in the clients’ systems," said the second executive. VoltMX is another software application developed by HCLTech that allows executives with no coding background to build software applications.
+According to the two executives, Domino was quick.
+“For other software products, we guide and give a manual to clients, but with the current Domino 14.5 update, debugging and getting the user interface ready took only a few days. Other features became faster, too," said the first executive.
+Government contractors also refrained from shifting their processes to other software because they were concerned about the spillage of sensitive data.
+Cash cow
+“HCL gets a steady stream of revenue from Domino, so rather than stop its use completely, the management decided to upgrade it with enhanced security and more updates," said the second executive.
+Mint could not independently ascertain the revenue it gets from Domino or any of the software products separately. However, HCL clubs revenue for each of its software products under HCLSoftware.
+Last year, the software products business made up a little more than a tenth, or $1.43 billion, of the company's full-year revenue of $13.84 billion. To put this in context, the company’s revenue from selling software products and licenses alone is almost the size of Coforge Ltd, the country’s seventh-largest IT outsourcer.
+However, when HCL acquired the software products seven years ago, the idea was to increase the company’s overall profitability, as selling software did not require many billable people who had to be paid.
+In a presentation to IBM during the purchase, HCL’s management outlined a desired profitability of 30% for its software products unit. According to a Mint survey, the unit, rebranded as HCLSoftware in June 2022, reported operating margins of 30% only once in FY20. Last year, it reported operating margins of 26.6%, up 200 basis points on a yearly basis.
+Still, there has been some churn in the company's software product business, which has had three heads in the last eight years.
+Still, even as the company’s overall operating margins have traditionally been boosted by the software business, management cut its profitability forecast for the full year to 17-18% in July from 18-19% forecast in April.
+The management attributed this to several factors, including “specialized hiring as well as skill and location mismatch and a one-off impact of customer bankruptcy."
+HCLTech itself has been on a roll, having outgrown each of the top five in the last two years. While HCLTech grew 4.3% last year, larger peers TCS and Infosys Ltd grew 3.78% and 3.85%, respectively.
+Smaller peersWipro Ltd and Tech Mahindra Ltd reported a revenue decline of 2.72% and 0.21%, respectively.
+HCL’s current move to get more business from governments follows larger peer TCS, which launched a sovereign cloud network in April this year.
+
+Title   : Valor Estate may also move NCLT to revise Lavasa offer 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T19:13:19
+Fetched : 2025-09-05T03:20:49.100344
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/valor-estate-may-also-move-nclt-to-revise-lavasa-offer/articleshow/123709071.cms
+--------------------------------------------------------------------------------
+Valor petitioned the court following a week of fast-paced developments in which the Welspun-Ashdan consortium was allowed to change its payment timeline, making it frontrunner to take over project. All 3 resolution plans, including that of the Yogayatan Group, were put to vote by the committee of creditors late on Wednesday.
+In the court hearing on another application filed by Anuj Goyal, lawyers for Valor also objected to the allegations of Welspun subsidiary Paschim Sagar Properties, which had sought disqualification of Valor's bid under Section 29A of the Insolvency and Bankruptcy Code (IBC).
+Welspun had cited Valor's past defaults and alleged links to the company's promoters. "During the hearing Valor's lawyers have also submitted that the company is in the process of filing an interlocutory application (IA) to bring on record serious concerns arising during the CIRP. Earlier this week, the resolution professional (RP) allowed modifications to financial proposals submitted by Welspun-Ashdan, and unfairly declined Valor's request to update its resolution plan which is discriminatory and against a level playing field," said a person aware of the proceedings.
+The Valor application, likely to be filed soon, is expected to highlight that the company must also be given an opportunity to revise its timeline.
+Valor did not reply to an email seeking comment. Replying to ET's email the RP said, "All documents, filings, and records pertaining to CIRP of corporate debtor are confidential in nature and cannot be disclosed, shared, or commented upon in the public domain."
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

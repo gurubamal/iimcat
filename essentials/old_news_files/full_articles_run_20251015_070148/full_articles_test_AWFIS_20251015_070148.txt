@@ -1,0 +1,44 @@
+Full Article Fetch Test - AWFIS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 99.77M
+
+Title   : QRG Investments offloads 3.4% stake in Awfis for ₹141 crore; HSBC MF steps in
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T02:19:08
+Fetched : 2025-10-15T07:33:14.116581
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/qrg-investments-offloads-34-stake-in-awfis-for-141-crore-hsbc-mf-steps-in/article70165425.ece
+--------------------------------------------------------------------------------
+QRG Investments and Holdings on Tuesday divested nearly a 3.4 per cent stake in co-workspace solutions platform Awfis Space Solutions for Rs 141 crore through an open market transaction.
+QRG Investments and Holdings is one of the promoters of Havells India.
+According to the bulk deal data available on the NSE, QRG Investments and Holdings sold 24.07 lakh equity shares or 3.37 per cent stake in Awfis Space Solutions.
+The transaction was valued at around Rs 140.89 crore and was executed at an average price of Rs 585.14 apiece.
+After the latest transaction, QRG Investments and Holdings' shareholding in Awfis has come down to 0.75 per cent from 4.11 per cent.
+HSBC Mutual Fund buys in
+Meanwhile, HSBC Mutual Fund bought 5.21 lakh shares, representing a 1.28 per cent stake in New Delhi-based Awfis Space Solutions for Rs 585 per share.
+The deal value stood at Rs 53.72 crore.
+Shares of Awfis Space Solutions slipped 1.87 per cent to close at Rs 575.90 apiece on the NSE.
+Published on October 15, 2025
+
+Title   : Stocks to watch today: Lemon Tree, Zomato, Ola, Kirloskar Ferrous, Anant Raj, Awfis and more in spotlight
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T02:03:25
+Fetched : 2025-10-15T07:33:14.116650
+URL     : https://www.thehindubusinessline.com/markets/stocks-to-watch-lemon-tree-zomato-ola-kirloskar-ferrous-anant-raj-awfis-and-more-in-spotlight/article70165456.ece
+--------------------------------------------------------------------------------
+Lemon Tree Hotels Limited, India’s fastest-growing mid-scale and premium hotel chain, today announced the signing of its latest property, Lemon Tree Hotel, Gandhidham. This property shall be managed by Carnation Hotels Private Limited, a wholly-owned subsidiary of Lemon Tree Hotels Limited, and further strengthens the company’s presence in Gujarat, while catering to both religious and leisure travellers for a fresh, vibrant, and value-driven experience.
+Keystone Realtors Limited will conduct an Offer for Sale (OFS) on October 15-16. Three promoters will offer up to 45,76,000 equity shares, representing 3.63 per cent of the company’s total equity, at a floor price of ₹550 a share. The OFS aims to meet minimum public shareholding requirements. Non-retail investors can bid on October 15, while retail investors can participate on October 16.
+Kirloskar Ferrous Industries Limited has announced that the operations at the Hiriyur plant, Karnataka, have been suspended temporarily from October 14 for around 40 days towards normal maintenance and repair activities.
+Highway Infrastructure, an integrated infrastructure development and management company with strong capabilities across Toll Operations, EPC Infrastructure and Real Estate, has received the Letter of Acceptance (LOA) from the National Highways Authority of India (NHAI). The contract pertains to the operation of user fee collection and upkeep of facilities on a section of the eight-lane Access Controlled Expressway between Laban Village (Bundi District) and Gopalpura Village (Kota District), Rajasthan, covering Km 337.171 to Km 417.810 under packages 12 to 14 of the Delhi-Vadodara Expressway (DVE).
+Carraro India Limited, an independent Tier-I solution provider for axles, transmission systems, gears and other related components, has announced today that. The company has achieved a significant strategic milestone by securing a pivotal engineering services contract for the detailed feasibility and industrialisation of E-Transaxles for electric-powered agricultural tractors. The agreement is with TI Clean Mobility Private Ltd - Montra Electric (“Customer”). The contract is valued at Rs 17.50 crore, and this development positions Carraro as a key technology supplier for the Indian tractor industry.
+Realty firm Anant Raj Ltd has raised Rs 1,100 crore through the sale of equity shares to institutional investors. The Finance and Investment Committee of the board of directors approved the issue and allotment of 1,66,16,314 equity shares to eligible qualified institutional buyers at an issue price of Rs 662 apiece, aggregating to Rs 1,100 crore, according to a regulatory filing on Tuesday. The company launches its Qualified Institutional Placement (QIP) issue on October 7. The issue closed on October 13.
+DCM Shriram Ltd has commissioned its Epichlorohydrin (ECH) plant with a capacity of 35,000 tonnes per annum (TPA) at its chemical complex in Jhagadia, Bharuch district, Gujarat. The commissioning took place on October 14, 2025, at 2:00 pm, with the company stating that the remaining 17,000 TPA capacity will be brought online shortly.
+Ola Electric is likely to enter the energy storage market, which is expected to reach over USD 30 billion by 2030, sources said. Ola Electric Chairman and Managing Director Bhavish Aggarwal has hinted at a major announcement on October 17, suggesting the company’s entry into the segment. In a tweet, Aggarwal stated that power in India is transitioning “from utility to deep tech - intelligent, portable, and personal”, signalling a potential shift beyond the company’s core electric vehicle business.
+QRG Investments and Holdings on Tuesday divested nearly a 3.4 per cent stake in co-workspace solutions platform Awfis Space Solutions for Rs 141 crore through an open market transaction. QRG Investments and Holdings is one of the promoters of Havells India. According to the bulk deal data available on the NSE, QRG Investments and Holdings sold 24.07 lakh equity shares or 3.37 per cent stake in Awfis Space Solutions.
+Fair trade regulator CCI on Tuesday said it has given in-principle approval to mining conglomerate Vedanta’s proposal to acquire debt-ridden Jaiprakash Associates, should it win a bid in the ongoing insolvency proceeding. Apart from Vedanta, the proposals of Naveen Jindal-led Jindal Power, PNC Infratech, Adani Group and Dalmia Bharat for JAL acquisition have been cleared by the regulator.
+Zomato has joined a coalition of major food and grocery delivery platforms on Tuesday, aimed at advancing the adoption of zero-emission two- and three-wheeler vehicles globally. The formation of the industry-led alliance, Deliver-E Coalition, which has the backing of the United Nations Environment Programme (UNEP), was announced earlier in the day in Dubai with Delivery Hero, DoorDash, iFood, Mr D, Swiggy, Uber, Wolt as its founding members, besides Zomato
+Borana Weaves Ltd has announced the commencement of an additional 48 looms at Unit 4, ahead of the proposed December schedule. The total capex for Unit 4 amounts to ₹71.35 crore, fully funded through IPO proceeds. The Unit now houses all 348 state-of-the-art water jet looms, which are fully operational, achieving the designed production capacity of 112.75 million meters per annum (9.39 million meters per month). With all looms running, the planned capex has been fully deployed, and the project is now fully operational.
+Vitizen Hotels Limited, a subsidiary of Vikram Kamats Hospitality Ltd, has signed a long-term Lease Agreement for the hotel property situated at Nashik, having approximately 24 keys. The Hotel is expected to open for operations from February 2026, which will boost the consolidated revenue for the company.
+The board of TCC Concept Ltd has approved the acquaisition of Pepperfry Ltd, India’s leading omnichannel furniture and home goods platform, in a 100 per cent Share Swap deal at terms and conditions agreed under the definitive agreements. The proposed acquisition, subject to shareholders’ and regulatory approvals and closing conditions, advances TCC’s strategy of building technology-enabled consumer platforms with scaled digital marketplaces and strong brand recall.
+Published on October 15, 2025
+

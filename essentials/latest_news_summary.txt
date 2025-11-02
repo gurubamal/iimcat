@@ -1,0 +1,111 @@
+
+================================================================================
+🔍 ENHANCED NEWS COLLECTION STARTED
+================================================================================
+📅 Time window: Last 48 hours (cutoff: 2025-10-11 10:20:36 UTC)
+🎯 Tickers to scan: 8
+📰 News sources: 12
+================================================================================
+
+[1/8 (12.5%)] Processing RELIANCE...15:51:02 [INFO] <module>:159 - 🚀 Performance debugging enabled: False
+15:51:02 [WARNING] <module>:5888 - Enhanced screener modules not available - using legacy methods
+15:51:02 [WARNING] <module>:5901 - sklearn not available - some institutional modules will use fallback methods
+15:51:02 [WARNING] __init__:5930 - Institutional modules initialized with limited functionality
+ ✅ FOUND 1 articles
+    ├─ Fetched: 102 items from base sources
+    ├─ Filtered out: 40 (too old), 61 (non-financial)
+    └─ Latest headlines:
+       1. [4h ago] Anil Ambani’s Reliance stocks tumble up to 10%. Here’s what is behind ...
+Warning: enhanced_backtester.py not found. Backtesting features disabled.
+Warning: scikit-learn not available. Some institutional features will be limited.
+[WARNING] Transformers not available (No module named 'transformers'...). Using simple sentiment scoring.
+    └─ 💾 Saved to: aggregated_full_articles_48h_20251013_102036.txt
+[2/8 (25.0%)] Processing TCS...15:51:14 [WARNING] _put_conn:305 - Connection pool is full, discarding connection: www.thehindubusinessline.com
+ ✅ FOUND 4 articles
+    ├─ Fetched: 104 items from base sources
+    ├─ Filtered out: 75 (too old), 25 (non-financial)
+    └─ Latest headlines:
+       1. [6h ago] TCS results signal cautious optimism, but IT outlook remains uncertain...
+       2. [3h ago] H-1B visa crackdown not an existential threat to TCS; CEO Krithivasan ...
+       3. [9h ago] TCS begins talks for selling stake in newly created data centre busine...
+    └─ 💾 Saved to: aggregated_full_articles_48h_20251013_102036.txt
+[3/8 (37.5%)] Processing INFY... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 22, (non-financial): 78
+    └─ Sample OLD articles rejected:
+       • [125.2h ago] TCS, Infy, HCL Tech gain 2%; IT index up 5% in 1 week ahead ... (news.google.com)
+       • [22270.5h ago] Infosys Share Price - financialexpress.com... (news.google.com)
+       • [124875.7h ago] Infosys Share Price, Infosys Stock Price, Infosys Ltd. Stock... (news.google.com)
+    └─ Sample NON-FINANCIAL URLs rejected:
+       • Q2 results 2025: RIL, Infosys, HDFC Bank, IRFC, Wipro among ... (news.google.com/rss/articles/CBMijAJBVV95cUxNMnFQOFQ5bV)
+       • Stocks to watch: Tata Motors, DMart, Infosys, Axis Bank amon... (news.google.com/rss/articles/CBMi4wFBVV95cUxNMFdlZ3pLM0)
+       • Q2FY26 preview: Infosys may report best sequential growth am... (news.google.com/rss/articles/CBMi3gFBVV95cUxPZ3hBcVBaa3)
+[4/8 (50.0%)] Processing HDFCBANK... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 21, (non-financial): 79
+    └─ Sample OLD articles rejected:
+       • [22270.5h ago] HDFC Bank Share Price Today: HDFC Bank Stock Price Live NSE/... (news.google.com)
+       • [94.3h ago] HDFC Bank introduces 'My Business QR' for small businesses -... (news.google.com)
+       • [118.4h ago] Muhurat Trading 2025: HDFC Bank, NSDL to Oswal Pumps — SBI S... (news.google.com)
+    └─ Sample NON-FINANCIAL URLs rejected:
+       • Market Watchlist: Will earnings spark the breakout everyone’... (news.google.com/rss/articles/CBMingJBVV95cUxOclVuanh5al)
+       • Q2 results 2025: RIL, Infosys, HDFC Bank, IRFC, Wipro among ... (news.google.com/rss/articles/CBMijAJBVV95cUxNMnFQOFQ5bV)
+       • Upcoming earnings this week: From RIL, Infosys to HDFC Bank,... (news.google.com/rss/articles/CBMinAJBVV95cUxNU3NaaExCbG)
+[5/8 (62.5%)] Processing ITC... ✅ FOUND 1 articles
+    ├─ Fetched: 101 items from base sources
+    ├─ Filtered out: 7 (too old), 93 (non-financial)
+    └─ Latest headlines:
+       1. [6h ago] SC upholds ITC benefit for purchaser-dealer despite selling-dealer’s f...
+    └─ 💾 Saved to: aggregated_full_articles_48h_20251013_102036.txt
+[6/8 (75.0%)] Processing ASIANPAINT... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 15, (non-financial): 85
+    └─ Sample OLD articles rejected:
+       • [72.5h ago] Asian Paints revives “Har Ghar Kuch Kehta Hai” for modern In... (news.google.com)
+       • [196.3h ago] Share Market Today | Latest Stock Market News, Sensex Today ... (news.google.com)
+       • [92.1h ago] PRESS RELEASE - bsmedia.business-standard.com... (news.google.com)
+    └─ Sample NON-FINANCIAL URLs rejected:
+       • Asian Paints shares to be in focus on Monday; here's why - M... (news.google.com/rss/articles/CBMiwgFBVV95cUxPVkY4Ukg0SW)
+       • SC asks Centre to respond to plea on adequate life support i... (news.google.com/rss/articles/CBMi0wFBVV95cUxOUDJZdXdYSD)
+       • SC judge Nagarathna flags concern over declining sex ratio i... (news.google.com/rss/articles/CBMizgFBVV95cUxQZ29Ua1lMRD)
+[7/8 (87.5%)] Processing BAJFINANCE... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 100, (non-financial): 0
+    └─ Sample OLD articles rejected:
+       • [72.8h ago] F&O Quote - Live FNO BSE/NSE Quote, Nifty Quotes, Indian Sto... (news.google.com)
+       • [19727.3h ago] Bajaj Finserv Flexi Cap Fund - Regular Plan - Growth [14.832... (news.google.com)
+       • [18758.2h ago] Bajaj Allianz Life Magnum Fortune Plus Small Cap Fund - Mone... (news.google.com)
+[8/8 (100.0%)] Processing KOTAKBANK... ⚫ NO NEWS
+    └─ Fetched: 100 items
+    └─ Filtered (old): 6, (non-financial): 94
+    └─ Sample OLD articles rejected:
+       • [76.4h ago] Stocks to buy for long term: From Kotak Bank to Chalet Hotel... (news.google.com)
+       • [172.3h ago] Share Market Today | Latest Stock Market News, Sensex Today ... (news.google.com)
+       • [163.0h ago] This is a Confidential document. - bsmedia.business-standard... (news.google.com)
+    └─ Sample NON-FINANCIAL URLs rejected:
+       • Stocks to watch: Tata Motors, DMart, Infosys, Axis Bank amon... (news.google.com/rss/articles/CBMi4wFBVV95cUxNMFdlZ3pLM0)
+       • RBI's offline digital rupee is here: Pay with e₹ even withou... (news.google.com/rss/articles/CBMi8AFBVV95cUxNdmVBZnF6Wn)
+       • KFin Technologies stock jumps 6% on Citi's two-notch upgrade... (news.google.com/rss/articles/CBMiywFBVV95cUxNVEtqbHVpOU)
+[CLEANUP] Moved 6 old files and 6 old directories to old_news_files/
+
+================================================================================
+📊 COLLECTION SUMMARY
+================================================================================
+✅ Successfully processed: 8/8 tickers
+📰 Tickers with news: 3 (37.5%)
+⚫ Tickers with no news: 5 (62.5%)
+📄 Total articles saved: 6
+
+🔍 Filtering statistics:
+   ├─ Filtered (too old): 286
+   └─ Filtered (non-financial): 515
+
+🎯 Hit Rate: 37.50%
+   ✅ EXCELLENT - Above 2% target!
+
+📁 Output file: aggregated_full_articles_48h_20251013_102036.txt
+📁 Per-ticker files: full_articles_run_20251013_102036/
+================================================================================
+⏱️  Scan completed at: 2025-10-13 10:21:45 UTC
+================================================================================
+

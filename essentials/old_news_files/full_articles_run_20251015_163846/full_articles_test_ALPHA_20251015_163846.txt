@@ -1,0 +1,19 @@
+Full Article Fetch Test - ALPHA
+================================================================================
+
+Title   : Cisco and Social Alpha launch Krishi Mangal 3.0 to support 7 agri-tech startups 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T15:59:41
+Fetched : 2025-10-15T17:07:04.801334
+URL     : https://www.thehindubusinessline.com/economy/agri-business/cisco-and-social-alpha-launch-krishi-mangal-30-to-support-7-agri-tech-startups/article70168078.ece
+--------------------------------------------------------------------------------
+Cisco India CSR and Social Alpha have announced the third edition of their flagship accelerator programme for farmer-centric innovations -- Krishi Mangal 3.0, under which seven startups have been selected for scale up their activities.
+With its emphasis on climate resilience and income security, Krishi Mangal 3.0 is designed to empower farmers with solutions that drive higher productivity and profitability while safeguarding the long-term viability of agricultural and allied practices, according to a statement by Social Alpha, a venture development platform for science and technology start-ups.
+The accelerator programme will support the selected startups with deployment focused milestone-based funding and scale-up opportunities. Each startup will deploy its solution with farmers and grassroots partners, backed by non-dilutive funding of maximum ₹50 lakh.
+The startups will have the opportunity to scale across multiple states with access to more than 200,000 farmers and 150 farmer producer organisations (FPOs) and have an opportunity to access an additional non-dilutive funding of maximum ₹2 crore facilitated by Social Alpha, it said.
+Harnessing AI power
+Startups that are harnessing the power of artificial intelligence, IoT, robotics, and renewables to address soil degradation, water management, farm mechanisation, post-harvest losses, and supply chain inefficiencies will also benefit from tailored business planning as well as access to Social Alpha’s laboratories for product design, prototyping, and manufacturing support.
+The seven startups are Ekosight Technologies, ArkaShine Innovations, Terracroft Agritech, Surobhi Agro Industries, Agribotic Systems, Bhairaj Organics, and Rudra Solar Energy.
+“Smallholder farmers are navigating a complex web of systemic issues—from erratic monsoons and degrading soil health to rising input costs, limited infrastructure, and shrinking access to credit. Climate change continues to intensify these vulnerabilities, often pushing farming families into cycles of economic distress. Deep science and technology can offer farmers new pathways to resilience and we are backing entrepreneurs who are building climate-smart, farmer-first innovations that address these structural challenges and create sustainable, long-term impact,” said Ganesh Neelam, Co-Founder, Social Alpha.
+Published on October 15, 2025
+

@@ -1,0 +1,14 @@
+Full Article Fetch Test - MRF
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : At multi-year highs: Eicher Motors, MRF among 6 stocks witness 5-year swing high breakout 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-03T02:40:15
+Fetched : 2025-09-03T04:23:28.714296
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/at-multi-year-highs-eicher-motors-mrf-among-6-stocks-witness-5-year-swing-high-breakout/slideshow/123667991.cms
+--------------------------------------------------------------------------------
+In the NSE list of stocks with a market cap over Rs 10,000 crore, six stocks witnessed a 5-year swing high at the close on September 2, suggesting bullishness in counters, according to stockedge.com's technical scan data.
+A 5-year swing high represents the highest price a stock has reached within a five-year timeframe. This level acts as a significant resistance point where the price has historically struggled to go beyond. This occurrence may be seen as a bullish sign, indicating the potential for further upward movement in the stock. However, it's worth noting that this is different from a 5-year breakout, which occurs when a stock's price surpasses a key resistance level that has held for five years or longer.
+

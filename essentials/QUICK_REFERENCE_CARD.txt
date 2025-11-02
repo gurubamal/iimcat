@@ -1,0 +1,276 @@
+# QUICK REFERENCE CARD - FRONTIER-AI QUANT ALPHA
+
+## 🚀 System at a Glance
+
+**What:** HFT-inspired swing-trade shortlister with news scoring  
+**Where:** `/home/vagrant/R/essentials/`  
+**When:** Run daily after market close (3:30 PM IST)  
+**Output:** 22-column CSV + ASCII dashboard  
+**Pass rate:** 5-20% of input tickers
+
+---
+
+## 📊 The 20+ Metrics (Quick Reference)
+
+| Metric | Formula | Range | Gate? | Weight |
+|--------|---------|-------|-------|--------|
+| **ATR20** | EMA(True Range, 20) | ₹ | Position sizing | - |
+| **MOM3** | ROC(3-day) | 0-100 | - | - |
+| **MOM20** | ROC(20-day) | 0-100 | - | 25% |
+| **MOM60** | ROC(60-day) | 0-100 | - | 15% |
+| **RVOL** | Vol / Vol_avg_20 | 0-3x | ✓ (≥1.5x) | 10% |
+| **RSI14** | 100 - 100/(1+RS) | 0-100 | - | - |
+| **Squeeze** | BB_width < KC_width | T/F | ✓ (T or BO) | 10% |
+| **Breakout** | Close vs 20H/L | -1/0/+1 | ✓ (>0 if BO) | - |
+| **PBZ** | Price zone in BB | 0-100 | - | 10% |
+| **SMA50** | Price > SMA50 | T/F | ✓ (T) | - |
+| **SMA200** | Price > SMA200 | T/F | +5 bonus | - |
+| **News Cert** | Specificity + sources | 0-100 | - | 20% |
+| **Catalyst** | Type detected | 10 types | - | 20% |
+| **Sentiment** | pos/neg/neutral | - | - | - |
+| **Deal Value** | ₹/$/€ parsed | ₹ cr | - | - |
+
+---
+
+## 🔧 Gate Filters (ALL must pass)
+
+```
+┌─────────────────────────────────────────────────────┐
+│ GATE 1: Alpha ≥ 70                                  │
+│ Conviction threshold. Remove low-quality combos.    │
+│ ~40-50% of tickers fail here                        │
+│                                                      │
+│ GATE 2: RVOL ≥ 1.5x                                │
+│ Volume must confirm. Avoid illiquid trades.         │
+│ ~10-20% additional fail here                        │
+│                                                      │
+│ GATE 3: Price > SMA50                               │
+│ Uptrend check only. No counter-trend trades.        │
+│ ~15-30% additional fail here                        │
+│                                                      │
+│ GATE 4: Squeeze OR Breakout > 0                     │
+│ Volatility setup. Price positioned for move.        │
+│ ~20-40% additional fail here                        │
+│                                                      │
+│ RESULT: final_pick = 1 if ALL pass                  │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📈 Alpha Formula (Simplified)
+
+```
+Alpha = 25×MOM20 + 15×MOM60 + 10×RVOL + 10×SqueezeBO
+        + 10×PBZ + 20×NewsScore + 5×TrendBonus
+        
+Saturate with tanh() → Clip to 0-100
+```
+
+**Weights Sum:** 95 (normalized)  
+**Saturation:** Prevents single metric dominance  
+**Result:** 0-100 score, threshold: 70
+
+---
+
+## 💰 Risk Management Template
+
+### For Each Trade:
+
+```
+┌────────────────────────────────────┐
+│ ENTRY LEVEL (Current Market Price) │
+│ Entry = ₹X.XX                      │
+│                                    │
+│ STOP LOSS (Hard discipline)        │
+│ Stop = Entry - 1.5×ATR20          │
+│ Stop = ₹X.XX - ₹Y.YY = ₹X.XX      │
+│ Risk = ₹X.XX - ₹X.XX = ₹Z.ZZ      │
+│                                    │
+│ TARGET 1 (Sell 50%)                │
+│ TP1 = Entry + 1.5×ATR20           │
+│ TP1 = ₹X.XX + ₹Y.YY = ₹X.XX       │
+│ Gain = ₹X.XX - ₹X.XX = ₹Z.ZZ      │
+│ Risk/Reward = 1:N                  │
+│                                    │
+│ TARGET 2 (Sell 25%)                │
+│ TP2 = Entry + 3×ATR20              │
+│ TP2 = ₹X.XX + ₹Y.YY = ₹X.XX       │
+│ Gain = ₹X.XX - ₹X.XX = ₹Z.ZZ      │
+│                                    │
+│ TRAILING STOP (Hold 25%)           │
+│ Trail = max(Trail, Close - 2.5ATR) │
+│ Update on new highs only           │
+└────────────────────────────────────┘
+```
+
+### Position Sizing (2% Risk Rule):
+
+```
+Account = ₹1,000,000
+Max Risk Per Trade = 2% = ₹20,000
+
+Shares = Max Risk / (Entry - Stop)
+       = ₹20,000 / (₹2,850 - ₹2,786)
+       = ₹20,000 / ₹64
+       = 312 shares
+
+Position Value = 312 × ₹2,850 = ₹890,400
+Actual Risk % = ₹20,000 / ₹890,400 = 2.24% ✓
+```
+
+---
+
+## 📋 Daily Checklist
+
+### Morning (Before Market Open)
+- [ ] Review top picks from yesterday's run
+- [ ] Check overnight news (4 AM - 9:15 AM)
+- [ ] Monitor pre-market volume
+- [ ] Set alerts on support levels (Entry - 1.5×ATR)
+
+### During Market (9:30 AM - 3:30 PM)
+- [ ] Wait for first pullback to SMA20
+- [ ] Enter on reversal candle (high of day break)
+- [ ] Set stop immediately (discipline!)
+- [ ] Sell 50% at TP1 (take profits)
+
+### After Market (3:30 PM - 4:00 PM)
+- [ ] Close out trailing stop if target not hit
+- [ ] Review wins/losses
+- [ ] Update trading journal
+- [ ] No revenge trading!
+
+### Evening (After 4:00 PM)
+- [ ] Generate fresh alpha run
+- [ ] Review new picks for tomorrow
+
+---
+
+## ⚡ Quick Commands
+
+### Full Run
+```bash
+cd /home/vagrant/R/essentials
+python3 frontier_ai_quant_alpha.py \
+  --top25 top25_for_frontier_ai.csv \
+  --news aggregated_full_articles_48h_latest.txt \
+  --output results_$(date +%Y%m%d).csv
+```
+
+### View Dashboard
+```bash
+python3 frontier_ai_dashboard.py results_20251020.csv
+```
+
+### Extract Final Picks (for trading)
+```bash
+grep ",1$" results_20251020.csv | cut -d, -f1,2,3,30,31,32
+# Output: ticker,close,alpha,stop,tp1,tp2
+```
+
+### Check Gate Distribution
+```bash
+python3 << 'EOF'
+import pandas as pd
+df = pd.read_csv('results_20251020.csv')
+print(f"Total: {len(df)}")
+print(f"Final Picks: {(df['final_pick']==1).sum()}")
+print(f"Pass Rate: {(df['final_pick']==1).sum()/len(df)*100:.1f}%")
+print(f"\nGate Analysis:")
+print(f"Alpha > 70: {len(df[df['alpha']>70])}")
+print(f"RVOL > 1.5x: {len(df[df['rvol']>1.5])}")
+print(f"Trend SMA50: {df['trend_sma50'].sum()}")
+EOF
+```
+
+---
+
+## 🎯 Common Issues & Fixes
+
+| Problem | Cause | Fix |
+|---------|-------|-----|
+| No picks | Gates too tight | Lower alpha 70→65, RVOL 1.5→1.0 |
+| Too many picks | Gates too loose | Raise alpha 70→75, RVOL 1.5→2.0 |
+| Wrong news matched | Ticker symbol issue | Check if NSE suffix needed (.NS) |
+| Slow execution | Data fetch | Run again (uses cache), or parallelize |
+| Alpha score low | Downtrend/weak momentum | Check market regime, increase news weight |
+| Picks reverse next day | False signals | Increase RVOL threshold, decrease news weight |
+
+---
+
+## 📊 News Catalyst Types & Multipliers
+
+| Catalyst | Pattern | Multiplier | Example |
+|----------|---------|-----------|---------|
+| **Earnings** | result, profit, revenue | 1.5× | "Q3 earnings beat ₹5,427cr" |
+| **M&A** | acquire, merger, deal | 1.4× | "₹50,000cr acquisition announced" |
+| **Investment** | invest, fund, stake | 1.3× | "$100mn investment approved" |
+| **Expansion** | expand, factory, facility | 1.2× | "New plant capacity +50%" |
+| **Contract** | order, supply, partnership | 1.2× | "₹1,000cr supply contract" |
+| **IPO** | listing, public offering | 1.5× | "IPO announced for 2027" |
+| **Strategic** | board, CEO, restructure | 1.1× | "New MD appointed" |
+| **Regulatory** | approval, license, permit | 1.1× | "Regulatory approval granted" |
+| **Dividend** | dividend, buyback | 1.1× | "₹100/share dividend" |
+| **Product** | launch, feature, service | 1.0× | "New product launched" |
+| **None** | Generic news | 0.5× | "Stock in news" |
+
+---
+
+## 🚨 Hard Rules (Non-negotiable)
+
+```
+1. STOP LOSSES ARE ABSOLUTE
+   - No mental stops
+   - No moving stops down
+   - No averaging down after stop hit
+
+2. POSITION SIZING STRICTLY 2%
+   - Calculate before entry
+   - Stick to plan
+   - Never leverage up
+
+3. GATE FILTERS ARE HARD
+   - All 4 must pass
+   - Don't trade borderline picks
+   - Discipline > win rate
+
+4. DAILY LIMITS
+   - Max 2 losses = stop trading for day
+   - Max 5 trades per day
+   - Max 10% account risk per day
+
+5. ENTRY EXECUTION
+   - Wait for pullback + confirmation
+   - Don't FOMO at open
+   - Enter on reversal, not breakdown
+```
+
+---
+
+## 📞 Support Resources
+
+**Technical Questions?**
+→ Read FRONTIER_AI_QUANT_README.md
+
+**How to trade the picks?**
+→ Read BEST_PICKS_SUMMARY.md + Daily Workflow
+
+**File locations?**
+→ Check SYSTEM_FILES_MANIFEST.md
+
+**Learning paths?**
+→ See FRONTIER_START_HERE.md (START HERE section)
+
+---
+
+## 🎓 Learn More
+
+**30-min deep dive:** FRONTIER_AI_QUANT_README.md  
+**Real examples:** BEST_PICKS_SUMMARY.md  
+**File guide:** SYSTEM_FILES_MANIFEST.md  
+**Entry guide:** FRONTIER_START_HERE.md
+
+---
+
+**Version:** 1.0 | **Last Updated:** 2025-10-20 | **System:** Production Ready

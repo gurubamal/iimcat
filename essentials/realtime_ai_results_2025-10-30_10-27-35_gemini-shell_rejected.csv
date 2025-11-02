@@ -1,0 +1,4 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+RELIANCE,RELIANCE INDUSTRIES LIMITED,35.8,38,6,Certainty 38% below threshold (40%),"Nvidia hits $5 trillion valuation, extends AI market dominance",Detected 0 catalyst(s). Risks: None. Evidence: n/a. From www.thehindubusinessline.com [unknown:0.65]. Score: 43/100. Certainty: 38%. NEUTRAL.
+ITC,ITC LIMITED,34.3,38,2,Certainty 38% below threshold (40%),"Q2 Results Live Today: Hyundai, Cipla, ITC, NTPC, Adani Power, Pidilite, DLF, Lo",Detected 0 catalyst(s). Risks: None. Evidence: n/a. From www.thehindubusinessline.com [unknown:0.65]. Score: 43/100. Certainty: 38%. NEUTRAL.
+MARUTI,MARUTI SUZUKI INDIA LIMITED,29.9,18,1,Certainty 18% below threshold (40%),Maruti Suzuki plans a fresh SUV offensive to regain 50% share,Detected 0 catalyst(s). Risks: None. Evidence: n/a. From www.livemint.com [unknown:0.65]. Score: 43/100. Certainty: 18%. NEUTRAL.

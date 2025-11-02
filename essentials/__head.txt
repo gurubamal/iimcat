@@ -1,0 +1,300 @@
+#!/usr/bin/env python3
+"""
+Fetch full news articles for given tickers (last 24h) and save to txt files.
+
+Minimal, dependency-light test that:
+- Queries Google News RSS per ticker
+- Filters items published within 24 hours
+- Follows redirects to resolve original article URL
+- Extracts full text content using readability-lxml
+- Saves results to timestamped .txt files (one per ticker)
+
+Usage examples:
+  # Explicit tickers
+  python intelligent_scripts/fetch_full_articles.py --tickers RELIANCE TCS --max-articles 2
+  python intelligent_scripts/fetch_full_articles.py --tickers HDFCBANK --sources reuters.com livemint.com
+
+  # From file (one ticker per line), last 16 hours only
+  python intelligent_scripts/fetch_full_articles.py --tickers-file intelligent_scripts/valid_nse_tickers.txt --limit 10 --max-articles 1 --hours-back 16 --publishers-only --sources reuters.com economictimes.indiatimes.com business-standard.com moneycontrol.com
+"""
+
+import argparse
+import datetime as dt
+import html
+import sys
+import time
+import urllib.parse
+import xml.etree.ElementTree as ET
+from typing import List, Tuple
+import os
+import json
+import glob
+import shutil
+import signal
+
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
+from bs4 import BeautifulSoup
+import re
+import re
+import threading
+import random
+import functools
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# ---------------------------------------------------------------
+# Networking: pooled session, retries, throttling, and helpers
+# ---------------------------------------------------------------
+
+_SESSION_LOCK = threading.Lock()
+_SESSION = None
+
+# Per-host throttle: limit request rate and concurrency per domain
+_HOST_LOCKS = {}
+_HOST_LAST_TS = {}
+_HOST_SEMAPHORES = {}
+
+# Defaults (can be tuned via CLI)
+_GLOBAL_MAX_WORKERS = 8
+_PER_HOST_MAX_CONCURRENCY = 2
+_PER_HOST_MIN_INTERVAL_SEC = 0.6  # polite spacing between requests per host
+
+
+def _get_session() -> requests.Session:
+    global _SESSION
+    if _SESSION is not None:
+        return _SESSION
+    with _SESSION_LOCK:
+        if _SESSION is not None:
+            return _SESSION
+        s = requests.Session()
+        retries = Retry(
+            total=3,
+            connect=3,
+            read=3,
+            backoff_factor=0.6,
+            status_forcelist=(429, 500, 502, 503, 504),
+            allowed_methods=frozenset(["GET"]),
+            raise_on_status=False,
+        )
+        adapter = HTTPAdapter(pool_connections=64, pool_maxsize=64, max_retries=retries)
+        s.mount("http://", adapter)
+        s.mount("https://", adapter)
+        _SESSION = s
+        return _SESSION
+
+
+def _get_host_gate(host: str):
+    host = host or ""
+    if host not in _HOST_LOCKS:
+        _HOST_LOCKS[host] = threading.Lock()
+        _HOST_LAST_TS[host] = 0.0
+        _HOST_SEMAPHORES[host] = threading.Semaphore(_PER_HOST_MAX_CONCURRENCY)
+    return _HOST_LOCKS[host], _HOST_SEMAPHORES[host]
+
+
+def http_get(url: str, *, timeout: float = 12.0, allow_redirects: bool = True, headers: dict | None = None) -> requests.Response:
+    """Centralized GET with session pooling, retries, backoff, and per-host throttling.
+
+    Adds small jitter to spacing; politely limits concurrency per host; retries on 429/5xx via adapter.
+    """
+    sess = _get_session()
+    h = headers or HEADERS
+    parsed = urllib.parse.urlparse(url)
+    host = (parsed.netloc or "").lower()
+    lock, gate = _get_host_gate(host)
+
+    # Rate spacing per host
+    with lock:
+        now = time.time()
+        wait_for = _PER_HOST_MIN_INTERVAL_SEC - (now - _HOST_LAST_TS[host])
+        if wait_for > 0:
+            # add small jitter to avoid regular cadence
+            time.sleep(wait_for + random.uniform(0.0, 0.25))
+        _HOST_LAST_TS[host] = time.time()
+
+    # Concurrency limit per host
+    with gate:
+        resp = sess.get(url, headers=h, timeout=timeout, allow_redirects=allow_redirects)
+        # Friendly manual backoff on 429
+        if resp is not None and resp.status_code == 429:
+            for i in range(2):
+                delay = (i + 1) * 1.5 + random.uniform(0.0, 0.5)
+                time.sleep(delay)
+                resp = sess.get(url, headers=h, timeout=timeout, allow_redirects=allow_redirects)
+                if resp.status_code != 429:
+                    break
+        return resp
+from readability import Document
+
+# Optional extractors (installed at runtime if available)
+try:
+    import trafilatura  # type: ignore
+    HAS_TRAFILATURA = True
+except Exception:
+    HAS_TRAFILATURA = False
+
+try:
+    from newspaper import Article  # type: ignore
+    HAS_NEWSPAPER = True
+except Exception:
+    HAS_NEWSPAPER = False
+
+
+# Preferred news domains for direct URLs
+DEFAULT_SOURCES = [
+    # Core international/business
+    'reuters.com', 'bloomberg.com', 'bqprime.com',
+    # India finance publishers
+    'economictimes.indiatimes.com', 'livemint.com', 'moneycontrol.com',
+    'business-standard.com', 'thehindubusinessline.com', 'financialexpress.com',
+    'cnbctv18.com', 'businesstoday.in', 'zeebiz.com',
+]
+
+HEADERS = {
+    'User-Agent': (
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
+        'AppleWebKit/537.36 (KHTML, like Gecko) '
+        'Chrome/123.0.0.0 Safari/537.36'
+    ),
+    'Accept': 'application/json, text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Cache-Control': 'no-cache',
+}
+
+
+FINANCE_PATH_CUES = [
+    'business', 'market', 'markets', 'companies', 'company', 'finance', 'financial', 'economy', 'economic', 'industry'
+]
+
+DOMAIN_FINANCE_HINTS = {
+    'reuters.com': ['/business/', '/markets/'],
+    'livemint.com': ['/market', '/companies'],
+    'economictimes.indiatimes.com': ['/markets', '/industry'],
+    'moneycontrol.com': ['/news', '/markets'],
+    'business-standard.com': ['/markets', '/companies'],
+}
+
+_RESOLVE_CACHE: dict[str, str] = {}
+_CONTENT_CACHE: dict[str, str] = {}
+_MARKET_CAP_CACHE: dict[str, tuple[int | None, str | None]] = {}
+_MCAP_REQUEST_LOG: list[float] = []
+_NET_PROFIT_CACHE: dict[str, tuple[int | None, str | None]] = {}
+_NET_PROFIT_REQ_LOG: list[float] = []
+_NET_WORTH_CACHE: dict[str, tuple[int | None, str | None]] = {}
+_NET_WORTH_REQ_LOG: list[float] = []
+
+def is_financial_url(url: str) -> bool:
+    try:
+        u = urllib.parse.urlparse(url)
+        host = (u.netloc or '').lower()
+        path = (u.path or '').lower()
+        # Domain-specific strong cues
+        for dom, cues in DOMAIN_FINANCE_HINTS.items():
+            if dom in host:
+                return any(c in path for c in cues)
+        # Generic path cues
+        return any(c in path for c in FINANCE_PATH_CUES)
+    except Exception:
+        return False
+
+def build_gnews_rss_url(query: str, sources: List[str]) -> str:
+    # Restrict to preferred sources via ORed site: clauses
+    site_clause = ' OR '.join(f"site:{s}" for s in sources) if sources else ''
+    full_query = f"{query} {site_clause}".strip()
+    q = urllib.parse.quote_plus(full_query)
+    # English India localization to improve coverage for NSE names
+    return f"https://news.google.com/rss/search?q={q}&hl=en-IN&gl=IN&ceid=IN:en"
+
+
+def parse_pubdate(pubdate_text: str) -> dt.datetime:
+    # Example: Sat, 30 Aug 2025 08:10:00 GMT
+    try:
+        return dt.datetime.strptime(pubdate_text, "%a, %d %b %Y %H:%M:%S %Z")
+    except Exception:
+        # Fallback: try without TZ, treat as UTC
+        try:
+            return dt.datetime.strptime(pubdate_text, "%a, %d %b %Y %H:%M:%S")
+        except Exception:
+            try:
+                # Last resort: dateparser (handles many formats)
+                import dateparser  # type: ignore
+                d = dateparser.parse(pubdate_text, settings={"TO_TIMEZONE": "UTC", "RETURN_AS_TIMEZONE_AWARE": False})
+                return d
+            except Exception:
+                return None
+
+
+def fetch_rss_items(ticker: str, sources: List[str], publishers_only: bool = False) -> List[Tuple[str, str, str, dt.datetime]]:
+    """Return list of (title, link, source, published_dt) for a ticker.
+
+    Strategy:
+    1) Attempt Google News RSS for breadth.
+    2) Also query a set of first-party publisher feeds and filter by ticker keyword in title.
+    """
+    items: List[Tuple[str, str, str, dt.datetime]] = []
+
+    # 1) First-party publisher RSS (filter by ticker keyword) — prefer direct sources first
+    publisher_feeds = [
+        # India business/markets
+        'https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms',
+        'https://www.business-standard.com/rss/markets-106.rss',
+        'https://www.moneycontrol.com/rss/MCtopnews.xml',
+        'https://www.livemint.com/rss/companies',
+        'https://www.livemint.com/rss/market',
+        'https://www.cnbctv18.com/rss/latest.xml',
+        'https://www.financialexpress.com/market/feed/',
+        'https://www.thehindubusinessline.com/feeder/default.rss',
+        'https://www.businesstoday.in/rssfeeds/?id=0',
+        'https://www.bqprime.com/feed',
+    ]
+    kw = ticker.upper()
+    relaxed_kw = ticker.capitalize()
+    def _fetch_feed(feed_url: str):
+        try:
+            r = http_get(feed_url, timeout=12)
+            if r is None or r.status_code >= 400:
+                return []
+            root = ET.fromstring(r.content)
+            ch = root.find('channel')
+            if ch is None:
+                return []
+            out = []
+            for it in ch.findall('item'):
+                title = it.findtext('title') or ''
+                if not title:
+                    continue
+                if not title_matches_ticker(ticker, title):
+                    continue
+                link = it.findtext('link') or ''
+                pubdate = parse_pubdate(it.findtext('pubDate') or '')
+                src_el = it.find('{*}source')
+                src = (src_el.text or '').strip() if src_el is not None else urllib.parse.urlparse(link).netloc
+                out.append((html.unescape(title), link, src, pubdate))
+            return out
+        except Exception:
+            return []
+
+    # Parallelize publisher feed fetching (polite per-host gates still apply)
+    with ThreadPoolExecutor(max_workers=min(len(publisher_feeds), _GLOBAL_MAX_WORKERS)) as ex:
+        futs = [ex.submit(_fetch_feed, feed) for feed in publisher_feeds]
+        for f in as_completed(futs):
+            try:
+                items.extend(f.result())
+            except Exception:
+                pass
+
+    # 2) Google News RSS (breadth) unless restricted to publishers only
+    if not publishers_only:
+        try:
+            url = build_gnews_rss_url(ticker, sources)
+            resp = http_get(url, timeout=12)
+            resp.raise_for_status()
+            root = ET.fromstring(resp.content)
+            channel = root.find('channel')
+            if channel is not None:
+                for it in channel.findall('item'):
+                    title = it.findtext('title') or ''
+                    link = it.findtext('link') or ''
+                    pubdate = parse_pubdate(it.findtext('pubDate') or '')

@@ -1,0 +1,70 @@
+Create a complete frontier-AI + quant alpha system for swing-trading shortlisting.
+
+  REQUIREMENTS:
+  1. Core System (3 Python scripts)
+     - Main engine: Compute 20+ HFT-style quant features (ATR, momentum 3/20/60, RVOL, squeeze, PBZ, BO, trends)
+     - LLM news scorer: Extract catalysts (10 types), parse deal values (₹/$€ → crores), compute sentiment/certainty
+     - Dashboard: Beautiful formatted output with cards + metrics + gates
+
+  2. Alpha Formula (0-100 ranking)
+     Alpha = 25×MOM20 + 15×MOM60 + 10×RVOL + 10×SqueezeBO + 10×PBZ + 20×NewsScore + 5×TrendBonus
+     (Use tanh() for smooth saturation; clip to 0-100)
+
+  3. Gates (Hard filters - must pass ALL)
+     ✓ Alpha ≥ 70
+     ✓ RVOL ≥ 1.5x (volume confirmation)
+     ✓ Price > SMA50 (uptrend only)
+     ✓ Squeeze=True OR BO>0 (volatility setup)
+     Output: final_pick boolean + gate_flags string
+
+  4. Risk Management (ATR-based)
+     - Stop: Entry - 1.5×ATR20
+     - TP1: Entry + 1.5×ATR20 (sell 50%)
+     - TP2: Entry + 3×ATR20 (sell 25%)
+     - Trail: max(Trail, Close - 2.5×ATR20)
+
+  5. Data Input
+     - Top-25 ticker list (CSV: ticker, marketcap_cr, existing_rank)
+     - 48h news aggregation (text file with headlines)
+     - OHLCV data (6-month history via yfinance or local)
+
+  6. Output
+     - CSV: 22 columns (alpha, mom20/60, rvol, pbz, bo, squeeze, news_score, impact_pct, catalyst_type, certainty, deal_value, close,
+  atr20, stop, tp1, tp2, trail, gate_flags, final_pick, headline_count, etc.)
+     - Dashboard: Formatted cards for top-10 picks with icons/emojis
+     - Summary: Gate failure analysis + recommendations
+
+  7. Documentation (5 guides)
+     - START_HERE.md: Entry point + 3 learning paths (5min/15min/full)
+     - BEST_PICKS_SUMMARY.md: Top-5 detailed cards + trade plan + gate analysis
+     - QUICK_REFERENCE_CARD.txt: One-page cheat sheet + risk template + daily workflow
+     - FRONTIER_AI_QUANT_README.md: Complete docs (method, features, gates, tuning)
+     - SYSTEM_FILES_MANIFEST.md: Navigation guide + feature descriptions
+
+  8. Execution Flow
+     Step 1: extract_top25.py → load latest analysis, prepare input
+     Step 2: frontier_ai_quant_alpha.py → compute all features + LLM scoring + gates
+     Step 3: frontier_ai_dashboard.py → format output beautifully
+     Step 4: Generate all 5 docs + CSV + dashboards
+
+  9. Key Design Principles
+     - HFT-inspired quant (Jane Street style): momentum, volume, volatility compression, mean reversion
+     - Frontier-AI: Automated news extraction (no manual tagging needed)
+     - Conservative gates: Only ~5% of picks pass (selectivity over quantity)
+     - Risk-first: Position sizing built-in, ATR-based stops, trailing
+     - Production-ready: Cron-schedulable, daily refresh capability
+
+  10. Output Style
+      - Code: Clean, documented, modular (separate functions for features/news/alpha/gates/risk)
+      - Docs: Beginner→Advanced levels, lots of examples, visual tables
+      - Charts: ASCII art summaries, formatted cards with emojis
+      - Data: CSV with all metrics for external validation
+
+  DELIVER:
+  ✅ 3 executable Python scripts (production-grade)
+  ✅ 1 results CSV (22 columns)
+  ✅ 5 comprehensive guides
+  ✅ Beautiful console dashboard
+  ✅ Ready to run daily with cron
+
+  TONE: Professional but accessible. Assume trader audience (not quants-only).

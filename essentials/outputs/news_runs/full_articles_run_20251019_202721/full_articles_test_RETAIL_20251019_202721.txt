@@ -1,0 +1,19 @@
+Full Article Fetch Test - RETAIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): -549000.00
+
+Title   : Retail inflation expected to decline on high base and GST reform impact in October: Report
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T06:58:21
+Fetched : 2025-10-19T20:48:46.027851
+URL     : https://www.thehindubusinessline.com/economy/retail-inflation-expected-to-decline-on-high-base-and-gst-reform-impact-in-october-report/article70182010.ece
+--------------------------------------------------------------------------------
+India's retail inflation is expected to decline further in October 2025, driven by a high base effect, delayed seasonality in food prices, and the full impact of recent GST reforms, according to a report by Union Bank of India.
+The report anticipates only a gradual pickup in price pressures in the months ahead. "Our projection for Oct CPI is tracking below 0.50 per cent as on date. Food inflation too is expected to fall sharply in Oct and continue to be in negative zone during the coming winter months with impact of floods muted," the report added.
+Inflation has moderated sharply, reaching an eight-year low driven by a decline in food prices and the impact of GST rate rationalisation. The CPI (Consumer Price Index) inflation forecast for FY26 was lowered to 2.6 per cent (from 3.1 per cent earlier), with inflation expected to remain below target for most of the year and rise modestly in Q4 due to base effects.
+For September, CPI which tracks the changes in the retail prices of goods and services, showed a notable drop from the previous month's reading, underscoring a broad-based moderation in price growth. The Consumer Food Price Index (CFPI) stood at -2.28 per cent, indicating that food prices have been in the negative zone since June 2025.
+The data shows that the rural areas recorded an inflation rate of 1.07 per cent, while urban inflation stood at 2.04 per cent. The data also revealed that food inflation was negative across both segments at -2.17 per cent in rural and -2.47 per cent in urban areas, reflecting the impact of falling vegetable and edible oil prices.
+The government has attributed the decline to "favourable base effects" and reductions in key food categories such as vegetables, oils and fats, fruits, cereals, pulses, eggs, and fuel & light.
+Published on October 19, 2025
+

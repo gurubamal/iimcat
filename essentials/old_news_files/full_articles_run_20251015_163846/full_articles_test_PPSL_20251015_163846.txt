@@ -1,0 +1,22 @@
+Full Article Fetch Test - PPSL
+================================================================================
+
+Title   : Paytm transfers offline merchant payments to PPSL to comply with RBI guidelines
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T10:12:52
+Fetched : 2025-10-15T16:50:42.092030
+URL     : https://www.thehindubusinessline.com/money-and-banking/paytm-transfers-offline-merchant-payments-to-ppsl-to-comply-with-rbi-guidelines/article70166574.ece
+--------------------------------------------------------------------------------
+One 97 Communications Ltd, the parent company of Paytm, has approved the transfer of its offline merchant payments business to its wholly owned subsidiary, Paytm Payments Services Ltd (PPSL), to comply with the Reserve Bank of India's guidelines for payment aggregators.
+In a stock exchange filing, the company said the proposed transfer will consolidate the group's online and offline merchant payments businesses under PPSL, which has received in-principle approval from the RBI to carry out a payment aggregator (Online) business.
+The company said this will ensure that all payment aggregation activities are housed within one regulated entity and will build efficiency and synergy within the group.
+The Offline Merchant Payments Business includes merchants serviced through QR codes, Soundbox, and EDC machine payments. The transfer will be executed through a slump sale on a going-concern basis, subject to the approval of shareholders and the board of PPSL. Since this is a transfer to a wholly owned subsidiary, it will not impact the financials of the company on a consolidated basis.
+“The transfer is being undertaken to take steps to comply with the Reserve Bank of India’s Master Directions on Regulation of Payment Aggregators dated September 15, 2025,” the filing said.
+“The proposed transfer will result in consolidation of the group’s Online and Offline Merchant Payments Businesses under PPSL, which has received in-principle approval from RBI to carry out PAO (Payment Aggregator Online) business.”
+This will ensure that all payment aggregation activities are housed within one regulated entity and will build efficiency and synergy within the group.
+The filing stated that “the transfer is proposed to be carried out at book value, given that it forms part of an internal restructuring intended to consolidate the related business within a dedicated wholly owned subsidiary, in alignment with applicable regulatory requirements and to achieve operational efficiency. As the transaction is between the holding company and its wholly owned subsidiary, there is no change in the ultimate beneficial ownership or control.”
+For the financial year 2024-25, the Offline Merchant Payments Business reported revenue of about ₹2,580 crore, representing about 47 per cent of the total revenue of the company on a standalone basis. The net worth of the transferred undertaking as on March 31, 2025, stood at about ₹960 crore, representing 7.45 per cent of the company’s standalone net worth.
+The completion of the transfer is expected on or before December 31, 2025, subject to necessary shareholder and board approvals and completion of other conditions under the Business Transfer Agreement.
+The company said the proposed transaction does not form part of any Scheme of Arrangement and will be undertaken through a Business Transfer Agreement between the company and PPSL.
+Published on October 15, 2025
+

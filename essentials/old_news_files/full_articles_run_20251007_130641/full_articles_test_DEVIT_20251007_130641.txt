@@ -1,0 +1,16 @@
+Full Article Fetch Test - DEVIT
+================================================================================
+
+(skipped: outside allowed sources) Title: NPCI rolls out UPI payments with fingerprint and face authentication instead of PIN - Moneycontrol
+URL     : https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1kxUjRFRlVDQnZVNnVaOUVvblM4ZEc4OEt4a2ZPaXNrbUVMOTBTWURJRG5oc3NxekJ3aExuVDR0X2ZNLXdQQ0Rmd014Vk5QZzBGQ0hUT21uNXdDNUxjWmpFN2N6QWFHV1lmSnNMeHlfSWp6V0dhc0F2cFZNU0FidXVYT3VMTkVQQ1ZhdmJaamNDTmtsRnluQjBuTDRRdUhSenJ5VjBjaVoyTE4zSlVncnpLU1J1MkstSHFqZUUwRW44dldGZEVmZUtDZUIxS1JGdFh0ZzZhVzRobWVpUHfSAeMBQVVfeXFMT09uY25JMlRPcEZIS3BqQzJZclZiNWx5dUZwVlBKdUt0TG1rRVFvZnZhZVdiVno2b09UaFRJUFRKcmxUWFJad3ZlWkdrVXlkV2RtVENRT3RYR2dpX05VWFNHZDBfZC1rcXR5cVFsdFBSTUNEOC1wWV9MTjVWZURDVEhUM2MxNm5rakg5dUdyU25ERVZwSFk4RHBHTkV0SEQyazZ3a1I3amRpMHh6TmZEc2JVRUROMTFmU2RKSG5BZE01ckRsdjhTLTdydXNFa21jMS01WmdQZzVyZzNndnVaLXN2aGc?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Amazon Pay India revenue drops 7% in FY25 amid festive surge in usage - Business Standard
+URL     : https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdXlQLUNkTDdoNjI0cjZBYVhuWmIwdzBGLVZmZTdpZzJGVUxESzZLUkdkOEFONmZOSEZOdUZuT1hwbUE2WHpKRFF0R0pHa1BGWFlfRU12bC1HeUNIOWxZSXRMT2dRS0tvWlBmcGhEOGJ2N3o5YlFGSzdicmhpSnM2OWhMUGtFU0M3NGxuaS1TT3VkeUhFV3M4TVJZX2VDM25NbXRrUC05X0h4ZVlOeUhvVl9UTkJ4QzJ3aHNiREVNbEROS28yQmp0TjRsbDRhWVFNN0dR0gHYAUFVX3lxTE9CaU91Wk52VDVvNVdmLTctSnk2OEFzUGhaR09LYXJDaDFHQkxhWUlkQUpzb0xKMTN0M1lZa3o2amN3T2V5OFk1UzVyY0hDdW5oUUFpZTRZYU9EdzZrdWtZc09XZzd6aVRfWlBpc3I5WmUyTjB2QnMxUWUzd3lvbFJEbWc0NVlRTmhPaUtaVmFTekR0NjhBOXItMEdEYkI4V1JscDhsQWl2Z2tDcXpJbENIendzVHItN1NLTVB4Z3FlMlJSUGZFMlNKbzFmMnViazFOSW1oLU9IRw?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Prachiti Deepak Lalingkar - bsmedia.business-standard.com
+URL     : https://news.google.com/rss/articles/CBMivAFBVV95cUxQVVl2X0NSQnVnUXpPc042UHg5NVJvdS15ZmpzLUkxcTFRM2hrZlV1OVl5WkFPVEQ0S0RWZzNLZG94czBkeWxYNWZZNkREQjhKRWo4Ty15NC1PRDJMTFpDdWF4XzYyU2Q2N1NDS1dGQjE3TFlkODR2endTcTRScWpUcXA0QWxDZk53ZU83b0R1U1lKNU5wLWJjNmJ3Zlo1SEpCU0pQdGNiMUNqNWQ1OHlfY2pEVExOTzB4S19tUw?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Zoho launches its own POS devices, eyes deeper foray into B2B payments - BusinessLine
+URL     : https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ1dLSkFRMHdHUnc0SjNLQUN3ODRITTV3YjRCaVBMbnhaekVveXFoN002UlQ2VTE4LTFwdUhqZzBkbGdqeld4NVREREdyNU9pQzI4eTdvcm91SG5QUVpjU3dvQURJOFY3anhZV0MtYWNzMFdKUDFFNlZCTFpDc1RHUDJVNHZHTFFHNGJvNnYta3ZBeE5CVU9Ma3JPSWNXTGgyTzNENDc5aFEwcjk1VHRVQmNCZGNOZ2VrSGlHeUFueFRXS25Kc2YwRmRHNGxsM19ObDZyeldBX2dIR0JO0gHjAUFVX3lxTE9rLUFiTmR1ZDJHN21BMHdJRVJrSy1lSWM0VEJEZDRON0xIRjlOLUJpZ1R0YUh0enY0U3oyQzRmOXU0SzZPTkdYcjRDYmo1TzNmdi1BNzFXV01UUU93WlZJWU5nUklndmJTQV9JMkZZcHpieEFjZEFLQVREa2M0aUx6ZFplcHJ0NjY4ZmtTQ2djd05WTndTa0h0alhtNzhrYzQ2QWgxSjFBdDRCNTB5ZzhncEdqZU15YTNpcG93YzR3SDVkdnBVLThkMlNGMnVBbVd6UXJOQnlFTkFkU2ViMG1rZTM4?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

@@ -1,0 +1,21 @@
+Full Article Fetch Test - ICRA
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 424.39M
+
+Title   : ICRA completes acquisition of Fintellix India, expanding risk analytics portfolio
+Source  : www.livemint.com
+Published: 2025-10-17T13:28:53
+Fetched : 2025-10-18T19:43:12.630628
+URL     : https://www.livemint.com/companies/news/icra-completes-acquisition-of-fintellix-india-expanding-risk-analytics-portfolio-11760707030521.html
+--------------------------------------------------------------------------------
+ICRA Limited has completed the acquisition of a 98.75% stake in Fintellix India Private Limited, a Bengaluru-based RegTech and risk solutions company, the credit rating agency disclosed in a stock exchange filing on 17 October. The acquisition, valued at ₹245.63 crores (approximately $27.9 million), aims to expand ICRA's risk technology portfolio.
+On June 12, 2025, ICRA's Board of Directors initially approved the acquisition, which was executed through a secondary purchase following the execution of a Share Purchase Agreement (SPA) and other transaction documents. The remaining 1.25% of Fintellix's shareholding is set to be acquired later, pending requisite regulatory approvals. This move aligns with ICRA's strategy to enhance its offerings in risk analytics.
+Fintellix specializes in risk, supervisory, and data analytics solutions delivered through its proprietary data platform. The company serves financial institutions and regulators globally, with a client base of over 30 institutions across India, the UK, the US, and other key markets. According to the stock exchange filing, in fiscal year 2025, Fintellix reported a turnover of ₹81.5 crore.
+Ramnath Krishnan, Managing Director and Group CEO of ICRA said, “We are delighted to welcome Fintellix to ICRA. This acquisition marks a pivotal step in our ambition to lead in risk analytics, enabling our clients to anticipate and address risks effectively. By combining ICRA's domain expertise with Fintellix's product innovation, we are uniquely positioned to help clients navigate the fast-evolving regulatory landscape and deliver enhanced value across markets.”
+This acquisition reflects ICRA's focus on enhancing its technological offerings and expanding its presence in risk analytics. By integrating Fintellix's product suite with ICRA's existing capabilities, the company aims to offer solutions that address the regulatory environments faced by financial institutions.
+Shailendra Mruthyunjayappa, CEO, Fintellix said, "Joining ICRA opens up exciting new possibilities for Fintellix and our customers. With ICRA's broader capabilities and global reach, we will accelerate our mission to deliver impactful solutions to manage risk, compliance and strategic priorities with confidence."
+Disclaimer: This article was generated using AI tools and has undergone editorial review for clarity and coherence.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsICRA completes acquisition of Fintellix India, expanding risk analytics portfolio
+

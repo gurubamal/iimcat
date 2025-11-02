@@ -1,0 +1,23 @@
+Full Article Fetch Test - OIL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 18.96B
+
+Title   : Indian Oil’s capex likely to be at around ₹40,000 cr in FY27-29
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T13:57:17
+Fetched : 2025-10-14T14:55:03.544981
+URL     : https://www.thehindubusinessline.com/companies/indian-oil-capex-likely-to-be-at-around-40000-cr-in-fy27-29/article70163195.ece
+--------------------------------------------------------------------------------
+State-run Indian Oil Corporation’s (IoCL’s) annual capital expenditure for its expansion across the refinery and petrochemicals segment will remain elevated at ₹33,000 crore l in FY26 and around ₹40,000 crore for the next three years, said S&P Global Ratings.
+“IoCL’s capex will remain elevated over the next five years at ₹33,000 crore in fiscal 2026 and closer to ₹40,000 crore over the subsequent three years. This includes about ₹35,000 crore on refinery capacity expansions in fiscals 2026-2028. Thereafter, the company will focus on petrochemical investments totalling about ₹68,500 crore over the next three subsequent years,” S&P said on Tuesday.
+The ratings agency expects IoCL’s operating cash flows will be sufficient to fund its growth capital expenditure (capex) over the next 12-24 months, such that it will keep its debt-to-EBITDA ratio below 3.0x during this period.
+“We estimate IoCL’s annual operating cash flow at ₹45,000-52,000 crore over the next 12-24 months. For refining companies, the reversal of working capital partly offsets weaker EBITDA margins due to a fall in crude oil prices. Therefore, despite volatile EBITDA margins, the operating cash flows are relatively more stable. Even though IoCL has sizeable investments ahead, we expect the company’s free operating cash flows to remain positive,” it added.
+Rising consumption
+S&P Global Ratings expects demand for refined petroleum products and petrochemicals to outpace India’s GDP growth over the next three to five years. The country’s strong domestic consumption patterns and the government’s continued spending on infrastructure will support this.
+S&P Global Commodity Insights forecasts India’s petrochemical demand will expand at a compound annual growth rate of 8 per cent over the next decade, up from 7.7 per cent over the past 10 years.
+IoCL is in the midst of increasing its refining capacity to 98.4 million tonnes per annum (MTPA) by the end of fiscal 2027 (ending March 31, 2027), from 80.8 mtpa at the end of fiscal 2025.
+It has maintained close to 100 per cent utilisation over the past several years, and the agency expects favourable demand momentum to further scale up its new capacities.
+IoCL has also announced plans to increase its petrochemical production capacity to about 7.1 mtpa by fiscal 2030, about 60 per cent higher than its current capacity. These investments are concurrent with the company’s refinery expansion projects and its objective of raising petrochemical integration to 15 per cent by 2030, from the current 6 per cent, it added.
+Published on October 14, 2025
+

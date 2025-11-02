@@ -1,0 +1,25 @@
+2025-10-24 00:34:59,294 - INFO - ✅ Frontier AI components loaded
+2025-10-24 00:34:59,294 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-24 00:34:59,296 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-24 00:34:59,297 - INFO -    Time window: 24 hours
+2025-10-24 00:34:59,297 - INFO -    Max articles per ticker: 10
+2025-10-24 00:34:59,297 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-24 00:34:59,308 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-24 00:35:01,459 - INFO - ℹ️  No recent news for 21STCENMGM
+2025-10-24 00:35:01,460 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-24 00:35:01,460 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-24 00:35:02,325 - INFO - ℹ️  No recent news for A2ZINFRA
+2025-10-24 00:35:02,325 - INFO - [3/50] Processing ACL...
+2025-10-24 00:35:02,325 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-24 00:35:03,890 - INFO - ℹ️  No recent news for ACL
+2025-10-24 00:35:03,890 - INFO - [4/50] Processing AGSTRA...
+2025-10-24 00:35:03,894 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-24 00:35:05,108 - INFO - ℹ️  No recent news for AGSTRA
+2025-10-24 00:35:05,108 - INFO - [5/50] Processing ANSALAPI...
+2025-10-24 00:35:05,108 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-24 00:35:06,714 - INFO - ℹ️  No recent news for ANSALAPI
+2025-10-24 00:35:06,715 - INFO - [6/50] Processing BLUECHIP...
+2025-10-24 00:35:06,715 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-24 00:35:08,287 - INFO - ℹ️  No recent news for BLUECHIP
+2025-10-24 00:35:08,287 - INFO - [7/50] Processing DHARAN...
+2025-10-24 00:35:08,287 - INFO - 📰 Fetching news for DHARAN (last 24h)

@@ -1,0 +1,24 @@
+Full Article Fetch Test - ACC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : Accenture proposes new campus in Andhra Pradesh, eyes adding 12,000 jobs amid Trump's H-1B visa shake-up
+Source  : www.livemint.com
+Published: 2025-09-23T15:02:11
+Fetched : 2025-09-24T02:10:52.619695
+URL     : https://www.livemint.com/companies/accenture-proposes-new-campus-in-andhra-pradesh-eyes-adding-12-000-job-11758634994917.html
+--------------------------------------------------------------------------------
+Accenture, a tech consultancy firm, has announced plans to establish a new campus in the southern Indian state of Andhra Pradesh, with the goal of creating approximately 12,000 new jobs in its Indian workforce over time, Reuters reported citing sources. India is home to Accenture's largest workforce globally, with over 300,000 of its 790,000 employees located here.
+This development comes amid a policy change by US President Donald Trump, introducing a $100,000 fee for new H-1B visa, a programme relied upon by tech companies to hire skilled foreign workers.
+According to Reuters' sources who wished to remain anonymous due to the confidentiality of the matter, Accenture has submitted a proposal to the state government requesting around 10 acres of land in the port city of Visakhapatnam under similar terms. Accenture did not respond to its request for comment on it. A state official expressed that the Andhra Pradesh government is keen to welcome Accenture and, although approvals might take some time, the proposal is likely to be approved.
+On condition of anonymity, an official mentioned, “It is not an unreasonable ask by Accenture, and the proposal will go through.”
+However, it remains unknown how much Accenture plans to invest in establishing the campus.
+The company's move also comes after similar agreements by IT companies Tata Consultancy Services and Cognizant, which are taking advantage of a new state policy that provides leased land at just 0.99 rupees ($0.0112) per acre to large companies committed to creating jobs.
+TCS and Cognizant obtained land leases under the new policy to establish campuses in Visakhapatnam, with the potential to create approximately 20,000 jobs. Cognizant plans to invest $183 million, while TCS has allocated just over $154 million for its campus, the report noted, adding that the technology companies are increasingly expanding into smaller Indian cities to take advantage of lower costs for land, rent, and wages. In the post-pandemic landscape, many firms are finding it easier to recruit talent locally in Tier-2 cities, marking a shift from the earlier trend of workers moving to major tech hubs.
+Meanwhile, Accenture Plc is providing training in agentic artificial intelligence to its workforce of over 7, 00,000 employees, as the consulting firm aims to meet growing client demand in this field, as per a Bloomberg report.
+“Every new wave of technology has a time where you have to train and retool. Accenture’s core competency is to do that at scale,” Accenture’s Chief Executive Officer Julie Sweet stated in a Bloomberg Television interview.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesAccenture proposes new campus in Andhra Pradesh, eyes adding 12,000 jobs amid Trump's H-1B visa shake-up
+

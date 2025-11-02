@@ -1,0 +1,55 @@
+Full Article Fetch Test - TCS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : TCS salary hike: IT major rolls out wage hikes to employees. Here's how much they got
+Source  : www.livemint.com
+Published: 2025-09-02T11:47:04
+Fetched : 2025-09-03T04:52:22.186891
+URL     : https://www.livemint.com/companies/news/tcs-salary-hike-it-major-rolls-out-wage-hikes-to-employees-heres-how-much-they-got-11756810140030.html
+--------------------------------------------------------------------------------
+India's largest IT company, Tata Consultancy Services (TCS), has announced its latest round of salary hikes, which will be between 4.5% and 7% for the majority of its employees, news agency PTI reported on Tuesday, 2 September.
+The Tata Group firm started sending increment letters to the employees on the evening of 1 September, and the salary hikes will be effective from September 2025, people aware of the development told the news agency.
+This comes after talks of a potential salary hike have been deferred for the last two months amid hazy market conditions. The report also mentioned that the email queries sent to the company remained unanswered.
+How much salary hike did TCS give?
+According to the report, TCS has increased the salaries of its lower- and middle-level employees. The people aware of the development told the news agency that the top performers in the company were given more than 10% pay hikes.
+TCS attrition rate
+Mint reported earlier that TCS's attrition rate for the April-June quarter increased to 13.8 per cent on a last-twelve-month (LTM) basis as of the end of the April to June quarter of FY2025-26, up from 13.3 per cent at the end of the fourth quarter of the 2024-25 fiscal.
+The attrition rate for the first quarter of the 2025-26 fiscal year witnessed a marginal increase compared to the same quarter a year ago.
+In July, TCS Executive Vice President and Chief Human Resources Officer Milind Lakkad said the company had not made any decisions to increase the salary of its employees.
+“With respect to wage hikes, we have not made any decisions so far,” said Lakkad in the company's quarterly press conference.
+The chief HR officer also told the media that the company was making efforts to lower its attrition rate, which reached a two-year high at the end of the first quarter of the financial year 2025-26.
+As TCS attrition hits a two-year high, Milind Lakkad said attrition was more than its comfort level of 13 per cent. “We are making efforts to bring it down,” he said at the press conference.
+
+Title   : TCS wins $640 mn order to modernise Danish insurer Tryg's IT infrastructure
+Source  : www.livemint.com
+Published: 2025-09-02T14:28:55
+Fetched : 2025-09-03T04:52:22.186891
+URL     : https://www.livemint.com/companies/tcs-640-million-deal-danish-insurer-tryg-11756817770315.html
+--------------------------------------------------------------------------------
+India's largest software services company Tata Consultancy Services Ltd (TCS) has won a $640 million order from Danish insurance firm Tryg, marking its first big-ticket deal since January 2024.
+On Tuesday, TCS said it would expand on its existing partnership and modernise the Danish insurer’s information technology infrastructure using artificial intelligence and cloud solutions. However, Mint could not ascertain the quantum of business that was net new.
+Nonetheless, TCS’s transaction with Tryg is a rare deal for the IT outsourcer that has struggled to win contracts worth more than $500 million, even as its rivals have seen success. TCS last won a contract valued upwards of a billion dollars in January 2024, when it inked a $2.5-billion, 15-year contract with British insurer Aviva.
+The deal with Tryg, with a tenure of seven years, comes as a welcome sign for TCS at a time when it has been struggling to bag large deals in an uncertain demand environment.
+For now, the Mumbai-based software exporter is expected to get on average about $90 million in annual revenue from Tryg, a company which has been its client since the past 15 years.
+Tryg ended last year with Danish krone (DKK) 38.6 billion ($6 billion) in revenue, up 3.9% on a yearly basis. More than three-fifths of its business comes from selling insurance products in Denmark and Norway.
+TCS’s deal win will also expand its footprint in the Nordics region, which houses about 20,000 of its employees, or about 3% of the total headcount. While the tech service provider does not declare revenue from the Nordics region, it clubs Denmark, Finland, and Sweden under ‘Continental Europe,’ which contributes about 14.3%, or $4.32 billion of its revenue.
+“Success today depends on how quickly and resiliently enterprises can adapt. The key to long-term value creation lies in building perpetually adaptive enterprises enabled by intelligent, future-ready IT systems. By combining TCS’ best-in-class cloud and AI capabilities with our expertise in the insurance sector, we will help Tryg accelerate its transformation into an agile, technologyled enterprise with AI at its core,” said K. Krithivasan, chief executive of TCS, in a statement.
+While Krithivasan spoke about long-term value creation, for TCS, analysts have raised questions about its growth in the near term.
+Its full-year growth of 3.78% in FY25 has been its slowest in the last four years. Last quarter, the company reported a sequential revenue decline of 0.59% to end with $7.42 billion in revenue.
+Still, much of its growth last year was on the back of the ramp-up of a 4G network deployment deal with Bharat Sanchar Nigam Limited, a state-run telecom operator. In June 2023, TCS announced a mega deal win from BSNL, worth $1.83 billion.
+“This Tryg contract is exactly the kind of mega deal TCS needed to signal a rebound. It restores momentum after a muted FY24 and reasserts TCS as a trusted partner for large-scale AI and cloud transformations,” said Phil Fersht, CEO of HFS Research.
+He added that this deal could opens the floodgates to large engagements in Europe.
+“Mega deals are creeping back onto the table in Europe. TCS breaking the drought with a European insurer could open the floodgates for other large engagements across Europe,” said Fersht.
+TCS lost some of its large clients, including Phoenix Group and Zurich Life Insurance Group, to smaller peers Wipro Ltd and DXC Technology, respectively.
+Notably, Wipro’s Phoenix deal was the last such big-ticket deal announced by the country’s big five. The fourth-largest IT services company won a 10-year contract with UK-based insurance company Phoenix Group, valued at $650 million, in March this year.
+Nasdaq-listed Cognizant Technology Solutions Corp has not been far behind either, after it bagged a $1 billion deal with a US-based healthcare company in June. Both Wipro and Cognizant also closed two deals valued upwards of $1 billion each, last quarter.
+While smaller players are gaining market share, TCS announced changes at the top to revive its fortunes. On 10 April, it named Aarthi Subramanian as president and chief operating officer, and Mangesh Sathe as chief strategy officer. While Subramanian was group chief digital officer at Tata Sons, Sathe served as chief executive of Tata Strategic Management Group.
+The company also formed a ‘AI and Services Transformation’ unit under Amit Kapur last week, where teams working on the new technology would be consolidated.
+Changes at the top were complemented with changes below. The company announced in July that it would be laying off 2% of its workforce, or 12,200 employees, in middle and senior roles, as part of ‘strategic initiatives’ and investments in new tech areas.
+Investors are not enthused, though. TCS shares have returned the worst amongst the country’s big five since the start of the year. They have plunged 24% since the start of the year, whereas shares of Infosys Ltd, HCL Technologies Ltd, Wipro, and Tech Mahindra Ltd lost 20.4%, 23.6%, 16.9%, and 11.4%, respectively.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesTCS wins $640 mn order to modernise Danish insurer Tryg's IT infrastructure
+

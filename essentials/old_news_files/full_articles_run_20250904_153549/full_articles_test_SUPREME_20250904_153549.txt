@@ -1,0 +1,59 @@
+Full Article Fetch Test - SUPREME
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-04
+
+Title   : Trump files US Supreme Court appeal against striking down of tariffs
+Source  : www.thehindubusinessline.com
+Published: 2025-09-04T15:53:33
+Fetched : 2025-09-04T16:24:27.022124
+URL     : https://www.thehindubusinessline.com/economy/trump-files-us-supreme-court-appeal-against-striking-down-of-tariffs/article70013307.ece
+--------------------------------------------------------------------------------
+Signalling a long drawn-out battle on tariffs with India, US President Donald Trump’s administration has filed an appeal with the US Supreme Court against striking down of tariffs on countries including India, warning that it may thrust America to the “brink of economic catastrophe”.
+While Indian Commerce Minister Piyush Goyal has recently expressed hopes of finalising a bilateral trade agreement (BTA) with the US by November-end to address the 50 per cent tariffs imposed on it by the country, the latest move by Trump indicates a rocky road ahead.
+“We recently authorised tariffs against India for purchasing Russian energy products to deal with a pre-existing national emergency regarding Russia’s war in Ukraine,” the administration stated, adding that it was a “crucial aspect” of the President’s push for peace in the country.
+Trump’s government filed a petition late on Wednesday seeking a review of last week’s federal appeals court ruling in Washington DC, which stated that most of Trump’s tariffs were illegal. The levies are to remain till October 14 to give time to the administration to ask for a review.
+“Brink of economic catastrophe”
+The appeal underlined that the stakes in this case could not be higher. It said that the President and his Cabinet officials had determined that the tariffs are promoting peace and unprecedented economic prosperity, and that the denial of tariff authority would expose the US to trade retaliation without effective defences and thrust America back to the “brink of economic catastrophe.”
+It said that due to IEEPA ((International Emergency Economic Powers Act) tariffs, six major trading partners and the 27-nation EU had entered into framework deals with the United States, accepting tariff arrangements heavily recalibrated in America’s favour and agreeing to make approximately $ 2 trillion of purchases and investment in the US’ economy.
+The Indian government has indicated that while it will not impose retaliatory tariffs on the US as it was hopeful of a BTA still happening between the two countries. New Delhi, however, does not want to compromise beyond a point in the trade negotiations and has resolved not to cross its redlines that include market access for sensitive agriculture and dairy products and GM soybean and corn.
+The US postponed the visit of its team of trade negotiators to Delhi scheduled on August 25 and is yet to come up with another date.
+Recently, Trump criticised India again for its high tariffs. “Until now a totally one sided relationship, and it has been for many decades,” he said. “The reason is that India has charged us, until now, such high tariffs, the most of any country, that our businesses are unable to sell into India. It has been a totally one sided disaster!”
+Trump’s aides, which includes White House adviser Peter Navarro, has strongly defended imposition of 50 per cent tariff on India, which includes a 25 per cent penalty for buying Russian oil, based on the allegation that New Delhi was fuelling Russia’s war against Ukraine.
+India argued that the tariffs were unfair and unjustified as the US and other Western nations were also doing business with Moscow.
+Published on September 4, 2025
+
+Title   : Trump pushes Supreme Court to save sweeping tariffs 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T04:29:30
+Fetched : 2025-09-04T16:24:27.022124
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/trump-pushes-supreme-court-to-save-sweeping-tariffs/slideshow/123690317.cms
+--------------------------------------------------------------------------------
+Trump Administration Rushes Tariff Case to Supreme Court
+Donald Trump’s administration has asked the U.S. Supreme Court to urgently hear its appeal to preserve sweeping tariffs imposed under a 1977 emergency law. A lower court recently struck down most of these levies, dealing a blow to Trump’s trade agenda. (Source: Reuters)
+AP
+2/7
+Justice Department Appeal
+The DOJ appealed an August 29 ruling that said Trump exceeded his authority under the International Emergency Economic Powers Act (IEEPA). The administration requested a fast-track review, with a decision by Sept. 10 and hearings in November.
+ETMarkets.com
+3/7
+Administration’s Argument
+Solicitor General D. John Sauer argued the tariffs are vital for peace, prosperity, and defense against trade retaliation. Treasury Secretary Scott Bessent added that the ruling weakens Trump’s ability to conduct diplomacy and safeguard national security.
+ETMarkets.com
+4/7
+Challenges to Tariffs
+Small businesses and 12 Democratic-led states have challenged the tariffs, saying they violate the Constitution, which gives Congress—not the president—the power to levy tariffs. Critics argue IEEPA was never intended for such broad trade measures.
+TIMESOFINDIA.COM
+5/7
+Court Rulings Against Trump
+The Federal Circuit Court ruled 7-4 that IEEPA does not authorize tariffs, citing the “major questions” doctrine that requires clear congressional approval for actions of vast economic and political significance. Multiple courts have sided against Trump.
+NYT News Service
+6/7
+Impact of Tariffs
+Since returning to office, Trump has made tariffs central to U.S. foreign policy—using them to pressure countries and renegotiate deals. But they have triggered trade tensions, financial market volatility, and global economic uncertainty.
+TIL Creatives
+7/7
+What’s Next
+The Supreme Court’s decision on whether to take up the case could reshape the limits of presidential power on trade. The legal battle also coincides with challenges to Trump’s control over the Federal Reserve, setting up a broader clash over his economic policies.
+(Disclaimer: This slideshow has been sourced from Reuters)
+

@@ -1,0 +1,125 @@
+Full Article Fetch Test - TRU
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): -90980000.00
+
+Title   : Trump-Xi summit in South Korea on track amid trade tensions 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T04:59:32
+Fetched : 2025-10-14T07:28:55.328379
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/trump-xi-summit-in-south-korea-on-track-amid-trade-tensions/slideshow/124544033.cms
+--------------------------------------------------------------------------------
+US President Donald Trump is on track to meet Chinese leader Xi Jinping in South Korea in late October. The meeting, planned during the Asia-Pacific Economic Cooperation (APEC) summit, aims to ease tensions between the two countries over tariffs and export controls. (Source: Reuters)
+Agencies
+2/7
+Trade Tensions Spike
+Trade tensions flared after China announced tightened export controls on rare earths. Trump responded with a threat of new tariffs, triggering a sharp market reaction and raising concerns over the state of US-China economic relations.
+TIL Creatives
+3/7
+Communications Ongoing
+Despite recent tensions, substantial communication continues between the US and China. US Treasury Secretary Scott Bessent confirmed that dialogue has de-escalated the situation. Staff-level talks are expected this week in Washington alongside IMF and World Bank meetings.
+IANS
+4/7
+Stock Market Reaction
+Markets reacted positively to signs of progress. Asian stocks made a tentative rebound, while Wall Street ended up to 2.2% higher. Investor worries about a stock market boom driven by artificial intelligence and its potential impact on employment eased slightly.
+Agencies
+5/7
+US Pushback on China
+The United States responded firmly to China’s rare earth controls. Bessent described China’s actions as provocative but emphasised continued communication with allies, including Europe, India, and other Asian democracies. China, in turn, blamed the US for rising tensions and defended its export curbs.
+Agencies
+6/7
+Rare Earth Licensing Changes
+China’s new regulations require foreign companies to obtain Chinese export licences if their final products involve Chinese materials or equipment. The US has rejected these licensing requirements, highlighting the growing complexity in the global supply chain for rare earths.
+Agencies
+7/7
+Outlook
+The threat of immediate tariffs has been delayed, with Trump announcing that new tariffs will not take effect until 1 November. Bessent expressed optimism, stating that the US-China relationship remains positive and that open lines of communication have been restored. (Disclaimer: This slideshow has been sourced from Reuters)
+
+Title   : Trump hails India as ‘great country’; predicts India-Pakistan will ‘live very nicely together’
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T01:24:26
+Fetched : 2025-10-14T07:28:55.330270
+URL     : https://www.thehindubusinessline.com/news/world/trump-hails-india-as-great-country-predicts-india-pakistan-will-live-very-nicely-together/article70161113.ece
+--------------------------------------------------------------------------------
+US President Donald Trump on Monday praised India and Prime Minister Narendra Modi without naming him, saying “India is a great country with a good friend of mine at the top”.
+Trump, addressing a summit of world leaders at this Egyptian city after a ceasefire reached in Gaza ending the Israel-Hamas war, said from the podium that he thinks “India and Pakistan will live very nicely together”.
+“India is a great country with a very good friend of mine at the top and he’s just done a fantastic job. I think Pakistan and India are going to live very nicely together,” Trump said while looking at Pakistan Prime Minister Shehbaz Sharif who was standing behind him, as he responded with a chuckle.
+Sharif credits Trump, pushes Nobel nomination
+Earlier praising Sharif and his “favourite field marshal” Pakistan army chief Gen Asim Munir, Trump also invited the Pakistan prime minister to address the gathering.
+Sharif said peace has been achieved in the Middle East after “untiring and relentless efforts” of President Trump.
+“Pakistan had nominated President Trump for the Nobel Peace Prize for his outstanding (and) extraordinary contributions to first stop the war between India and Pakistan and then achieve a ceasefire along with his very wonderful team,” he said.
+Sharif said he would like to nominate Trump again for the Nobel Peace Prize for “saving millions of lives not only in South Asia but also in the Middle East”.
+After missing out on the Nobel Peace Prize, Trump has claimed to have resolved eight wars, including the one between India and Pakistan, saying, he did not do this for the Nobel.
+Trump has been claiming to resolve seven conflicts till now, including the one between India and Pakistan. However, he has now increased that figure to eight after adding the Israel-Gaza conflict.
+Since May 10, when Trump announced on social media that India and Pakistan had agreed to a “full and immediate” ceasefire after a “long night” of talks mediated by Washington, he has repeated his claim dozens of times that he “helped settle” the conflict between India and Pakistan.
+India has consistently maintained that the understanding on cessation of hostilities with Pakistan was reached following direct talks between the Directors General of Military Operations (DGMOs) of the two militaries.
+India launched Operation Sindoor on May 7, targeting terror infrastructure in Pakistan and Pakistan-occupied Kashmir in retaliation for the April 22 Pahalgam attack that killed 26 civilians.
+India and Pakistan reached an understanding on May 10 to end the conflict after four days of intense cross-border drone and missile strikes.
+Published on October 14, 2025
+
+Title   : Divisions aside, Tata Trusts keen to keep Tata Sons private
+Source  : www.livemint.com
+Published: 2025-10-13T00:15:07
+Fetched : 2025-10-14T07:28:55.331146
+URL     : https://www.livemint.com/companies/tata-sons-owner-retains-the-decision-to-keep-the-holding-company-private-11760263865309.html
+--------------------------------------------------------------------------------
+Divisions aside, Tata Trusts keen to keep Tata Sons private
+However, Tata Trusts is still open to giving an exit to the SP Group over a mutually agreeable period, provided its own interests are maintained. Here's what explains Tata Trusts discomfort with a listed Tata Sons.
+Tata Trusts remains committed to its decision to keep Tata Sons private, two Tata executives told Mint, hours after the Shapoorji Pallonji Group issued a public statement seeking a public share sale of the Tata Group holding company.
+An initial public offering (IPO) will dilute Tata Trusts' shareholding, weaken its voting rights and limit its ability to influence key decisions at Tata Sons, the executives said on the condition of anonymity. Tata Trusts holds nearly 66% in Tata Sons, the holding company of the $300 billion Tata Group, India's largest conglomerate. Debt-ridden SP Group is the biggest individual shareholder, with 18.37% stake.
+However, Tata Trusts is still open to giving an exit to the SP Group over a mutually agreeable period, provided its own interests are maintained, one of the two executives said. “We remain open to providing an orderly exit for the SP Group while safeguarding the Tata Group’s interests."
+Article 75 of the Tata Sons Articles of Association gives Tata Trusts the right to buy out SP Group, a provision the latter agreed to when it obtained control of shares in Tata Sons in 1964, the executive said.
+Tata Sons on 30 September crossed a central bank deadline for an IPO, seen by the SP Group as an opportunity to sell its shares and reduce its crushing debt. Currently, SP Group cannot sell its Tata Sons shares, constrained by the company's Articles of Association.
+Despite reports that at least one trustee is in favour of a Tata Sons IPO to help the SP Group, this isn't the official stance of the Trusts yet, the two executives said. Mint could not ascertain if the said trustee discussed his view with others.
+“There is no change of strategy," said the second executive, dismissing any softening in stance. The Trusts have already asked Tata Sons to work to stay private, and negotiate an exit for SP Group.
+Tata Trusts is manned by seven trustees—chairman Noel Tata, TVS Motor Corp. chairman emeritus Venu Srinivasan; retired defence secretary Vijay Singh; Mumbai-based lawyer Darius Khambata; businessman Mehli Mistry; Citibank India former CEO Pramit Jhaveri; and Pune-based philanthropist and businessman Jehangir H.C. Jehangir.
+The first executive questioned the rationale behind the SP Group's demand made after the Trust's meeting on Friday. He said the group's challenges are "self-inflicted", and that a Tata Sons IPO would not help overcome them.
+Queries emailed to the Tata Trusts and SP Group remained unanswered.
+“The issue here is that SP Group is demanding that Tata Sons go public so that it can get money to tide over its own debt problems. Now, if SP Group has given an undertaking to the Tatas that they have the right to buy its stake and if this has been upheld by the Supreme Court judgement in 2021 in the case of Cyrus Mistry Versus Tata Group, then what is the merit in making this demand?" said senior Supreme Court lawyer H.P. Ranina.
+“Anyone can demand anything. Let them demand. Tatas should ignore it," said Ranina.
+It is mandatory for publicly listed companies to secure the approval of a majority of minority shareholders to make key decisions. So, Tata Trusts won't have unfettered decision-making powers at Tata Sons if it is listed.
+Sir Ratan Tata Trusts passed a resolution dated 28 July that the chairman of Tata Sons should not change its current status as an unlisted private company and that Tata Sons fully engage with the Reserve Bank of India in this regard, Mint reported earlier.
+Sir Ratan Tata Trust and Sir Dorabji Tata Trust together own over 51% of Tata Sons, with additional stakes held by JRD Tata Trust, Tata Education Trust, Tata Social Welfare Trust, MK Tata Trust, and Sarvajanik Seva Trust. Shapoorji Pallonji Group owns 18.38%, nine Tata Group companies hold 12.86%, and seven individuals account for the remaining 2.87%.
+On Friday, SP Group made a rare public statement asking for Tata Sons to go public. Aloo Mistry, sister of SP Group chairman Shapoor Mistry, is Tata Trusts chairman Noel Tata's wife.
+“The public listing of Tata Sons is not merely a financial step — it is a moral and social imperative," read a statement from the SP Group. It would unlock significant value for over 12 million shareholders of listed Tata companies, who are indirect shareholders of Tata Sons, it said.
+The statement invoked the Tata Group’s founder Jamsetji Tata, saying a listing would uphold the spirit of transparency envisioned by its founding father.
+The statement also acknowledged the recent developments at Tata Trusts, where differences have surfaced among the trustees. “In light of the recent developments pertaining to the internal matters of Tata Trusts, it is both timely and necessary to reiterate our long-standing position," read a SP Group statement.
+SP Group is insisting that Tata Sons go public as it could sell its stake and use the proceeds to pay back its creditors. Mint independently could not ascertain the debt of the SP group. However, in May, SP Group raised $3.3 billion (about Rs28,500 crore) from private creditors by issuing non-convertible debentures at an eye-watering interest rate of 19.75%. SP Group has 9.185% or half of its Tata stake, in addition to pledging shares in its privately-held real estate business as collateral as part of this transaction.
+
+Title   : Interise Trust to raise more than ₹2,000 crore via bonds, bankers say
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T04:47:02
+Fetched : 2025-10-14T07:28:55.331368
+URL     : https://www.thehindubusinessline.com/markets/interise-trust-to-raise-more-than-2000-crore-via-bonds-bankers-say/article70161234.ece
+--------------------------------------------------------------------------------
+India's Interise Trust plans to raise up to ₹2,075 crore ($233.9 million) through two series of bonds maturing in 19 years, five months and 15 days each, three bankers said on Tuesday. The Infrastructure Investment Trust will pay a coupon of 6.96% and 7.3014%, respectively, payable quarterly, they said.
+"Staggered Redemption for both series will start from December 31, 2025, quarterly thereafter and on maturity as per redemption schedule," one of the bankers said. One issue has a call option at end of three years and another at end of 10 years, they added. The trust has invited commitment bids for the issue on Wednesday, they said.
+The company did not immediately respond to a Reuters email seeking comment.
+Here is the list of deals reported so far on October 14:
+Issuer Tenure Coupon (in %) Issue size (in Bidding bln rupees)* date Rating
+Interise 19 years, 5 6.96 10.5 October 15 AAA Trust months and (India 15 days Rating, Icra)
+Interise 19 years, 5 7.3014 10.25 October 15 AAA Trust months and (India 15 days Rating, Icra)
+1 year and 5 7.55 25 October 14 AAA Poonawalla months (Crisil Fincorp )
+Poonawalla 1 year and 9 7.5285 5 October 14 AAA Fincorp months (Crisil 2027)
+Reissue * Size includes base plus greenshoe for some issues
+Published on October 14, 2025
+
+Title   : Interise Trust to raise over Rs 20 billion via bonds: Bankers 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T05:27:18
+Fetched : 2025-10-14T07:28:55.332269
+URL     : https://economictimes.indiatimes.com/markets/bonds/interise-trust-to-raise-over-rs-20-billion-via-bonds-bankers/articleshow/124544421.cms
+--------------------------------------------------------------------------------
+The Infrastructure Investment Trust will pay a coupon of 6.96% and 7.3014%, respectively, payable quarterly, they said. "Staggered Redemption for both series will start from December 31, 2025, quarterly thereafter and on maturity as per redemption schedule," one of the bankers said.
+One issue has a call option at end of three years and another at end of 10 years, they added. The trust has invited commitment bids for the issue on Wednesday, they said.
+Interise Trust is set to raise 20.75 billion rupees via two bond series. These bonds will mature in 19 years, five months, and 15 days. Coupons will be 6.96% and 7.3014%, paid quarterly. Staggered redemption begins December 31, 2025. One issue has a three-year call option, the other a ten-year call option. Commitment bids are invited for Wednesday.
+The company did not immediately respond to a Reuters email seeking comment.
+Here is the list of deals reported so far on October 14:
+Issuer Tenure Coupon (in %) Issue size (in Bidding bln rupees)* date Rating Interise 19 years, 5 6.96 10.5 October 15 AAA Trust months and (India 15 days Rating, Icra) Interise 19 years, 5 7.3014 10.25 October 15 AAA Trust months and (India 15 days Rating, Icra) 1 year and 5 7.55 25 October 14 AAA Poonawalla months (Crisil Fincorp ) Poonawalla 1 year and 9 7.5285 5 October 14 AAA Fincorp months (Crisil 2027 ) Reissue * Size includes base plus greenshoe for some issues ($1 = 88.7000 Indian rupees).
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

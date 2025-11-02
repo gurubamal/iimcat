@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(bash:*)",
+      "Bash(dos2unix:*)",
+      "Bash(sed:*)",
+      "Bash(tee:*)",
+      "Bash(chmod:*)",
+      "Bash(./ai_log_helper.sh status:*)",
+      "Bash(export AI_LOG_ENABLED=true)",
+      "Bash(./ai_log_helper.sh test:*)",
+      "Bash(./ai_log_helper.sh:*)",
+      "Bash(cat:*)",
+      "Bash(./run_without_api.sh:*)",
+      "Bash(wait)",
+      "Bash(timeout 120 ./run_without_api.sh:*)",
+      "Bash(timeout 30 python3:*)",
+      "Bash(timeout 30 ./run_without_api.sh:*)",
+      "WebSearch"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

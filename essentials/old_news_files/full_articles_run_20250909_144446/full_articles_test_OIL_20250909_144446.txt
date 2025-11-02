@@ -1,0 +1,21 @@
+Full Article Fetch Test - OIL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-09
+
+Title   : Oil steadies as Saudi price cuts put demand outlook in focus
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T03:37:35
+Fetched : 2025-09-09T15:26:44.164908
+URL     : https://www.thehindubusinessline.com/markets/commodities/oil-steadies-as-saudi-price-cuts-put-demand-outlook-in-focus/article70028372.ece
+--------------------------------------------------------------------------------
+Oil steadied as investors weighed the prospect for softening demand after Saudi Arabia cut pricing for most of its grades.
+Brent traded near $66 a barrel after closing 0.8 per cent higher on Monday, while West Texas Intermediate was above $62.
+State producer Saudi Aramco will trim the price for all its crude for buyers in Asia next month, following a decision by OPEC+ to continue adding idled barrels to the market in October.
+Aramco reduced the price for its flagship Arab Light crude to Asia more than expected, potentially sending a bearish signal, according to traders dealing oil in the region. The market is facing an oversupply toward the end of the year and into 2026, which will likely put downward pressure on prices.
+“Saudi Arabia has clearly shifted toward a market share battle, leaving the market with a high certainty of a supply glut,” said Zhou Mi, an analyst at a research institute affiliated with Chaos Ternary Futures Co.
+The Organization of the Petroleum Exporting Countries and its allies decided to return 137,000 barrels a day in October, a smaller increment than scheduled for previous months, highlighting some caution in the outlook. Still, it signals a push by the group to reclaim market share over defending prices.
+Brent is down around 11 per cent this year, but prices have held up relatively well in the face of OPEC+ supply increases. China’s stockpiling supported demand recently, but the nation might not be able to absorb all of the impending market surplus, Gunvor Group’s head of research Frederic Lasserre said at the Asia Pacific Petroleum Conference in Singapore on Monday.
+More stories like this are available on bloomberg.com
+Published on September 9, 2025
+

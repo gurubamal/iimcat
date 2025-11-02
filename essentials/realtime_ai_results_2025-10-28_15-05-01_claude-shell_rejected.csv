@@ -1,0 +1,3 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+HINDALCO,31.4,15,1,Certainty 15% below threshold (40%),"Hindalco, Vedanta shares jump up to 2% on strong volumes; metal index advances o",This is a classic fake rally scenario - headline mentions 2% intraday gain with strong volumes but provides zero fundamental catalyst. No earnings dat
+GLOBAL,17.3,10,1,Certainty 10% below threshold (40%),Saurabh Mukherjea's Global Compounders Fund delivers 27% CAGR in 3 years ,"This news is about Saurabh Mukherjea's mutual fund performance, NOT about a specific company named GLOBAL. There is high uncertainty whether ticker 'G"

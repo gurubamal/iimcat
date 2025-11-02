@@ -1,0 +1,36 @@
+Full Article Fetch Test - HFCL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-15
+
+Title   : NBCC, HFCL, among 6 F&O stocks saw a high increase in futures open interest 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-15T03:31:21
+Fetched : 2025-09-15T05:12:17.246339
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/nbcc-hfcl-among-6-fo-stocks-saw-a-high-increase-in-futures-open-interest/slideshow/123891229.cms
+--------------------------------------------------------------------------------
+NBCC, HFCL, among 6 F&O stocks saw a high increase in futures open interest
+1/7
+Futures Surge
+There was a notable surge in futures open interest for six stocks in the NSE F&O pack, contributing to a total increase in open interest of over 5.5% as of September 12, as compared to the previous trade. A significant uptick in futures open interest signifies a substantial growth in the number of active, unexpired futures contracts in a specific security. This uptrend reflects an increasing number of participants either initiating new positions or expanding the size of their existing positions within the futures market.
+ETMarkets.com
+2/7
+NBCC (India)
+OI: 6,81,00,500| Chg OI: 67,27,500 | Chg OI (%): 10.96
+ETMarkets.com
+3/7
+Lodha Developers
+OI: 98,17,650| Chg OI: 9,58,950 | Chg OI (%): 10.82
+ETMarkets.com
+4/7
+HFCL
+OI: 13,14,96,150| Chg OI: 1,14,10,050 | Chg OI (%): 9.5
+ETMarkets.com
+5/7
+Godrej Consumer Products
+OI: 97,66,000| Chg OI: 6,56,500 | Chg OI (%): 7.21
+ETMarkets.com
+6/7
+KPIT Technologies
+OI: 32,82,400| Chg OI: 1,93,200 | Chg OI (%): 6.25
+

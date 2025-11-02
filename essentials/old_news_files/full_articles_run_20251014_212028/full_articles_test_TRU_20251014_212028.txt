@@ -1,0 +1,45 @@
+Full Article Fetch Test - TRU
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): -90980000.00
+
+Title   : Chennai-based Trusted Aerospace Engineering acquires US’ Joined Alloys for ₹106 crore
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T12:54:27
+Fetched : 2025-10-14T21:35:36.626669
+URL     : https://www.thehindubusinessline.com/economy/logistics/chennai-based-trusted-aerospace-engineering-acquires-us-joined-alloys-for-106-crore/article70162080.ece
+--------------------------------------------------------------------------------
+Chennai-based Trusted Aerospace Engineering (TASE Global), a vendor to companies such as Boeing, Honeywell and Roche, is expanding its footprint in the US with the acquisition of Arizona-based Joined Alloys for ₹106 crore. TASE Global, which has a factory in Sriperumbudur, is also working on a brownfield expansion with an investment of nearly ₹150 crore.
+Joined Alloys specialises in aerospace manufacturing, special processes and specialised sheet metal fabrication and product development, said Shankarraman Vaidyanathan, Chairman, TASE Global. Half the funding for the acquisition was through internal means and the rest is from line of credit, he added.
+Currently, both TASE Global and Joined Alloys generate revenue of $32 million, which will increase to $45 million next year and to $100 million in three years.
+TASE Global has facilities in Arizona and Chennai with total employees of around 400, equally distributed in both the places. In the last 45 years since it was started, the company has been delivering precision-machined assemblies to aviation, defence and medical sectors, he said. The company has set up offices in Toulouse, France, and Portugal to focus on the European market, he added.
+Adding factories
+Joined Alloy’s expertise is manufacturing complex aerospace components, sub-assemblies and assemblies, he told newspersons. It has served leading clients across regulated industries for over decades; major one being the US’ Department of Defence, he added.
+Through the acquisition, two factories of Joined Alloys will be added to TASE Global, he said.
+On the investment planned in India, currently, there are five premises and the plan is to bring all of them under a single roof, Rishi Vaidya, Director, CRM & PM, TASE Global, said. The aim is to invest additional capital in the next three years for large component manufacturing, aero-structure and additional capabilities in India, he added.
+Published on October 14, 2025
+
+Title   : Tata Motors demerger: Trucks and buses business valued at Rs 260.75 per share 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T11:35:54
+Fetched : 2025-10-14T21:35:36.627336
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-demerger-trucks-and-buses-business-valued-at-rs-260-75-per-share/articleshow/124551445.cms
+--------------------------------------------------------------------------------
+October 14 marked the record date for the separation of Tata Motors’ passenger and commercial vehicle operations. Shareholders who held shares before October 14 are entitled to one share of Tata Motors Commercial Vehicles Ltd (TMLCV) for every share held. TMLCV will list separately on the National Stock Exchange and BSE once regulatory approvals are completed, with shares credited to demat accounts within 30–45 days.
+The parent company now includes passenger vehicles, electric vehicles, and Jaguar Land Rover operations. All existing futures and options contracts expiring in October, November, and December were settled on Monday and will resume with revised lot sizes.
+Also read | Did Tata Motors shares really crash 40%? What the demerger plunge actually means
+Analysts weigh in
+Brokerages said the split enables clearer valuation of the company’s distinct businesses. Nomura valued the passenger and commercial units almost equally—Rs 367 for Tata Motors Passenger Vehicles (TMPV) and Rs 365 for TMLCV—while warning of “technical risk for the share price” as the stock trades ex-demerger. The brokerage noted that index weight adjustments could trigger near-term volatility.SBI Securities projected TMPV to trade between Rs 285–384 post-demerger, with potential upside tied to JLR’s volume recovery and profitability. For TMLCV, the brokerage forecast a range of Rs 320–470, noting the planned €3.8 billion acquisition of Iveco Group NV’s commercial vehicle operations.
+YES Securities described the separation as a “value unlocking opportunity,” noting that pure-play passenger and commercial vehicle businesses allow investors to target distinct auto cycles. Bonanza Research analyst Khushi Mistry said the demerger “will lead to sharper business focus for both entities.”
+Also read | Nomura values Tata Motors passenger and commercial arms nearly equal, flags near-term volatility post demerger
+Outlook for each unit
+TMLCV enters the market as India’s largest commercial vehicle maker, with a 37.1% market share and a 12.2% EBITDA margin in Q1FY26, despite revenue declines. The unit is expected to benefit from a planned €3.8 billion acquisition of Iveco Group NV’s commercial vehicle operations, which is projected to triple combined revenues and expand exposure to electric and alternative fuel powertrains.Also read | TCS, Tata Motors tumble up to 42% from peak, with over Rs 4 lakh crore wiped off Tata stocks in 2025 amid boardroom turmoil
+TMPV, which derives 87% of revenue from Jaguar Land Rover, is projected to grow 8–10% in H2FY26, supported by new launches, strong SUV positioning, and rising EV and CNG demand, which constitute 45% of passenger vehicle revenue. Analysts noted that JLR’s phased manufacturing restart after a September cyberattack will influence sentiment, though early reports suggest retail-level impact was limited.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

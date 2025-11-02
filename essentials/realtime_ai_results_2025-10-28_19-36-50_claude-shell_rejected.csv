@@ -1,0 +1,2 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+HINDALCO,31.4,15,1,Certainty 15% below threshold (40%),"Hindalco, Vedanta shares jump up to 2% on strong volumes; metal index advances o",This is a classic 'fake rally' scenario. The headline reports a mere 2% intraday jump on volumes with no underlying fundamental catalyst - no earnings

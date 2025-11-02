@@ -1,0 +1,5 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+SAIL,STEEL AUTHORITY OF INDIA LIMITED,74.6,38,1,Certainty 38% below threshold (40%),"SAIL shares surge 8% to record high ahead of Q2 results. Should you buy, sell or",Detected 3 catalyst(s). From economictimes.indiatimes.com [tier1:0.95]. Score: 100/100. Certainty: 38%. BULLISH.
+SOLEX,SOLEX ENERGY LIMITED,70.0,38,2,Certainty 38% below threshold (40%),"Solex Energy to invest $1.5 billion in solar manufacturing, eyes US exports",Detected 2 catalyst(s). From www.thehindubusinessline.com [unknown:0.65]. Score: 90/100. Certainty: 38%. BULLISH.
+SUZLON,SUZLON ENERGY LIMITED,67.0,36,1,Certainty 36% below threshold (40%),Suzlon appoints Rahul Jain as Chief Financial Officer,Detected 2 catalyst(s). From www.thehindubusinessline.com [unknown:0.65]. Score: 98/100. Certainty: 36%. BULLISH.
+CLEAN,CLEAN SCIENCE AND TECHNOLOGY LIMITED,47.6,26,1,Certainty 26% below threshold (40%),Inox Clean Energy subsidiary to supply 5 GW of solar modules to LONGi,Detected 1 catalyst(s). From www.thehindubusinessline.com [unknown:0.65]. Score: 69/100. Certainty: 26%. BULLISH.

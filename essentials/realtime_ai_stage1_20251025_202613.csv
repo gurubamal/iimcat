@@ -1,0 +1,4 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,RELIANCE,99.3,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,7,N/A,"Elon Musk pleads with Tesla investors to approve his $1 trillion pay package, blasts shareholder adv",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.
+2,MARUTI,95.0,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,1,N/A,"Motilal Oswal sees Maruti Suzuki, Endurance Technologies as top bets in post-GST auto rebound ",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.
+3,HINDALCO,95.0,bullish,STRONG BUY,"earnings, M&A, investment, contract",,95,1,N/A,"Gainers & Losers: EPack Prefab, Hindalco among 5 stocks that were in limelight on Friday ",Detected 4 catalyst(s). Score: 100/100. Certainty: 95%. BULLISH sentiment.

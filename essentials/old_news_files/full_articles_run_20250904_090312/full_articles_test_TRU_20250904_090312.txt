@@ -1,0 +1,60 @@
+Full Article Fetch Test - TRU
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-04
+
+Title   : Trump pushes Supreme Court to save sweeping tariffs 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T04:29:30
+Fetched : 2025-09-04T09:52:59.893518
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/trump-pushes-supreme-court-to-save-sweeping-tariffs/slideshow/123690317.cms
+--------------------------------------------------------------------------------
+Trump Administration Rushes Tariff Case to Supreme Court
+Donald Trump’s administration has asked the U.S. Supreme Court to urgently hear its appeal to preserve sweeping tariffs imposed under a 1977 emergency law. A lower court recently struck down most of these levies, dealing a blow to Trump’s trade agenda. (Source: Reuters)
+AP
+2/7
+Justice Department Appeal
+The DOJ appealed an August 29 ruling that said Trump exceeded his authority under the International Emergency Economic Powers Act (IEEPA). The administration requested a fast-track review, with a decision by Sept. 10 and hearings in November.
+ETMarkets.com
+3/7
+Administration’s Argument
+Solicitor General D. John Sauer argued the tariffs are vital for peace, prosperity, and defense against trade retaliation. Treasury Secretary Scott Bessent added that the ruling weakens Trump’s ability to conduct diplomacy and safeguard national security.
+ETMarkets.com
+4/7
+Challenges to Tariffs
+Small businesses and 12 Democratic-led states have challenged the tariffs, saying they violate the Constitution, which gives Congress—not the president—the power to levy tariffs. Critics argue IEEPA was never intended for such broad trade measures.
+TIMESOFINDIA.COM
+5/7
+Court Rulings Against Trump
+The Federal Circuit Court ruled 7-4 that IEEPA does not authorize tariffs, citing the “major questions” doctrine that requires clear congressional approval for actions of vast economic and political significance. Multiple courts have sided against Trump.
+NYT News Service
+6/7
+Impact of Tariffs
+Since returning to office, Trump has made tariffs central to U.S. foreign policy—using them to pressure countries and renegotiate deals. But they have triggered trade tensions, financial market volatility, and global economic uncertainty.
+TIL Creatives
+7/7
+What’s Next
+The Supreme Court’s decision on whether to take up the case could reshape the limits of presidential power on trade. The legal battle also coincides with challenges to Trump’s control over the Federal Reserve, setting up a broader clash over his economic policies.
+(Disclaimer: This slideshow has been sourced from Reuters)
+
+Title   : Carney Sends Envoys to DC After ‘Very Constructive’ Trump Call
+Source  : www.livemint.com
+Published: 2025-09-03T16:52:29
+Fetched : 2025-09-04T09:52:59.893518
+URL     : https://www.livemint.com/companies/news/carney-sends-envoys-to-dc-after-very-constructive-trump-call-11756918349550.html
+--------------------------------------------------------------------------------
+Mark Carney said Canada and the US are in negotiations to resolve issues in tariff-hit sectors after a “very constructive” conversation with President Donald Trump on Monday evening.
+The Canadian prime minister said more meetings are taking place in Washington involving officials including Michael Sabia, Canada’s top civil servant.
+“We are expecting agreements in some of the strategic sectors,” Carney told reporters Wednesday in Toronto, referring to industries that have been targeted by US tariffs such as autos, steel and aluminum.
+But he also cautioned that a deal might not happen quickly. “Don’t expect immediate white smoke on one of these strategic sectors, but that’s the type of conversation that we’re having.”
+Carney’s Monday call with Trump was not previously known, as neither his office nor the White House issued a readout afterward.
+Trump raised some tariffs on Canada to 35% from 25% on Aug. 1, but he kept in place an exception for a broad range of products that are traded under the US-Mexico-Canada Agreement. Carney defended his country’s competitive position, arguing that the exemption gives Canada a blended tariff rate of about 5.5%, “the lowest average tariff of any country in the world.”
+Many of Trump’s tariffs are under a legal cloud after a US court declared them illegal on Aug. 29. But they’re still in place and the administration is attempting to get the US Supreme Court to back his tariff powers.
+Carney also said the government is looking for ways to resolve trade frictions with Canada’s second-largest trading partner, China, which imposed punishing tariffs on food items such as canola and pork after Canada placed tariffs on Chinese electric vehicles.
+With assistance from Mario Baker Ramirez.
+©2025 Bloomberg L.P.
+This article was generated from an automated news agency feed without modifications to text.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

@@ -1,0 +1,21 @@
+Full Article Fetch Test - ITC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 52.44B
+
+Title   : SC upholds ITC benefit for purchaser-dealer despite selling-dealer’s failure to deposit tax
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T04:19:22
+Fetched : 2025-10-13T10:21:36.765774
+URL     : https://www.thehindubusinessline.com/economy/sc-upholds-itc-benefit-for-purchaser-dealer-despite-selling-dealers-failure-to-deposit-tax/article70157243.ece
+--------------------------------------------------------------------------------
+In a major ruling, the Supreme Court has upheld ITC (Input Tax Credit) benefit for purchaser-dealers despite the selling-dealer’s failure to deposit tax. Experts say that although the matter is related to VAT (Value Added Tax) regime, it may impact interpretations and litigation under GST.
+“We find that there is no dispute regarding the selling dealer being registered on the date of transaction, and neither the transactions nor invoices in questions have been doubted. Based on any inquiry into their veracity, we do not find a good reason to interfere with the order of the High Court directing for grant of ITC benefit after due verification. The appeals lack merit and are, accordingly, dismissed,” a division bench of Justices Manoj Mishra and N Kotiswar Singh said while disposing the appeal filed by Tax Department against a ruling by Delhi High Court.
+The question in this matter was whether the benefit of ITC is available to the registered purchaser-dealers who paid taxes to registered seller dealer(s) in terms of invoice(s) raised by them, even though those seller dealers did not deposit the collected tax with the Government. After going through all the arguments made and facts presented, the apex court noted that post-transaction, the seller dealer’s registrations were cancelled, resulting in non-deposit of the tax collected from the purchaser dealers, and in that circumstances, Delhi HC had allowed ITC to the purchaser dealers after verifying the invoices.
+The division bench observed that in a similar issue in Quest Merchandising India Pvt. Ltd., High Court, ruled in favor of the purchaser-dealers, holding that the Department could not invoke Section 9(2)(g) to deny ITC to a bona fide purchaser who hadentered into a purchase transaction with a registered selling dealer. The top court in the Ecom Gill Coffee Trading case held that purchasing dealer has to prove beyond doubt the veracity of actual transaction and actual physical movement of the goods.
+In GST regime, section 16(5) of CGST Act, 2017 has been amended vide section 118 of Finance Act, 2024, which reads as “Notwithstanding anything contained in sub-section (4), in respect of an invoice or debit note for supply of goods or services or both pertaining to the Financial Years 2017-18, 2018-19, 2019-20 and 2020-21, the registered person shall be entitled to take input tax credit in any return under section 39 which is filed up to the thirtieth day of November, 2021.”
+In GST cases, the Madras High Court in the DY Beathal case condemned the Revenue Department for not taking action against defaulting selling dealers while rejecting benefit to purchasing dealers. The Calcutta High Court in Suncraft Energy and Lokenath Construction case quashed the demands on recipient in absence of any investigation done at the end of the supplier whose invoices are not reflected in GSTR 2A.
+According to Harpreet Singh, Partner at Deloitte, the Supreme Court’s dismissal of the Revenue’s appeal marks a significant affirmation of purchaser-dealers’ rights under the Delhi VAT regime. By upholding the Delhi High Court’s view that bona fide purchasers cannot be denied ITC due to post-transaction defaults by selling dealers, the Court has reinforced the principle of fairness in tax administration.
+“Though rooted in VAT law, the judgment’s reasoning resonates strongly with ongoing GST disputes, especially those challenging validity of Section 16(2)(c) of the CGST Act. This ruling could influence future interpretations and litigation under GST, and merits close attention from industry and legal stakeholders” he said.
+Published on October 13, 2025
+

@@ -1,0 +1,187 @@
+2025-10-23 15:41:03,964 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 15:41:03,965 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 15:41:03,965 - INFO - 🚀 Starting real-time collection + analysis for 3 tickers
+2025-10-23 15:41:03,965 - INFO -    Time window: 24 hours
+2025-10-23 15:41:03,965 - INFO -    Max articles per ticker: 10
+2025-10-23 15:41:03,965 - INFO - [1/3] Processing RELIANCE...
+2025-10-23 15:41:03,965 - INFO - 📰 Fetching news for RELIANCE (last 24h)
+2025-10-23 15:41:10,791 - INFO - ✅ Found 10 recent articles for RELIANCE
+2025-10-23 15:41:10,791 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,791 - INFO -    Headline: Reliance Industries shares rise after purchase of Middle Eastern crude amid glob...
+2025-10-23 15:41:10,793 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,793 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,793 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,793 - INFO -    Headline: Reliance's oil imports from Russia to take a hit after US sanctions on Rosneft, ...
+2025-10-23 15:41:10,794 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,794 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,794 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,794 - INFO -    Headline: Reliance may ‘completely halt’ Russian oil purchases; ‘massive cuts’ in crude im...
+2025-10-23 15:41:10,794 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,794 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,794 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,794 - INFO -    Headline: Reliance to halt crude oil imports under Rosneft deal...
+2025-10-23 15:41:10,795 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,796 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,796 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,799 - INFO -    Headline: Reliance recalibrating Russian oil imports to align with India's guidelines...
+2025-10-23 15:41:10,806 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,807 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,812 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,812 - INFO -    Headline: Putin oversees nuclear drills as Russia, NATO flex atomic might...
+2025-10-23 15:41:10,813 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,813 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,814 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,814 - INFO -    Headline: Reliance 'recalibrating' Russian oil imports to align with Centre's guidelines -...
+2025-10-23 15:41:10,816 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,816 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,816 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,816 - INFO -    Headline: US sanctions on Russian firms to hit Reliance; PSUs likely to keep buying Russia...
+2025-10-23 15:41:10,817 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,817 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,817 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,817 - INFO -    Headline: Reliance Industries shares reclaim second spot in Nifty 50 weightage; Stocks set...
+2025-10-23 15:41:10,818 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,818 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,818 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-23 15:41:10,818 - INFO -    Headline: Reliance recalibrating Russian oil imports to align with India's guidelines - ET...
+2025-10-23 15:41:10,818 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:10,819 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:10,819 - INFO - [2/3] Processing TCS...
+2025-10-23 15:41:10,819 - INFO - 📰 Fetching news for TCS (last 24h)
+2025-10-23 15:41:12,567 - INFO - ✅ Found 10 recent articles for TCS
+2025-10-23 15:41:12,567 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,567 - INFO -    Headline: IT stocks power Sensex rally: Infosys, HCL Tech, TCS, Tech Mahindra lead gains...
+2025-10-23 15:41:12,568 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,568 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,568 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,568 - INFO -    Headline: Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal b...
+2025-10-23 15:41:12,570 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,570 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,570 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,571 - INFO -    Headline: Stock Market Highlights: Sensex logs 6th straight win, ends 130 pts up led by IT...
+2025-10-23 15:41:12,573 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,574 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,574 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,574 - INFO -    Headline: AI is boosting the legacy business for top Indian IT firms, for now | Company Bu...
+2025-10-23 15:41:12,575 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,575 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,576 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,576 - INFO -    Headline: Freshers back in demand as IT companies revive campus hiring drive - Business St...
+2025-10-23 15:41:12,579 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,580 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,580 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,580 - INFO -    Headline: Stocks to buy: Raja Venkatraman's top picks for 23 October | Stock Market News -...
+2025-10-23 15:41:12,582 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,583 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,586 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,586 - INFO -    Headline: JLR may have suffered a £540 million hit due to the cyberattack - Mint...
+2025-10-23 15:41:12,589 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,589 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,590 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,590 - INFO -    Headline: Closing Bell: Sensex, Nifty squander most of the gains to end flat; IT gains - M...
+2025-10-23 15:41:12,595 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,596 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,597 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,598 - INFO -    Headline: Shares to buy in short term: Mehta Equities’ Riyank suggests Bharti Airtel, Moti...
+2025-10-23 15:41:12,600 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,602 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,602 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-23 15:41:12,602 - INFO -    Headline: Vikram Solar rises 4% on winning 148.9 MW topcon solar modules order - Business ...
+2025-10-23 15:41:12,603 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:12,603 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:12,603 - INFO - [3/3] Processing INFY...
+2025-10-23 15:41:12,603 - INFO - 📰 Fetching news for INFY (last 24h)
+2025-10-23 15:41:15,357 - INFO - ✅ Found 10 recent articles for INFY
+2025-10-23 15:41:15,363 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,366 - INFO -    Headline: Infosys buyback: Narayana Murthy, wife Sudha Murty, Nandan Nilekani and other pr...
+2025-10-23 15:41:15,370 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,371 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,372 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,372 - INFO -    Headline: Infosys shares gain up to 5% after promoters opt out of ₹18,000 crore share buyb...
+2025-10-23 15:41:15,374 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,374 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,376 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,376 - INFO -    Headline: Infosys rises 4% as promoters opt out of Rs 18,000-crore share buyback; Nifty IT...
+2025-10-23 15:41:15,376 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,377 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,377 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,377 - INFO -    Headline: Infosys promoters opt out of ₹18,000-cr share buyback, retain holdings - Busines...
+2025-10-23 15:41:15,378 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,378 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,378 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,378 - INFO -    Headline: Infosys leads Sensex rally, shares rise 4%; here's what is fuelling demand - Bus...
+2025-10-23 15:41:15,379 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,379 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,379 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,379 - INFO -    Headline: Infosys' promoters not to participate in Rs 18,000-crore share buyback. Why is i...
+2025-10-23 15:41:15,379 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,379 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,379 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,380 - INFO -    Headline: Infosys, TCS, HCL Tech, other IT stocks jump up to 3% amid India-US trade deal b...
+2025-10-23 15:41:15,380 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,384 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,384 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,384 - INFO -    Headline: India's benchmarks target record as shareholders back Infosys; US deal hopes - R...
+2025-10-23 15:41:15,387 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,387 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,388 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,388 - INFO -    Headline: Infosys share price jumps over 4% after promoters opt out of share buyback - Min...
+2025-10-23 15:41:15,410 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,410 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,410 - INFO - 🔍 INSTANT ANALYSIS: INFY
+2025-10-23 15:41:15,411 - INFO -    Headline: Infosys jumps on advancing buyback process; promoters to stay out - Business Sta...
+2025-10-23 15:41:15,412 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 15:41:15,412 - INFO -    Recommendation: STRONG BUY
+2025-10-23 15:41:15,412 - INFO - 
+✅ Collection complete!
+2025-10-23 15:41:15,412 - INFO -    Total articles: 30
+2025-10-23 15:41:15,413 - INFO -    Successfully analyzed: 30
+2025-10-23 15:41:15,413 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_154102.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+[1/3] Processing RELIANCE...
+   📰 Analyzing 10 article(s)...
+
+[2/3] Processing TCS...
+   📰 Analyzing 10 article(s)...
+
+[3/3] Processing INFY...
+   📰 Analyzing 10 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 99.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 10
+
+2. TCS - Score: 99.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 10
+
+3. INFY - Score: 99.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract, dividend
+   Certainty: 95% | Articles: 10
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 30
+   Results saved: realtime_ai_analysis_20251023_154102.csv

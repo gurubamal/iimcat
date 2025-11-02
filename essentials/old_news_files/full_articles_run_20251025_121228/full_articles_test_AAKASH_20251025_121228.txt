@@ -1,0 +1,22 @@
+Full Article Fetch Test - AAKASH
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-25): 2.78M
+
+Title   : NCLT Rejects Byju’s resolution professional’s plea to stay Aakash’s rights issue
+Source  : www.thehindubusinessline.com
+Published: 2025-10-24T13:00:10
+Fetched : 2025-10-25T12:14:57.286508
+URL     : https://www.thehindubusinessline.com/companies/nclt-rejects-byjus-resolution-professionals-plea-to-stay-aakashs-rights-issue/article70197742.ece
+--------------------------------------------------------------------------------
+In the ongoing dispute between Aakash Educational Services Ltd. (AESL) and Think & Learn Pvt. Ltd. (TLPL), the parent company of BYJU’S, the National Company Law Tribunal (NCLT), Bengaluru Bench, has rejected the plea made by the resolution professional (RP) against AESL’s rights issue, in a second oppression and mismanagement petition.
+Shailendra Ajmera, a partner at Ernst & Young LLP (EY), is presently acting as the RP for Think & Learn Pvt. Ltd. in the pending insolvency proceedings before the NCLT. He sought to restrain Aakash from proceeding with its Board-approved rights issue and convening its Extraordinary General Meeting (EGM), scheduled for October 29, 2025.
+The Bench, comprising judicial member Sunil Kumar Aggarwal and Technical Member Radhakrishna Sreepada, declined the plea, holding that Aakash’s decision to raise capital through a rights issue was legitimate, equitable, and within the company’s authority.
+The Tribunal noted that Aakash’s Board was entitled to make business decisions to ensure financial stability and that the RP’s inability to participate in the issue did not amount to oppression or unfair prejudice.
+When the Senior Counsel for Committee of Creditors (COC) tried to intervene, the Tribunal did not permit him and recorded, “The objections raised on behalf of other respondents to the presence of COC is that the oppression and mis-management petition is essentially between the shareholders of Company and no stranger can be allowed to participate.”
+The order also recorded the submission that banks had become unwilling to extend further credit facilities to AESL due to disputes among shareholders and the company’s precarious financial health, thereby validating AESL’s need to infuse capital through a rights issue. The NCLT made it clear that the RP could seek access to financial documents as part of due process but that such access could not be a ground to restrain legitimate corporate actions.
+“We seek to refrain from making detailed observations, lest it would prejudice the other petition C.P No. 46/BB/2025 pending between the parties as detailed arguments are continuing therein as per the dates scheduled with the consent of the parties.,” the Tribunal observed, criticizing the filing of multiple petitions on overlapping issues.
+The Tribunal’s decision reaffirms AESL’s position that it has been exercising its governance responsibilities in compliance with law and in the best interest of the company, students, employees, and shareholders.
+The matter has been listed for further hearing on November 12, 2025, with directions to all respondents to file their replies within two weeks of receiving notice and two weeks thereafter to the Petitioner to file rejoinder, if any.
+Published on October 24, 2025
+

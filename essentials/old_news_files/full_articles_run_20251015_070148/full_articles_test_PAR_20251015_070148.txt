@@ -1,0 +1,40 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 33.28M
+
+Title   : Indian Oil Corp.’s Terra Clean in talks to buy 50% stake in Fourth Partner Energy
+Source  : www.livemint.com
+Published: 2025-10-15T06:58:30
+Fetched : 2025-10-15T07:13:24.713273
+URL     : https://www.livemint.com/companies/news/indian-oil-terra-clean-fourth-partner-energy-acquisition-11760502047447.html
+--------------------------------------------------------------------------------
+Indian Oil Corp.’s Terra Clean in talks to buy 50% stake in Fourth Partner Energy
+This would be Indian Oil Corp.'s first acquisition in the renewable energy space. The proposed deal involves primary and secondary share transactions, providing a partial exit for Fourth Partner’s stakeholders, including the World Bank and Asian Development Bank.
+New Delhi: Indian Oil Corp., the country’s largest crude oil refiner, plans to acquire a 50% stake in renewable energy firm Fourth Partner Energy Pvt. Ltd (FPEL) through its subsidiary Terra Clean Ltd in a deal with an estimated equity value of about $400 million, according to two people aware of the development.
+The deal, if it goes forward, will mark the state-run oil marketing company’s first acquisition in the green energy space. It will be a mix of primary and secondary share transactions and will provide a partial exit to Hyderabad-based Fourth Partner Energy’s stakeholders—the World Bank’s International Finance Corp (IFC), Asian Development Bank (ADB), Germany’s Deutsche Investitions- und Entwicklungsgesellschaft (DEG), TPG Capital’s RISE Fund, and Norway’s Norfund.
+“Indian Oil’s renewable energy subsidiary, Terra Clean Ltd, is in talks for a stake in Fourth Partner Energy. However, nothing has been finalised," one of the two people said, requesting anonymity.
+Terra Clean was set up in May 2024 as a wholly owned unit of Indian Oil and plans to install 5.3 gigawatts (GW) of renewable energy capacity.
+Given the changing hydrocarbon landscape, Indian Oil has been looking at acquisitions in the clean energy space in the backdrop of ONGC NTPC Green Pvt Ltd buying National Investment and Infrastructure Fund-backed Ayana Renewable Power Pvt Ltd. The move by domestic state-run energy companies comes as global oil companies including Shell Plc, Total, Thailand’s PTT Group and Malaysia’s state-run Petronas unit Gentari Sdn Bhd establish a presence in India’s green energy sector.
+A Fourth Partner spokesperson declined to comment.
+An Indian Oil spokesperson did not respond to queries emailed on Monday evening.
+“At this stage, we have no comments to offer," Terra Clean chief executive officer (CEO) Atul Parmar said in an emailed response.
+“For reasons of confidentiality we cannot comment on business activities in individual cases," a DEG spokesperson said in an emailed response.
+“I’m afraid we would give this a pass given the speculative nature of the query," an IFC spokesperson said in an emailed response.
+Spokespersons for TPG, ADB and Norfund declined to comment.
+Overseas operations
+Fourth Partner has 1.5GW of installed green energy capacity, with 2GW of wind and solar projects under development. With operations in Vietnam, Bangladesh, Sri Lanka and Indonesia, Fourth Partner plans to reach an installed capacity of 3.5GW by 2025. It was founded in 2010 as a solar component and engineering, procurement and construction firm.
+IFC, ADB and DEG announced a $275 million equity investment in Fourth Partner in August last year. IFC invested $125 million, ADB infused $100 million and DEG put in $50 million. With a $145 million investment, Norfund is the single largest investor in Fourth Partner.
+Indian Oil plans to develop 31GW of renewable energy capacity by the end of this decade and has been putting the building blocks in place. In response to a query about ONGC and NTPC buying out green energy companies, Indian Oil chairman and managing director Arvinder Singh Sawhney said in an earlier interview to Mint: “Yes, we are also on the lookout, and we will also be going forward."
+In May this year, Indian Oil announced an investment of ₹1,086 crore in Terra Clean to develop 4.3GW of renewable energy capacity. Earlier, the company had sanctioned ₹1,303.75 crore for developing 1GW of green power capacity through Terra Clean.
+In 2023, the company formed a joint venture—IndianOil NTPC Green Energy Pvt Ltd—with NTPC Green Energy Ltd to set up renewable projects to meet the round-the-clock power requirements of its refineries.
+With 10 refineries, Indian Oil has a refining capacity of 70.25 million metric tonnes per annum (mtpa). Taking into account the additional 10.5 mtpa capacity of group company Chennai Petroleum Corp., it has a total of 80.75 mtpa, accounting for 31% of the country's overall refining capacity of 258.1 mtpa.
+C&I projects
+Fourth Partner caters to the commercial and industrial (C&I) segment, which has attracted strong investor interest, given the regulatory landscape being supportive of the space with rules allowing large power users to source energy from the open market rather than the costlier grid. C&I projects are also shielded from risks such as power procurement curtailment by state-run power distribution firms.
+Also, the implementation of time-of-day tariffs for large C&I category consumers by state electricity regulatory commissions has helped sustain investor interest. With time-of-day tariffs, the cost of electricity changes depending on when it is consumed—during peak, off-peak or normal hours.
+There are several green energy deals in play in India, given the scale of opportunities that the space offers. India has an installed renewable energy capacity of 245GW, of which solar and wind power account for 116GW and 52GW, respectively.
+India plans to add 50GW of green energy capacity annually to reach 500GW by 2030. Given the nation’s green energy transition trajectory and the net-zero emissions target by 2070, the plan is to add 1,800GW of renewable energy capacity by 2047 and 5,000GW by 2070.
+Transactions as reported by Mint include the $1 billion sale of Vena Energy India launched by Morgan Stanley and Mitsubishi UFJ Financial Group, Inc. in October.
+European alternative asset manager EQT dropped a plan to sell renewable developer Zelestra’s India operations and instead transferred it to its Asia Pacific infrastructure team. EQT will invest about $600 million to develop the portfolio and brought in Parag Sharma, former CEO and founder of EQT—and Temasek-backed O2 Power, to head the company, replacing incumbent CEO Sajay K.V.
+Sembcorp Industries Ltd, Torrent Power Ltd, INOXGFL Group’s Inox Green Energy Services Ltd and General Atlantic-owned Actis Llp are among half-a-dozen shortlisted bidders to conduct due diligence to acquire Macquarie Asset Management Green Investment Group (GIG) platform Vibrant Energy in a transaction codenamed Project Notos, with an enterprise value of about $600 million.
+

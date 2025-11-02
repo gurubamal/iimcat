@@ -1,0 +1,17 @@
+Full Article Fetch Test - BANG
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 16.92M
+
+Title   : IIM Bangalore secures 100% summer placement with consulting leading at 46%
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T11:55:05
+Fetched : 2025-10-19T16:40:56.326002
+URL     : https://www.thehindubusinessline.com/news/education/iim-bangalore-secures-100-summer-placement-with-consulting-leading-at-46/article70182338.ece
+--------------------------------------------------------------------------------
+Indian Institute of Management Bangalore (IIMB) has recorded 100 per cent placement in its summer placement with all 601 participating students securing offers from 137 organisations across diverse domains, including consulting, finance, product management, sales and marketing, general management, and analytics.
+This year, the campus saw 46% placements in management consulting, up from 38%. Offers from the Healthcare sector rose by over 70%, with 23 students securing positions. Nearly 30% of the participating organisations were first-time recruiters, reflecting growing interest from new sectors.
+Prof. Nishant Kumar Verma, Chairperson of Career Development Services, IIM Bangalore, stated: “The PGP and PGPBA cohorts delivered an outstanding performance during the Summer Placement Week. The process was managed with remarkable efficiency and professionalism by the Placement Committee in close collaboration with the CDS Office.”
+The placements were distributed across eight key sectors: Consulting (23 firms - 282 offers), Finance/Banking/Investments (35 firms - 86 offers), Ecommerce/Payments/Telecom/Entertainment (15 firms - 55 offers), IT/Analytics/Product Management (22 firms - 52 offers), FMCG/Retail (15 firms - 45 offers), Manufacturing/Construction/Energy/Infrastructure (12 firms - 29 offers), Conglomerates (7 firms - 29 offers), and Healthcare/Education (9 firms - 23 offers).
+Published on October 19, 2025
+

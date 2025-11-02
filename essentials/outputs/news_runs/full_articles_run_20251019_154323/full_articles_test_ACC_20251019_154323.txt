@@ -1,0 +1,23 @@
+Full Article Fetch Test - ACC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-19): 3.75B
+
+Title   : NTPC inks agreement with ACCF for cancer screening project in Assam
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T05:03:39
+Fetched : 2025-10-19T17:03:02.459565
+URL     : https://www.thehindubusinessline.com/companies/ntpc-inks-agreement-with-accf-for-cancer-screening-project-in-assam/article70181840.ece
+--------------------------------------------------------------------------------
+Power major NTPC has entered into an agreement with the Assam Cancer Care Foundation (ACCF) for a cancer screening project in Kokrajhar district.
+The NTPC, Bongaigaon, will be implementing the community-based project under its Corporate Social Responsibility (CSR), a company statement said.
+The Memorandum of Agreement (MoA) between the two sides was signed on Saturday.
+The ₹33-lakh project aims to provide preventive and diagnostic cancer care to around 81,000 people across various villages, ensuring last-mile outreach through four Block Primary Health Centres (BPHCs) and approximately 80 Health and Wellness Centres (HWCs).
+The initiative will focus on early detection of oral, breast and cervical cancer, conduct awareness and sensitisation programmes, and offer home-based palliative care for patients in need.
+Head of projects, NTPC Bongaigaon, Arnab Maitra, appreciated the efforts of the ACCF in promoting cancer prevention, early detection and treatment across the state.
+He maintained that this collaboration would significantly benefit the communities of Kokrajhar by enhancing access to quality healthcare and creating awareness at the grassroots level.
+The year-long project, which is being funded for the second time since its inception in 2024-25, will adopt a phased approach to screening, awareness and linkage of confirmed patients to government health schemes for cashless or reimbursable treatment, reducing the financial burden on families.
+The initiative will also strengthen the public health system by expanding the reach of existing government programmes into remote areas.
+The ACCF is a joint partnership between the Assam government and Tata Trust to create a first-of-its-kind, three-level cancer grid in the state.
+Published on October 19, 2025
+

@@ -1,0 +1,225 @@
+#!/bin/bash
+# 🤖 HANDY AI SCANNER - Simple 2-argument interface
+# Usage: ./ai_scan <provider> <ticker-file>
+# Provider options: codex, c-agent, cursor, c, auto
+# Example: ./ai_scan codex all.txt
+
+set -e
+
+# Colors for pretty output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+BLUE='\033[0;34m'
+YELLOW='\033[1;33m'
+NC='\033[0m' # No Color
+
+# Help message
+if [ "$1" = "-h" ] || [ "$1" = "--help" ] || [ -z "$1" ]; then
+    echo ""
+    echo "╔════════════════════════════════════════════════════════════════╗"
+    echo "║                                                                ║"
+    echo "║               🤖 HANDY AI SCANNER                              ║"
+    echo "║                                                                ║"
+    echo "╚════════════════════════════════════════════════════════════════╝"
+    echo ""
+    echo "Usage:"
+    echo "  ${GREEN}./ai_scan <provider> <ticker-file>${NC}"
+    echo ""
+    echo "Provider Options:"
+    echo "  ${BLUE}codex${NC}      - Codex AI shell bridge (recommended)"
+    echo "  ${BLUE}c-agent${NC}    - Codex AI shell bridge (alias)"
+    echo "  ${BLUE}c${NC}          - Codex AI shell bridge (short)"
+    echo "  ${BLUE}cursor${NC}     - Cursor AI shell bridge"
+    echo "  ${BLUE}auto${NC}       - Auto-detect best provider"
+    echo ""
+    echo "Examples:"
+    echo "  ${GREEN}./ai_scan codex all.txt${NC}          - Scan all stocks with Codex"
+    echo "  ${GREEN}./ai_scan c-agent nifty50.txt${NC}    - Scan NIFTY 50 with Codex"
+    echo "  ${GREEN}./ai_scan c all.txt${NC}              - Quick Codex scan"
+    echo "  ${GREEN}./ai_scan cursor my_picks.txt${NC}    - Scan custom list"
+    echo ""
+    echo "Features:"
+    echo "  ✅ Fixed 12-hour news window"
+    echo "  ✅ Maximum 10 articles per stock"
+    echo "  ✅ Internet access enabled"
+    echo "  ✅ Enhanced scoring with certainty"
+    echo "  ✅ Fake rally detection"
+    echo "  ✅ Auto-configured AI bridge"
+    echo ""
+    echo "Output:"
+    echo "  📁 ai_adjusted_top25_*.csv    - Top stock picks"
+    echo "  📁 *_rejected.csv              - Filtered out stocks"
+    echo "  📁 learning_debate.md          - AI recommendations"
+    echo "  📁 aggregated_full_articles_*  - Raw news data"
+    echo ""
+    exit 0
+fi
+
+# Parse arguments
+PROVIDER="$1"
+TICKER_FILE="$2"
+
+# Validate provider
+case "$PROVIDER" in
+    codex|c-agent|c)
+        AI_PROVIDER="codex"
+        PROVIDER_NAME="Codex AI Shell Bridge"
+        ;;
+    cursor)
+        AI_PROVIDER="cursor"
+        PROVIDER_NAME="Cursor AI Shell Bridge"
+        ;;
+    auto)
+        AI_PROVIDER="auto"
+        PROVIDER_NAME="Auto-detect"
+        ;;
+    *)
+        echo -e "${RED}❌ Invalid provider: $PROVIDER${NC}"
+        echo -e "   Valid options: codex, c-agent, c, cursor, auto"
+        echo -e "   Run: ${GREEN}./ai_scan --help${NC} for usage"
+        exit 1
+        ;;
+esac
+
+# Validate ticker file
+if [ -z "$TICKER_FILE" ]; then
+    echo -e "${RED}❌ Ticker file not specified${NC}"
+    echo -e "   Usage: ${GREEN}./ai_scan <provider> <ticker-file>${NC}"
+    echo -e "   Example: ${GREEN}./ai_scan codex all.txt${NC}"
+    exit 1
+fi
+
+if [ ! -f "$TICKER_FILE" ]; then
+    echo -e "${RED}❌ Ticker file not found: $TICKER_FILE${NC}"
+    echo ""
+    echo "Available ticker files:"
+    ls -1 *.txt 2>/dev/null | head -10 || echo "  (no .txt files found)"
+    exit 1
+fi
+
+# Count tickers
+TICKER_COUNT=$(grep -v '^#' "$TICKER_FILE" | grep -v '^[[:space:]]*$' | wc -l)
+
+# Display configuration
+echo ""
+echo "╔════════════════════════════════════════════════════════════════╗"
+echo "║                                                                ║"
+echo "║               🤖 HANDY AI SCANNER                              ║"
+echo "║                                                                ║"
+echo "╚════════════════════════════════════════════════════════════════╝"
+echo ""
+echo -e "${BLUE}📋 Scan Configuration:${NC}"
+echo "   AI Provider:     $PROVIDER_NAME"
+echo "   Ticker File:     $TICKER_FILE"
+echo "   Ticker Count:    $TICKER_COUNT stocks"
+echo "   Time Window:     12 hours (last 12h of news)"
+echo "   Articles/Stock:  10 (maximum)"
+echo "   Internet:        Enabled ✅"
+echo ""
+
+# Configure AI environment
+export AI_PROVIDER="$AI_PROVIDER"
+export CODEX_SHELL_CMD="${CODEX_SHELL_CMD:-python3 codex_bridge.py}"
+export CURSOR_SHELL_CMD="${CURSOR_SHELL_CMD:-python3 codex_bridge.py}"
+export AI_SHELL_CMD="${AI_SHELL_CMD:-python3 codex_bridge.py}"
+export REQUIRE_AGENT_INTERNET=1
+
+echo -e "${BLUE}🤖 AI Bridge Configuration:${NC}"
+echo "   Provider:        $AI_PROVIDER"
+echo "   Shell Bridge:    $CODEX_SHELL_CMD"
+echo "   Internet Probe:  ENABLED ✅"
+echo ""
+
+# Confirmation prompt
+echo -e "${YELLOW}⏱️  This will scan $TICKER_COUNT stocks for news in the last 12 hours...${NC}"
+echo -n "   Press ENTER to continue (or Ctrl+C to cancel): "
+read -r
+
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "🚀 Starting Scan..."
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo ""
+
+# Step 1: Collect news (12 hours, 10 articles per stock)
+echo -e "${BLUE}📰 Step 1/2: Collecting News...${NC}"
+python3 enhanced_india_finance_collector.py \
+  --tickers-file "$TICKER_FILE" \
+  --hours-back 12 \
+  --max-articles 10 \
+  --sources reuters.com livemint.com economictimes.indiatimes.com business-standard.com moneycontrol.com thehindubusinessline.com financialexpress.com cnbctv18.com zeebiz.com
+
+echo ""
+echo -e "${BLUE}🤖 Step 2/2: AI Analysis & Scoring...${NC}"
+
+# Step 2: AI analysis with swing paths (MUST specify the ticker file!)
+python3 run_swing_paths.py \
+  --path ai \
+  --top 50 \
+  --fresh \
+  --hours 12 \
+  --tickers-file "$TICKER_FILE" \
+  --auto-apply-config \
+  --auto-screener
+
+EXIT_CODE=$?
+
+echo ""
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+if [ $EXIT_CODE -eq 0 ]; then
+    echo -e "${GREEN}✅ SCAN COMPLETE!${NC}"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo ""
+    
+    # Find the latest output file
+    LATEST_OUTPUT=$(ls -t ai_adjusted_top25_*.csv 2>/dev/null | head -1)
+    
+    if [ -n "$LATEST_OUTPUT" ]; then
+        echo -e "${BLUE}📁 Results:${NC}"
+        echo "   Main Output:    $LATEST_OUTPUT"
+        
+        # Check for rejected file
+        REJECTED_FILE="${LATEST_OUTPUT%_top25_*}_rejected${LATEST_OUTPUT##*_top25}"
+        if [ -f "$REJECTED_FILE" ]; then
+            echo "   Rejected:       $REJECTED_FILE"
+        fi
+        
+        # Check for learning debate
+        if [ -f "learning_debate.md" ]; then
+            echo "   AI Analysis:    learning_debate.md"
+        fi
+        
+        echo ""
+        echo -e "${BLUE}🏆 Top 10 Stock Picks:${NC}"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        head -11 "$LATEST_OUTPUT" | tail -10
+        echo ""
+        
+        # Show summary stats
+        TOTAL_PICKS=$(tail -n +2 "$LATEST_OUTPUT" | wc -l)
+        echo -e "${GREEN}📊 Summary:${NC}"
+        echo "   Total Picks:     $TOTAL_PICKS stocks"
+        echo "   Time Window:     Last 12 hours"
+        echo "   Provider Used:   $PROVIDER_NAME"
+        
+        if [ -f "$REJECTED_FILE" ]; then
+            REJECTED_COUNT=$(tail -n +2 "$REJECTED_FILE" | wc -l)
+            echo "   Rejected:        $REJECTED_COUNT stocks (quality filters)"
+        fi
+    else
+        echo -e "${YELLOW}⚠️  No output file found${NC}"
+        echo "   Scan completed but no results generated"
+        echo "   This might mean no significant news in the last 12 hours"
+    fi
+else
+    echo -e "${RED}❌ SCAN FAILED (exit code: $EXIT_CODE)${NC}"
+    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo ""
+    echo "Check the output above for error messages"
+    exit $EXIT_CODE
+fi
+
+echo ""
+echo -e "${GREEN}🎯 Ready for analysis!${NC}"
+echo ""

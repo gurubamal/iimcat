@@ -1,0 +1,142 @@
+2025-10-26 12:59:11,663 - INFO - AI provider configured: Heuristic
+2025-10-26 12:59:12,140 - INFO - ✅ Frontier AI components loaded
+2025-10-26 12:59:12,140 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 12:59:16,563 - INFO - 🚀 Starting real-time collection + analysis for 3 tickers
+2025-10-26 12:59:16,564 - INFO -    Time window: 12 hours
+2025-10-26 12:59:16,564 - INFO -    Max articles per ticker: 1
+2025-10-26 12:59:16,564 - INFO - [1/3] Processing RELIANCE...
+2025-10-26 12:59:16,564 - INFO - 📰 Fetching news for RELIANCE (last 12h)
+2025-10-26 12:59:20,487 - INFO - ✅ Found 1 recent articles for RELIANCE
+2025-10-26 12:59:20,488 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 12:59:20,488 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 12:59:20,488 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 12:59:20,503 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 12:59:20,504 - INFO -    Recommendation: STRONG BUY
+2025-10-26 12:59:20,504 - INFO - [2/3] Processing TCS...
+2025-10-26 12:59:20,505 - INFO - 📰 Fetching news for TCS (last 12h)
+2025-10-26 12:59:22,683 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 12:59:22,683 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-26 12:59:22,685 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 12:59:22,685 - INFO - Using heuristic analyzer for TCS (no external AI configured).
+2025-10-26 12:59:22,693 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 12:59:22,693 - INFO -    Recommendation: STRONG BUY
+2025-10-26 12:59:22,697 - INFO - [3/3] Processing HDFCBANK...
+2025-10-26 12:59:22,697 - INFO - 📰 Fetching news for HDFCBANK (last 12h)
+2025-10-26 12:59:24,672 - INFO - ℹ️  No recent news for HDFCBANK
+2025-10-26 12:59:24,673 - INFO - 
+✅ Collection complete!
+2025-10-26 12:59:24,675 - INFO -    Total articles: 2
+2025-10-26 12:59:24,676 - INFO -    Successfully analyzed: 2
+2025-10-26 12:59:24,679 - INFO - ✅ Results saved to: realtime_ai_stage1_20251026_125911.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/3] Processing RELIANCE...
+   📰 Analyzing 1 article(s)...
+
+[2/3] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+[3/3] Processing HDFCBANK...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+2. TCS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 2
+   Results saved: realtime_ai_stage1_20251026_125911.csv
+2025-10-26 12:59:20,037 - INFO - Using Codex shell bridge (no API key).
+2025-10-26 12:59:20,038 - INFO - AI provider configured: Codex-shell
+2025-10-26 12:59:20,925 - INFO - ✅ Frontier AI components loaded
+2025-10-26 12:59:20,926 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 12:59:26,053 - INFO - 🌐 Internet check: OK | Remote AI: NO | AI endpoint reachable: N/A
+2025-10-26 12:59:26,055 - INFO - 🚀 Starting real-time collection + analysis for 2 tickers
+2025-10-26 12:59:26,056 - INFO -    Time window: 12 hours
+2025-10-26 12:59:26,056 - INFO -    Max articles per ticker: 1
+2025-10-26 12:59:26,057 - INFO - [1/2] Processing RELIANCE...
+2025-10-26 12:59:26,057 - INFO - 📰 Fetching news for RELIANCE (last 12h)
+2025-10-26 12:59:30,761 - INFO - ✅ Found 1 recent articles for RELIANCE
+2025-10-26 12:59:30,762 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 12:59:30,762 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 12:59:46,138 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 12:59:46,139 - INFO -    Recommendation: STRONG BUY
+2025-10-26 12:59:46,139 - INFO - [2/2] Processing TCS...
+2025-10-26 12:59:46,140 - INFO - 📰 Fetching news for TCS (last 12h)
+2025-10-26 12:59:49,891 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 12:59:49,895 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-26 12:59:49,896 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 12:59:54,564 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 12:59:54,565 - INFO -    Recommendation: STRONG BUY
+2025-10-26 12:59:54,566 - INFO - 
+✅ Collection complete!
+2025-10-26 12:59:54,566 - INFO -    Total articles: 2
+2025-10-26 12:59:54,566 - INFO -    Successfully analyzed: 2
+2025-10-26 12:59:54,566 - INFO - ✅ Results saved to: realtime_ai_analysis_20251026_125911.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/2] Processing RELIANCE...
+   📰 Analyzing 1 article(s)...
+
+[2/2] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+2. TCS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 2
+   Results saved: realtime_ai_analysis_20251026_125911.csv

@@ -1,0 +1,65 @@
+Full Article Fetch Test - SUPREME
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Supreme Court restores Shailaja Krishna as Satori Global’s majority shareholder
+Source  : www.livemint.com
+Published: 2025-09-07T12:36:17
+Fetched : 2025-09-08T05:59:48.554345
+URL     : https://www.livemint.com/companies/news/sc-supreme-court-majority-shareholder-satori-global-share-transfer-dispute-nclt-nclat-governance-11757230923832.html
+--------------------------------------------------------------------------------
+Supreme Court restores Shailaja Krishna as Satori Global’s majority shareholder
+The ruling affirms the jurisdiction of company law tribunals over share transfer disputes and signals stricter scrutiny of procedural lapses.
+MUMBAI :
+In a decisive judgment, the Supreme Court reinstated Shailaja Krishna as the majority shareholder and executive director of Satori Global Ltd (formerly Sargam Exim Pvt. Ltd), which is engaged in paper trading, overturning her removal orchestrated through invalid board meetings and a questionable transfer of nearly her entire shareholding to her mother-in-law.
+In a judgment delivered on 2 September, the court set aside the 2023 order of the National Company Law Appellate Tribunal (NCLAT) and restored the ruling of the National Company Law Tribunal (NCLT). The apex court held that the 2010 board meetings, which helped to remove Krishna, lacked proper notice, quorum, and compliance with the Companies Act, while the share transfer itself violated the company’s Articles of Association (AoA).
+The dispute dates to 2010 when Krishna claimed she was coerced into signing blank forms amid marital discord with her husband, Ved Krishna. These documents were later used to orchestrate her resignation and transfer 39,500 equity shares, amounting to over 98% of the company, to her mother-in-law, Manjula Jhunjhunwala, through a gift deed.
+Ved Krishna played a central role in facilitating the transfer by obtaining her signatures on blank documents during their marital discord, which were later used to engineer her resignation and transfer her majority shareholding to his mother, Manjula Jhunjhunwala, through a gift deed.
+Pointing to overwriting, date mismatches, and irregular extensions of expired transfer forms, the court concluded the documentation was riddled with “serious inconsistencies and illegalities." It further noted the glaring contradiction between the deed’s claim of “love and affection" and a police complaint lodged by the mother-in-law against Krishna on the same day.
+Satori Global was managed by a board comprising directors inducted after Shailaja Krishna’s ouster, including her mother-in-law and other respondents, who controlled the company during the litigation until her reinstatement was ordered.
+The message from the bench also touches on the role of directors. When illegalities in meetings and transfers are brushed aside, courts may now not hesitate to view such inattention as complicity. “Companies cannot be treated as glorified proprietorships," said Sharad Abhyankar, partner at Khaitan & Co.
+Jurisdiction battle
+The apex court also struck down the validity of the board meetings of 15 and 17 December 2010. The absence of mandatory notice to Krishna, then a director, combined with the lack of quorum, rendered the meetings nullities. Subsequent attempts to induct a director to cure the quorum defect were deemed legally unsustainable.
+“This ruling reiterates that the NCLT has jurisdiction to determine the validity of gift deeds concerning shares," said company secretary Gaurav Pingle. “That point had been contentious, and the Supreme Court has now laid it to rest."
+The NCLT's jurisdiction was at the heart of the long-running dispute. While the tribunal in 2018 had restored Krishna’s shareholding and directorship, the NCLAT in 2023 reversed that finding, reasoning that allegations of coercion and fraud in transfers were issues fit for a civil court. The Supreme Court firmly disagreed, holding that the company law tribunal has both the responsibility and authority to adjudicate such questions.
+Experts say this clarification will prevent promoters from using jurisdictional objections to stall or derail shareholder petitions. It also reinforces tribunals as the first line of recourse for minority and majority shareholders subject to corporate oppression.
+The judgment, lawyers note, sends a message to Indian businesses, particularly closely-held companies, about the importance of procedural discipline. “It affirms that steadfast adherence to procedural safeguards, including quorum, notice, and documentation, is essential, even in closely held or family-run companies," said Ketan Mukhija, senior partner at Burgeon Law.
+According to him, the ruling is a “watershed moment" because it establishes adherence to statutory procedures. “The decision also highlights the urgent need for clearer regulatory frameworks and stronger enforcement mechanisms," Mukhija added.
+Governance lessons
+For Nilesh Tribhuvann, managing partner at White & Brief, the takeaways are particularly stark for directors and promoters. “Procedural irregularities and doctored paperwork can unravel entire corporate actions," he said, emphasizing how this puts pressure on the directors and promoters to ensure strict compliance.
+“This ruling creates a 'presumption of scrutiny' by signalling that fabricated records, backdated transfers, and quorum manipulations will not withstand judicial scrutiny," he said, adding the court's willingness to look behind documents valid on a superficial level and examine the 'circumstances surrounding' transactions will provide some comfort to investors and promoters.
+Tribhuvann added that the corporate affairs ministry may now feel compelled to tighten procedures for document authentication, given the court’s criticism of lapses in processing statutory forms like Form 7C. To be clear, Form 7C is an application under the Companies Act to the Registrar of Companies for extending the validity of a share transfer deed that has expired before it was lodged with the company.
+“The judgment reaffirms that the procedural requirements prescribed under the Companies Act regarding the conduct of meetings or the transfer of shares are not empty formalities," Khaitan & Co’s Abhyankar said.
+While Abhyankar does not see the ruling prompting amendments to company law, he said it reconfirms existing governance principles.
+
+Title   : Cognizant moves Supreme Court in Atyati logo trademark battle
+Source  : www.livemint.com
+Published: 2025-09-08T00:00:10
+Fetched : 2025-09-08T05:59:48.554345
+URL     : https://www.livemint.com/companies/cognizant-supreme-court-case-cognizant-logo-trademark-dispute-bombay-high-court-cognizant-logo-ban-cognizant-vs-atyati-11757219879752.html
+--------------------------------------------------------------------------------
+Cognizant moves Supreme Court in Atyati logo trademark battle
+Cognizant has been battling a case concerning its hexagonal logo after a Bengaluru-based fintech firm, Atyati Technologies Pvt. Ltd, challenged its ownership in 2023.
+New Delhi/Bengaluru: Cognizant Technology Solutions Corp has moved the Supreme Court challenging a Bombay high court order that barred the Nasdaq-listed firm from using its hexagonal logo in India.
+The case, a rare trademark dispute involving a major information technology services firm seeking the intervention of the apex court, is scheduled for hearing on Monday, according to filings reviewed by Mint.
+Cognizant, which employs nearly three-fourths of its global workforce in India, has been battling a case concerning its hexagonal logo after a Bengaluru-based fintech firm, Atyati Technologies Pvt. Ltd, challenged its ownership in 2023.
+Atyati filed the infringement suit in 2023, claiming its device mark—an orange hexagonal honeycomb, slightly inclined in design—had been in use since 2019 to symbolise collaboration, compassion and impact.
+Cognizant countered that Atyati was aware of its logo since 2022 but claimed knowledge only in October 2023. The company alleged that Atyati suppressed this fact when it first sought the injunction.
+In March 2024, a single-judge bench of the Bombay high court restrained Cognizant from using its logo, holding that the similarities with Atyati’s mark could mislead the public and that Atyati had established a strong case.
+But in June 2024, another judge lifted the ban, citing records showing that Cognizant had been using the logo since 2022.
+On appeal, however, a division bench of the Bombay high court led by Chief Justice Alok Aradhe and Justice Sandeep V. Marne restored the injunction on 26 August.
+It rejected Cognizant’s plea of suppression, noting: “It is difficult to conclusively hold that the plaintiff (Atyati) deliberately suppressed information about when it became aware of the defendant’s (Cognizant’s) use of the impugned logo. Even if some non-disclosure could be remotely attributed to the plaintiff, such an allegation would not affect its entitlement to a temporary injunction."
+Following the order, Cognizant stopped using the contested logo on its website and social media handles. Cognizant maintains a detailed seven-page guideline on logo usage—a rarity among Indian IT outsourcers.
+This is also not the first time Cognizant has experimented with its branding. In May 2024, it temporarily used the prefix “innovate" in job postings and social media profiles to mark the anniversary of its Bluebolt innovation programme.
+Queries emailed to Cognizant remained unanswered till press time.
+Cognizant is not new to legal tussles. The tech services provider has been embroiled in three legal cases related to poaching and alleged theft over the last few years, with one still ongoing.
+In September 2023, Cognizant announced Jatin Dalal as its chief financial officer, a week after the former CFO of Wipro Ltd resigned. Subsequently, the Bengaluru-based IT services firm filed a complaint in a Bengaluru city court, alleging that Dalal had not adhered to the employment contract, which restricted him from working with Wipro’s rivals for a period of up to one year. Wipro sought ₹25.1 crore in damages from Dalal.
+A similar case had been filed in the New Jersey district court against Mohd Ehteshamul Haque, formerly Wipro’s head of healthcare and medical devices, a few months later in December 2023. Haque joined Cognizant in August 2023 as its chief commercial officer for the Americas region shortly after leaving Wipro in June 2023.
+Wipro agreed to settle both cases after Cognizant paid Dalal ₹4.2 crore as settlement money and reimbursed his legal fees; however, the terms of the settlement for the case involving Haque are not known.
+Cognizant is also currently embroiled in a legal dispute with Bengaluru-based Infosys Ltd. over claims that the former misappropriated its trade secrets for its healthcare payor software to create a rival product. What started a year ago took twists and turns, with Infosys publicly naming Cognizant’s chief executive, S. Ravi Kumar, for engaging in anti-competitive practices.
+Not only did Infosys deny the allegations, but it also informed the court on 28 February that Cognizant’s mention of broad categories of trade secrets did not qualify as specific trade secrets that are alleged to have been stolen.
+According to a Mint report on 27 May, the Dallas court directed Cognizant and Infosys to discuss and settle any disagreements regarding information they shall share before trial.
+Cognizant ended the April-June 2025 quarter $5.25 billion in revenue, up 2.54% sequentially and 8.14% year-on-year. Banks and financial institutions accounted for more than three-fifths of its $130 million in incremental revenue.
+However, concerns surrounding its ability to grow organically still linger, as most of its growth was boosted by a single acquisition. Mint reported on 31 July that its organic growth had slipped.
+

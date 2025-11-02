@@ -1,0 +1,26 @@
+{
+  "dedup_exponent": 1.3000000000000003,
+  "name_factor_missing": 0.7,
+  "name_factor_short_ticker": 0.6,
+  "magnitude_cap": 0.5,
+  "magnitude_log_divisor": 6.0,
+  "source_bonus": {
+    "reuters.com": 0.03,
+    "livemint.com": 0.02,
+    "economictimes.indiatimes.com": 0.0,
+    "business-standard.com": 0.02,
+    "thehindubusinessline.com": 0.01
+  },
+  "event_bonus": {
+    "IPO/listing": 0.02,
+    "M&A/JV": 0.02,
+    "Order/contract": 0.02,
+    "Regulatory": 0.01,
+    "Block deal": 0.0,
+    "Dividend/return": 0.0,
+    "Results/metrics": 0.0,
+    "Management": 0.0,
+    "General": 0.0
+  },
+  "ticker_penalty": {}
+}

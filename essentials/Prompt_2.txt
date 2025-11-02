@@ -1,0 +1,22 @@
+Analyze stocks from the attached news for investment potential based on:
+Impact Magnitude Metrics:
+
+Deal/contract value vs company market cap ratio
+Revenue impact potential (% of current revenue)
+Expected % stock price movement based on fundamentals
+
+Size-Weighted Impact Analysis:
+
+Small-cap stocks: Higher volatility, bigger % moves from news
+Mid-cap stocks: Balance of stability and growth potential
+Large-cap stocks: More stable but smaller % impacts
+
+Investment Scoring Criteria:
+
+Financial Impact Ratio: Deal value ÷ Market cap
+Growth Catalyst Strength: Revenue growth potential
+News Coverage Momentum: Media attention and sentiment
+Execution Risk Assessment: Company's ability to deliver
+Valuation Attractiveness: Current price vs intrinsic value
+
+Output: Top 5 ranked stocks with risk/reward profiles and position sizing recommendations."

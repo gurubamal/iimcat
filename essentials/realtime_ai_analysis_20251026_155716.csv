@@ -1,0 +1,5 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,RELIANCE,37.3,neutral,HOLD,,market_risk,40,3,N/A, Reliance snaps up Mideast oil after Russia sanctions,Detected 0 catalyst(s). Score: 50/100. Certainty: 40%. NEUTRAL sentiment. [Fallback: JSON parse error: Expecting value: line 1 column 1 (char 0)]
+2,MARUTI,36.9,neutral,HOLD,,,0,3,N/A,Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment,No article content provided for analysis
+3,TCS,36.5,neutral,HOLD,,market_risk,40,1,N/A,"M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS shine ",Detected 0 catalyst(s). Score: 50/100. Certainty: 40%. NEUTRAL sentiment. [Fallback: JSON parse error: Expecting value: line 1 column 1 (char 0)]
+4,ITC,36.5,neutral,HOLD,,market_risk,40,1,N/A,"Q2 results this week: Swiggy, Adani Green, ITC, L&T among 300-plus firms set to declare September ea",Detected 0 catalyst(s). Score: 50/100. Certainty: 40%. NEUTRAL sentiment. [Fallback: JSON parse error: Expecting value: line 1 column 1 (char 0)]

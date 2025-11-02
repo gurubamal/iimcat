@@ -1,0 +1,24 @@
+#!/bin/bash
+# Show available ticker files
+echo ""
+echo "📁 Available Ticker Files:"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+
+# Look for common ticker list files (exclude aggregated articles and other non-ticker files)
+for file in all.txt nifty*.txt priority*.txt *tickers*.txt my*.txt custom*.txt; do
+    if [ -f "$file" ]; then
+        count=$(grep -v '^#' "$file" 2>/dev/null | grep -v '^[[:space:]]*$' | wc -l 2>/dev/null || echo "?")
+        printf "%-30s %5s stocks\n" "$file" "$count"
+    fi
+done
+
+echo ""
+echo "💡 Common choices:"
+echo "   all.txt              - All available stocks"
+echo "   nifty50_tickers.txt  - NIFTY 50 index stocks"
+echo ""
+echo "Usage:"
+echo "   ./ai_scan codex <filename>"
+echo "   ./scan_all               (uses all.txt)"
+echo "   ./scan_nifty             (uses nifty50_tickers.txt)"
+echo ""
