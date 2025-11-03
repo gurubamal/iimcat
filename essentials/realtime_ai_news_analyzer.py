@@ -20,6 +20,7 @@ import hashlib
 import os
 import sys
 import json
+import shutil
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 from dataclasses import dataclass
@@ -44,6 +45,45 @@ import fetch_full_articles as news_collector
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
+OFFLINE_NEWS_FILE = Path('offline_news_cache.json')
+_OFFLINE_NEWS_CACHE: Optional[Dict[str, List[Dict]]] = None
+ALLOW_OFFLINE_NEWS_CACHE = os.getenv('ALLOW_OFFLINE_NEWS_CACHE', '0').strip() == '1'
+
+
+def _load_offline_news_cache() -> Dict[str, List[Dict]]:
+    """Lazy-load offline news cache for air-gapped runs."""
+    if not ALLOW_OFFLINE_NEWS_CACHE:
+        return {}
+    global _OFFLINE_NEWS_CACHE
+    if _OFFLINE_NEWS_CACHE is not None:
+        return _OFFLINE_NEWS_CACHE
+    if not OFFLINE_NEWS_FILE.exists():
+        _OFFLINE_NEWS_CACHE = {}
+        return _OFFLINE_NEWS_CACHE
+    try:
+        with open(OFFLINE_NEWS_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            _OFFLINE_NEWS_CACHE = {
+                (k or '').upper().replace('.NS', ''): (v if isinstance(v, list) else [])
+                for k, v in data.items()
+            }
+        else:
+            _OFFLINE_NEWS_CACHE = {}
+    except Exception as exc:
+        logger.warning("⚠️  Failed to load offline news cache (%s)", exc)
+        _OFFLINE_NEWS_CACHE = {}
+    return _OFFLINE_NEWS_CACHE
+
+
+def _normalize_ticker_symbol(symbol: str) -> str:
+    s = (symbol or '').strip().upper()
+    if s.endswith('.NS'):
+        s = s[:-3]
+    if s.endswith('.BO'):
+        s = s[:-3]
+    return re.sub(r'[^A-Z0-9]', '', s)
+
 
 @dataclass
 class InstantAIAnalysis:
@@ -64,6 +104,23 @@ class InstantAIAnalysis:
     alpha_setup_flags: Optional[str] = None
     company_name: Optional[str] = None
     final_rank: Optional[int] = None
+    # Real-time price data (fetched from yfinance, NOT training data)
+    current_price: Optional[float] = None
+    price_timestamp: Optional[str] = None
+    entry_zone_low: Optional[float] = None
+    entry_zone_high: Optional[float] = None
+    target_conservative: Optional[float] = None
+    target_aggressive: Optional[float] = None
+    stop_loss: Optional[float] = None
+    # Fundamental data (fetched from yfinance, NOT training data)
+    quarterly_earnings_growth_yoy: Optional[float] = None
+    annual_earnings_growth_yoy: Optional[float] = None
+    profit_margin_pct: Optional[float] = None
+    debt_to_equity: Optional[float] = None
+    is_profitable: Optional[bool] = None
+    net_worth_positive: Optional[bool] = None
+    financial_health_status: Optional[str] = None
+    fundamental_adjustment: Optional[float] = None
 
 
 class AIModelClient:
@@ -324,7 +381,14 @@ class AIModelClient:
             'messages': [
                 {
                     'role': 'system',
-                    'content': 'You are an AI equity analyst. Return valid JSON only.'
+                    'content': (
+                        'You are an AI equity analyst. Return valid JSON only. '
+                        '🚨 CRITICAL: Base analysis ONLY on user-provided article text and REAL-TIME technical context in the prompt. '
+                        'DO NOT use training data, memorized prices, or external facts about current stock prices. '
+                        'If CURRENT PRICE is not in the prompt, return neutral scores. '
+                        'PRIORITY: use ONLY the CURRENT PRICE explicitly provided in prompt as anchor and compute entry zone, '
+                        'targets, and stop-loss using ONLY that price before any broader reasoning.'
+                    )
                 },
                 {'role': 'user', 'content': prompt}
             ],
@@ -399,7 +463,12 @@ class AIModelClient:
             'temperature': temperature,
             'system': os.getenv(
                 'ANTHROPIC_SYSTEM_PROMPT',
-                'You are an AI equity analyst. Return valid JSON only.'
+                'You are an AI equity analyst. Return valid JSON only. '
+                '🚨 CRITICAL: Base analysis ONLY on user-provided article text and REAL-TIME technical context in the prompt. '
+                'DO NOT use training data, memorized prices, or external facts about current stock prices. '
+                'If CURRENT PRICE is not in the prompt, return neutral scores. '
+                'PRIORITY: use ONLY the CURRENT PRICE explicitly provided in prompt as anchor and compute entry zone, '
+                'targets, and stop-loss using ONLY that price before any broader reasoning.'
             ),
             'messages': [{'role': 'user', 'content': prompt}]
         }
@@ -886,17 +955,34 @@ class RealtimeAIAnalyzer:
         
         logger.info(f"🔍 INSTANT ANALYSIS: {ticker}")
         logger.info(f"   Headline: {headline[:80]}...")
-        
-        # Step 1: Call AI model (Claude/Codex/heuristic)
-        ai_analysis = self._call_copilot_ai(ticker, headline, full_text, url)
-        
+
+        # Step 1: Call AI model (Claude/Codex/heuristic) - now returns price + fundamental bundles
+        ai_analysis, data_bundle = self._call_copilot_ai(ticker, headline, full_text, url)
+
+        price_data = {}
+        fundamental_data = {}
+        if isinstance(data_bundle, dict):
+            price_candidate = data_bundle.get('price')
+            fundamental_candidate = data_bundle.get('fundamental')
+            if isinstance(price_candidate, dict):
+                price_data = price_candidate
+            if isinstance(fundamental_candidate, dict):
+                fundamental_data = fundamental_candidate
+
+        quarterly_fundamentals = fundamental_data.get('quarterly', {})
+        annual_fundamentals = fundamental_data.get('annual', {})
+        health_snapshot = fundamental_data.get('financial_health', {})
+        validation_snapshot = fundamental_data.get('validation', {})
+
         # Step 2: Apply Frontier AI scoring
         frontier_score = self._apply_frontier_scoring(ticker, headline, full_text, ai_analysis)
-        
+
         # Step 3: Combine scores for final ranking
-        final_score = self._combine_scores(ai_analysis, frontier_score)
-        
-        # Create instant analysis result
+        base_score = self._combine_scores(ai_analysis, frontier_score)
+        final_score = self._apply_fundamental_adjustment(base_score, fundamental_data)
+        fundamental_adjustment = final_score - base_score
+
+        # Create instant analysis result with real-time price data
         base_symbol = ticker.upper().replace('.NS', '')
         company_name = self._company_name_map.get(base_symbol)
         result = InstantAIAnalysis(
@@ -916,8 +1002,38 @@ class RealtimeAIAnalyzer:
             alpha_gate_flags=(frontier_score.get('alpha_metrics', {}) or {}).get('gate_flags'),
             alpha_setup_flags=(frontier_score.get('alpha_metrics', {}) or {}).get('setup_flags'),
             company_name=company_name,
-            final_rank=None  # Set later after all analyzed
+            final_rank=None,  # Set later after all analyzed
+            # Real-time price data from yfinance (NOT training data)
+            current_price=price_data.get('current_price'),
+            price_timestamp=price_data.get('price_timestamp'),
+            entry_zone_low=price_data.get('entry_zone_low'),
+            entry_zone_high=price_data.get('entry_zone_high'),
+            target_conservative=price_data.get('target_conservative'),
+            target_aggressive=price_data.get('target_aggressive'),
+            stop_loss=price_data.get('stop_loss'),
+            quarterly_earnings_growth_yoy=quarterly_fundamentals.get('earnings_yoy_growth_pct'),
+            annual_earnings_growth_yoy=annual_fundamentals.get('earnings_yoy_growth_pct'),
+            profit_margin_pct=(
+                quarterly_fundamentals.get('profit_margin_pct')
+                if quarterly_fundamentals.get('profit_margin_pct') is not None
+                else annual_fundamentals.get('profit_margin_pct')
+            ),
+            debt_to_equity=health_snapshot.get('debt_to_equity'),
+            is_profitable=health_snapshot.get('is_profitable'),
+            net_worth_positive=health_snapshot.get('net_worth_positive'),
+            financial_health_status=validation_snapshot.get('overall_health')
+            if isinstance(validation_snapshot, dict) else None,
+            fundamental_adjustment=fundamental_adjustment if abs(fundamental_adjustment) >= 0.05 else None,
         )
+
+        if abs(fundamental_adjustment) >= 0.05:
+            logger.info(
+                "   Fundamental adjustment: %+0.2f (health=%s, quarterly_eYoY=%s, annual_eYoY=%s)",
+                fundamental_adjustment,
+                result.financial_health_status or 'unknown',
+                f"{result.quarterly_earnings_growth_yoy:.2f}%" if result.quarterly_earnings_growth_yoy is not None else 'n/a',
+                f"{result.annual_earnings_growth_yoy:.2f}%" if result.annual_earnings_growth_yoy is not None else 'n/a'
+            )
         
         # Store result and update ranking (thread-safe)
         with self._lock:
@@ -931,16 +1047,20 @@ class RealtimeAIAnalyzer:
         
         return result
     
-    def _call_copilot_ai(self, ticker: str, headline: str, 
-                        full_text: str, url: str) -> Dict:
-        """Call the configured AI provider and fall back to heuristics if needed."""
-        # Build comprehensive prompt
-        prompt = self._build_ai_prompt(ticker, headline, full_text, url)
+    def _call_copilot_ai(self, ticker: str, headline: str,
+                        full_text: str, url: str) -> Tuple[Dict, Dict]:
+        """Call the configured AI provider and fall back to heuristics if needed.
+
+        Returns:
+            Tuple of (ai_result_dict, combined_data_dict)
+        """
+        # Build comprehensive prompt with price and fundamental data
+        prompt, combined_data = self._build_ai_prompt(ticker, headline, full_text, url)
         cache_key = self._cache_key(ticker, headline, full_text)
 
         if cache_key in self.analysis_cache:
             logger.info('♻️  Reusing cached AI analysis for %s', ticker)
-            return self.analysis_cache[cache_key]
+            return self.analysis_cache[cache_key], combined_data
 
         if self.ai_client.selected_provider == 'heuristic':
             if self.ai_client.requested_provider in {'codex', 'openai', 'gpt', 'gpt-4', 'gpt-4o'}:
@@ -949,7 +1069,7 @@ class RealtimeAIAnalyzer:
                 logger.info('Using heuristic analyzer for %s (no external AI configured).', ticker)
             result = self._intelligent_pattern_analysis(prompt)
             self.analysis_cache[cache_key] = result
-            return result
+            return result, combined_data
 
         if self.ai_call_limit is not None and self.ai_call_count >= self.ai_call_limit:
             logger.info(
@@ -961,26 +1081,125 @@ class RealtimeAIAnalyzer:
             self.limit_affected_tickers.add(ticker)
             result = self._intelligent_pattern_analysis(prompt)
             self.analysis_cache[cache_key] = result
-            return result
+            return result, combined_data
 
         try:
             result = self._invoke_ai_model(prompt)
             self.ai_call_count += 1
             self.external_ai_used_tickers.add(ticker)
             self.analysis_cache[cache_key] = result
-            return result
+            return result, combined_data
         except Exception as e:
             logger.warning(f"❌ AI call failed ({e}); falling back to heuristic analysis")
             result = self._intelligent_pattern_analysis(prompt)
             self.analysis_cache[cache_key] = result
-            return result
+            return result, combined_data
     
     def _build_ai_prompt(self, ticker: str, headline: str,
-                        full_text: str, url: str) -> str:
-        """Build comprehensive AI prompt for analysis (Claude-optimized)"""
+                        full_text: str, url: str) -> Tuple[str, Dict]:
+        """Build comprehensive AI prompt for analysis (Claude-optimized)
+
+        Returns:
+            Tuple of (prompt_text, combined_data_dict)
+        """
 
         # Load historical learnings
         historical_context = self._load_historical_learnings(ticker)
+
+        # CRITICAL: Fetch real-time price data FIRST (to prevent AI from using training data)
+        price_data = {}
+        try:
+            from realtime_price_fetcher import get_comprehensive_price_data, format_price_context_for_ai
+            # Get preliminary sentiment for price calculation
+            prelim_sentiment = 'bullish' if 'profit' in headline.lower() or 'growth' in headline.lower() else 'neutral'
+            price_data = get_comprehensive_price_data(ticker, sentiment=prelim_sentiment, expected_move_pct=0.0)
+            price_context = format_price_context_for_ai(price_data)
+        except Exception as e:
+            print(f"⚠️  Price fetch failed for {ticker}: {e}", file=sys.stderr)
+            price_context = f"""
+⚠️  REAL-TIME PRICE DATA UNAVAILABLE FOR {ticker}
+Error: {str(e)[:200]}
+
+CRITICAL INSTRUCTION:
+- You MUST NOT use memorized/training data prices
+- If price is needed for analysis, state "INSUFFICIENT DATA"
+- Return neutral scores and recommend manual verification
+"""
+            price_data = {'price_data_available': False, 'ticker': ticker}
+
+        # CRITICAL: Fetch real-time fundamental data (quarterly/annual results, financials)
+        fundamental_data = {}
+        fundamental_context = ""
+        try:
+            from fundamental_data_fetcher import FundamentalDataFetcher
+            fetcher = FundamentalDataFetcher(use_cache=False)
+            fundamental_data = fetcher.fetch_comprehensive_fundamentals(ticker)
+            if fundamental_data.get('data_available'):
+                fundamental_context = fetcher.format_for_ai_prompt(fundamental_data)
+            else:
+                fundamental_context = f"⚠️  FUNDAMENTAL DATA UNAVAILABLE FOR {ticker} (fetched from yfinance, may be limited)"
+        except Exception as e:
+            print(f"⚠️  Fundamental fetch failed for {ticker}: {e}", file=sys.stderr)
+            fundamental_context = f"⚠️  FUNDAMENTAL DATA FETCH ERROR FOR {ticker}: {str(e)[:200]}"
+            fundamental_data = {'data_available': False, 'ticker': ticker}
+
+        # Combine all data for return
+        combined_data = {
+            'price': price_data,
+            'fundamental': fundamental_data,
+            'ticker': ticker
+        }
+
+        # Fetch real-time technical context locally to ground AI to fresh data
+        tech_summary = "Technical data unavailable"
+        try:
+            sys.path.insert(0, os.path.dirname(__file__))
+            import exit_intelligence_analyzer as exit_analyzer  # reuse TA
+            df = exit_analyzer.get_stock_data(ticker)
+            if df is not None and not df.empty:
+                tech = exit_analyzer.calculate_technical_indicators(df)
+                if tech:
+                    tech_summary = (
+                        f"Current Price: {tech.get('current_price','N/A')}\n"
+                        f"RSI: {tech.get('rsi','N/A')}\n"
+                        f"Price vs 20DMA: {tech.get('price_vs_sma20_pct','N/A')}%\n"
+                        f"Price vs 50DMA: {tech.get('price_vs_sma50_pct','N/A')}%\n"
+                        f"10d Momentum: {tech.get('momentum_10d_pct','N/A')}%\n"
+                        f"Volume Ratio: {tech.get('volume_ratio','N/A')}\n"
+                        f"Recent Trend: {tech.get('recent_trend','N/A')}"
+                    )
+        except Exception:
+            pass
+
+        # Build a priority header to anchor the model on price, fundamentals, and trade levels first
+        priority_header = price_context + "\n\n" + fundamental_context + "\n\n"
+
+        # Add mandatory AI confirmation section
+        ai_confirmation = f"""
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚠️  MANDATORY DATA SOURCE ACKNOWLEDGMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+YOU MUST INCLUDE THIS IN YOUR JSON RESPONSE:
+
+"data_source_confirmation": {{
+    "used_provided_price": true,
+    "used_provided_fundamentals": true,
+    "no_training_data_used": true,
+    "confirmation_statement": "I confirm using ONLY the yfinance data provided in this prompt for {ticker}"
+}}
+
+By including this field, you confirm:
+1. ✅ You used the real-time price data from yfinance (provided above)
+2. ✅ You used the quarterly/annual results from yfinance (provided above)
+3. ✅ You did NOT use any memorized/training data for {ticker}
+4. ✅ All calculations are based ONLY on the data in this prompt
+
+⚠️  FAILURE TO INCLUDE THIS FIELD WILL INVALIDATE YOUR ANALYSIS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"""
 
         prompt = f"""# SWING TRADE SETUP ANALYSIS - {ticker}
 
@@ -1008,12 +1227,17 @@ class RealtimeAIAnalyzer:
 
 {historical_context}
 
+{priority_header}
+
+{ai_confirmation}
+
 ## Task
-Analyze this news for **swing trading opportunity (5-15 day horizon)** using:
-1. Fundamental catalyst analysis (news impact assessment)
-2. Technical analysis (support/resistance, indicators, entry/exit levels)
-3. Risk management (stop-loss, risk-reward ratio)
-4. Real-time market data verification
+Analyze this news for **swing trading opportunity (5-15 day horizon)** using, in this order:
+1. Swing trade setup FIRST (entry/targets/stop based on current price)
+2. Technical analysis (support/resistance, indicators, momentum/volume)
+3. Fundamental catalyst analysis (news impact assessment)
+4. Risk management (risk-reward ratio, confirmation)
+5. Real-time market data verification
 
 ## Stock Information
 - **Ticker**: {ticker}
@@ -1021,9 +1245,22 @@ Analyze this news for **swing trading opportunity (5-15 day horizon)** using:
 - **Full Text**: {full_text[:1000] if full_text else "N/A"}
 - **URL**: {url}
 
+## TECHNICAL CONTEXT (Fetched now via yfinance)
+{tech_summary}
+Fetched At: {datetime.now().isoformat()}
+
 ## Analysis Framework
 
-### 1. Fundamental Catalyst Analysis (30 points)
+### 1. Swing Trade Setup (first priority, 25 points)
+Provide specific actionable levels based on CURRENT PRICE and technicals:
+- Entry Zone: Optimal buy zone/price range for entry
+- Target 1: Conservative exit target (first profit booking)
+- Target 2: Aggressive exit target (if momentum continues)
+- Stop Loss: Strict stop-loss level for risk management
+- Time Horizon: 5-15 day expected holding period
+- Risk-Reward Ratio: Calculate R:R ratio (e.g., 1:2, 1:3)
+
+### 2. Fundamental Catalyst Analysis (30 points)
 Identify:
 - Catalyst type (earnings, M&A, investment, expansion, contract, sector_momentum, etc.)
 - Deal value (₹ crores if mentioned)
@@ -1032,24 +1269,13 @@ Identify:
 - **Indirect correlations** (sector, supply chain, thematic impacts)
 - Fake rally risk (hype vs substance)
 
-### 2. Technical Analysis - REQUIRED (30 points)
-**Use internet to fetch current technical data and provide:**
-- **Current Price**: Latest trading price
-- **Support Levels**: At least 2-3 key support levels below current price
-- **Resistance Levels**: At least 2-3 key resistance levels above current price
-- **RSI Reading**: Current RSI value and interpretation (overbought/oversold/neutral)
-- **MACD Signals**: Current MACD status (bullish/bearish crossover, divergence)
-- **Volume Trend**: Recent volume analysis (increasing/decreasing/average)
-- **Price Action**: Recent trend (uptrend/downtrend/sideways)
+### 3. Technical Analysis - REQUIRED (30 points)
+Use the TECHNICAL CONTEXT provided above (fetched now) to assess:
+- Current price and proximity to key MAs (20/50‑DMA)
+- RSI and momentum (10‑day return)
+- Volume trend (volume ratio)
+- Recent price action (up/down)
 
-### 3. Swing Trade Setup (25 points)
-**Provide specific actionable levels:**
-- **Entry Zone**: Optimal buy zone/price range for entry
-- **Target 1**: Conservative exit target (first profit booking)
-- **Target 2**: Aggressive exit target (if momentum continues)
-- **Stop Loss**: Strict stop-loss level for risk management
-- **Time Horizon**: 5-15 day expected holding period
-- **Risk-Reward Ratio**: Calculate R:R ratio (e.g., 1:2, 1:3)
 
 ### 4. Market Context & Sentiment (15 points)
 Assess:
@@ -1072,10 +1298,16 @@ Assess:
     "expected_move_pct": number,
     "confidence": 0-100,
 
+    "data_source_confirmation": {{
+        "used_provided_price": true,
+        "used_provided_fundamentals": true,
+        "no_training_data_used": true,
+        "confirmation_statement": "I confirm using ONLY the yfinance data provided in this prompt for {ticker}"
+    }},
+
     "technical_analysis": {{
         "current_price": number,
         "support_levels": [level1, level2, level3],
-        "resistance_levels": [level1, level2, level3],
         "rsi": number (0-100),
         "rsi_interpretation": "overbought|neutral|oversold",
         "macd_signal": "bullish|bearish|neutral",
@@ -1095,14 +1327,8 @@ Assess:
     }}
 }}
 
-## Internet Research - CRITICAL
-**You MUST use internet access to:**
-1. Fetch current stock price for {ticker}
-2. Look up recent technical indicators (RSI, MACD, support/resistance)
-3. Check recent volume patterns
-4. Verify sector/industry momentum
-5. Cross-reference news source credibility
-6. Validate company market cap and fundamentals
+## Evidence Policy - CRITICAL
+Base your decision ONLY on the article text and the TECHNICAL CONTEXT provided (both fetched now). Do NOT use prior training knowledge or external facts not present here. Do not invent values when technical context is unavailable.
 
 ## Scoring Guidelines with EXAMPLES
 
@@ -1165,7 +1391,11 @@ Assess:
 
 Analyze and respond with JSON only.
 """
-        return prompt
+
+        # Optional strict real-time grounding: disallow prior training knowledge
+        if (os.getenv('NEWS_STRICT_CONTEXT') or os.getenv('AI_STRICT_CONTEXT') or os.getenv('EXIT_STRICT_CONTEXT') or '0').strip() == '1':
+            prompt += "\n\nSTRICT REAL-TIME CONTEXT: Base your decision ONLY on the provided article text and the TECHNICAL CONTEXT above. Do not use prior training knowledge or external facts not fetched now. If technical context shows 'unavailable', do not invent values."
+        return prompt, combined_data
 
     def _record_predictions_to_learning_db(self, qualified_stocks):
         """Record predictions to learning database for feedback tracking"""
@@ -2047,6 +2277,54 @@ Ticker to validate: {ticker}
 
         # Slight anti-saturation: cap single-article extremes later in ranking; here, just clamp
         return max(0.0, min(100.0, combined))
+
+    def _apply_fundamental_adjustment(self, base_score: float, fundamental_data: Dict) -> float:
+        """Adjust AI score using fundamental health to reward high-quality companies."""
+        if not fundamental_data or not isinstance(fundamental_data, dict):
+            return base_score
+        if not fundamental_data.get('data_available'):
+            return base_score
+
+        adjustment = 0.0
+
+        validation = fundamental_data.get('validation') or {}
+        overall = validation.get('overall_health')
+        if overall == 'healthy':
+            adjustment += 2.0
+        elif overall == 'concerning':
+            adjustment -= 3.5
+        elif overall == 'moderate':
+            adjustment += 0.5
+
+        green_flags = validation.get('green_flags') or []
+        red_flags = validation.get('red_flags') or []
+        adjustment += min(3.0, 0.5 * len(green_flags))
+        adjustment -= min(4.0, 0.7 * len(red_flags))
+
+        quarterly = fundamental_data.get('quarterly') or {}
+        annual = fundamental_data.get('annual') or {}
+        for growth, divisor in (
+            (quarterly.get('earnings_yoy_growth_pct'), 40.0),
+            (annual.get('earnings_yoy_growth_pct'), 60.0),
+        ):
+            if isinstance(growth, (int, float)):
+                adjustment += max(-3.0, min(3.0, growth / divisor))
+
+        health = fundamental_data.get('financial_health') or {}
+        debt_to_equity = health.get('debt_to_equity')
+        if isinstance(debt_to_equity, (int, float)):
+            if debt_to_equity <= 0.8:
+                adjustment += 1.0
+            elif debt_to_equity >= 2.5:
+                adjustment -= 2.0
+
+        if health.get('is_profitable') is False:
+            adjustment -= 2.5
+        if health.get('net_worth_positive') is False:
+            adjustment -= 3.0
+
+        adjusted_score = base_score + adjustment
+        return max(0.0, min(100.0, adjusted_score))
     
     def _update_live_ranking(self):
         """Update live ranking of all analyzed stocks"""
@@ -2142,15 +2420,24 @@ Ticker to validate: {ticker}
             else:
                 rejected_stocks.append((ticker, score, latest, analyses))
         
-        # Save qualified stocks
+        # Save qualified stocks (with real-time price data)
         with open(output_file, 'w', newline='') as f:
             writer = csv.writer(f)
             writer.writerow([
                 'rank', 'ticker', 'company_name', 'ai_score', 'sentiment', 'recommendation',
                 'catalysts', 'risks', 'certainty', 'articles_count',
-                'quant_alpha', 'headline', 'reasoning'
+                'quant_alpha',
+                # Real-time price fields (from yfinance, NOT training data)
+                'current_price', 'price_timestamp', 'entry_zone_low', 'entry_zone_high',
+                'target_conservative', 'target_aggressive', 'stop_loss',
+                # Fundamental fields (from yfinance fundamentals)
+                'fundamental_adjustment',
+                'quarterly_earnings_growth_yoy', 'annual_earnings_growth_yoy',
+                'profit_margin_pct', 'debt_to_equity',
+                'is_profitable', 'net_worth_positive', 'financial_health_status',
+                'headline', 'reasoning'
             ])
-            
+
             for rank, (ticker, score, latest, analyses) in enumerate(qualified_stocks, 1):
                 writer.writerow([
                     rank,
@@ -2164,6 +2451,22 @@ Ticker to validate: {ticker}
                     f"{latest.certainty:.0f}",
                     len(analyses),
                     (f"{latest.quant_alpha:.1f}" if latest.quant_alpha is not None else ''),
+                    # Real-time price data (from yfinance)
+                    (f"{latest.current_price:.2f}" if latest.current_price else ''),
+                    latest.price_timestamp or '',
+                    (f"{latest.entry_zone_low:.2f}" if latest.entry_zone_low else ''),
+                    (f"{latest.entry_zone_high:.2f}" if latest.entry_zone_high else ''),
+                    (f"{latest.target_conservative:.2f}" if latest.target_conservative else ''),
+                    (f"{latest.target_aggressive:.2f}" if latest.target_aggressive else ''),
+                    (f"{latest.stop_loss:.2f}" if latest.stop_loss else ''),
+                    (f"{latest.fundamental_adjustment:+.2f}" if latest.fundamental_adjustment is not None else ''),
+                    (f"{latest.quarterly_earnings_growth_yoy:.2f}" if latest.quarterly_earnings_growth_yoy is not None else ''),
+                    (f"{latest.annual_earnings_growth_yoy:.2f}" if latest.annual_earnings_growth_yoy is not None else ''),
+                    (f"{latest.profit_margin_pct:.2f}" if latest.profit_margin_pct is not None else ''),
+                    (f"{latest.debt_to_equity:.2f}" if latest.debt_to_equity is not None else ''),
+                    ('TRUE' if latest.is_profitable is True else ('FALSE' if latest.is_profitable is False else '')),
+                    ('TRUE' if latest.net_worth_positive is True else ('FALSE' if latest.net_worth_positive is False else '')),
+                    (latest.financial_health_status or ''),
                     latest.headline[:100],
                     latest.reasoning[:200]
                 ])
@@ -2345,16 +2648,16 @@ class RealtimeCollectorIntegration:
                     'thehindubusinessline.com', 'financialexpress.com', 'zeebiz.com'
                 ]
             
-            # Fetch RSS items using base collector - PUBLISHERS ONLY for better quality
+            # Fetch publisher RSS only for quality (no Google News fallback)
             items = news_collector.fetch_rss_items(
                 ticker=ticker,
                 sources=sources,
-                publishers_only=True  # Skip Google News - use only direct publisher feeds
+                publishers_only=True
             )
             
             if not items:
-                logger.info(f"ℹ️  No recent news for {ticker}")
-                return []
+                logger.info(f"ℹ️  No recent news for %s from live sources", ticker)
+                return self._get_offline_articles(ticker, max_articles)
             
             # Filter by time window and fetch full content
             now = dt.datetime.now(dt.timezone.utc)
@@ -2415,13 +2718,48 @@ class RealtimeCollectorIntegration:
             recent_items = recent_items[:max_articles]
             
             logger.info(f"✅ Found {len(recent_items)} recent articles for {ticker}")
-            return recent_items
+            if recent_items:
+                return recent_items
+
+            logger.info(f"ℹ️  Live sources returned no recent articles for %s; trying offline cache", ticker)
+            return self._get_offline_articles(ticker, max_articles)
             
         except Exception as e:
             logger.error(f"❌ Error fetching articles for {ticker}: {e}")
             import traceback
             logger.error(traceback.format_exc())
+            return self._get_offline_articles(ticker, max_articles)
+
+    def _get_offline_articles(self, ticker: str, max_articles: int) -> List[Dict]:
+        """Return offline cached articles when live fetch fails."""
+        if not ALLOW_OFFLINE_NEWS_CACHE:
             return []
+        cache = _load_offline_news_cache()
+        normalized = _normalize_ticker_symbol(ticker)
+        entries = cache.get(normalized, [])
+        if not entries:
+            return []
+
+        articles: List[Dict] = []
+        for entry in entries[:max_articles]:
+            title = str(entry.get('title', '')).strip() or f"{normalized} offline update"
+            text = str(entry.get('text', '')).strip() or title
+            articles.append({
+                'title': title,
+                'url': entry.get('url', ''),
+                'source': entry.get('source', 'offline-cache'),
+                'published': entry.get('published'),
+                'text': text
+            })
+
+        if articles:
+            logger.info(
+                "📦 Using offline news cache for %s (%d article%s)",
+                normalized,
+                len(articles),
+                '' if len(articles) == 1 else 's'
+            )
+        return articles
 
 
 def main():
@@ -2562,6 +2900,15 @@ def main():
 
     # Save results with timestamped filename
     analyzer.save_results(timestamped_output)
+    # Also copy to the canonical output name the script prints for convenience
+    try:
+        shutil.copyfile(timestamped_output, args.output)
+        rejected_src = timestamped_output.replace('.csv', '_rejected.csv')
+        rejected_dst = args.output.replace('.csv', '_rejected.csv')
+        if os.path.exists(rejected_src):
+            shutil.copyfile(rejected_src, rejected_dst)
+    except Exception as exc:
+        logger.warning("⚠️  Unable to copy results to %s: %s", args.output, exc)
     # Log AI usage summary (especially if a call limit enforced)
     try:
         analyzer.log_ai_usage_summary(tickers[:args.top])

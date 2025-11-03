@@ -106,8 +106,13 @@ def _get_intraday_change_pct(ticker: str, interval: str, window: int) -> Optiona
             closes = df['Close']
             if opens.empty or closes.empty:
                 continue
-            first = float(opens.iloc[0])
-            last = float(closes.iloc[-1])
+            # Be robust: iloc may return a 0-dim ndarray or Series in some cases
+            try:
+                first = float(opens.to_numpy()[0])
+                last = float(closes.to_numpy()[-1])
+            except Exception:
+                first = float(opens.iloc[0])
+                last = float(closes.iloc[-1])
             if first <= 0:
                 continue
             pct = (last - first) / first * 100.0

@@ -17,6 +17,10 @@ import re
 from dataclasses import dataclass
 from typing import Dict, List, Tuple, Optional
 import logging
+from pathlib import Path
+import os
+
+ALLOW_OFFLINE_OHLCV_CACHE = os.getenv('ALLOW_OFFLINE_OHLCV_CACHE', '0').strip() == '1'
 
 warnings.filterwarnings('ignore')
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -69,6 +73,10 @@ class QuantFeatureEngine:
         self.lookback_days = lookback_days
         self.use_demo = use_demo
         self.config = self._load_config()
+        self.allow_offline_cache = ALLOW_OFFLINE_OHLCV_CACHE
+        self.offline_dir = Path(os.getenv('OFFLINE_OHLCV_DIR', 'offline_ohlcv_cache'))
+        if self.allow_offline_cache:
+            self.offline_dir.mkdir(parents=True, exist_ok=True)
     
     def _load_config(self) -> Dict:
         try:
@@ -145,25 +153,49 @@ class QuantFeatureEngine:
         }).set_index('Date')
         return df
 
+    def _offline_path(self, ticker: str) -> Path:
+        safe = ticker.replace('/', '_')
+        return self.offline_dir / f"{safe}.csv"
+
+    def _save_offline_data(self, ticker: str, df: pd.DataFrame) -> None:
+        if not self.allow_offline_cache:
+            return
+        try:
+            path = self._offline_path(ticker)
+            df.to_csv(path, index=True, index_label='Date')
+        except Exception as exc:
+            logger.warning(f"⚠️  Unable to persist OHLCV cache for %s: %s", ticker, exc)
+
+    def _load_offline_data(self, ticker: str) -> Optional[pd.DataFrame]:
+        if not self.allow_offline_cache:
+            return None
+        path = self._offline_path(ticker)
+        if not path.exists():
+            return None
+        try:
+            df = pd.read_csv(path, parse_dates=['Date'], index_col='Date')
+            return df
+        except Exception as exc:
+            logger.warning(f"⚠️  Failed to load cached OHLCV for %s: %s", ticker, exc)
+            return None
+
     def fetch_data(self, ticker: str) -> Optional[pd.DataFrame]:
-        """Fetch OHLCV data from yfinance with timeout or demo data."""
+        """Fetch OHLCV data from yfinance with offline cache fallback."""
         if self.use_demo:
             try:
                 return self._generate_demo_data(ticker)
             except Exception as e:
                 logger.warning(f"Demo data generation failed for {ticker}: {e}")
                 return None
-        
+
         try:
             end_date = datetime.now()
             start_date = end_date - timedelta(days=self.lookback_days)
             df = yf.download(ticker, start=start_date, end=end_date, progress=False, timeout=10)
-            if df is None or len(df) < 60:
-                logger.warning(f"{ticker}: Insufficient data ({len(df) if df is not None else 0} bars)")
-                # Fallback to demo mode
-                return self._generate_demo_data(ticker)
-            if len(df.columns) == 0:
-                return None
+            if df is None or len(df) < 60 or len(df.columns) == 0:
+                logger.warning(f"{ticker}: Insufficient live data ({len(df) if df is not None else 0} bars)")
+                return self._load_offline_data(ticker)
+
             # Flatten multi-index columns produced by some yfinance versions
             try:
                 import pandas as _pd
@@ -173,7 +205,6 @@ class QuantFeatureEngine:
                         try:
                             cols[name] = df[(name, ticker)]
                         except Exception:
-                            # fallback: sometimes second level is empty or missing
                             try:
                                 cols[name] = df[name]
                             except Exception:
@@ -182,14 +213,21 @@ class QuantFeatureEngine:
                         df = _pd.DataFrame(cols, index=df.index)
             except Exception:
                 pass
+
             df['ticker'] = ticker
+            self._save_offline_data(ticker, df)
             return df
         except Exception as e:
-            logger.warning(f"Failed to fetch {ticker}, using demo data: {type(e).__name__}")
-            try:
-                return self._generate_demo_data(ticker)
-            except:
-                return None
+            logger.warning(f"Failed to fetch {ticker} live data ({type(e).__name__}); using cached OHLCV if available")
+            cached = self._load_offline_data(ticker)
+            if cached is not None:
+                return cached
+            if self.use_demo:
+                try:
+                    return self._generate_demo_data(ticker)
+                except Exception:
+                    return None
+            return None
     
     def compute_atr(self, df: pd.DataFrame, period: int = 20) -> pd.Series:
         """Average True Range (volatility)."""

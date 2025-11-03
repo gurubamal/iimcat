@@ -1,0 +1,38 @@
+{
+  "ticker": "RELIANCE",
+  "timestamp": "2025-11-03T12:19:45.261028",
+  "price_data": {
+    "fetched_successfully": true,
+    "source": "yfinance.fast_info",
+    "current_price": 1489.4000244140625,
+    "timestamp": "2025-11-03T12:19:46.013555",
+    "entry_exit_calculated": true,
+    "warning_present": true
+  },
+  "fundamental_data": {
+    "fetched_successfully": true,
+    "quarterly_available": true,
+    "annual_available": true,
+    "health_available": true,
+    "quarterly_earnings_yoy": 78.31946095917559,
+    "annual_earnings_yoy": 0.03878140216314043,
+    "is_profitable": true,
+    "net_worth_positive": true
+  },
+  "institutional_data": {
+    "data_available": false,
+    "institutional_ownership_pct": null,
+    "institutions_count": null,
+    "top_5_holders_pct": null
+  },
+  "data_completeness": {
+    "price_available": true,
+    "quarterly_results": true,
+    "annual_results": true,
+    "institutional_ownership": false,
+    "financial_health": true
+  },
+  "ai_instructions_present": true,
+  "training_data_warnings": true,
+  "overall_status": "PASS"
+}

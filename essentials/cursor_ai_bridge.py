@@ -67,6 +67,10 @@ def analyze_with_claude(prompt: str, info: Dict) -> Dict:
         # Build structured analysis prompt for Claude
         analysis_prompt = f"""You are an expert financial analyst specializing in Indian stock markets.
 
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the information supplied in this prompt. Do NOT use prior training data or external facts.
+- PRIORITY: Treat CURRENT PRICE (if provided) as the anchor and compute entry zone, targets, and stop-loss FIRST before broader reasoning.
+
 Analyze this news article and provide a structured assessment:
 
 **Ticker:** {info['ticker']}

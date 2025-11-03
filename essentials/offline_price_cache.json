@@ -1,0 +1,58 @@
+{
+  "RELIANCE": {
+    "current_price": 1486.4000244140625,
+    "timestamp": "2025-11-03T07:10:59.101162",
+    "symbol": "RELIANCE.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:10:59.101903"
+  },
+  "CDSL": {
+    "current_price": 1587.199951171875,
+    "timestamp": "2025-11-03T07:11:16.512128",
+    "symbol": "CDSL.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:11:16.512664"
+  },
+  "CANBK": {
+    "current_price": 136.99000549316406,
+    "timestamp": "2025-11-03T07:10:38.312193",
+    "symbol": "CANBK.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:10:38.313664"
+  },
+  "MARUTI": {
+    "current_price": 16186.0,
+    "timestamp": "2025-11-03T07:10:46.213219",
+    "symbol": "MARUTI.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:10:46.214161"
+  },
+  "FOCUS": {
+    "current_price": 86.37000274658203,
+    "timestamp": "2025-11-03T07:11:04.540188",
+    "symbol": "FOCUS.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:11:04.541551"
+  },
+  "URBAN": {
+    "current_price": 158.75,
+    "timestamp": "2025-11-03T07:11:09.966141",
+    "symbol": "URBAN.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:11:09.966874"
+  },
+  "MADHUSUDAN": {
+    "current_price": 130.60000610351562,
+    "timestamp": "2025-11-03T07:11:22.911575",
+    "symbol": "MADHUSUDAN.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:11:22.911679"
+  },
+  "STANLEY": {
+    "current_price": 276.1499938964844,
+    "timestamp": "2025-11-03T07:11:31.978031",
+    "symbol": "STANLEY.NS",
+    "source": "yfinance.fast_info",
+    "cached_at": "2025-11-03T07:11:31.978083"
+  }
+}

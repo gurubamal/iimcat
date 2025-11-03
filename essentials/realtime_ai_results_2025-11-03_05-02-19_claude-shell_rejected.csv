@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+FOCUS,FOCUS LIGHTING AND FIXTURES LIMITED,42.4,15,1,Certainty 15% below threshold (40%),"Morgan Stanley adds RIL, Varun Beverages to its focus list. Here’s why these 2 l",This article discusses Morgan Stanley's addition of Reliance Industries and Varun Beverages to its focus list. There is NO mention of the ticker FOCUS
+STANLEY,STANLEY LIFESTYLES LIMITED,30.7,15,1,Certainty 15% below threshold (40%),"Morgan Stanley adds RIL, Varun Beverages to its focus list. Here’s why these 2 l","Article discusses Morgan Stanley adding RIL and Varun Beverages to focus list, with zero mention of STANLEY. No direct catalyst exists. While RSI at 8"

@@ -31,26 +31,66 @@ except ImportError:
         pass
 
 def call_gemini_cli(prompt: str) -> Optional[str]:
+    """Invoke the locally installed Gemini CLI with best-effort compatibility.
+
+    Different community "gemini" CLIs accept different argument conventions.
+    Try a few safe patterns before falling back to stdin mode.
+    """
+    cli = os.getenv('GEMINI_CLI', 'gemini').strip()
+    # Configurable timeout and stdin fallback
     try:
-        cmd = ['gemini', '--prompt', prompt]
-        print(f"--- Running Gemini CLI command: {' '.join(cmd)} ---", file=sys.stderr)
+        GEMINI_TIMEOUT = int(os.getenv('GEMINI_TIMEOUT', '20'))
+    except Exception:
+        GEMINI_TIMEOUT = 20
+    allow_stdin = (os.getenv('GEMINI_ALLOW_STDIN', '0').strip().lower() in ('1', 'true', 'yes'))
+    candidates = [
+        [cli, '--prompt'],
+        [cli, '-p'],
+    ]
+    for base in candidates:
+        try:
+            cmd = base + [prompt]
+            print(f"--- Running Gemini CLI command: {' '.join(base)} <prompt> ---", file=sys.stderr)
+            result = subprocess.run(
+                cmd,
+                capture_output=True,
+                text=True,
+                timeout=GEMINI_TIMEOUT
+            )
+            if result.returncode == 0 and (result.stdout or '').strip():
+                print(f"--- Gemini CLI Output ---", file=sys.stderr)
+                print(result.stdout, file=sys.stderr)
+                print("-------------------------", file=sys.stderr)
+                return result.stdout
+            else:
+                print(f"--- Gemini CLI returned code {result.returncode}; trying next mode ---", file=sys.stderr)
+        except Exception as e:
+            print(f"Mode {' '.join(base)} failed: {e}", file=sys.stderr)
+
+    # Final fallback: pipe prompt via stdin (disabled by default)
+    if not allow_stdin:
+        print("--- Skipping Gemini CLI stdin mode (GEMINI_ALLOW_STDIN not set) ---", file=sys.stderr)
+        return None
+    try:
+        print("--- Running Gemini CLI in stdin mode ---", file=sys.stderr)
         result = subprocess.run(
-            cmd,
+            [cli],
+            input=prompt,
             capture_output=True,
             text=True,
-            timeout=120
+            timeout=GEMINI_TIMEOUT
         )
         if result.returncode != 0:
-            print(f"--- Gemini CLI Error ---", file=sys.stderr)
+            print(f"--- Gemini CLI Error (stdin mode) ---", file=sys.stderr)
             print(result.stderr, file=sys.stderr)
-            print("------------------------", file=sys.stderr)
+            print("-------------------------------------", file=sys.stderr)
             return None
         print(f"--- Gemini CLI Output ---", file=sys.stderr)
         print(result.stdout, file=sys.stderr)
         print("-------------------------", file=sys.stderr)
         return result.stdout
     except Exception as e:
-        print(f"Error calling Gemini CLI: {e}", file=sys.stderr)
+        print(f"Error calling Gemini CLI (stdin mode): {e}", file=sys.stderr)
         return None
 
 
@@ -270,24 +310,58 @@ def main():
         enhanced_prompt = fetch_and_enhance_prompt(prompt)
 
         instr = (os.getenv('GEMINI_SHELL_INSTRUCTION') or os.getenv('AI_SHELL_INSTRUCTION') or '').strip()
-        full_prompt = (f"Additional Analyst Guidance: {instr}\n\n" if instr else "") + enhanced_prompt
+        strict = (
+            "STRICT REAL-TIME CONTEXT: Base your decision ONLY on the provided article text and TECHNICAL CONTEXT (both fetched now). "
+            "Do not use prior training knowledge or external facts not fetched now. PRIORITY: Use CURRENT PRICE as anchor and compute entry zone, targets, and stop-loss FIRST before broader reasoning. "
+            "If technical context is missing, do not invent values.\n\n"
+        )
+        full_prompt = (f"Additional Analyst Guidance: {instr}\n\n" if instr else "") + strict + enhanced_prompt
 
         gemini_response = call_gemini_cli(full_prompt)
 
         if gemini_response:
+            cleaned = gemini_response.strip()
+            # If extra text surrounds JSON, try to extract the first JSON object
+            if not cleaned.startswith('{'):
+                m = re.search(r'(\{.*\})', cleaned, flags=re.DOTALL)
+                if m:
+                    cleaned = m.group(1).strip()
             try:
                 # Attempt to parse Gemini's response as JSON
-                gemini_json = json.loads(gemini_response)
+                gemini_json = json.loads(cleaned)
                 # Validate if it has the expected keys for exit analysis
                 if all(k in gemini_json for k in ['exit_urgency_score', 'sentiment', 'exit_recommendation', 'certainty', 'reasoning']):
+                    # Map common synonyms and coerce types
+                    rec = str(gemini_json.get('exit_recommendation', '') or '').strip().upper()
+                    if rec in ('WATCH', 'WATCHLIST'):
+                        rec = 'MONITOR'
+                    elif rec in ('SELL', 'EXIT', 'IMMEDIATE SELL', 'IMMEDIATE_EXIT'):
+                        rec = 'IMMEDIATE_EXIT'
+                    elif rec in ('HOLD', 'KEEP'):
+                        rec = 'HOLD'
+                    else:
+                        rec = 'HOLD'
+                    def _num(v, d=50):
+                        try:
+                            return float(v)
+                        except Exception:
+                            return float(d)
+                    urgency = max(0.0, min(100.0, _num(gemini_json.get('exit_urgency_score', 50))))
+
+                    # Detect generic/low-information default answers and avoid passing them through
+                    rsn = str(gemini_json.get('reasoning', '') or '')
+                    generic = ('Detected 0 catalyst' in rsn) or ('unknown source' in rsn.lower()) or abs(urgency - 43.26) < 0.01
+                    if generic:
+                        raise ValueError('Generic Gemini response detected; forcing heuristic fallback')
+
                     result = {
-                        "exit_urgency_score": gemini_json.get("exit_urgency_score", 50),
+                        "exit_urgency_score": urgency,
                         "sentiment": gemini_json.get("sentiment", "neutral"),
-                        "exit_recommendation": gemini_json.get("exit_recommendation", "HOLD"),
+                        "exit_recommendation": rec,
                         "exit_catalysts": gemini_json.get("exit_catalysts", []),
                         "hold_reasons": gemini_json.get("hold_reasons", []),
                         "risks_of_holding": gemini_json.get("risks_of_holding", []),
-                        "certainty": gemini_json.get("certainty", 50),
+                        "certainty": max(0, min(100, int(_num(gemini_json.get("certainty", 50), 50)))),
                         "reasoning": gemini_json.get("reasoning", ""),
                     }
                     print(json.dumps(result, ensure_ascii=False))

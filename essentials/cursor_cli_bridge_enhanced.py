@@ -241,6 +241,10 @@ def analyze_with_cursor_cli_enhanced(prompt: str, info: Dict, market_data: Dict)
     # Build COMPREHENSIVE analysis prompt
     analysis_prompt = f"""You are an expert quant + fundamental analyst for Indian stock markets.
 
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the news, market data, and technical indicators provided below. Do NOT use prior training data or external facts.
+- PRIORITY: Treat CURRENT PRICE as the anchor and compute entry zone, targets, and stop-loss FIRST before broader reasoning.
+
 **COMPREHENSIVE ANALYSIS REQUEST:**
 
 **NEWS:**

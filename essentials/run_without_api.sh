@@ -96,6 +96,11 @@ echo "Starting analysis..."
 echo "  Tip: export MIN_CERTAINTY_THRESHOLD=35 to widen candidates (optional)"
 echo ""
 
+# Enforce strict real-time grounding for all providers to avoid reliance on training data
+export AI_STRICT_CONTEXT=1
+export NEWS_STRICT_CONTEXT=1
+export EXIT_STRICT_CONTEXT=1
+
 # Run analysis (with ticker validation disabled for speed)
 python3 realtime_ai_news_analyzer.py \
   --tickers-file "$TICKERS_FILE" \

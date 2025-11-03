@@ -64,6 +64,10 @@ def analyze_with_cursor_cli(prompt: str, info: Dict) -> Dict:
     # Build structured analysis prompt for Cursor agent
     analysis_prompt = f"""You are an expert financial analyst for Indian stock markets.
 
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the information supplied in this prompt. Do NOT use any prior training data or external facts.
+- PRIORITY: Treat CURRENT PRICE (if provided) as the anchor and compute entry zone, targets, and stop-loss FIRST before broader reasoning.
+
 Analyze this news article and provide a JSON response (no markdown, just raw JSON):
 
 **Ticker:** {info['ticker']}

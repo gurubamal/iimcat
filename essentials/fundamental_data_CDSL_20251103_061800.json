@@ -1,0 +1,61 @@
+{
+  "ticker": "CDSL",
+  "fetch_time": "2025-11-03T06:17:57.094671",
+  "quarterly": {
+    "data_available": true,
+    "most_recent_quarter": "2025-06-30",
+    "previous_quarter": "2025-03-31",
+    "same_quarter_last_year": "2024-06-30",
+    "revenue_qoq_growth_pct": 15.308144184523398,
+    "revenue_yoy_growth_pct": 0.5513850285288914,
+    "earnings_qoq_growth_pct": 2.055910968347824,
+    "earnings_yoy_growth_pct": -23.722304393667873,
+    "profit_margin_pct": 39.55377628305837,
+    "quarters_available": 5
+  },
+  "annual": {
+    "data_available": true,
+    "most_recent_year": "2025-03-31",
+    "previous_year": "2024-03-31",
+    "revenue_yoy_growth_pct": 33.234743798942354,
+    "earnings_yoy_growth_pct": 25.658294397261983,
+    "profit_margin_pct": 48.66358407995505,
+    "years_available": 4
+  },
+  "institutional": {
+    "data_available": false,
+    "institutional_ownership_pct": null,
+    "institutions_count": null,
+    "top_5_holders_pct": null,
+    "ownership_trend": "unknown",
+    "major_holders_data": true
+  },
+  "financial_health": {
+    "data_available": true,
+    "is_profitable": true,
+    "net_worth_positive": true,
+    "debt_to_equity": 0.0016921117778807753,
+    "current_ratio": 3.4801034394468497,
+    "roe_pct": null,
+    "roa_pct": null,
+    "free_cash_flow_positive": true
+  },
+  "validation": {
+    "quarterly_growth_positive": false,
+    "annual_growth_positive": true,
+    "is_profitable": true,
+    "net_worth_positive": true,
+    "debt_manageable": true,
+    "overall_health": "moderate",
+    "red_flags": [
+      "Quarterly earnings down -23.7% Y-o-Y"
+    ],
+    "green_flags": [
+      "Annual earnings up 25.7% Y-o-Y",
+      "Company is profitable",
+      "Net worth is positive",
+      "Healthy debt-to-equity ratio: 0.00"
+    ]
+  },
+  "data_available": true
+}

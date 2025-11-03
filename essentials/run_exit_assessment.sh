@@ -134,6 +134,11 @@ echo ""
 # Set environment for AI provider
 export AI_PROVIDER="$PROVIDER"
 
+# Enforce strict real-time grounding to avoid reliance on training data across providers
+export AI_STRICT_CONTEXT=1
+export EXIT_STRICT_CONTEXT=1
+export NEWS_STRICT_CONTEXT=1
+
 # Optional: apply feedback-based config update before running analysis
 if [ -f "ai_feedback_simulation.json" ]; then
   echo "🛠️  Applying feedback-based EXIT AI calibration (top-3 simulation)..."
@@ -189,6 +194,8 @@ if [ $EXIT_CODE -eq 0 ]; then
     echo "   • risks_of_holding - Risks if position maintained"
     echo "   • certainty - Confidence in recommendation (0-100%)"
     echo "   • reasoning - Sharp AI analysis explaining decision"
+    echo "   • expected_exit_price - AI surface price for exit"
+    echo "   • stop_loss_price - AI/technical stop level"
     echo ""
 
     if [ "$PROVIDER" = "codex" ] || [ "$PROVIDER" = "auto" ]; then

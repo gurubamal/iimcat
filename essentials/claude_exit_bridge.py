@@ -47,6 +47,10 @@ CLAUDE_EXIT_SYSTEM_PROMPT = """You are an elite portfolio manager specializing i
 
 Your CORE MANDATE: Protect capital by identifying deterioration EARLY.
 
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the provided prompt content (news headline/summary and technical data). Do NOT use training data or external memory.
+- PRIORITY: Use CURRENT PRICE as the anchor; FIRST compute exit levels (expected_exit_price/zone, stop_loss_price, optional reentry_price) before narrative reasoning.
+
 EXIT DECISION FRAMEWORK:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 1. CRITICAL EXIT SIGNALS (Immediate Action):
@@ -115,7 +119,7 @@ CONFIDENCE CALIBRATION:
 • Speculation/rumors: 20-40%
 
 RESPONSE FORMAT:
-Return ONLY valid JSON with these exact keys:
+Return ONLY valid JSON with these exact keys (you may include the additional price keys listed at the end):
 {
   "exit_urgency_score": <0-100>,
   "sentiment": "bearish" | "neutral" | "bullish",
@@ -128,7 +132,10 @@ Return ONLY valid JSON with these exact keys:
   "negative_sentiment_score": <0-100>,
   "certainty": <0-100>,
   "reasoning": "<2-3 sentences: decision + key factors + recommendation>",
-  "stop_loss_suggestion": <percentage below current>
+  "stop_loss_suggestion": <percentage below current>,
+  "expected_exit_price": <number or 0 if not computable>,
+  "stop_loss_price": <number or 0 if not computable>,
+  "reentry_price": <number or 0 if not applicable>
 }
 
 CRITICAL RULES:
@@ -479,6 +486,9 @@ ADAPTIVE THRESHOLDS (Mode: {thresholds['mode']}):
 • HOLD: <{thresholds['monitor']}
 """
 
+        # Enforce strict real-time grounding (always on):
+        enhanced_prompt += "\n\nSTRICT CONTEXT: Base your decision ONLY on the TECHNICAL DATA and NEWS/ARTICLE content provided in this prompt (both fetched now). Do not use prior training knowledge or external facts not present here. If news is not available, perform a technical-only assessment and do not invent catalysts.\n"
+
         # Call Claude CLI with correct flags
         model = os.getenv('CLAUDE_MODEL', 'sonnet')
 
@@ -531,6 +541,15 @@ ADAPTIVE THRESHOLDS (Mode: {thresholds['mode']}):
                 parsed.get('certainty', 50)
             )
             parsed['risk_levels'] = risk_levels
+            # If model did not supply stop_loss_price but we computed a stop, surface it
+            if not parsed.get('stop_loss_price') and isinstance(risk_levels.get('stop_loss'), str):
+                try:
+                    import re as _re
+                    m = _re.search(r'-?\d+(?:\.\d+)?', risk_levels['stop_loss'])
+                    if m:
+                        parsed['stop_loss_price'] = float(m.group(0))
+                except Exception:
+                    pass
 
         # Extract ticker
         ticker_match = re.search(r'STOCK:\s*(\w+)', prompt)
@@ -649,6 +668,14 @@ ADAPTIVE THRESHOLDS (Mode: {thresholds['mode']}):
                 result.get('certainty', 50)
             )
             result['risk_levels'] = risk_levels
+            if not result.get('stop_loss_price') and isinstance(risk_levels.get('stop_loss'), str):
+                try:
+                    import re as _re
+                    m = _re.search(r'-?\d+(?:\.\d+)?', risk_levels['stop_loss'])
+                    if m:
+                        result['stop_loss_price'] = float(m.group(0))
+                except Exception:
+                    pass
 
         # Extract ticker from prompt
         ticker_match = re.search(r'STOCK:\s*(\w+)', prompt)

@@ -1,0 +1,3 @@
+rank,ticker,company_name,exit_urgency_score,sentiment,exit_recommendation,exit_catalysts,hold_reasons,risks_of_holding,certainty,articles_analyzed,technical_score,headline,reasoning,stop,trail,alert
+1,RELIANCE,RELIANCE,20.0,neutral,HOLD,technical weakness,no critical news,,50.0,1,0,Technical-only assessment (no recent news),,,,
+2,TCS,TCS,20.0,neutral,HOLD,technical weakness,no critical news,,50.0,1,0,Technical-only assessment (no recent news),,,,

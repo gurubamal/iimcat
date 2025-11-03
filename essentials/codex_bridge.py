@@ -275,7 +275,12 @@ def main():
         import os
         import realtime_ai_news_analyzer as rt
         instr = os.getenv('AI_SHELL_INSTRUCTION', '').strip()
-        full_prompt = (f"Additional Analyst Guidance: {instr}\n\n" if instr else "") + enhanced_prompt
+        # Enforce strict real-time grounding and price-first analysis guidance
+        strict = (
+            "STRICT REAL-TIME CONTEXT: Base your decision ONLY on the provided article text and technical context (if present). "
+            "Do not use prior training knowledge or external facts. PRIORITY: Use CURRENT PRICE as anchor and compute entry zone, targets, and stop-loss FIRST before broader reasoning.\n\n"
+        )
+        full_prompt = (f"Additional Analyst Guidance: {instr}\n\n" if instr else "") + strict + enhanced_prompt
         analyzer = rt.RealtimeAIAnalyzer(ai_provider='heuristic', max_ai_calls=0)
         result = analyzer._intelligent_pattern_analysis(full_prompt)  # type: ignore
         # Ensure full schema keys are present

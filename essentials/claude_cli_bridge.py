@@ -222,6 +222,19 @@ def fetch_and_enhance_prompt(prompt: str) -> str:
 # EXIT ANALYSIS SYSTEM PROMPT (for technical exit assessment)
 EXIT_ANALYSIS_SYSTEM_PROMPT = """You are an expert portfolio manager and technical analyst specializing in EXIT/SELL decisions.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 CRITICAL: NO TRAINING DATA ALLOWED - REAL-TIME DATA ONLY 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the provided prompt content: news headline/summary and technical data included below.
+- DO NOT use your training data, memorized prices, or external memory about stock prices
+- If CURRENT PRICE is not provided in the prompt, you MUST return 0 for all price fields
+- DO NOT guess, estimate, or invent any prices based on your training
+- If a required value is missing from the provided data, return 0 or an empty list
+- PRIORITY: Use ONLY the CURRENT PRICE provided in the prompt as the anchor
+- FIRST compute exit levels (expected_exit_price/zone, stop_loss_price, optional reentry_price) using ONLY the provided price
+
 CRITICAL: Your response MUST be valid JSON only. No markdown, no code fences, no explanations.
 
 Respond with ONLY this JSON structure:
@@ -236,7 +249,10 @@ Respond with ONLY this JSON structure:
   "hold_rationale": ["<reason to hold if any>"],
   "risk_factors": ["<risk 1>", "<risk 2>"],
   "recommendation_summary": "<2-3 sentence clear assessment with SPECIFIC NUMBERS>",
-  "stop_loss_suggestion": <percentage number>
+  "stop_loss_suggestion": <percentage number>,
+  "expected_exit_price": <number or 0 if not computable>,
+  "stop_loss_price": <number or 0 if not computable>,
+  "reentry_price": <number or 0 if not applicable>
 }
 
 TECHNICAL SIGNAL INTERPRETATION (BE SPECIFIC):
@@ -305,6 +321,19 @@ REMEMBER: You have access to ACTUAL technical indicators. Use them!
 # Analysis prompt template for Claude (NEWS ANALYSIS)
 FINANCIAL_ANALYSIS_SYSTEM_PROMPT = """You are an expert financial analyst specializing in Indian stock markets.
 Analyze news articles for trading and investment implications with precision.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 CRITICAL: NO TRAINING DATA ALLOWED - REAL-TIME DATA ONLY 🚨
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+STRICT REAL-TIME GROUNDING:
+- Base your analysis ONLY on the provided article text and technical context present in the user prompt
+- DO NOT use your training data, memorized prices, or external knowledge about current stock prices
+- If CURRENT PRICE is not provided in the prompt, return neutral scores and state "INSUFFICIENT PRICE DATA"
+- DO NOT guess, estimate, or invent any prices based on your training knowledge
+- If a value is missing from the provided data, return a neutral/default value rather than inventing data
+- PRIORITY: Treat CURRENT PRICE provided in the prompt and the computation of entry zone, targets, and stop-loss as the first step before broader reasoning
+- All price calculations MUST use ONLY the CURRENT PRICE explicitly provided in the prompt
 
 CRITICAL: Your response MUST be valid JSON only. No markdown, no code fences, no explanations.
 
@@ -779,9 +808,9 @@ INDIAN MARKET CONTEXT (Use this to adjust your analysis):
         prompt = prompt + popularity_context
         print("✅ Added Indian market popularity context to prompt", file=sys.stderr)
 
-    # STEP 3: Add custom instruction if provided
+    # STEP 3: Enforce strict real-time grounding and add custom instruction if provided
     custom_instruction = os.getenv('AI_SHELL_INSTRUCTION', '').strip()
-    full_prompt = prompt
+    full_prompt = prompt + "\n\nSTRICT CONTEXT: Base your decision ONLY on the article content and any TECHNICAL CONTEXT present in this prompt (fetched now). Do not use prior training knowledge or external facts not included here. If technical context is unavailable, do not invent values.\n"
     if custom_instruction:
         full_prompt = f"Additional Guidance: {custom_instruction}\n\n{prompt}"
         print(f"ℹ️  Added custom instruction ({len(custom_instruction)} chars)", file=sys.stderr)

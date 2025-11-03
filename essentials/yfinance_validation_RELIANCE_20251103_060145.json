@@ -1,0 +1,42 @@
+{
+  "ticker": "RELIANCE",
+  "validation_time": "2025-11-03T06:01:44.103116",
+  "status": "PASS",
+  "issues_count": 0,
+  "warnings_count": 0,
+  "issues": [],
+  "warnings": [],
+  "data": {
+    "price": {
+      "current": 1486.4000244140625,
+      "source": "fast_info",
+      "previous_close": 1489.699951171875,
+      "day_high": 1497.5,
+      "day_low": 1482.300048828125,
+      "change": -3.2999267578125,
+      "change_pct": -0.2215162023209175,
+      "timestamp": "2025-11-03T06:01:45.023260"
+    },
+    "technical": {
+      "current_price": 1486.4000244140625,
+      "rsi_14": 77.02637212635076,
+      "sma_20": 1423.6250122070312,
+      "price_vs_sma20_pct": 4.409518775573621,
+      "sma_50": 1401.1420092773437,
+      "price_vs_sma50_pct": 6.084894648237094,
+      "volume_current": 8758053,
+      "volume_avg_20d": 11850691,
+      "volume_ratio": 0.7390330579688182,
+      "momentum_10d_pct": 4.912476933036923
+    },
+    "info": {
+      "longName": "Reliance Industries Limited",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "marketCap": 20122785808384,
+      "trailingPE": 24.222187,
+      "dividendYield": 0.37
+    },
+    "historical_data_points": 128
+  }
+}

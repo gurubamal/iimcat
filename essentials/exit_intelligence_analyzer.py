@@ -328,7 +328,8 @@ def calculate_technical_indicators(df: pd.DataFrame) -> Dict:
             weekly = df['Close'].resample('W-FRI').last()
             if len(weekly) >= 4:
                 indicators['weekly_trend'] = 'down' if weekly.iloc[-1] < weekly.iloc[-4] else 'up'
-            monthly = df['Close'].resample('M').last()
+            # Pandas FutureWarning: alias 'M' will be removed; use 'ME' (month end)
+            monthly = df['Close'].resample('ME').last()
             if len(monthly) >= 3:
                 indicators['monthly_trend'] = 'down' if monthly.iloc[-1] < monthly.iloc[-3] else 'up'
         except Exception:
@@ -560,10 +561,32 @@ def _normalize_exit_response(
       - stop_loss_suggestion: int (percentage)
     """
 
-    # If it already looks like an exit response, just ensure minimal defaults
+    # If it already looks like an exit response, normalize and clamp values
     if 'exit_recommendation' in raw_response and 'exit_urgency_score' in raw_response:
         out = dict(raw_response)
-        out.setdefault('exit_confidence', raw_response.get('confidence', 50))
+        # Map common synonyms to internal buckets
+        rec = str(out.get('exit_recommendation', '') or '').strip().upper()
+        if rec in ('WATCH', 'WATCHLIST'):
+            rec = 'MONITOR'
+        elif rec in ('SELL', 'EXIT', 'IMMEDIATE SELL', 'IMMEDIATE_EXIT'):
+            rec = 'IMMEDIATE_EXIT'
+        elif rec in ('HOLD', 'KEEP'):
+            rec = 'HOLD'
+        else:
+            # Unknown -> default conservative hold
+            rec = 'HOLD'
+        out['exit_recommendation'] = rec
+
+        # Coerce numeric fields
+        def _num(v, default=50):
+            try:
+                return float(v)
+            except Exception:
+                return float(default)
+
+        out['exit_urgency_score'] = max(0.0, min(100.0, _num(out.get('exit_urgency_score', 50))))
+        out['exit_confidence'] = int(max(0, min(100, int(_num(out.get('exit_confidence', out.get('confidence', 50)), 50)))))
+
         out.setdefault('technical_breakdown_score', 0)
         out.setdefault('fundamental_risk_score', 50)
         out.setdefault('negative_sentiment_score', 50)
@@ -572,6 +595,46 @@ def _normalize_exit_response(
         out.setdefault('risk_factors', [])
         out.setdefault('recommendation_summary', '')
         out.setdefault('stop_loss_suggestion', 10)
+
+        # Detect obviously generic/low-information Gemini outputs and replace with
+        # a technical-driven summary to avoid flat scores across tickers.
+        generic_sig = False
+        try:
+            rsn = (out.get('reasoning') or out.get('recommendation_summary') or '')
+            if isinstance(rsn, str) and (
+                'Detected 0 catalyst' in rsn or 'unknown source' in rsn.lower()
+            ):
+                generic_sig = True
+        except Exception:
+            pass
+        if abs(out['exit_urgency_score'] - 43.26) < 0.01:
+            generic_sig = True
+
+        if generic_sig:
+            tech_score, _severity, reasons = assess_technical_exit_signals(technical_data or {})
+            # Build a more informative replacement using technicals
+            base_exit = 30 if tech_score < 35 else (55 if tech_score < 60 else 75)
+            neg_sent = 50
+            fundamental = 50
+            combined_hint = int(0.45 * tech_score + 0.25 * neg_sent + 0.20 * fundamental + 0.10 * base_exit)
+            if combined_hint >= 70:
+                rec2 = 'IMMEDIATE_EXIT'
+            elif combined_hint >= 50:
+                rec2 = 'MONITOR'
+            else:
+                rec2 = 'HOLD'
+            out.update({
+                'exit_recommendation': rec2,
+                'exit_urgency_score': combined_hint,
+                'exit_confidence': max(40, int(out.get('exit_confidence', 40))),
+                'technical_breakdown_score': tech_score,
+                'fundamental_risk_score': fundamental,
+                'negative_sentiment_score': neg_sent,
+                'primary_exit_reasons': reasons[:5],
+                'hold_rationale': [] if rec2 == 'IMMEDIATE_EXIT' else (['No urgent exit signals'] if rec2 == 'HOLD' else ['Some warning signs present']),
+                'recommendation_summary': f"Tech-driven assessment: score={combined_hint}; signals: {'; '.join(reasons[:2])}",
+            })
+
         return out
 
     # Compute technical score from provided indicators
@@ -735,6 +798,8 @@ Provide a comprehensive EXIT assessment considering:
 - Factor in opportunity cost (is capital better deployed elsewhere?)
 
 Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
+
+STRICT CONTEXT: Use ONLY the TECHNICAL DATA and NEWS CONTEXT above (both fetched now). Do not rely on prior training knowledge. If NEWS CONTEXT is empty, perform a technical-only assessment and do not invent non-existent catalysts.
 """
 
     # Call AI bridge - use EXIT-SPECIFIC bridge for Claude
@@ -753,12 +818,18 @@ Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
         env = os.environ.copy()
         env['AI_PROVIDER'] = ai_provider
 
+        # Allow configurable timeout for AI bridge calls
+        try:
+            timeout_s = int(os.getenv('EXIT_AI_TIMEOUT', '45'))
+        except Exception:
+            timeout_s = 45
+
         result = subprocess.run(
             cmd,
             input=prompt,
             capture_output=True,
             text=True,
-            timeout=120,
+            timeout=timeout_s,
             env=env
         )
 
@@ -775,10 +846,11 @@ Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
                 response_text = response_text[4:]
             response_text = response_text.strip()
 
-        # Print raw response for debugging
-        print(f"--- RAW AI RESPONSE ({ai_provider}) ---")
-        print(response_text)
-        print("-------------------------------------")
+        # Print raw response for debugging (opt-in)
+        if (os.getenv('EXIT_SHOW_RAW') or '0').strip() == '1':
+            print(f"--- RAW AI RESPONSE ({ai_provider}) ---")
+            print(response_text)
+            print("-------------------------------------")
 
         response = json.loads(response_text)
         # Normalize to exit schema (handles generic outputs from bridges)
@@ -1004,14 +1076,23 @@ def assess_single_stock(ticker: str, ai_provider: str = 'codex', hours_back: int
         assessment['final_recommendation'] = 'HOLD'
 
     # Summary
-    assessment['summary'] = ai_result.get('recommendation_summary', 'No AI summary available')
-    # Improve generic summaries by injecting concrete signals/levels
+    assessment['summary'] = ai_result.get('recommendation_summary', '') or ai_result.get('reasoning', '') or ''
+    # Improve generic or empty summaries with concrete technical narrative
     try:
-        if isinstance(assessment['summary'], str) and 'Tech=' in assessment['summary']:
-            top_sig = '; '.join(assessment.get('technical_reasons', [])[:2])
+        summ = assessment['summary'] or ''
+        generic = ('Detected 0 catalyst' in summ) or ('unknown source' in summ.lower()) or (len(summ) < 12)
+        if generic or 'Tech=' in summ:
+            sigs = assessment.get('technical_reasons', [])
             lv = assessment.get('levels', {})
-            stop_txt = f"stop: {lv.get('stop')}" if lv.get('stop') else ''
-            assessment['summary'] = f"{assessment.get('decision_band','')}: {top_sig} {stop_txt}".strip()
+            parts = []
+            if sigs:
+                parts.append('; '.join(sigs[:3]))
+            if lv.get('stop'):
+                parts.append(f"proposed stop {lv.get('stop')}")
+            if lv.get('trail'):
+                parts.append(f"trail {lv.get('trail')}")
+            narrative = f"{assessment.get('decision_band','')}: " + (', '.join(parts) or 'No urgent technical exits detected')
+            assessment['summary'] = narrative.strip()
     except Exception:
         pass
 
@@ -1079,8 +1160,15 @@ def process_exit_assessment(
         print(hdr)
 
     for i, ticker in enumerate(tickers, 1):
-        if not quiet:
+        # Always show minimal progress, even in quiet mode
+        if quiet:
+            print(f"[{i}/{len(tickers)}] Processing {ticker}...", file=sys.stderr)
+        else:
             print(f"\n[{i}/{len(tickers)}] Processing {ticker}...", file=sys.stderr)
+        try:
+            sys.stderr.flush()
+        except Exception:
+            pass
 
         try:
             assessment = assess_single_stock(ticker, ai_provider, hours_back, index_symbols=index_symbols, verbose=not quiet)

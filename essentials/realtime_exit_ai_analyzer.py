@@ -54,6 +54,27 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 
+def _to_float(val) -> Optional[float]:
+    """Coerce input to float when possible; handles numeric strings with symbols.
+    Returns None if parsing is not possible.
+    """
+    try:
+        if val is None:
+            return None
+        if isinstance(val, (int, float)):
+            return float(val)
+        s = str(val).strip()
+        if not s:
+            return None
+        # Extract first numeric token (supports optional sign and decimal)
+        import re as _re
+        m = _re.search(r'-?\d+(?:\.\d+)?', s)
+        if not m:
+            return None
+        return float(m.group(0))
+    except Exception:
+        return None
+
 @dataclass
 class ExitAIAnalysis:
     """Real-time AI exit analysis result"""
@@ -72,6 +93,9 @@ class ExitAIAnalysis:
     articles_count: int = 0
     technical_score: Optional[float] = None
     final_rank: Optional[int] = None
+    expected_exit_price: Optional[float] = None
+    stop_loss_price: Optional[float] = None
+    reentry_price: Optional[float] = None
 
 
 EXIT_ANALYSIS_PROMPT = """You are an expert portfolio manager analyzing whether to EXIT/SELL stock positions.
@@ -85,6 +109,11 @@ TECHNICAL CONTEXT:
 {technical_data}
 
 YOUR TASK: Assess if this news justifies EXITING the position.
+
+PRIORITY CONTEXT:
+- Use the CURRENT PRICE from the technical context as the anchor.
+- FIRST determine precise exit management levels: expected_exit_price/zone, stop_loss_price, and (optional) reentry_price if a re-entry is prudent after exit.
+- Treat these levels as the primary decision inputs before narrative reasoning.
 
 CRITICAL EXIT SIGNALS (High Priority):
 - Profit warnings or earnings guidance cuts
@@ -119,7 +148,10 @@ RESPOND WITH ONLY THIS VALID JSON:
   "hold_reasons": ["reason1", "reason2"],
   "risks_of_holding": ["risk1", "risk2", "risk3"],
   "certainty": <0-100: confidence in recommendation>,
-  "reasoning": "<2-3 sentence sharp analysis explaining the exit decision>"
+  "reasoning": "<2-3 sentence sharp analysis explaining the exit decision>",
+  "expected_exit_price": <number or 0 if not computable>,
+  "stop_loss_price": <number or 0 if not computable>,
+  "reentry_price": <number or 0 if not applicable>
 }}
 
 SCORING GUIDELINES:
@@ -184,12 +216,18 @@ class ExitAIClient:
             env = os.environ.copy()
             env['AI_PROVIDER'] = self.provider
 
+            # Allow configurable timeout for AI bridge calls
+            try:
+                timeout_s = int(os.getenv('EXIT_AI_TIMEOUT', '45'))
+            except Exception:
+                timeout_s = 45
+
             result = subprocess.run(
                 cmd,
                 input=prompt,
                 capture_output=True,
                 text=True,
-                timeout=120,
+                timeout=timeout_s,
                 env=env
             )
 
@@ -301,6 +339,9 @@ Recent Trend: {technical_data.get('recent_trend', 'N/A')}
             technical_data=tech_summary
         )
 
+        # Strict real-time context (always on): ground AI in provided data only
+        prompt += "\n\nSTRICT CONTEXT: Base your decision ONLY on the provided TECHNICAL CONTEXT and NEWS SUMMARY (both fetched now). Do not use prior training knowledge or external facts not included here. If news summary is empty, clearly state 'technical-only assessment' and do not invent catalysts."
+
         # Call AI
         result = self._call_ai_bridge(prompt)
 
@@ -338,13 +379,12 @@ def fetch_exit_news(ticker: str, hours_back: int = 72, max_articles: int = 10) -
             'financialexpress.com'
         ]
 
-        # Fetch RSS items
+        # Fetch publisher items only for quality (no Google News fallback)
         items = news_collector.fetch_rss_items(
             ticker=ticker,
             sources=sources,
             publishers_only=True
         )
-
         if not items:
             logger.warning(f"No RSS items found for {ticker}")
             return []
@@ -433,7 +473,7 @@ def analyze_ticker_for_exit(
             base_urgency = float(result.get('exit_urgency_score', 50) or 50)
             tech_break = result.get('technical_breakdown_score')
             if isinstance(tech_break, (int, float)):
-                calibrated_urgency = round(0.7 * float(tech_break) + 0.3 * base_urgency, 1)
+                calibrated_urgency = round(0.8 * float(tech_break) + 0.2 * base_urgency, 1)
             else:
                 calibrated_urgency = base_urgency
 
@@ -448,14 +488,21 @@ def analyze_ticker_for_exit(
                 hold_reasons=hold_reasons,
                 risks_of_holding=result.get('risk_factors', result.get('risks_of_holding', [])) or [],
                 certainty=result.get('exit_confidence', result.get('certainty', 40)),
-                reasoning=result.get('recommendation_summary', result.get('reasoning', '')),
+                reasoning=(
+                    result.get('recommendation_summary', '')
+                    or result.get('reasoning', '')
+                    or _compose_technical_reasoning(technical_data)
+                ),
                 company_name=ticker,
                 articles_count=0,
                 technical_score=(
                     result.get('technical_breakdown_score')
                     if result.get('technical_breakdown_score') is not None
                     else (technical_data.get('rsi', None) if technical_data else None)
-                )
+                ),
+                expected_exit_price=_to_float(result.get('expected_exit_price')),
+                stop_loss_price=_to_float(result.get('stop_loss_price')),
+                reentry_price=_to_float(result.get('reentry_price'))
             )
 
             return [analysis]
@@ -499,7 +546,10 @@ def analyze_ticker_for_exit(
                     result.get('technical_breakdown_score')
                     if result.get('technical_breakdown_score') is not None
                     else (technical_data.get('rsi', None) if technical_data else None)
-                )
+                ),
+                expected_exit_price=_to_float(result.get('expected_exit_price')),
+                stop_loss_price=_to_float(result.get('stop_loss_price')),
+                reentry_price=_to_float(result.get('reentry_price'))
             )
 
             analyses.append(analysis)
@@ -509,6 +559,35 @@ def analyze_ticker_for_exit(
             continue
 
     return analyses
+
+
+def _compose_technical_reasoning(tech: Dict) -> str:
+    """Compose a concise, human-readable reasoning from technical indicators."""
+    try:
+        parts = []
+        rsi = tech.get('rsi')
+        if isinstance(rsi, (int, float)):
+            if rsi < 30:
+                parts.append(f"RSI {rsi:.1f} (oversold; momentum weak)")
+            elif rsi > 70:
+                parts.append(f"RSI {rsi:.1f} (overbought; mean-revert risk)")
+        p20 = tech.get('price_vs_sma20_pct')
+        if isinstance(p20, (int, float)):
+            parts.append(f"{p20:+.1f}% vs 20DMA")
+        p50 = tech.get('price_vs_sma50_pct')
+        if isinstance(p50, (int, float)):
+            parts.append(f"{p50:+.1f}% vs 50DMA")
+        mom10 = tech.get('momentum_10d_pct')
+        if isinstance(mom10, (int, float)):
+            parts.append(f"10d momentum {mom10:+.1f}%")
+        vr = tech.get('volume_ratio')
+        if isinstance(vr, (int, float)) and vr:
+            parts.append(f"volume x{vr:.2f}")
+        if parts:
+            return "; ".join(parts)
+    except Exception:
+        pass
+    return "Technical-only assessment: key signals summarized."
 
 
 def aggregate_exit_decision(analyses: List[ExitAIAnalysis]) -> Dict:
@@ -575,6 +654,26 @@ def aggregate_exit_decision(analyses: List[ExitAIAnalysis]) -> Dict:
     # Best reasoning (from highest urgency analysis)
     best_analysis = max(analyses, key=lambda a: a.exit_urgency_score)
 
+    # Surface price levels, preferring best_analysis; fallback to first available
+    expected_exit_price = None
+    stop_loss_price = None
+    reentry_price = None
+
+    expected_exit_price = _to_float(getattr(best_analysis, 'expected_exit_price', None))
+    stop_loss_price = _to_float(getattr(best_analysis, 'stop_loss_price', None))
+    reentry_price = _to_float(getattr(best_analysis, 'reentry_price', None))
+
+    if expected_exit_price is None or stop_loss_price is None:
+        for a in analyses:
+            if expected_exit_price is None:
+                expected_exit_price = _to_float(getattr(a, 'expected_exit_price', None))
+            if stop_loss_price is None:
+                stop_loss_price = _to_float(getattr(a, 'stop_loss_price', None))
+            if reentry_price is None:
+                reentry_price = _to_float(getattr(a, 'reentry_price', None))
+            if expected_exit_price is not None and stop_loss_price is not None:
+                break
+
     return {
         'ticker': ticker,
         'company_name': analyses[0].company_name,
@@ -588,7 +687,10 @@ def aggregate_exit_decision(analyses: List[ExitAIAnalysis]) -> Dict:
         'reasoning': best_analysis.reasoning,
         'headline': best_analysis.headline,
         'articles_analyzed': len(analyses),
-        'technical_score': analyses[0].technical_score
+        'technical_score': analyses[0].technical_score,
+        'expected_exit_price': expected_exit_price,
+        'stop_loss_price': stop_loss_price,
+        'reentry_price': reentry_price
     }
 
 
@@ -666,6 +768,7 @@ def main():
             'rank', 'ticker', 'company_name', 'exit_urgency_score', 'sentiment',
             'exit_recommendation', 'exit_catalysts', 'hold_reasons', 'risks_of_holding',
             'certainty', 'articles_analyzed', 'technical_score', 'headline', 'reasoning',
+            'expected_exit_price', 'stop_loss_price',
             'stop', 'trail', 'alert'
         ]
         writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -689,6 +792,15 @@ def main():
                 except Exception:
                     pass
 
+            # Use AI-provided stop_loss_price if present, else fallback to technical levels 'stop'
+            ai_stop = result.get('stop_loss_price')
+            if ai_stop in (None, ''):
+                ai_stop = lv.get('stop', '')
+            # Normalize expected_exit_price for CSV
+            ai_expected = result.get('expected_exit_price')
+            if ai_expected in (None, ''):
+                ai_expected = ''
+
             writer.writerow({
                 'rank': result['rank'],
                 'ticker': result['ticker'],
@@ -704,6 +816,8 @@ def main():
                 'technical_score': result.get('technical_score', ''),
                 'headline': result['headline'],
                 'reasoning': result['reasoning'],
+                'expected_exit_price': ai_expected,
+                'stop_loss_price': ai_stop,
                 'stop': lv.get('stop', ''),
                 'trail': lv.get('trail', ''),
                 'alert': lv.get('alert_reclaim', '')

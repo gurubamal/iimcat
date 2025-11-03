@@ -1,0 +1,38 @@
+{
+  "ticker": "TRENT",
+  "timestamp": "2025-11-03T12:15:23.303124",
+  "price_data": {
+    "fetched_successfully": true,
+    "source": "yfinance.fast_info",
+    "current_price": 4674.0,
+    "timestamp": "2025-11-03T12:15:24.370963",
+    "entry_exit_calculated": true,
+    "warning_present": true
+  },
+  "fundamental_data": {
+    "fetched_successfully": true,
+    "quarterly_available": true,
+    "annual_available": true,
+    "health_available": true,
+    "quarterly_earnings_yoy": 9.452850374445973,
+    "annual_earnings_yoy": 4.0301318267419965,
+    "is_profitable": true,
+    "net_worth_positive": true
+  },
+  "institutional_data": {
+    "data_available": false,
+    "institutional_ownership_pct": null,
+    "institutions_count": null,
+    "top_5_holders_pct": null
+  },
+  "data_completeness": {
+    "price_available": true,
+    "quarterly_results": true,
+    "annual_results": true,
+    "institutional_ownership": false,
+    "financial_health": true
+  },
+  "ai_instructions_present": true,
+  "training_data_warnings": true,
+  "overall_status": "PASS"
+}

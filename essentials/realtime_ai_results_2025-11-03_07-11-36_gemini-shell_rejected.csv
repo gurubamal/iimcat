@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+MARUTI,MARUTI SUZUKI INDIA LIMITED,42.2,38,1,Certainty 38% below threshold (40%),Maruti Suzuki wholesale volumes climb on SUV mix,Detected 0 catalyst(s). Risks: Regulatory/probe risk. Evidence: Regulatory/probe risk: Maruti Suzuki wholesale volumes climb on SUV mix Maruti Suzuki 

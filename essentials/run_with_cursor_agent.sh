@@ -41,6 +41,11 @@ export AI_PROVIDER=codex
 export CODEX_SHELL_CMD="python3 cursor_cli_bridge.py"
 export CURSOR_CLI_PATH="cursor"  # Use system cursor
 
+# Enforce strict real-time grounding and price-first guidance
+export AI_STRICT_CONTEXT=1
+export NEWS_STRICT_CONTEXT=1
+export EXIT_STRICT_CONTEXT=1
+
 # Process ALL stocks with news, in batches of 5
 export STAGE2_BATCH_SIZE=5
 

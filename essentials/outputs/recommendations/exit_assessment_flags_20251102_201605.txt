@@ -1,0 +1,3 @@
+# Tickers requiring manual check
+RELIANCE
+TCS

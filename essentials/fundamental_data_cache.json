@@ -1,0 +1,500 @@
+{
+  "RELIANCE": {
+    "fetch_time": "2025-11-03T06:17:45.152959",
+    "data": {
+      "ticker": "RELIANCE",
+      "fetch_time": "2025-11-03T06:17:45.152959",
+      "quarterly": {
+        "data_available": true,
+        "most_recent_quarter": "2025-06-30",
+        "previous_quarter": "2025-03-31",
+        "same_quarter_last_year": "2024-06-30",
+        "revenue_qoq_growth_pct": -6.7929667773577975,
+        "revenue_yoy_growth_pct": 5.111655679425672,
+        "earnings_qoq_growth_pct": 39.09414128922554,
+        "earnings_yoy_growth_pct": 78.31946095917559,
+        "profit_margin_pct": 11.079825310304065,
+        "quarters_available": 6
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 7.0615405786936325,
+        "earnings_yoy_growth_pct": 0.03878140216314043,
+        "profit_margin_pct": 7.219706165588431,
+        "years_available": 5
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown",
+        "major_holders_data": true
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.43830052182163187,
+        "current_ratio": 1.1003510844387827,
+        "roe_pct": 9.717,
+        "roa_pct": 3.9389998000000004,
+        "free_cash_flow_positive": true
+      },
+      "validation": {
+        "quarterly_growth_positive": true,
+        "annual_growth_positive": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "healthy",
+        "red_flags": [],
+        "green_flags": [
+          "Quarterly earnings up 78.3% Y-o-Y",
+          "Annual earnings up 0.0% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.44"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "CDSL": {
+    "fetch_time": "2025-11-03T06:17:57.094671",
+    "data": {
+      "ticker": "CDSL",
+      "fetch_time": "2025-11-03T06:17:57.094671",
+      "quarterly": {
+        "data_available": true,
+        "most_recent_quarter": "2025-06-30",
+        "previous_quarter": "2025-03-31",
+        "same_quarter_last_year": "2024-06-30",
+        "revenue_qoq_growth_pct": 15.308144184523398,
+        "revenue_yoy_growth_pct": 0.5513850285288914,
+        "earnings_qoq_growth_pct": 2.055910968347824,
+        "earnings_yoy_growth_pct": -23.722304393667873,
+        "profit_margin_pct": 39.55377628305837,
+        "quarters_available": 5
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 33.234743798942354,
+        "earnings_yoy_growth_pct": 25.658294397261983,
+        "profit_margin_pct": 48.66358407995505,
+        "years_available": 4
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown",
+        "major_holders_data": true
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.0016921117778807753,
+        "current_ratio": 3.4801034394468497,
+        "roe_pct": null,
+        "roa_pct": null,
+        "free_cash_flow_positive": true
+      },
+      "validation": {
+        "quarterly_growth_positive": false,
+        "annual_growth_positive": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "moderate",
+        "red_flags": [
+          "Quarterly earnings down -23.7% Y-o-Y"
+        ],
+        "green_flags": [
+          "Annual earnings up 25.7% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.00"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "CANBK": {
+    "fetch_time": "2025-11-03T06:37:29.853013",
+    "data": {
+      "ticker": "CANBK",
+      "fetch_time": "2025-11-03T06:37:29.853013",
+      "quarterly": {
+        "data_available": true,
+        "most_recent_quarter": "2025-06-30",
+        "previous_quarter": "2025-03-31",
+        "same_quarter_last_year": "2024-06-30",
+        "revenue_qoq_growth_pct": -1.7343208900995535,
+        "revenue_yoy_growth_pct": 11.575114647978788,
+        "earnings_qoq_growth_pct": -36.98564715697965,
+        "earnings_yoy_growth_pct": -21.451944801610814,
+        "profit_margin_pct": 16.427027124299784,
+        "quarters_available": 5
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 7.485598549672135,
+        "earnings_yoy_growth_pct": 14.798901525067368,
+        "profit_margin_pct": 24.67950391867634,
+        "years_available": 4
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown",
+        "major_holders_data": true
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.789605555331424,
+        "current_ratio": null,
+        "roe_pct": 17.573999,
+        "roa_pct": 1.126,
+        "free_cash_flow_positive": true
+      },
+      "validation": {
+        "quarterly_growth_positive": false,
+        "annual_growth_positive": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "moderate",
+        "red_flags": [
+          "Quarterly earnings down -21.5% Y-o-Y"
+        ],
+        "green_flags": [
+          "Annual earnings up 14.8% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.79"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "MARUTI": {
+    "fetch_time": "2025-11-03T06:37:43.477987",
+    "data": {
+      "ticker": "MARUTI",
+      "fetch_time": "2025-11-03T06:37:43.477987",
+      "quarterly": {
+        "data_available": true,
+        "most_recent_quarter": "2025-06-30",
+        "previous_quarter": "2025-03-31",
+        "same_quarter_last_year": "2024-06-30",
+        "revenue_qoq_growth_pct": -11.10784794396198,
+        "revenue_yoy_growth_pct": 8.110956299961035,
+        "earnings_qoq_growth_pct": -3.034951803840352,
+        "earnings_yoy_growth_pct": 0.8697502460302684,
+        "profit_margin_pct": 10.354930223541329,
+        "quarters_available": 5
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 8.048427725488299,
+        "earnings_yoy_growth_pct": 7.502854346762355,
+        "profit_margin_pct": 9.832737274240074,
+        "years_available": 5
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown",
+        "major_holders_data": true
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.0009039909642466379,
+        "current_ratio": 0.9657741940759883,
+        "roe_pct": 15.65,
+        "roa_pct": 6.537,
+        "free_cash_flow_positive": true
+      },
+      "validation": {
+        "quarterly_growth_positive": true,
+        "annual_growth_positive": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "healthy",
+        "red_flags": [],
+        "green_flags": [
+          "Quarterly earnings up 0.9% Y-o-Y",
+          "Annual earnings up 7.5% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.00"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "FOCUS": {
+    "fetch_time": "2025-11-03T06:38:06.918687",
+    "data": {
+      "ticker": "FOCUS",
+      "fetch_time": "2025-11-03T06:38:06.918687",
+      "quarterly": {
+        "data_available": false,
+        "most_recent_quarter": null,
+        "previous_quarter": null,
+        "same_quarter_last_year": null,
+        "revenue_qoq_growth_pct": null,
+        "revenue_yoy_growth_pct": null,
+        "earnings_qoq_growth_pct": null,
+        "earnings_yoy_growth_pct": null,
+        "profit_margin_pct": null,
+        "quarters_available": 0
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2023-03-31",
+        "previous_year": "2022-03-31",
+        "revenue_yoy_growth_pct": 59.96003461389565,
+        "earnings_yoy_growth_pct": 408.311021375587,
+        "profit_margin_pct": 13.738983223773577,
+        "years_available": 3
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown"
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.032797529178683164,
+        "current_ratio": 2.864271609171318,
+        "roe_pct": null,
+        "roa_pct": null,
+        "free_cash_flow_positive": false
+      },
+      "validation": {
+        "quarterly_growth_positive": false,
+        "annual_growth_positive": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "healthy",
+        "red_flags": [],
+        "green_flags": [
+          "Annual earnings up 408.3% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.03"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "URBAN": {
+    "fetch_time": "2025-11-03T06:38:18.732173",
+    "data": {
+      "ticker": "URBAN",
+      "fetch_time": "2025-11-03T06:38:18.732173",
+      "quarterly": {
+        "data_available": false,
+        "most_recent_quarter": null,
+        "previous_quarter": null,
+        "same_quarter_last_year": null,
+        "revenue_qoq_growth_pct": null,
+        "revenue_yoy_growth_pct": null,
+        "earnings_qoq_growth_pct": null,
+        "earnings_yoy_growth_pct": null,
+        "profit_margin_pct": null,
+        "quarters_available": 0
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 37.64867417958397,
+        "earnings_yoy_growth_pct": 45.40957348793037,
+        "profit_margin_pct": 7.272854885329442,
+        "years_available": 5
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown"
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": null,
+        "net_worth_positive": true,
+        "debt_to_equity": 1.2894694748067181,
+        "current_ratio": 1.8007517243089675,
+        "roe_pct": null,
+        "roa_pct": null,
+        "free_cash_flow_positive": false
+      },
+      "validation": {
+        "quarterly_growth_positive": false,
+        "annual_growth_positive": true,
+        "is_profitable": false,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "healthy",
+        "red_flags": [],
+        "green_flags": [
+          "Annual earnings up 45.4% Y-o-Y",
+          "Net worth is positive"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "MADHUSUDAN": {
+    "fetch_time": "2025-11-03T06:38:36.720897",
+    "data": {
+      "ticker": "MADHUSUDAN",
+      "fetch_time": "2025-11-03T06:38:36.720897",
+      "quarterly": {
+        "data_available": false,
+        "most_recent_quarter": null,
+        "previous_quarter": null,
+        "same_quarter_last_year": null,
+        "revenue_qoq_growth_pct": null,
+        "revenue_yoy_growth_pct": null,
+        "earnings_qoq_growth_pct": null,
+        "earnings_yoy_growth_pct": null,
+        "profit_margin_pct": null,
+        "quarters_available": 0
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": 42.35302965482635,
+        "earnings_yoy_growth_pct": 63.335979037326176,
+        "profit_margin_pct": 6.505364516933651,
+        "years_available": 5
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown"
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": null,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.8019581883021205,
+        "current_ratio": 2.06045508518968,
+        "roe_pct": null,
+        "roa_pct": null,
+        "free_cash_flow_positive": false
+      },
+      "validation": {
+        "quarterly_growth_positive": false,
+        "annual_growth_positive": true,
+        "is_profitable": false,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "healthy",
+        "red_flags": [],
+        "green_flags": [
+          "Annual earnings up 63.3% Y-o-Y",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.80"
+        ]
+      },
+      "data_available": true
+    }
+  },
+  "STANLEY": {
+    "fetch_time": "2025-11-03T06:38:48.810207",
+    "data": {
+      "ticker": "STANLEY",
+      "fetch_time": "2025-11-03T06:38:48.810207",
+      "quarterly": {
+        "data_available": true,
+        "most_recent_quarter": "2025-06-30",
+        "previous_quarter": "2025-03-31",
+        "same_quarter_last_year": "2024-06-30",
+        "revenue_qoq_growth_pct": -1.3611615245009074,
+        "revenue_yoy_growth_pct": 7.944389275074479,
+        "earnings_qoq_growth_pct": -24.761904761904763,
+        "earnings_yoy_growth_pct": 107.89473684210526,
+        "profit_margin_pct": 7.267709291628336,
+        "quarters_available": 6
+      },
+      "annual": {
+        "data_available": true,
+        "most_recent_year": "2025-03-31",
+        "previous_year": "2024-03-31",
+        "revenue_yoy_growth_pct": -1.716937354988399,
+        "earnings_yoy_growth_pct": -3.322259136212625,
+        "profit_margin_pct": 6.869688385269122,
+        "years_available": 4
+      },
+      "institutional": {
+        "data_available": false,
+        "institutional_ownership_pct": null,
+        "institutions_count": null,
+        "top_5_holders_pct": null,
+        "ownership_trend": "unknown",
+        "major_holders_data": true
+      },
+      "financial_health": {
+        "data_available": true,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_to_equity": 0.4072797760068921,
+        "current_ratio": 3.347826086956522,
+        "roe_pct": null,
+        "roa_pct": null,
+        "free_cash_flow_positive": true
+      },
+      "validation": {
+        "quarterly_growth_positive": true,
+        "annual_growth_positive": false,
+        "is_profitable": true,
+        "net_worth_positive": true,
+        "debt_manageable": true,
+        "overall_health": "moderate",
+        "red_flags": [
+          "Annual earnings down -3.3% Y-o-Y"
+        ],
+        "green_flags": [
+          "Quarterly earnings up 107.9% Y-o-Y",
+          "Company is profitable",
+          "Net worth is positive",
+          "Healthy debt-to-equity ratio: 0.41"
+        ]
+      },
+      "data_available": true
+    }
+  }
+}

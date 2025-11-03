@@ -1,0 +1,58 @@
+{
+  "ticker": "RELIANCE",
+  "validation_time": "2025-11-03T06:10:05.197233",
+  "checks": {
+    "price_trend": {
+      "current_price": 1486.4000244140625,
+      "price_1m_ago": 1364.0,
+      "price_3m_ago": 1382.080078125,
+      "price_6m_ago": 1296.4222412109375,
+      "price_1y_ago": 1326.7510986328125,
+      "52w_high": 1544.8301010282516,
+      "52w_low": 1110.415052053189,
+      "change_1m_pct": 8.973608828010446,
+      "change_3m_pct": 7.5480392156862735,
+      "change_6m_pct": 14.65400524335915,
+      "change_1y_pct": 12.033072815674672,
+      "position_in_52w_range_pct": 86.54971167503378
+    },
+    "stock_splits": {
+      "count": 0
+    },
+    "dividends": {
+      "count": 1,
+      "total_amount": 5.5
+    },
+    "volume": {
+      "current_volume": 8758053,
+      "avg_volume_3m": 10522926,
+      "avg_volume_1y": 11969058,
+      "max_volume_1y": 32538970,
+      "current_vs_avg_3m": 0.8322829915986806
+    },
+    "market_cap": {
+      "market_cap_fast_info": 20114667653560.234,
+      "market_cap_info": 20122785808384,
+      "calculated_market_cap": 0,
+      "shares_outstanding_fast": 0,
+      "shares_outstanding_info": 13532472634,
+      "current_price": 1486.4000244140625
+    },
+    "freshness": {
+      "last_trade_date": "2025-10-31",
+      "days_old": 3,
+      "data_status": "current"
+    },
+    "historical_price_levels": {
+      "current": 1486.4000244140625,
+      "avg_1y": 1338.3904568469188,
+      "avg_2y": 1370.774358822601,
+      "avg_5y": 1198.9558692629914,
+      "max_5y": 1596.9801663885871,
+      "min_5y": 829.7792200753853
+    }
+  },
+  "issues": [],
+  "corrections": [],
+  "verdict": "PASSED"
+}

@@ -1,0 +1,33 @@
+{
+  "ticker": "RELIANCE",
+  "validation_time": "2025-11-03T06:01:31.889958",
+  "status": "FAIL",
+  "issues_count": 1,
+  "warnings_count": 0,
+  "issues": [
+    "Historical data fetch failed: Cannot subtract tz-naive and tz-aware datetime-like objects."
+  ],
+  "warnings": [],
+  "data": {
+    "price": {
+      "current": 1486.4000244140625,
+      "source": "fast_info",
+      "previous_close": 1489.699951171875,
+      "day_high": 1497.5,
+      "day_low": 1482.300048828125,
+      "change": -3.2999267578125,
+      "change_pct": -0.2215162023209175,
+      "timestamp": "2025-11-03T06:01:32.861076"
+    },
+    "technical": {},
+    "info": {
+      "longName": "Reliance Industries Limited",
+      "sector": "Energy",
+      "industry": "Oil & Gas Refining & Marketing",
+      "marketCap": 20122785808384,
+      "trailingPE": 24.222187,
+      "dividendYield": 0.37
+    },
+    "historical_data_points": 0
+  }
+}
