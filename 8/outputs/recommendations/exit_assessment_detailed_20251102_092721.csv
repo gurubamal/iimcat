@@ -1,0 +1,3 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+SAGILITY,HOLD,STRONG HOLD,26,75,5,NONE,45,50,20,0,45,High short-term volatility (ATR 4.3% of price),STRONG HOLD: High short-term volatility (ATR 4.3% of price) stop: close< 41.17 (swing_low - 1.0*ATR)
+BHEL,HOLD,STRONG HOLD,24,75,0,NONE,45,50,20,0,45,No significant technical exit signals,STRONG HOLD: No significant technical exit signals stop: close< 224.73 (swing_low - 1.0*ATR)

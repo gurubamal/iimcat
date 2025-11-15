@@ -1,0 +1,13 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-15T05:17:39.167959
+Hours back: 72
+Sources: economictimes.indiatimes.com, livemint.com, thehindubusinessline.com, moneycontrol.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 1
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 72h)
+

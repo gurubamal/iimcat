@@ -1,0 +1,113 @@
+Full Article Fetch Test - IT
+================================================================================
+
+Title   : It's HBO's ‘Silicon Valley’ in India as hacker houses catch on — minus the profanities and open bathrobes
+Source  : www.livemint.com
+Published: 2025-10-17T09:34:31
+Fetched : 2025-10-18T13:27:24.815021
+URL     : https://www.livemint.com/companies/start-ups/hacker-houses-india-silicon-valley-bengaluru-dharamshala-11760591545777.html
+--------------------------------------------------------------------------------
+It's HBO's ‘Silicon Valley’ in India as hacker houses catch on — minus the profanities and open bathrobes
+Hacker hostels, inspired by the culture of Silicon Valley, gain traction in India. Young tech builders are coming together to work on apps, robots, and startups — in spaces they work and live in 24x7.
+HBO's five-season popular show Silicon Valley is being played out in India as a slew of so-called hacker hostels gain traction from Bangalore to Dharamshala. What's missing are the profanities and coders in open bathrobes but the rest of the vibe is very much Silicon Valley with tech builders hard at creating their magic.
+Hacker hostels are places where such builders live and work, complete with the chaos of multiple teams sharing the space 24x7. They are usually hosted by either a single person or a group, where people come from all over to ‘hack’ something together, be it an app, robot or even a startup.
+People as young as 14 years attend these one-to-three-month long residency programs, entering India's burgeoning startup ecosystem very early. Some groups born out of hacker hostels have managed to raise money for their startups.
+“It's a very recent and growing phenomenon in India. It started picking up only this year," said Bhaskar Kode, founder of AI Grants India. The company is a non-profit that helps budding startup founders and builders with getting access to large language model credits, access to hacker hostels as well as introductions to venture capitalists or exited founders. “We wanted to remove the friction that currently exists when it comes to fostering AI in India," he added.
+Traditionally, hacker houses in India have had a visibility issue. They've either been unreliable or unable to sustain as a business or just bad at brand positioning across social media.
+“LocalHost cracked distribution fairly well and that's how people are getting to know that the hacker house culture exists in India," said Nimisha Chanda, India lead of The Residency, a hacker house that was started in 2023 in San Francisco by Nick Linck. The India chapter is based out of Bengaluru's HSR Layout, a suburb where every second street is home to startups.
+LocalHost was started by three friends, Kei Hayashi, Suhas Sumukh and Hardeep Gambhir, who met over messaging platform Discord three years ago. What started as a Discord server for people with an interest in tech has now evolved into a hacker house across different countries, including Romania, Japan and France. “We started with cohorts of just five people and have now expanded to 15," said Sumukh, who turned 18 earlier this year. He sold his first venture during the Covid pandemic, when he was 15.
+Bengaluru ± 1
+One of India's earliest hacker hostels didn't even crop up in Bengaluru, but in Dharamshala, in Himachal Pradesh. Altspace was launched by Prashant Abhishek, back in 2018. “Back then, we were more of a coding camp than a hacker hostel. We were AltCampus then."
+When the pandemic hit, Abhishek took the company online and later pivoted to make it a co-living and co-working space now called AltSpace. It is the largest hacker hostel in the country, capable of housing up to 50 people at a time.
+So far, AltSpace has hosted two editions of the Indiehacking Retreat and the recently concluded AI Launchpad residency, a nine-week-long program for builders to come and build products together. At the end of AI Launchpad, AltSpace said it held a demo day, for founders to showcase what they had built and invited investors including Antler India, Blume Ventures, Lightspeed India, and Peak XV Partners. Mint could not independently verify this.
+Meanwhile, LocalHost is planning to double down on Bengaluru. While it initially started as an online cohort, Sumukh said that it has decided to take it offline in India on account of the talent pool and density in the country. For its recent cohort, the company received over 500 applications pan-India, including from several smaller cities like Indore, Bhopal and Jaipur.
+LocalHost had tried out a two-month long residency program in Gurugram for technologists as well as creative enthusiasts. “It went well, but we found that on break from college, NCR folks would move to Bengaluru to break into the startup society here," said Sumukh.
+As part of their Bengaluru push, LocalHost is hiring out a house in the tech city to create a media and startups lab. One floor for ‘minus one founders’, one for hardware development and another one for SaaS and fintech folks. “We realised that startup founders need visibility and that's the media side of it. The startups side is for founders to get money, investments and a support engine," Sumukh said.
+Term sheets
+For the hacker hostels that are cropping up in India, the average age is below 25. The youngest resident at the Bengaluru chapter of The Residency was a sixteen-year-old building an AI tool for the film industry.
+“We're fairly sector agnostic. We've seen founders working on problems across everything, from deeptech to robotics, to AI, even healthtech and augmented reality," said Chanda.
+So far, seven people from previous cohorts of The Residency in India have raised $100,000 in grant money from Emergent Ventures, an initiative from the George Mason University in the US, and another has raised $250,000 in a seed round led by Google AI lead Jeff Dean, according to its website.
+At LocalHost, the youngest person was sixteen as well and building ‘Cursor for hardware.’ Point the camera in the device to any hardware such as a circuit board and it would suggest what kind of code is required and write it up. "This founder literally built this in just 30 days," said Sumukh.
+Some of the startups that have come out of the company's programs have managed to raise money as well.
+Maya Research, run by Dheemanth Reddy, received a $30,000 grant from Emergent Ventures and has raised an undisclosed amount from an institutional investor and various angel investors. Prava Payments, a payment stack for AI agents built by Sushant Pandey and Shubham Kukreti, is currently raising money, as is augmented reality glasses company dawnAR.
+Space, food, equity
+On the other hand, money is always tight for people running hacker houses. Grants and sponsorship opportunities aren't always easy to come by to cover the costs of hosting builders.
+For the hacker house ecosystem to grow in the country, they have to either find backers in the form of exited founders who have enough money to burn and have an altruistic view of growing the scene or build a venture capital fund of their own, according to industry veterans.
+A venture capital model would be similar to Erlich Bachmann's from the Silicon Valley show. Bachmann is a fictional arrogant character in the show who made his money selling his company and then made his home an incubator space.
+Going the venture fund route means hacker houses have to take a chunk of equity from founders and have first right to write a cheque to first-time founder. This also helps them build credibility in the ecosystem.
+“It would be something like a hacker house running a fund. Like college meets Y Combinator, except hacker houses back founders from the minus one to zero stage," said AltSpace's Abhishek. Y Combinator is a storied startup accelerator in San Francisco that helped start Airbnb, Stripe, Doordash, and ScaleAI, among other wildly successful companies.
+LocalHost is planning to go the fund route in the long run. Currently, it provides micro-grants and co-invests with companies from their cohorts. Sumukh, Hayashi, and Gambhir are currently figuring out how best to provide more targeted financial assistance to founders. “When the time is right, we'll expand our investment capabilities to further support the next generation of innovators and entrepreneurs," Sumukh said.
+
+Title   : Traders, markets in India saw total business of ₹1 lakh crore on Dhanteras : CAIT
+Source  : www.thehindubusinessline.com
+Published: 2025-10-18T09:57:23
+Fetched : 2025-10-18T13:27:24.815168
+URL     : https://www.thehindubusinessline.com/markets/gold/dhanteras-gold-buying-kicks-off-record-prices-may-dampen-volumes-by-15/article70178747.ece
+--------------------------------------------------------------------------------
+With a strong surge in sales of gold, silver, utensils, kitchenware, vehicle, electronic and electrical goods and other auspicious items, total business for traders and market hubs have crossed ₹1 lakh crore across the country as per estimates by the Confederation of All India Traders.
+Praveen Khandelwal, Secretary General, CAIT and Member of Parliament from Chandni Chowk said, “ This year, Dhanteras witnessed record-breaking sales across multiple sectors including gold & silver Jewellery and coins ( ₹60,000 crore), utensils & kitchenware and appliances (₹15,000 crore), electronic & electrical Goods (₹10,000 crore) , decorative Items, Lamps & Puja Materials ( ₹3,000 crore), Dry Fruits, Sweets, Fruits, Textiles, Vehicles & Miscellaneous Items ( ₹12,000) crore.Thus, the total business nationwide on Dhanteras is estimated at ₹1 lakh crore.”
+On Dhanteras, consumers across the country traditionally buy gold, silver, utensils, kitchenware, vehicles, brooms, electronic and electrical goods, idols of Goddess Lakshmi and Lord Ganesha, clay lamps, and other puja materials, all considered symbols of prosperity.
+According to Pankaj Arora, National President of CAIT’s jewellery chapter, the All India Jewellers and Goldsmith Federation (AIJGF), the past two days have seen unprecedented rush in jewellery markets. “As per preliminary estimates, the gold and silver trade alone exceeded ₹60,000 crore, while Delhi’s bullion markets recorded sales worth over ₹10,000 crore, marking a 25 per cent rise compared to last year,” he added.
+CAIT said that despite the sharp rise in prices, consumers have continued buying gold and silver, as they are considered the most secure forms of investment, while regular customers preferred lightweight jewellery this season.
+Khandelwal pointed out that the sharp rise in festive trade this year is largely due to significant reductions in GST rates and also consumers are showing a clear perference for locally made and Indian products reflecting the impact of Prime Minister’s“Swadeshi Aapnao” (Adopt Indigenous Products) campaign.
+He further noted that this festive season, not only malls but also traditional markets, jewellery bazaars, utensil hubs, electronic markets, and local retail shops have witnessed “extraordinary enthusiasm and record customer turnout”.
+Published on October 18, 2025
+
+Title   : Roche sets gene-sequencing record. It’s a challenge for Illumina.
+Source  : www.livemint.com
+Published: 2025-10-17T09:05:33
+Fetched : 2025-10-18T13:27:24.815380
+URL     : https://www.livemint.com/companies/news/roche-sets-gene-sequencing-record-it-s-a-challenge-for-illumina-11760691641051.html
+--------------------------------------------------------------------------------
+Roche sets gene-sequencing record. It’s a challenge for Illumina.
+The Broad Institute gene-sequencing lab used Roche equipment to read infants’ DNA genomes in less than four hours, cutting an hour off the previous Guinness World Record.
+This week, the Broad Institute gene-sequencing lab said it read infants’ DNA genomes in less than four hours, cutting an hour off the previous Guinness World Record. The point for investors is that the scientists used a new sequencing technology from Roche Diagnostics, rather than the tools of market leader Illumina.
+Illumina systems dominate gene sequencing in research labs and the clinic, so Roche will need to show impressive speed, accuracy and economics for its new products to make a dent in Illumina’s $4 billion in annual sales. Broad’s speed record news coincides with a genomics conference this week, where the sequencing rivals are showing off their newest technologies.
+Broad researchers said they demonstrated the feasibility of same-day reports of clinically relevant gene variants to those caring for newborns in intensive care. That is getting close to the turnaround time for other clinical lab tests. Fast sequencing could also make a difference in treating infections.
+Compared with the decade it took for the first human genome sequence, the latest result is like the way top climbers now tackle Mt. Everest. Instead of spending weeks establishing a series of higher and higher camps on the mountain, they speed-climb it in a day.
+Even Illumina had compliments.
+“The serious investment by companies entering into sequencing speak to the continued strength and potential of the market," an Illumina spokesperson told Barron’s. “It is an exciting moment for the entire industry when we see an advance in the speed of sequencing."
+In its bid for the sequencing market, Roche introduced a new sequencing chemistry this year that it calls SBX, which can read longer lengths of DNA than Illumina’s established SBS technology. That helps Roche generate more data, more quickly.
+SBX will be used in Roche’s new high-end sequencing system Axelios, which could hit the market in the first half of 2026, said Guggenheim Partners’ Subbu Nambi in a Wednesday report from the American Society of Human Genetics meeting in Boston.
+To get a sense of Roche’s new offerings, Guggenheim debriefed Christopher Mason, a computational genomics professor at New York’s Weill Cornell Medicine who had early access to the systems. Along with their superior speed, the Roche products seem competitive with Illumina’s in accuracy, according to Guggenheim’s report on the debriefing. Roche also seems willing to underprice Illumina.
+Roche is pricing Axelios at $750,000, compared with about $1 million for Illumina’s top sequencer.
+Illumina stock has been a four-year heartbreak to investors since peaking in the biotech froth of the Covid-19 era. Since mid 2021, it has toppled from near $500, to a recent $96. Nambi, the Guggenheim analyst, rates it a Buy, with a $114 target price.
+Illumina told Barron’s that it will take considerable time for Roche’s new technology to generate evidence showing it can deliver “accuracy, quality, consistency, and total end-to-end cost."
+Research labs like Broad try every supplier’s new systems, but the larger market of clinical labs adopts technology more slowly. And with $1 billion in annual spending on research and development, Illumina isn’t standing still.
+At the ASHG meeting this week, it showed a new chemistry that simultaneously reads DNA and the molecular tags that turn genes on and off, in ways that determine sickness or health. Illumina enjoys a competitive moat, said Guggenheim.
+But Mason thinks Roche can make a good run at that barrier. If there was ever an obvious direct competitor to Illumina, Roche would be that threat, Guggenheim quoted the professor as saying. Mason expects Illumina and Roche to be the biggest clinical-sequencing suppliers in the next two to three years.
+Write to Bill Alpert at william.alpert@barrons.com
+
+Title   : Indian IT majors cut H-1B dependence amid strong localisation push in key markets
+Source  : www.thehindubusinessline.com
+Published: 2025-10-17T13:30:06
+Fetched : 2025-10-18T13:27:24.815433
+URL     : https://www.thehindubusinessline.com/info-tech/indian-it-majors-cut-h-1b-dependence-amid-strong-localisation-push-in-key-markets/article70175411.ece
+--------------------------------------------------------------------------------
+Top-tier Indian IT companies are increasingly reducing their reliance on H-1B visas, driven by long-term localisation strategies in key international markets such as the US. Instead, firms are prioritising local hiring initiatives and expanding nearshore operations.
+In September, US President Donald Trump announced plans to raise the annual H-1B visa fee to $100,000. The H-1B programme allows US-based companies to temporarily employ foreign professionals in specialised fields requiring both theoretical and practical expertise.
+According to data from the US Citizenship and Immigration Services (USCIS), TCS secured the highest number of H-1B visas between 2009 and 2025, with 98,259 approvals. Cognizant followed with 92,435, while Infosys and Wipro received 87,654 and 77,289 approvals, respectively.
+In FY25, TCS led the list of H-1B visa beneficiaries, with 5,505 approvals, followed by Cognizant at 2,493 and Infosys at 2,004. However, this shift is changing, with Indian IT companies citing further reduction in H-1B reliance.
+Wipro noted that 80 per cent of its US workforce now comprises local hires, adding that potential changes to the H-1B programme are unlikely to significantly impact its business. During the company’s quarterly press conference, Chief Human Resources Officer (CHRO) Saurabh Govil said the company’s dependence on H-1B visas has “steadily reduced over the years due to the deliberate localisation strategy.”
+Amit Chadha, CEO and MD of L&T Technology Services (LTTS), added that over 50 per cent of the company’s workforce in the US comprises local hires, underscoring its strong local recruitment efforts.
+On the other hand, Sudeep Kunnumal, the CHRO of TCS, also highlighted that the company has significantly localised its workforce in the US. He noted that in FY26, only 500 associates traveled to the US on H-1B visas .“We believe our business model will be able to adapt quickly to any changes in immigration policy,” he said.
+Similarly, a minority of Infosys employees now require company sponsorship. CEO and MD Salil Parekh shared that only Infosys has established multiple US-based centers focused on digital, innovation, technology, and AI, alongside partnerships with universities and a local training facility. These initiatives, he said, ensure seamless client delivery without disruption. Infosys’ localisation strategy, built around local hiring and nearshore expansion across the US, Canada, Mexico, Latin America, and Europe, has matured well, and the company expects it to scale further.
+Published on October 17, 2025
+
+Title   : Indian IT firms sustain large deal momentum despite weak macroenvironment
+Source  : www.thehindubusinessline.com
+Published: 2025-10-17T16:13:56
+Fetched : 2025-10-18T13:27:24.815493
+URL     : https://www.thehindubusinessline.com/info-tech/indian-it-firms-sustain-large-deal-momentum-despite-weak-macroenvironment/article70176153.ece
+--------------------------------------------------------------------------------
+Even as overall demand remains subdued, top-tier Indian IT services companies continue to secure steady big-ticket deals, signalling resilience amid a challenging macro environment. Analysts expect ramp-ups in large and mega deals to partially offset slowdowns and seasonality in the second half of FY26.
+Wipro reported total bookings of $4.68 billion during the September-ended quarter. The company’s total large deal total contract value (TCV) stood at $2.85 billion, up 90.5 per cent y-o-y in constant currency.
+Wipro CEO and MD Srini Pallia commented during the quarterly earnings call, “This quarter, we signed 13 large deals. Much of this demand was driven by vendor consolidations, AI-powered transformations, and consulting-led programmes, areas where our strategy is making an impact. This quarter saw two mega-deals, one with a healthcare client and another in BFSI. While a significant portion of these deals are renewals, they are important for deepening our presence and unlocking future growth in these accounts.”
+According to PL Capital, Wipro’s large deal TCV for H1 FY26 has already reached $5.5 billion, surpassing the full-year FY25 total of $5.4 billion. However, since most of these deals are concentrated in vendor consolidation and cost optimisation, there will be longer tenures and thinner margins. While Wipro’s pipeline remains strong, the nature of deals suggests that Q3 growth will rely on the ramp-up of two mega deals.
+Infosys also reported robust large deal activity, with a TCV of $3.1 billion, 67 per cent of which comprised net new deals. The company won 23 large deals during the quarter, according to a PL Capital report -- 14 in the Americas, seven in Europe, and one each in India and RoW. Among its mega deal wins was a recent £1.5 billion contract with the UK’s NHS, underscoring continued traction in the large deal segment. Deal bookings were up 29 per cent y-o-y, though revenue conversion remains slow. Sequentially, however, it saw a decline from $3.8 billion last quarter.
+PL Capital noted that the short-burst discretionary projects continue to see a pullback, while large deals are primarily focused on cost reduction, vendor consolidation, and AI integration. It cautioned that furloughs and holiday seasonality could weigh on H2 topline growth, even as large deal ramp-ups support stability.
+Similarly, other large-tier IT companies also saw increased deal bookings. TCS also reported strong order inflows, with a TCV of $10 billion in the quarter, up from Q1’s $9.4 billion. However, the number of $50 million+ clients rose by 5, $10 million+ by 3, and $1 million+ by 24 on a sequential basis, while $100 million+ clients declined by 2.
+HCLTech saw a new deal TCV of $2.5 billion, marking a 41.8 per cent sequential increase and 15.8 per cent growth y-o-y, driven by cost optimisation and digital transformation engagements.
+Despite muted revenue growth across the board in a challenging macroenvironment, deal momentum had remained the industry’s bright spot.
+Published on October 17, 2025
+

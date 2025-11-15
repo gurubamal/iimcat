@@ -1,0 +1,59 @@
+Full Article Fetch Test - TRU
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Hyundai construction site raid puts Trump’s competing agendas in spotlight
+Source  : www.livemint.com
+Published: 2025-09-07T12:49:08
+Fetched : 2025-09-08T06:09:05.085425
+URL     : https://www.livemint.com/companies/hyundai-construction-site-raid-puts-trump-s-competing-agendas-in-spotlight-11757249136679.html
+--------------------------------------------------------------------------------
+Hyundai construction site raid puts Trump’s competing agendas in spotlight
+Nearly 500 people were arrested, many of whom were Korean nationals.
+A federal raid at a massive battery plant under construction just outside Savannah, Ga., on Thursday underscores the challenges the Trump administration faces in promoting U.S. manufacturing while cracking down on undocumented workers.
+Those two priorities came to a head this week when federal officials said they had arrested 475 “illegal workers" in what they called the largest, single-site Homeland Security enforcement operation ever.
+The arrests took place at a $4.3 billion joint venture between South Korean firms Hyundai Motor Group and LG Energy Solution. The plant was set to open next year and supply up to 300,000 lithium ion batteries a year, including some for the adjacent Hyundai plant that makes the Ioniq 5 crossover and three-row Ioniq 9 electric vehicle.
+Promoting domestic manufacturing to decrease the nation’s reliance on other countries is a cornerstone of President Donald Trump’s economic agenda. He claims to have secured commitments of nearly $9 trillion in from various companies and countries, including $450 billion from South Korea. He even hosted South Korea’s president Lee Jae-myung at the White House last week, where they discussed the two nations’ partnership.
+But building is labor intensive, and many construction workers are immigrants. Of the estimated 11 million people working in the industry, around a quarter were born outside of the U.S., and many are undocumented.
+The majority of those arrested at the site in Ellabell, Ga., were South Korean nationals, special agent Steven Schrank told reporters at a news conference Friday. South Korea is working to get its citizens released, The Wall Street Journal reported, citing an official from there.
+Many of the people arrested worked for subcontractors, Schrank said. Hyundai said none of the workers were directly employed by them. LG said it would “fully cooperate" with authorities.
+No criminal charges have been announced, and the detainees are being held at an Immigration and Customs Enforcement detention center in Folkston, Ga.
+“This operation underscores our commitment to protecting jobs for Georgians and Americans, ensuring a level playing field for businesses that comply with the law, safeguarding our economy, and protecting workers from exploitation," Schrank said.
+The raid, dubbed Operation Low Voltage, was part of a wider initiative called Operation Take Back America, which launched on Trump’s inauguration day in January and “marshals the full resources of the Department of Justice to repel the invasion of illegal immigration," according to a press release.
+Immigration advocates called it misguided. “This historic raid may make dramatic headlines, but it does nothing to fix the problems in our broken immigration system: a lack of legal pathways and a misguided focus on punishing workers and families who pose no threat to our communities," said Michelle Lapointe, legal director at the American Immigration Council in a statement.
+President Trump also weighed in on the raid Friday from the Oval Office, saying, “they were illegal aliens," adding, “ICE was doing its job."
+Write to Anita Hamilton at anita.hamilton@barrons.com
+
+Title   : Gabbar turns hero with GST 2.0, but why are FIIs still haunted by Trump 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-08T04:15:49
+Fetched : 2025-09-08T06:09:05.085425
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/gabbar-turns-hero-with-gst-2-0-but-why-are-fiis-still-haunted-by-trump/articleshow/123756986.cms
+--------------------------------------------------------------------------------
+The numbers paint a stark picture of foreign investor exodus. Net FII selling has reached Rs 1.4 lakh crore so far in calendar year 2025, with overseas funds turning net sellers since July on a monthly level. Despite buying domestic investors, the FII selling spree has been relentless, showing no signs of letting up despite the government's bold GST overhaul.
+Market data shows that among FII's index futures longs are at a record low of 7.4%. "This proportion has come about as a result of steady increase in shorts and similar decrease in longs through the first week of September. This is a strong indication that FIIs have not only let go of their bearish stance in the face of increased chances of Fed rate cut, but are boosting their downside bets," Anand James, Chief Market Strategist at Geojit Investments, told ET Markets.
+The transformation of GST from villain to hero appears lost on foreign investors. What was once mockingly called "Gabbar Singh Tax" after the notorious Bollywood villain has undergone sweeping reforms, with slab rationalization and rate reductions designed to boost consumption. Yet the policy cheer has failed to stem the foreign outflow tide.
+"This leads us to assume that GST overhaul's tail winds have not been enough to allow FIIs to ignore the tariff uncertainty," James added, highlighting how Trump-related trade fears continue to overshadow domestic policy positives.
+Also Read | FIIs dump Rs 60,000 crore of India's crown jewels in brutal 2-month rout. What’s wrong?
+FII portfolio positioning is at its weakest since the data started in 2000, according to Morgan Stanley, while Goldman Sachs notes that despite recent increases in active EM fund exposure to India, the country "remains among the most underweight markets within EM funds at 280bp UW allocation vs. benchmark."
+"India's allocation in active mutual funds globally is near a 2-decade low. Global funds across EM/Asia/Global mandates underweight India by c.215bp on aggregate," Goldman said in a recent note.
+Earnings estimates have seen sharp downgrades and foreign investors have trimmed their holdings in six out of the past 11 months. Analysts point to valuation concerns and the lure of cheaper markets. "Sustained massive DII buying is enabling FIIs to encash at high valuations and take the money to cheaper markets like China, Hong Kong, South Korea etc. Even the optimism generated by the GST reforms didn't restrain the FPIs who sold on every day of September so far,” said Geojit’s Dr. VK Vijayakumar.
+The Trump factor looms large over investor sentiment. "Apart from the high valuations, the Trump tariff related uncertainty also is weighing on FIIs. The market also is a bit concerned about what Trump might do next. There are some concerns that the unpredictable US president may even impose tariffs on IT services from India. The continuing uncertainty is impacting market sentiments," Vijayakumar explained.
+Veteran investor Mark Mobius struck a cautious note, telling ET earlier that "ongoing policy reforms provide upside potential for a more stabilized and gradual recovery in foreign flows. However, a large and swift reversal is unlikely without a resolution in trade disputes. Domestic institutional support, meanwhile, could help moderate outflows and foster selective inflows in the near term."
+The earnings backdrop adds another layer of complexity to the FII exodus. Pramod Amthe from InCred Capital noted that while government actions are welcome — with the GST cuts similar in quantum to income tax reductions seen in the budget — the earnings cycle remains challenging.
+"If you look at post the result season, Indian markets are still seeing earnings cut anywhere in the region of around 1% to 3% versus contrary to that some of the global markets are surprising positively on earnings and analysts are upgrading earnings," Amthe said. "So, in a context where you are mean level valuation on PE, on a relative basis you are still at plus one standard deviation to the global or the Asia MSCI. So, you need earnings to come through."
+The valuation puzzle has sparked philosophical questions from market veterans. Nilesh Shah of Kotak AMC posed a series of provocative queries on social media platform X: "Is the glass half full or half empty? Did we give exit to FPIs at a higher price? Would FPIs have sold at a lower price? Will they come to buy? If yes, what will be their entry prices?"
+Shah's commentary took on a cultural dimension, referencing India's cricket triumph: "Will the DIIs campaign to unnerve FPIs? (Post Saurav Ganguly's chest thumping on Lords fear of Gora Saheb and Brown Saheb has come down) Will they suffer from FOMO?"
+Despite the foreign investor skepticism, Shah emphasized the fundamentals: "The only thing we should focus on is for India Inc. to deliver on the 2 G of Growth and Governance like the last decade (the third G of Green is on the back foot), double-digit earnings growth, and ROE. GST slab rationalisation and rate reduction along with process improvements is a step in the right direction. Many more should follow."
+The domestic versus foreign investor narrative has created an unusual market dynamic. Sentiment remains weighed down by US-India trade tensions, weak corporate earnings, a depreciating rupee, and the possibility of a Federal Reserve rate cut in September, which could make US markets more attractive. Additionally, valuation concerns and global geopolitical uncertainties have prolonged the selling pressure in Indian equities.
+As Shah concluded with Warren Buffett's wisdom: "As Mr Buffet said stocks are slaves of earnings. What looks expensive on a one year basis, due to earnings growth will look cheap on a five year basis."
+The market now waits to see whether GST 2.0's heroic transformation can eventually overcome the Trump tariff specter that continues to haunt foreign investor sentiment.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

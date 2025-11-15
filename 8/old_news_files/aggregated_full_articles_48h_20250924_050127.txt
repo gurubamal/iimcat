@@ -1,0 +1,229 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-24T05:01:27.008742
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com
+Tickers planned: 21
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : ITC Share Price Live Updates: ITC's market performance update 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-24T02:42:11
+Fetched : 2025-09-24T05:01:48.273055
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/itc-stock-price-today-live-24-sep-2025/liveblog/124081695.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›ITC Share Price Live Updates: ITC's market performance update
+LIVE BLOG
+ITC share price live updates
+Discover the ITC Stock Liveblog, your go-to destination for real-time updates and comprehensive analysis of a top-performing stock. Keep track of ITC's latest details, including: Last traded price 402.95, Market capitalization: 503580.72, Volume: 1016467, Price-to-earnings ratio 14.43, Earnings per share 27.88. Our liveblog offers a holistic view of ITC by examining both fundamental and technical indicators. Stay ahead of market trends with breakingnews that can impact ITC's performance. Our market analysis and expert opinions provide valuable insights to guide your investment decisions. Join us on the ITC Stock Liveblog and stay informed in this dynamic market landscape. The data points are updated as on 10:18:13 AM IST, 24 Sep 2025
+Show more1 New Update
+ITC is currently priced at Rs 402.90, indicating a 0.08% drop today. The three-day simple moving average (SMA3) is Rs 406.83.
+Discover the latest market updates and real-time stock information on ITC Stock
+ITC is currently priced at Rs 402.25, with a decrease of 0.24% today, and an average daily volatility of 2.8618 recorded over the last three months.
+On the last trading day, ITC's stock price settled at Rs 406.95, showcasing its current valuation.
+In the last week, ITC's returns have dipped by 2.4%, indicating potential headwinds for the company.
+ITC has a six-month beta of 0.6849, indicating a relatively stable performance in the market.
+ITC's stock has seen a -2.59% return over the past three months, signaling a negative trend.
+ITC closed at Rs 406.95 on the previous day, reflecting a decline of 0.92% and a trading volume of 8,930,779 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHARTIARTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : GST cut impact? Tata Motors sells 10k cars, Maruti, Hyundai sales soar on first day of Navratri amid reduced prices
+Source  : www.livemint.com
+Published: 2025-09-23T11:27:14
+Fetched : 2025-09-24T05:01:56.237565
+URL     : https://www.livemint.com/companies/news/gst-cut-impact-tata-sells-10-000-cars-maruti-posts-best-day-in-35-years-hyundai-sells-11-000-amid-festive-rush-11758621930623.html
+--------------------------------------------------------------------------------
+Following the reduction in vehicle prices after GST reforms, Tata Motors reported sales of about 10,000 passenger vehicles on the first day of Navratri. Maruti Suzuki and Hyundai also saw substantial sales, with 30,000 and 11,000 units sold, respectively.
+As per the new GST structure, sub-4 metre cars moved to 18%, and the compensation cess on automobiles was eliminated. Petrol, petrol hybrid, LPG, and CNG variants under 1200 cc and 4000 mm are now taxed at 18% instead of 28%. Diesel and diesel hybrid cars with engines up to 1,500 cc and a length up to 4,000 mm will also benefit from the same reduction.
+Tata Motors announced on Tuesday that its dealers sold around 10,000 passenger vehicles on the first day of Navratri amid declining vehicle prices due to a revised GST regime.
+The automaker received over 25,000 customer enquiries at its passenger vehicle dealerships across India.
+"We are seeing a very enthusiastic response from customers. Following the announcement of the new GST rates, we are passing on the full benefits to our customers, along with attractive festive offers," ANI quoted Tata Motors Passenger Vehicles Chief Commercial Officer Amit Kamat.
+This has caused a significant rise in enquiries and bookings, along with more showroom walk-ins, improved conversion rates, and an expanding order backlog. The company's dealerships have opened earlier and extended their hours to accommodate the festive season rush, he said.
+According to Kamat, the response to the company's portfolio has been phenomenal, especially for the popular bestsellers Nexon and Punch.
+"With a strong pipeline of bookings and scheduled deliveries, we are fully geared to meet the festive demand and are optimistic about setting new records this festive season," he said.
+On Monday, Maruti Suzuki and Hyundai Motor India reported bumper sales with buyers queuing up to buy their favourite models at lower price tags under the new GST regime.
+India's largest car manufacturer, Maruti Suzuki India, received 80,000 enquiries and delivered 30,000 vehicles, achieving its best single-day performance in 35 years. Additionally, bookings for small cars increased by 50 per cent compared to typical festival season levels, reported ANI.
+By the evening of 22 September, the carmaker announced that its retail sales had exceeded the 25,000 mark and were expected to surpass 30,000 by the end of the day, as dealerships anticipated remaining open until late at night.
+Partho Banerjee, Senior Executive Officer of Marketing & Sales at Maruti Suzuki India, stated that customer response has been excellent on the first day of Navratri and under the new GST regime.
+He observed that with lower prices, there has been a 50 per cent rise in bookings for small cars, and the company may run out of stock for certain model variants.
+Leading automaker Hyundai recorded 11,000 dealer billings in a single day, marking its best performance in five years.
+Hyundai Motor India COO Tarun Garg stated that the beginning of Navratri, supported by the boost from GST 2.0 reforms, has brought a significant boost to vehicle sales across the country, reported ANI.
+"On day one alone, the automaker has recorded around 11,000 dealer billings, which is our highest single-day performance in the last five years," he said, adding, “looking ahead, we anticipate sustained festive demand and remain committed to delivering value and excitement to our customers.”
+(With inputs from agencies.)
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsGST cut impact? Tata Motors sells 10k cars, Maruti, Hyundai sales soar on first day of Navratri amid reduced prices
+
+Title   : Top gainers & losers today, 23 September: Axis Bank, Bajaj Finance, Maruti among gainers; Trent, Tech Mahindra decline
+Source  : www.thehindubusinessline.com
+Published: 2025-09-23T13:34:17
+Fetched : 2025-09-24T05:01:56.237565
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/nse-bse-stock-market-top-gainers-top-losers-today-axisbank-bajajfinance-maruti-23-september-2025/article70084714.ece
+--------------------------------------------------------------------------------
+Indian equity markets ended a volatile session marginally lower on Tuesday, with the Nifty 50 slipping 32.85 points, or 0.13 per cent, to 25,169.50, and the BSE Sensex falling 57.87 points, or 0.07 per cent, to 82,102.10, as investor sentiment remained cautious amid currency weakness and mixed sectoral moves.
+The rupee weakened to a record low of 88.62 against the U.S. dollar during the day, before settling at 88.75. The slide was driven by concerns over the recent U.S. visa fee hike and sustained outflows from foreign institutional investors. “While a weaker currency raises concerns about import-led inflation, market participants also view it as a tailwind for India’s IT and metals exporters over the long term,” said Hariprasad K, SEBI-registered Research Analyst and Founder of Livelong Wealth.
+Top Gainers
+Axis Bank led the advances, rising 2.32 per cent to ₹1,170.75. Bajaj Finance followed with a 1.95 per cent gain, closing at ₹1,025.65.
+Maruti Suzuki climbed 1.83 per cent to ₹16,097.95, while State Bank of India added 1.81 per cent to ₹870.50. Kotak Mahindra Bank completed the top five gainers, up 1.31 per cent at ₹2,047.85.
+Top Losers
+Trent was the biggest laggard, slipping 2.34 per cent to ₹4,892.00. Tech Mahindra fell 2.15 per cent to ₹1,471.90.
+Hindustan Unilever and UltraTech Cement both dropped 1.94 per cent, ending at ₹2,521.55 and ₹12,400.70, respectively. Asian Paints declined 1.42 per cent to ₹2,447.50.
+Published on September 23, 2025
+
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : Wipro Share Price Live Updates: Wipro's Trading Day Summary 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-24T02:42:46
+Fetched : 2025-09-24T05:01:59.818956
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/wipro-share-price-today-live-updates-24-sep-2025/liveblog/124081719.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Wipro Share Price Live Updates: Wipro's Trading Day Summary
+LIVE BLOG
+Wipro share price live updates
+Welcome to the Wipro Stock Liveblog, your real-time source for the latest updates and comprehensive analysis on a prominent stock. Dive into the current details of Wipro, including: Last traded price 246.16, Market capitalization: 258085.15, Volume: 2039064, Price-to-earnings ratio 19.22, Earnings per share 12.84. Our liveblog offers a complete overview of Wipro through a blend of fundamental and technical indicators. Stay informed about breaking news that can shape Wipro's performance in the market. Our market analysis and expert opinions empower you to make informed investment decisions. Join us as we unravel the potential of Wipro in the ever-changing market landscape. The data points are updated as on 10:16:40 AM IST, 24 Sep 2025
+Show more1 New Update
+Wipro is currently trading at Rs 246.29, reflecting a notable decline of 1.34% today. The 3-day simple moving average is Rs 250.83.
+Discover the latest market updates and real-time stock information on Wipro Stock
+Wipro is currently trading at Rs 246.59, reflecting a decline of 1.22% today, with an average daily volatility of 2.6716 over the past three months.
+Wipro has encountered a negative price breakout, currently trading below its second support level (S2). The price is at Rs 246.83, with S2 set at 253.38.
+Yesterday, Wipro's stock price closed at Rs 250.33, reflecting the company's market activity.
+Wipro's shares have seen a setback, with a weekly return of -1.72%, reflecting the current market conditions.
+Wipro's six-month beta of 0.2422 signals a level of investor confidence due to its lower risk profile.
+Wipro has seen a return of -5.17% in the last three months, reflecting significant market headwinds.
+Yesterday, Wipro's stock finished at Rs 250.33, showing a 0.28% drop, with trading volume reaching 15,784,007 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - GRASIM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HINDALCO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-24
+
+Title   : Hindalco Share Price Live Updates: Hindalco's Previous Day Closing Price 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-24T02:41:52
+Fetched : 2025-09-24T05:02:05.296199
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-24-sep-2025/liveblog/124081681.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Hindalco Share Price Live Updates: Hindalco's Previous Day Closing Price
+LIVE BLOG
+Hindalco share price live updates
+Stay updated with the Hindalco Stock Liveblog, your one-stop destination for real-time information and analysis of a leading stock. Explore the latest updates on Hindalco stock, including: Last traded price 745.5, Market capitalization: 167249.83, Volume: 566716, Price-to-earnings ratio 9.88, Earnings per share 75.34. Our liveblog combines fundamental and technical insights to offer a comprehensive overview of Hindalco's performance. Gain valuable market knowledge and make informed decisions with our expert analysis. Be the first to know about breaking news that can impact Hindalco's trajectory. Join us on this journey as we explore the exciting potential of Hindalco. The data points are updated as on 10:17:17 AM IST, 24 Sep 2025
+Show more1 New Update
+Hindalco's current price stands at Rs 745.30, reflecting a minor decrease of 0.09% for today. The 3-day simple moving average (SMA3) is Rs 744.77.
+Discover the latest market updates and real-time stock information on Hindalco Stock
+Hindalco is trading at Rs 744.2, reflecting a slight decline of 0.23% today, with an average daily volatility of 4.5888 recorded over the last three months.
+Hindalco closed at Rs 745.70 on the previous trading day, reflecting its latest market position.
+Hindalco's stock has faced a setback this week, with returns falling by 1.33%, indicating potential concerns among investors.
+Hindalco's beta value of 1.2822 over the past six months suggests a higher degree of price variability.
+Hindalco has achieved a notable return of 12.78% over the previous three months.
+On the last trading day, Hindalco's stock price settled at Rs 745.70, marking a 0.03% rise, with a total trading volume of 2,232,330 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TITAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBILIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICICIPRULI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SBICARD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDFCAMC
+================================================================================
+
+(no fresh items in last 48h)
+

@@ -1,0 +1,55 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚨 EXIT INTELLIGENCE ANALYZER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Comprehensive Multi-Factor Exit Assessment System
+
+AI Provider: Claude CLI (Best Accuracy)
+Cost: FREE with Claude subscription
+Speed: ~8-12s per stock
+Accuracy: ~95% (best for critical decisions)
+
+Configuration:
+  Provider: Claude CLI
+  Tickers File: exit.test.txt
+  News Window: 72 hours
+
+  Stocks to Assess: 1
+
+Assessment Factors:
+  ✅ Technical breakdown detection (support breaks, bearish patterns)
+  ✅ Volume and momentum analysis
+  ✅ Fundamental risk assessment
+  ✅ News sentiment analysis (if available)
+  ✅ AI-powered comprehensive evaluation
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Starting exit assessment...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️  Applying feedback-based EXIT AI calibration (top-3 simulation)...
+📈 Feedback: hits=3, misses=0, hit_rate=1.00
+✅ Updated exit_ai_config.json
+   Using updated config: exit_ai_config.json
+
+⏱️  Applying live intraday feedback (yfinance, top-3 from latest CSV)...
+/home/vagrant/Govt/R/ibis/setsfinezetworks/successtaste/fix/iimcat/essentials/intraday_feedback_updater.py:111: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  first = float(opens.to_numpy()[0])
+/home/vagrant/Govt/R/ibis/setsfinezetworks/successtaste/fix/iimcat/essentials/intraday_feedback_updater.py:112: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+  last = float(closes.to_numpy()[-1])
+📈 Feedback: hits=1, misses=0, hit_rate=1.00
+✅ Updated exit_ai_config.json
+• RELIANCE: -0.88% vs action=MONITOR -> expected=HOLD
+✅ Wrote ai_feedback_simulation.json
+   Using updated config: exit_ai_config.json
+
+🤖 Using REALTIME AI NEWS ANALYSIS for exit decisions...
+   (Same sharp analysis as your buying predictions!)
+
+2025-11-09 21:19:54,281 - INFO - Analyzing 1 tickers for exit signals
+2025-11-09 21:19:54,281 - INFO - AI Provider: claude
+2025-11-09 21:19:54,281 - INFO - News Window: 72 hours
+2025-11-09 21:19:54,281 - INFO - Exit AI Client initialized with provider: claude
+2025-11-09 21:19:54,281 - INFO - [1/1] Processing RELIANCE
+2025-11-09 21:19:54,281 - INFO - Analyzing exit signals for RELIANCE
+2025-11-09 21:20:01,063 - INFO - Found 7 recent articles for RELIANCE

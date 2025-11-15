@@ -1,0 +1,124 @@
+{
+  "ticker": "INFY",
+  "fetch_time": "2025-11-11T10:41:14.904177",
+  "dividends": [
+    {
+      "description": "Interim Dividend - Rs 23 Per Share",
+      "ex_date": "27-Oct-2025",
+      "ex_date_parsed": "2025-10-27T00:00:00",
+      "amount": 23.0
+    },
+    {
+      "description": "Dividend - Rs 22 Per Share",
+      "ex_date": "30-May-2025",
+      "ex_date_parsed": "2025-05-30T00:00:00",
+      "amount": 22.0
+    },
+    {
+      "description": "Interim Dividend - Rs 21 Per Share",
+      "ex_date": "29-Oct-2024",
+      "ex_date_parsed": "2024-10-29T00:00:00",
+      "amount": 21.0
+    },
+    {
+      "description": "Annual General Meeting/Special Dividend - Rs 8 Per Share /Dividend - Rs 20 Per Share",
+      "ex_date": "31-May-2024",
+      "ex_date_parsed": "2024-05-31T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": "Interim Dividend - Rs 18 Per Share",
+      "ex_date": "25-Oct-2023",
+      "ex_date_parsed": "2023-10-25T00:00:00",
+      "amount": 18.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 17.50 Per Share",
+      "ex_date": "02-Jun-2023",
+      "ex_date_parsed": "2023-06-02T00:00:00",
+      "amount": 17.5
+    },
+    {
+      "description": "Interim Dividend - Rs 16.50 Per Share",
+      "ex_date": "27-Oct-2022",
+      "ex_date_parsed": "2022-10-27T00:00:00",
+      "amount": 16.5
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 16 Per Share",
+      "ex_date": "31-May-2022",
+      "ex_date_parsed": "2022-05-31T00:00:00",
+      "amount": 16.0
+    },
+    {
+      "description": " Interim Dividend - Rs 15 Per Sh",
+      "ex_date": "26-Oct-2021",
+      "ex_date_parsed": "2021-10-26T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 15 Per Share",
+      "ex_date": "31-May-2021",
+      "ex_date_parsed": "2021-05-31T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": " Interim Dividend - Rs 12 Per Share",
+      "ex_date": "23-Oct-2020",
+      "ex_date_parsed": "2020-10-23T00:00:00",
+      "amount": 12.0
+    },
+    {
+      "description": " Dividend - Rs 9.50 Per Share",
+      "ex_date": "29-May-2020",
+      "ex_date_parsed": "2020-05-29T00:00:00",
+      "amount": 9.5
+    },
+    {
+      "description": " Interim Dividend - Rs 8 Per Share",
+      "ex_date": "23-Oct-2019",
+      "ex_date_parsed": "2019-10-23T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend- Rs 10.50 Per Share",
+      "ex_date": "13-Jun-2019",
+      "ex_date_parsed": "2019-06-13T00:00:00",
+      "amount": 10.5
+    },
+    {
+      "description": " Special Dividend - Rs 4 Per Share",
+      "ex_date": "24-Jan-2019",
+      "ex_date_parsed": "2019-01-24T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": " Interim Dividend - Rs 7 Per Share",
+      "ex_date": "25-Oct-2018",
+      "ex_date_parsed": "2018-10-25T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Annual General Meeting/ Final Dividend Rs 20.50 Per Shar/ Special Dividend - Rs 10 Per Share",
+      "ex_date": "14-Jun-2018",
+      "ex_date_parsed": "2018-06-14T00:00:00",
+      "amount": 20.5
+    },
+    {
+      "description": " Interim Dividend - Rs 13/- Per Share (Purpose Revised)",
+      "ex_date": "31-Oct-2017",
+      "ex_date_parsed": "2017-10-31T00:00:00",
+      "amount": 13.0
+    }
+  ],
+  "bonuses": [
+    {
+      "description": " Bonus 1:1",
+      "ex_date": "04-Sep-2018",
+      "ex_date_parsed": "2018-09-04T00:00:00",
+      "ratio": "1:1"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

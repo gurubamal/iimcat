@@ -1,0 +1,60 @@
+{
+  "ticker": "RELIANCE",
+  "fetch_time": "2025-11-03T06:17:45.152959",
+  "quarterly": {
+    "data_available": true,
+    "most_recent_quarter": "2025-06-30",
+    "previous_quarter": "2025-03-31",
+    "same_quarter_last_year": "2024-06-30",
+    "revenue_qoq_growth_pct": -6.7929667773577975,
+    "revenue_yoy_growth_pct": 5.111655679425672,
+    "earnings_qoq_growth_pct": 39.09414128922554,
+    "earnings_yoy_growth_pct": 78.31946095917559,
+    "profit_margin_pct": 11.079825310304065,
+    "quarters_available": 6
+  },
+  "annual": {
+    "data_available": true,
+    "most_recent_year": "2025-03-31",
+    "previous_year": "2024-03-31",
+    "revenue_yoy_growth_pct": 7.0615405786936325,
+    "earnings_yoy_growth_pct": 0.03878140216314043,
+    "profit_margin_pct": 7.219706165588431,
+    "years_available": 5
+  },
+  "institutional": {
+    "data_available": false,
+    "institutional_ownership_pct": null,
+    "institutions_count": null,
+    "top_5_holders_pct": null,
+    "ownership_trend": "unknown",
+    "major_holders_data": true
+  },
+  "financial_health": {
+    "data_available": true,
+    "is_profitable": true,
+    "net_worth_positive": true,
+    "debt_to_equity": 0.43830052182163187,
+    "current_ratio": 1.1003510844387827,
+    "roe_pct": 9.717,
+    "roa_pct": 3.9389998000000004,
+    "free_cash_flow_positive": true
+  },
+  "validation": {
+    "quarterly_growth_positive": true,
+    "annual_growth_positive": true,
+    "is_profitable": true,
+    "net_worth_positive": true,
+    "debt_manageable": true,
+    "overall_health": "healthy",
+    "red_flags": [],
+    "green_flags": [
+      "Quarterly earnings up 78.3% Y-o-Y",
+      "Annual earnings up 0.0% Y-o-Y",
+      "Company is profitable",
+      "Net worth is positive",
+      "Healthy debt-to-equity ratio: 0.44"
+    ]
+  },
+  "data_available": true
+}

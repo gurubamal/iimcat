@@ -1,0 +1,12 @@
+cd /home/vagrant/R/essentials && ./run_real_ai_full.sh 
+
+A
+python3 run_swing_paths.py --path ai --top 50 --fresh --hours 48 --auto-apply-config --auto-screener
+
+A
+read all latest news and run an AI scan : understanding, reasoning, and explaining
+      investment decisions based on news comprehension! 🧠
+A
+cd /home/vagrant/R/essentials && python3 frontier_ai_quant_alpha.py --top25 top25_for_frontier_ai.csv --news
+   aggregated_full_articles_48h_20251019_202721.txt --output frontier_ai_results_$(date +%Y%m%d_%H%M%S).csv 2>&1 | tee
+   frontier_ai_run.log

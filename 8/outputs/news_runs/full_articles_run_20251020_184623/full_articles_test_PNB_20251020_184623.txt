@@ -1,0 +1,78 @@
+Full Article Fetch Test - PNB
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-20): 21.20B
+
+Title   : PNB expects GST rate cut to boost credit growth for retail, MSME: MD & CEO Ashok Chandra 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T10:31:38
+Fetched : 2025-10-20T20:18:41.702283
+URL     : https://www.thehindubusinessline.com/money-and-banking/pnb-expects-gst-rate-cut-to-boost-credit-growth-for-retail-msme-md-ceo-ashok-chandra/article70182142.ece
+--------------------------------------------------------------------------------
+Ashok Chandra, Managing Director and Chief Executive Officer of Punjab National Bank (PNB), expects GST rate reduction to boost advances in retail and MSME (Micro, Small and Medium Enterprises) between 1-2 per cent. Talking to businessline after announcing financial results for July-September quarter (Q2 FY26), he also hoped that net interest margin will improve in the ongoing and the next quarter of the current fiscal.
+Excerpts:
+You have projected credit growth of 11-12 per cent and deposit growth of 9-10 per cent. There is a gap of around 2 per cent. How will you fill this gap?
+One is the retail, agri and MSME, the figures which I have given, we are growing at that speed and it is so before the GST cut. Post cut we expect further growth of 1-2 per cent in retail and MSME segment, at least 1 per cent to 2 per cent further growth will be happening in the system now. The challenge was in the corporate loan book. Last quarter, the corporate loan book was growing at around 3-4 per cent, while this quarter, it is 7.9 per cent. And q-o-q corporate loan book has grown by 3 per cent.
+In the last conference after the June results, I had told that there is ₹1.36 lakh crore of sanctions in the book for which the disbursements are going to happen. Now that book has become ₹1.78 lakh crore. Last year, in the full year, whatever total sanctions which we had to get done, this year in this six months itself, we have done, and I have another six months to go, and this is why I am talking about ₹1.78 lakh crore.
+These are not the proposals in pipeline. These are sanctions and I am expecting that definitely the disbursement will happen. In this book we have 40 per cent project loans. PNB, at one point in time, was very active in the project loan financing segment in the country. We want to regain that space, putting a lot of focus on the good quality project loans. Considering disbursement of these sanctions in coming quarters and year, I am expecting that in Q3 corporate loan should touch somewhere from 8 to 9 per cent and in Q4 the growth should be in double digits. All these are expected to take the credit growth to 11-12 per cent during FY26.
+What about funds?
+Funds are available. There is enough liquidity in the system. We could have grown easily by 12 to 13 per cent in the deposit. Under deposit, there is a component of bulk deposit and CD (Certificate of Deposit). We have mindfully totally out from the bulk deposit and CD market. If you can give you the CD, the total deposit which we had in the December, 2024, was 76,000 crore. Today we are at 43,800 crore. During the September quarter of last fiscal, we were at 77,000 crore of CD. We have reduced the dependency on the CD and the bulk deposit, which comes at a very high price and very fluctuating also.
+In the retail term deposit, in this financial year, we have built up around ₹35,000 crore. CASA is a concern and we have not harnessed the full potential. We have grown at 4.7 per cent on yearly basis and 2.6 per cent on quarterly basis. The bank has revamped the entire CASA product range and in the revamped scheme we have mobilised 27 lakh new accounts with ₹18,000 crore of the deposit under the SB individual, the new scheme.
+All those things put together, we have grown at 10 per cent. Deposit is not at all an issue. We have a cushion for the extra. The SLR is also there and against that also we have the cushion to do the borrowing. Keeping all these in mind, if my credit growth happens and deposit is required, definitely we will be in the market and will raise the deposit.
+Which are the key sectors you are looking at for project financing?
+Renewable energy is one of the areas and it champion sector for our bank. We are growing very fast in that. The exposer there has surged to Rs 20,000 crore from Rs 14,000 crore last September. Apart from this, we have got proposals from steel, food process and telecom. We are already in road and power Other than these, we have the data center is coming up very well in India and we have made some inroad in that. We have good exposer in INVIT and REIT now, and we are looking forward for some good proposals. Smart metering happening in many states now and there PNB is very-very active now and got proposals in many of States.
+This year we saw a policy interest rate reduction of 100 basis points. And now if I go by your cost of fund, it has not seen much reduction, what could be the reason?
+In case of deposit, impact of rate reduction comes at a lag. Many of our deposits were one year and above and we had one 400 days special deposit scheme where rate of interest was 7.25 per cent (7.75 per cent for senior citizens). Now all those deposits are maturing and then it goes for the renewal and presently we are paying at 6.4 per cent. The real impact on the cost of deposit we will be able to see in the Q3 and Q4, but with all those things, in June, 2025, our cost of deposit was 5.35 per cent, which has come down to 5.18 per cent. Cost of fund also came down to 4.57 per cent from 4.7 per cent.
+Will this also have an impact on your net interest income as well as the net interest margin?
+Definitely. I am expecting that at least 5 to 7 basis point improvement will happen in the December quarter and 10 to 12 basis point improvement will happen in the Q4, because by that time, my entire deposit will get repriced.
+Published on October 19, 2025
+
+Title   : Indian Bank, PNB and 3 other PSU bank stocks hit 52-week high; gain up to 16% in a month 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T11:21:02
+Fetched : 2025-10-20T20:18:41.702377
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-pnb-and-3-other-psu-bank-stocks-hit-52-week-high-gain-up-to-16-in-a-month/slideshow/124704484.cms
+--------------------------------------------------------------------------------
+On Monday, the benchmark Sensex rose by approximately 411 points, closing at 84,363. Amid the rally, five stocks from the BSE PSU Bank Index surged to their 52-week highs, reaching their highest levels in a year. These breakouts are often viewed by traders and investors as bullish indicators, pointing to strong upward momentum and the potential for continued gains.
+ETMarkets.com
+2/6
+Indian Bank | New 52-week high: Rs 819.55 | CMP: Rs 813.95
+In the last one month, the stock has gained about 16%.
+ETMarkets.com
+3/6
+Bank of Baroda | New 52-week high: Rs 273 | CMP: Rs 271.4
+In the last one month, the stock has gained about 10%.
+ANI
+4/6
+Bank of India | New 52-week high: Rs 130.5 | CMP: Rs 129.75
+In the last one month, the stock has gained about 8%.
+ETMarkets.com
+5/6
+State Bank of India | New 52-week high: Rs 913.4 | CMP: Rs 906.85
+In the last one month, the stock has gained about 6%.
+Agencies
+6/6
+Punjab National Bank | New 52-week high: Rs 119.2 | CMP: Rs 118.1
+In the last one month, the stock has gained about 5%.
+
+Title   : PNB shares rise 2% after Q2FY26 profit climbs 14% YoY. Brokerage raises target price to Rs 122 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T05:43:59
+Fetched : 2025-10-20T20:18:41.702430
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/pnb-shares-rise-2-after-q2fy26-profit-climbs-14-yoy-brokerage-raises-target-price-to-rs-122/articleshow/124700261.cms
+--------------------------------------------------------------------------------
+However, the bank’s net interest income (NII) fell marginally by 0.45% YoY to Rs 10,469 crore, down from Rs 10,517 crore. The global Net Interest Margin (NIM) for the first half of FY26 stood at 2.65%, while for Q2FY26, it was at 2.60%.
+PNB reported an operating profit of Rs 7,227 crore for Q2FY26 and Rs 14,308 crore for the first half (H1FY26), reflecting YoY growth of 5.5% and 6.5%, respectively.
+On the asset quality front, the Gross Non-Performing Assets (GNPA) ratio improved, falling by 103 basis points YoY to 3.45% as of September 2025. The Net NPA (NNPA) ratio declined 10 basis points to 0.36%, while the Provision Coverage Ratio (PCR), including technical write-offs, rose by 24 basis points to 96.91%.
+Return on Assets (RoA) increased slightly to 1.05% in Q2FY26 from 1.02% a year earlier. The bank’s gross global business rose by 10.6% YoY to Rs 27,86,673 crore. Global deposits grew 10.9% YoY to Rs 16,17,080 crore, while global advances were up 10.1% YoY to Rs 11,69,592 crore. Advances in the Retail, Agriculture, and MSME (RAM) segments rose 12.7% to Rs 6,35,417 crore from Rs 5,64,049 crore in the year-ago period.
+Brokerage view
+Brokerage Elara Capital maintained an ‘Accumulate’ rating on PNB with a revised higher target price of Rs 122. It stated that while asset quality remains steady, the trajectory for FY26 will need close monitoring. Elara also noted that PNB’s core performance remains stable but pointed out that limited growth levers continue to be a concern.
+Also read: RIL shares surge 3% as Q2 profit rises 10% YoY. Should you buy, sell or hold?
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

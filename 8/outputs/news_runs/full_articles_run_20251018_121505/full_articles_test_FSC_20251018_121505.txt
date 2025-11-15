@@ -1,0 +1,23 @@
+Full Article Fetch Test - FSC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): -6979065000.00
+
+Title   : IFSCA makes changes in year old listing norms, still waiting for first one
+Source  : www.thehindubusinessline.com
+Published: 2025-10-17T14:09:50
+Fetched : 2025-10-18T12:21:04.957094
+URL     : https://www.thehindubusinessline.com/economy/ifscs-make-changes-in-year-old-listing-norms-still-waiting-for-first-one/article70175555.ece
+--------------------------------------------------------------------------------
+International Financial Services Centres Authority (IFSC) has amended listing norms by increasing the days for validity of financial information and more time for allotment beside others. Experts note though revised norms are according to global norms, liquidity and investor participation are still weak which continues to discourage companies from listing.
+Norms were first notified last August. However, it is yet to see a listing till date.
+According to amended regulations, financial information provided in the offer document shall not be older than 180 days as against 135 days. Second change says the issuer and lead manager(s) will ensure that the specified securities are allotted and the payments and refunds are completed within 8 working days from the date of closing of the issue as against existing timeline of 5 days. Same norm will be for ‘Special Purpose Acquisition Company (SPAC)’ and depository receipts.
+Another change says the listed entity shall disclose its financial statements for first half of the financial year to the recognised stock exchange(s) immediately after the approval of its board of directors, but in any event not later than 45 days after the end of first half year. Earlier, the norm was that the listed entity will disclose the financial statements for each of the first three quarters of its financial year to the recognised stock exchange(s) immediately after the approval of its board of directors, but in any event not later than 45 days after the end of each quarter.
+More opportunities
+According to Vivek Iyer, Partner and Financial Services Risk Advisory Leader, Grant Thornton Bharat, IFSC provides opportunities to organisations to seamlessly participate in the global markets without any capital controls. “The jurisdictions who operate IFSCs need to create an ecosystem where global organisation a fund merit in setting up their businesses,” he said.
+Connecting this purpose with changes, Aditya Cheriyan, Partner at Khaitan & Co, said the regulators have taken significant steps to frame light-touch and pragmatic listing regulations for the IFSC, “broadly aligned with international fundraising frameworks such as NASDAQ.”
+When asked about not a single listing even after one year of regulation, Cheriyan explained that the absence of listings so far is less about regulatory hurdles and more about market depth and awareness. “For IFSC listings to take off, there needs to be stronger marketing by intermediaries, creation of an active investor base that sees value and liquidity in such listings and further strengthening of post-listing disclosure and trading norms to build confidence among issuers and investors,” he said.
+Iyer felt that though listing is an opportunity for global organisation to set up their business, however, no one would want to get into an IFSC and immediately list. They would want to spend some time conducting the business and see how the ecosystem evolves and supports them. “The listing norms have been created from a long-term basis and hence we have not seen any listing happen immediately, because our IFSC is still evolving. We need to demonstrate this reform trajectory consistently and we will see an uptick in the same in the future,” he said.
+Further, listing is also a function of the external environment which has not been the best in the last year, which is why we haven’t seen any of it in the last year as well, Iyer concluded.
+Published on October 17, 2025
+

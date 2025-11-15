@@ -1,0 +1,14 @@
+{
+  "dedup_exponent": 1.2000000000000002,
+  "name_factor_missing": 0.75,
+  "name_factor_short_ticker": 0.6,
+  "magnitude_cap": 0.5,
+  "magnitude_log_divisor": 6.0,
+  "source_bonus": {
+    "reuters.com": 0.03,
+    "livemint.com": 0.02,
+    "economictimes.indiatimes.com": 0.0,
+    "business-standard.com": 0.02,
+    "thehindubusinessline.com": 0.01
+  }
+}

@@ -1,0 +1,847 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-26T06:13:47.391343
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 150
+====================================================================================================
+
+Full Article Fetch Test - 20MICRONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 360ONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3IINFOLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3MINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 3PLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 5PAISA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - 63MOONS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAATECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AADHARHFC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAREYDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTIPHARM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTISURF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVEEDEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAVAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABBOTINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABCAPITAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABDL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABFRL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABLBL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABMINTLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABREL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABSLAMC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-26
+
+Title   : Accenture braces for slowdown and job cuts, says AI's returns ‘underwhelming’
+Source  : www.livemint.com
+Published: 2025-09-25T17:18:17
+Fetched : 2025-09-26T06:14:59.649992
+URL     : https://www.livemint.com/companies/gen-ai-accenture-revenue-headcount-job-cuts-it-technology-wipro-h-1b-visa-trump-infosys-11758810002655.html
+--------------------------------------------------------------------------------
+Bengaluru: Accenture Plc is bracing for slower days ahead even as artificial intelligence (AI) captures its clients' mind space at an unprecedented pace. The consulting giant said AI’s promise has so far outstripped its real-world impact, forcing the company to point towards job cuts.
+“It is well recognized that advanced AI has taken the mind share of CEOs, the C suite and boards faster than any technology development we've seen in the past few decades,” said Julie Sweet, chair and chief executive of Accenture at the company’s post-earnings call with analysts. “At the same time, as reported widely, value realization has been underwhelming for many and enterprise adoption at scale is slow, other than with digital natives.”
+While Accenture navigates the Gen AI uncertainty, on recent policy swings, Sweet said the company is largely unaffected by the changes in the country’s visa policies introduced by US President Donald Trump.
+“This (H-1B) is really a non-issue because we only have about 5% of our people in the US on H-1B visas, and they are for really specialized experience and skills for our clients. So, you know, (this is) not something that is really a big impact on Accenture,” said Sweet.
+On Friday, Trump signed an executive order requiring companies to pay $100,000 annually for every new foreign worker under the H-1B visa, up from about $1,000 earlier. The White House clarified on Sunday that the one-time fee would apply only to new applications, not to existing visa holders. H-1B visas allow highly skilled non-immigrants to work in the US temporarily.
+Accenture ended its September-August financial year with a revenue of $69.7 billion, up 7% from the previous year. This translates to about $4.78 billion in incremental revenue. For perspective, Accenture alone has added more revenue during the year than India's 10 largest IT firms did on a cumulative basis, which was about $3.1 billion for their fiscal year ended March.
+The company’s management said this performance comes in the backdrop of a “bad economic, macro-economic backdrop that did not improve over FY24”. Accenture derives half of its revenue from the US, its biggest market.
+The company said it expects growth to slow down hereon, and guided for a revenue growth of 2-5% in local currency terms for FY26. “From a discretionary perspective, what we've assumed is, at the top end of the range, there's no change in discretionary spend, while at the bottom of the range, it allows for deterioration,” said Angie Park, chief financial officer of Accenture.
+Investors were disappointed with the company's performance; its shares were down 2% at $234.26 as of 9:54 pm IST on the New York Stock Exchange
+Accenture said it had trimmed the company's headcount by 11,000 during June-August to end the year with 779,000 employees. The rise of AI is likely to lead to more job cuts, even as the company believes it will add more people on a net-net basis in the current fiscal year.
+“We’re trying to—in a very compressed timeline where we don't have a viable path for skilling—sort of exiting people, so we can get more of the skills we need,” Sweet said.
+To this effect, the company initiated a six-month business optimization programme and expects costs of $865 million over the six months, primarily severance costs associated with this talent strategy. This also includes the cost of impairment of assets, “mostly related to the divestiture of two acquisitions that are no longer aligned with the company’s strategic priorities”, the company said in its earnings press release.
+As a result of the six-month programme, Accenture expects to save over a billion dollars, which the company said it will reinvest in its business and people.
+In India, top IT service provider Tata Consultancy Services had recently let go 2% of its workforce, or 12,200 employees, in middle and senior roles. TCS attributed its decision to “strategic initiatives on multiple fronts”, including investing in new-tech areas, entering new markets, deploying AI at scale, deepening partnerships, creating next-gen infrastructure and realigning the workforce model.
+Accenture said its Gen-AI bookings during the year totalled $5.9 billion. This takes the total tally of Gen AI orders to $8.9 billion since September 2023. Its current Gen AI orders comprise almost 7.3% of its overall order bookings of $80.6 billion for the year. The company's Gen AI-related revenue for the year totalled $2.7 billion.
+Accenture is the first company in the sector to detail the value of its Gen AI contracts. India's homegrown IT service providers are yet to spell out their revenue or confirmed orders from the new technology.
+Accenture’s dim outlook stokes further uncertainty for India’s five largest software service providers—Tata Consultancy Services Ltd, Infosys Ltd, HCL Technologies Ltd, Wipro Ltd and Tech Mahindra Ltd, that are set to announce their quarterly earnings next month.
+
+Title   : Accel-backed edtech unicorn Vedantu raises $11 mn in internal round, larger secondary round to follow
+Source  : www.livemint.com
+Published: 2025-09-26T05:16:13
+Fetched : 2025-09-26T06:14:59.649992
+URL     : https://www.livemint.com/companies/edtech-vedantu-fundraise-2025-accel-backed-unicorn-ai-in-edtech-11758861029752.html
+--------------------------------------------------------------------------------
+Online tutoring firm Vedantu has raised $11 million from existing investors, including ABC World Asia, Accel India and Omidyar Network India, in a convertible equity round, the company said on Friday.
+The fresh capital, part of a larger ongoing fundraise, will be deployed towards category expansion, both organic and inorganic, alongside investments in technology, AI and adaptive content to improve personalization and learning outcomes, Vedantu said.
+Mint was the first to report in June that Vedantu was in talks to raise $10–15 million from its existing investors through a convertible round as it sought to strengthen its balance sheet and prepare for a potential public listing.
+The funding comes at a time when fresh investments in edtech have slowed, with many companies struggling to reconcile 2020–21 valuation benchmarks with current market conditions.
+Convertible equity allows investors to defer valuation until a priced round or IPO, a structure that has gained traction as startups navigate mismatched valuation expectations following the pandemic-era funding boom.
+Vedantu also said in the statement that it is in advanced talks with external investors for additional capital as well as a secondary share sale aimed at providing exits to some early backers, including Chinese and legacy shareholders.
+Mint also reported in July that Vedantu, among other startups like Udaan, and Pocket FM is looking to offer exits to their Chinese backers as the industry's appeal to ease restrictions on such investments has failed to secure a policy shift.
+Founded in 2011, Vedantu became a unicorn in September 2021 after raising $100 million in a Series E round led by ABC World Asia. It has also regularly tapped venture debt from lenders such as Stride Ventures, Innoven Capital and Alteria Capital.
+Vedantu is targeting a $150–200 million IPO between 2027 and 2028 to provide exits to early investors and raise growth capital, as reported by Mint earlier in March.
+Vedantu, which acquired offline player Deeksha to build a hybrid test-preparation platform, reported its first profitable quarter in Q4 FY25, posting ₹90 crore in collections, a 67% year-on-year increase, along with more than ₹6 crore in free cash flow, it said.
+The company has been expanding its offline presence alongside online tutoring, now operating over 100 hybrid centres and onboarding franchise partners.
+Collections for the April–June 2025 quarter rose to ₹110 crore, keeping the company's cash flow positive for six consecutive months. For FY25 overall, Vedantu’s collections grew about 55% to ₹284 crore, while it cut cash burn by 30%, the company added.
+The company has been on a path to profitability. In FY24, the company reported revenue of around ₹184 crore and reduced losses by 58% to ₹157 crore.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesAccel-backed edtech unicorn Vedantu raises $11 mn in internal round, larger secondary round to follow
+
+Full Article Fetch Test - ACCELYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACCURACY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACEINTEG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACLGATI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACMESOLAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACUTAAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIENSOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIENT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIGREEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIPORTS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADANIPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADFFOODS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADOR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADROITINFO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADVANIHOTR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ADVENZYMES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEGISLOG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEGISVOPAK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEROENTER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AEROFLEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AERONEU
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AETHER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFCONS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-26
+
+Title   : Cyrus Mistry's son Firoz joins Afcons Infrastructure Board, Santosh Nayar named independent director
+Source  : www.livemint.com
+Published: 2025-09-25T15:22:23
+Fetched : 2025-09-26T06:15:54.226704
+URL     : https://www.livemint.com/companies/news/cyrus-mistrys-son-firoz-joins-afcons-infrastructure-board-santosh-nayar-named-independent-director-11758809570546.html
+--------------------------------------------------------------------------------
+Firoz Cyrus Mistry, the son of the late Tata Group chairperson Cyrus P Mistry, has become a member of the Afcons Infrastructure board, indicating a growing engagement of the next generation of the Shapoorji Pallonji family in the group's infrastructure and construction operations.
+Afcons Infrastructure is the flagship engineering and construction company of the Shapoorji Pallonji Group.
+Firoz, 29, has been appointed as a non-executive director, the company informed in an filing. Additionally, veteran banker Santosh Balachandran Nayar has been appointed as an independent director on the Afcons board.
+According to the filing, Mistry is on the boards of SC Finance and Investments Pvt Ltd and Cyrus Investments Pvt Ltd, and is a designated partner in CPM Nexgen Ventures LLP and Mistry Ventures LLP.
+Firoz is the eldest son of Cyrus Mistry, the youngest heir of the Shapoorji Pallonji Group, who died in a fatal car accident on September 4, 2022. His sons inherited a share of the family's 18.4 per cent stake in Tata Sons. Firoz studied at Yale University.
+The filing said his liberal arts education from Yale University has provided him with critical thinking skills, analytical capabilities, and a broad interdisciplinary perspective valuable for business decision-making.
+It added that at 29, Mistry offers a next-generation leadership outlook, blending new insights with a forward-thinking strategic approach while staying true to the Shapoorji Pallonji Group’s values of trust and collaboration.
+Santosh Balachandran Nayar has over four decades of experience in project finance, banking, and insurance, the company said.
+He has held several senior leadership roles, such as Deputy Managing Director and Group Executive (Corporate Banking) at the State Bank of India, Managing Director and CEO at IFCI Limited, and Chairman and Managing Director at India Infrastructure Finance Company Limited.
+Nayar currently serves as an independent director on the boards of several companies in the power, finance, and infrastructure sectors.
+Last month, Pallon Mistry, 32, son of Shapoor Pallonji Mistry, who was previously inducted on the board of the group holding company joined the board of Afcons.
+Afcons executive chairman Krishnamurthy Subramanian said, "We are delighted to welcome Firoz Mistry and Santosh Nayar to our Board. Their entry marks their passionate involvement in shaping Afcons' future".
+Subramanian added that Firoz and Pallon have had long-standing involvement with the company in their personal capacities.
+He mentioned that their diverse experiences, international exposure, and unique understanding of the infrastructure business will offer new perspectives and insights to the Board. He also noted that the active involvement of young Mistry family members, alongside seasoned professionals, will help drive Afcons toward a renewed growth path.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsCyrus Mistry's son Firoz joins Afcons Infrastructure Board, Santosh Nayar named independent director
+
+Title   : Pharma stocks, HAL, Unified Data, Supreme Petrochem, Fabtech Tech, RITES, Solarium Green, NTPC Green, Kothari Industrial, Afcons Infra, Ceigall to remain in focus on Friday
+Source  : www.thehindubusinessline.com
+Published: 2025-09-26T02:20:59
+Fetched : 2025-09-26T06:15:54.226704
+URL     : https://www.thehindubusinessline.com/markets/pharma-stocks-hal-unified-data-supreme-petrochem-fabtech-tech-rites-solarium-green-ntpc-green-kothari-industrial-afcons-infra-ceigall-to-remain-in-focus-on-friday/article70096220.ece
+--------------------------------------------------------------------------------
+Pharma stocks may come under pressure following the US President Donald Trump’s announcement on Thursday that up to 100% tariff would be imposed on imports of branded and patented pharmaceutical products from October 1. “Starting October 1st, 2025, we will be imposing a 100% tariff on any branded or patented pharmaceutical product, unless a Company IS BUILDING their Pharmaceutical Manufacturing Plant in America,” Trump said on Truth Social.
+The Defence Ministry signed a contract with Hindustan Aeronautics Ltd (HAL) for procurement of 97 Light Combat Aircraft (LCA) Mk1A, including 68 fighters and 29 twin seaters, along with associated equipment, for the Indian Air Force, at a cost of over ₹62,370 crore (excluding taxes), on September 25, 2025. The delivery of these aircraft would commence during 2027-28 and would be completed over a period of six years.
+Unified Data-Tech Solutions Ltd has received a purchase order worth of ₹27.61 crore for supply of new product, software licence, installation, and integration within 2 months with a 5-year warranty.
+Supreme Petrochem Ltd’s two new lines of ABS compounding, having an installed capacity of 20,000 TPA at its Amdoshi facility, have been commissioned and the plant commenced production on September 25.
+Fabtech Technologies Cleanrooms has secured orders across key industry sectors: solar and electronics sector - orders worth ₹6.97 crore; pharmaceutical sector - orders worth ₹5.31 crore; data centres - orders worth ₹5 crore; and laboratory and animal house projects - orders worth ₹2.60 crore.
+RITES has received a letter of award from Talis Logistics, South Africa for “Supply and commissioning of Overhauled in-service Cape Gauge ALCO Diesel Electric Locomotives”. The order value is $18 million (CIF). The project is supported by a robust vendor base of nearly 105 Indian companies directly engaged in the manufacture of detailed components. Production is expected to generate close to 11,750 direct and indirect jobs annually for six years, giving a major boost to the domestic aerospace ecosystem.
+Solarium Green Energy Ltd has received a Notification of Award of approximately ₹4,34,70,663 exclusive of GST from NTPC Vidyut Vyapar Nigam Ltd (NVVN)for 1320 kW Rooftop Solar Project at AIIMS-Rishikesh, Uttarakhand.
+NTPC Green Energy Ltd has announced that part capacity of 25 MW of the total installed capacity of the 37.5 MW (Solar) Project located in Bhuj, Gujarat of Ayana Renewable Power Four Private Ltd, a subsidiary of Ayana Renewable Power Pvt. Ltd., a wholly-owned subsidiary of ONGC NTPC Green, has commenced commercial operations w.e.f. 27.09.2025.
+Kothari Industrial Corporation Ltd has entered into a Memorandum of Understanding (MoU) with Accademia IUAD, Italy, a reputed Design University, for establishing a joint venture in India. The objective is to collaborate on establishing a training centre of international standards in Tamil Nadu, initially dedicated to the footwear and fashion accessories sectors, with the possibility of subsequent extension to other departments consistent with IUAD’S educational offering and providing specialised training and education in the field of design, fashion, and related disciplines through a structured programme. This strategic tie-up is expected to leverage the academic expertise of Accademia IUAD and the business capabilities of the company to promote skill development and professional opportunities in the sector.
+Firoz Cyrus Mistry, son of the late Cyrus Mistry, and veteran banker Santosh Balachandran Nayar have joined the board of Afcons Infrastructure, the engineering and construction company of the Shapoorji Pallonji Group.
+CIL-JSPPPL, the joint venture between Ceigall India Ltd (CIL) and JSP Projects Pvt. Ltd (JSPPPL), in which CIL holds 80 per cent share and Jthe SPPPL 20 per cent share, has received a Letter of Award from Greater Mohali Area Development Authority (GMADA) for the construction of an internal road in Pocket B, C & D of Aerotropolis S.A.S Nagar (Civil, Public Health and Elect. Works). Tender cCost is Rs. 509,20,80,359.
+Published on September 26, 2025
+
+Full Article Fetch Test - AFFLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFFORDABLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AFSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGARIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGARWALEYE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGIIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGRITECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGROPHOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGSTRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLADA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLEAST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHLUCONT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIAENG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIRAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AIROLAM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJANTPHARM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJAXENGG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJMERA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AJOONI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHARCHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKSHOPTFBR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKUMS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKZOINDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALANKIT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALBERTDAVD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALEMBICLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALICON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALIVUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKALI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALKYLAMINE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLCARGO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLDIGI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALLTIME
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALMONDZ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALOKINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPHAGEO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPSINDUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBICAAGAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBIKCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBUJACEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMDIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMJLAND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMNPLST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMRUTANJAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANANDRATHI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANANTRAJ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANDHRAPAP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANDHRSUGAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANGELONE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANIKINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANKITMETAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANMOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANSALAPI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANTGRAPHIC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANTHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANUHPHR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANUP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANURAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APARINDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APCOTEXIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APLAPOLLO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLOHOSP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLOPIPE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLLOTYRE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APOLSINHOT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APTECHT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APTUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARCHIDPLY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARCHIES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARE&M
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARENTERP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARFIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARIES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARIHANTCAP
+================================================================================
+
+(no fresh items in last 48h)
+

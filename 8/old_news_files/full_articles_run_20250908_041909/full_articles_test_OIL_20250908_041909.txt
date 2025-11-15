@@ -1,0 +1,21 @@
+Full Article Fetch Test - OIL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-08
+
+Title   : Oil steadies as traders weigh OPEC+’s modest increase to output
+Source  : www.thehindubusinessline.com
+Published: 2025-09-08T03:45:09
+Fetched : 2025-09-08T05:22:32.925156
+URL     : https://www.thehindubusinessline.com/markets/commodities/oil-steadies-as-traders-weigh-opecs-modest-increase-to-output/article70024629.ece
+--------------------------------------------------------------------------------
+Oil steadied after OPEC+ agreed on Sunday to raise production at a modest rate next month, highlighting some caution from the group as the market faces a glut toward the end of the year.
+Brent traded below $66 a barrel, while West Texas Intermediate was near $62. The October increase will start the return of cuts that were scheduled to remain in place until the end of 2026, and follows the rapid return of idled barrels over recent months. Traders had initially expected the group to pause.
+Still, futures fell last week on signs the output boost was coming, limiting the downside at the open of trading on Monday. The Organization of the Petroleum Exporting Countries and its partners will add 137,000 barrels a day in October, much smaller than the increments scheduled for the previous two months.
+The impending glut is still expected to hang over the market. Early last month, the International Energy Agency predicted the surplus would reach a record next year, which Goldman Sachs Group Inc. forecasts will push Brent to the low-$50s a barrel. The global benchmark is down more than 10% this year, with US trade tariffs also weighing on the outlook for energy demand.
+The “lack of any selling pressure” at the open speaks to a market that had driven prices lower ahead of the OPEC+ decision, said Chris Weston, the head of research at Pepperstone Group in Melbourne. Brent at $65 a barrel also represents “the range lows and the technical floor,” he added.
+OPEC+ said adding the remainder of the 1.66 million barrels of cuts will be contingent on “evolving market conditions,” and increases could be reversed. The faster-than-expected return of idled barrels over recent months stunned sections of the oil market, though prices have held up reasonably well.
+The market will be monitoring whether boosting production quotas will translate into higher exports from OPEC+. Some members such as Kazakhstan are facing pressure to compensate for earlier oversupply and forgo their output hikes, while several others producers lack spare capacity.
+More stories like this are available on bloomberg.com
+Published on September 8, 2025
+

@@ -1,0 +1,3 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+RELIANCE,DATA-ISSUE,DATA-ISSUE,,0,0,NONE,0,0,0,0,0,,Symbol not found or data unavailable (verify mapping; try .BO)
+TCS,DATA-ISSUE,DATA-ISSUE,,0,0,NONE,0,0,0,0,0,,Symbol not found or data unavailable (verify mapping; try .BO)

@@ -1,0 +1,332 @@
+2025-10-22 17:41:08,809 - INFO - Reading news from: aggregated_full_articles_48h_20251021_220636.txt
+2025-10-22 17:41:08,837 - INFO - 📰 News file size: 647223 bytes
+2025-10-22 17:41:08,840 - INFO - 📊 Found 2976 company sections
+2025-10-22 17:41:08,841 - INFO - ✅ GLOBAL: 3 headlines extracted
+2025-10-22 17:41:08,842 - INFO - ✅ KORE: 2 headlines extracted
+2025-10-22 17:41:08,844 - INFO - ✅ TRU: 8 headlines extracted
+2025-10-22 17:41:08,844 - INFO - ✅ BIL: 2 headlines extracted
+2025-10-22 17:41:08,846 - INFO - ✅ STEL: 1 headlines extracted
+2025-10-22 17:41:08,846 - INFO - ✅ TRUST: 4 headlines extracted
+2025-10-22 17:41:08,846 - INFO - ✅ URBAN: 2 headlines extracted
+2025-10-22 17:41:08,846 - INFO - ✅ YATRA: 2 headlines extracted
+2025-10-22 17:41:08,847 - INFO - ✅ ATL: 1 headlines extracted
+2025-10-22 17:41:08,851 - INFO - ✅ BFSI: 1 headlines extracted
+2025-10-22 17:41:08,851 - INFO - ✅ CLEAN: 1 headlines extracted
+2025-10-22 17:41:08,856 - INFO - ✅ DOLLAR: 1 headlines extracted
+2025-10-22 17:41:08,856 - INFO - ✅ EDELWEISS: 1 headlines extracted
+2025-10-22 17:41:08,856 - INFO - ✅ EMBASSY: 1 headlines extracted
+2025-10-22 17:41:08,857 - INFO - ✅ GNA: 2 headlines extracted
+2025-10-22 17:41:08,857 - INFO - ✅ IT: 4 headlines extracted
+2025-10-22 17:41:08,857 - INFO - ✅ PREMIUM: 1 headlines extracted
+2025-10-22 17:41:08,857 - INFO - ✅ PROV: 1 headlines extracted
+2025-10-22 17:41:08,857 - INFO - ✅ RAIN: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ STAR: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ SUMIT: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ TECH: 3 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ ADANIENT: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ BEL: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ BPCL: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ CIPLA: 1 headlines extracted
+2025-10-22 17:41:08,858 - INFO - ✅ ITC: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ NTPC: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ OIL: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ ONGC: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ PAYTM: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ PNB: 1 headlines extracted
+2025-10-22 17:41:08,859 - INFO - ✅ RELIANCE: 5 headlines extracted
+2025-10-22 17:41:08,860 - INFO - ✅ TATAMOTORS: 1 headlines extracted
+2025-10-22 17:41:08,860 - INFO - ✅ TATASTEEL: 1 headlines extracted
+2025-10-22 17:41:08,860 - INFO - ✅ UPL: 1 headlines extracted
+2025-10-22 17:41:08,860 - INFO - 
+================================================================================
+2025-10-22 17:41:08,860 - INFO - 📊 NEWS EXTRACTION SUMMARY
+2025-10-22 17:41:08,860 - INFO - ================================================================================
+2025-10-22 17:41:08,860 - INFO - ✅ Companies with news: 36
+2025-10-22 17:41:08,860 - INFO - ⚠️  Companies marked 'no fresh items': 2940
+2025-10-22 17:41:08,860 - INFO - ❌ Companies skipped (no headlines found): 0
+2025-10-22 17:41:08,860 - INFO - 📰 Total headlines extracted: 62
+2025-10-22 17:41:08,860 - INFO - ================================================================================
+
+2025-10-22 17:41:08,861 - INFO - Found news for 36 companies
+2025-10-22 17:41:08,861 - INFO - [AI+Quant] Analyzing TRU with 8 headlines...
+2025-10-22 17:41:08,861 - INFO -   📰 Processing 8 headlines for TRU
+2025-10-22 17:41:08,862 - INFO -     [5/8] Analyzed: Tata Trusts reappoints Venu Srinivasan as trustee; Mistry up...
+2025-10-22 17:41:08,863 - INFO - [AI+Quant] Analyzing RELIANCE with 5 headlines...
+2025-10-22 17:41:08,863 - INFO -   📰 Processing 5 headlines for RELIANCE
+2025-10-22 17:41:08,864 - INFO -     [5/5] Analyzed: Reliance grabs Mideast oil as Russian flows scrutinized...
+2025-10-22 17:41:08,864 - INFO - [AI+Quant] Analyzing TRUST with 4 headlines...
+2025-10-22 17:41:08,865 - INFO -   📰 Processing 4 headlines for TRUST
+2025-10-22 17:41:08,865 - INFO - [AI+Quant] Analyzing IT with 4 headlines...
+2025-10-22 17:41:08,865 - INFO -   📰 Processing 4 headlines for IT
+2025-10-22 17:41:08,866 - INFO - [AI+Quant] Analyzing GLOBAL with 3 headlines...
+2025-10-22 17:41:08,866 - INFO -   📰 Processing 3 headlines for GLOBAL
+2025-10-22 17:41:08,866 - INFO - [AI+Quant] Analyzing TECH with 3 headlines...
+2025-10-22 17:41:08,867 - INFO -   📰 Processing 3 headlines for TECH
+2025-10-22 17:41:08,867 - INFO - [AI+Quant] Analyzing KORE with 2 headlines...
+2025-10-22 17:41:08,867 - INFO -   📰 Processing 2 headlines for KORE
+2025-10-22 17:41:08,868 - INFO - [AI+Quant] Analyzing BIL with 2 headlines...
+2025-10-22 17:41:08,868 - INFO -   📰 Processing 2 headlines for BIL
+2025-10-22 17:41:08,868 - INFO - [AI+Quant] Analyzing URBAN with 2 headlines...
+2025-10-22 17:41:08,869 - INFO -   📰 Processing 2 headlines for URBAN
+2025-10-22 17:41:08,869 - INFO - [AI+Quant] Analyzing YATRA with 2 headlines...
+2025-10-22 17:41:08,869 - INFO -   📰 Processing 2 headlines for YATRA
+2025-10-22 17:41:08,869 - INFO - [AI+Quant] Analyzing GNA with 2 headlines...
+2025-10-22 17:41:08,869 - INFO -   📰 Processing 2 headlines for GNA
+2025-10-22 17:41:08,870 - INFO - [AI+Quant] Analyzing STEL with 1 headlines...
+2025-10-22 17:41:08,870 - INFO -   📰 Processing 1 headlines for STEL
+2025-10-22 17:41:08,870 - INFO - [AI+Quant] Analyzing ATL with 1 headlines...
+2025-10-22 17:41:08,870 - INFO -   📰 Processing 1 headlines for ATL
+2025-10-22 17:41:08,870 - INFO - [AI+Quant] Analyzing BFSI with 1 headlines...
+2025-10-22 17:41:08,870 - INFO -   📰 Processing 1 headlines for BFSI
+2025-10-22 17:41:08,870 - INFO - [AI+Quant] Analyzing CLEAN with 1 headlines...
+2025-10-22 17:41:08,871 - INFO -   📰 Processing 1 headlines for CLEAN
+2025-10-22 17:41:08,871 - INFO - [AI+Quant] Analyzing DOLLAR with 1 headlines...
+2025-10-22 17:41:08,871 - INFO -   📰 Processing 1 headlines for DOLLAR
+2025-10-22 17:41:08,871 - INFO - [AI+Quant] Analyzing EDELWEISS with 1 headlines...
+2025-10-22 17:41:08,871 - INFO -   📰 Processing 1 headlines for EDELWEISS
+2025-10-22 17:41:08,871 - INFO - [AI+Quant] Analyzing EMBASSY with 1 headlines...
+2025-10-22 17:41:08,872 - INFO -   📰 Processing 1 headlines for EMBASSY
+2025-10-22 17:41:08,872 - INFO - [AI+Quant] Analyzing PREMIUM with 1 headlines...
+2025-10-22 17:41:08,872 - INFO -   📰 Processing 1 headlines for PREMIUM
+2025-10-22 17:41:08,872 - INFO - [AI+Quant] Analyzing PROV with 1 headlines...
+2025-10-22 17:41:08,872 - INFO -   📰 Processing 1 headlines for PROV
+2025-10-22 17:41:08,872 - INFO - [AI+Quant] Analyzing RAIN with 1 headlines...
+2025-10-22 17:41:08,872 - INFO -   📰 Processing 1 headlines for RAIN
+2025-10-22 17:41:08,873 - INFO - [AI+Quant] Analyzing STAR with 1 headlines...
+2025-10-22 17:41:08,873 - INFO -   📰 Processing 1 headlines for STAR
+2025-10-22 17:41:08,873 - INFO - [AI+Quant] Analyzing SUMIT with 1 headlines...
+2025-10-22 17:41:08,873 - INFO -   📰 Processing 1 headlines for SUMIT
+2025-10-22 17:41:08,874 - INFO - [AI+Quant] Analyzing ADANIENT with 1 headlines...
+2025-10-22 17:41:08,874 - INFO -   📰 Processing 1 headlines for ADANIENT
+2025-10-22 17:41:08,874 - INFO - [AI+Quant] Analyzing BEL with 1 headlines...
+2025-10-22 17:41:08,874 - INFO -   📰 Processing 1 headlines for BEL
+2025-10-22 17:41:08,875 - INFO - [AI+Quant] Analyzing BPCL with 1 headlines...
+2025-10-22 17:41:08,875 - INFO -   📰 Processing 1 headlines for BPCL
+2025-10-22 17:41:08,875 - INFO - [AI+Quant] Analyzing CIPLA with 1 headlines...
+2025-10-22 17:41:08,875 - INFO -   📰 Processing 1 headlines for CIPLA
+2025-10-22 17:41:08,875 - INFO - [AI+Quant] Analyzing ITC with 1 headlines...
+2025-10-22 17:41:08,875 - INFO -   📰 Processing 1 headlines for ITC
+2025-10-22 17:41:08,875 - INFO - [AI+Quant] Analyzing NTPC with 1 headlines...
+2025-10-22 17:41:08,876 - INFO -   📰 Processing 1 headlines for NTPC
+2025-10-22 17:41:08,876 - INFO - [AI+Quant] Analyzing OIL with 1 headlines...
+2025-10-22 17:41:08,876 - INFO -   📰 Processing 1 headlines for OIL
+2025-10-22 17:41:08,876 - INFO - [AI+Quant] Analyzing ONGC with 1 headlines...
+2025-10-22 17:41:08,876 - INFO -   📰 Processing 1 headlines for ONGC
+2025-10-22 17:41:08,876 - INFO - [AI+Quant] Analyzing PAYTM with 1 headlines...
+2025-10-22 17:41:08,876 - INFO -   📰 Processing 1 headlines for PAYTM
+2025-10-22 17:41:08,877 - INFO - [AI+Quant] Analyzing PNB with 1 headlines...
+2025-10-22 17:41:08,877 - INFO -   📰 Processing 1 headlines for PNB
+2025-10-22 17:41:08,877 - INFO - [AI+Quant] Analyzing TATAMOTORS with 1 headlines...
+2025-10-22 17:41:08,877 - INFO -   📰 Processing 1 headlines for TATAMOTORS
+2025-10-22 17:41:08,877 - INFO - [AI+Quant] Analyzing TATASTEEL with 1 headlines...
+2025-10-22 17:41:08,877 - INFO -   📰 Processing 1 headlines for TATASTEEL
+2025-10-22 17:41:08,878 - INFO - [AI+Quant] Analyzing UPL with 1 headlines...
+2025-10-22 17:41:08,878 - INFO -   📰 Processing 1 headlines for UPL
+2025-10-22 17:41:08,880 - INFO - 
+✅ Results saved to: frontier_real_ai_20251022_174058.csv
+
+====================================================================================================
+🤖 FRONTIER AI + REAL AI INTEGRATED ANALYSIS
+====================================================================================================
+
+Features:
+  ✅ Real AI news understanding (context + reasoning)
+  ✅ Enhanced certainty calculation (6-component)
+  ✅ Investment recommendations with confidence
+  ✅ Risk/opportunity identification
+
+====================================================================================================
+
+
+[1/36] Analyzing TRU...
+  ⭐⭐⭐ ACCUMULATE - Score: 55.4/100
+  Sentiment: BULLISH, Action: watch
+
+[2/36] Analyzing RELIANCE...
+  ❌ SELL - Score: 23.8/100
+  Sentiment: MIXED, Action: hold
+
+[3/36] Analyzing TRUST...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[4/36] Analyzing IT...
+  ⭐⭐ HOLD - Score: 52.7/100
+  Sentiment: BULLISH, Action: buy
+
+[5/36] Analyzing GLOBAL...
+  ⭐⭐ HOLD - Score: 53.2/100
+  Sentiment: BULLISH, Action: hold
+
+[6/36] Analyzing TECH...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[7/36] Analyzing KORE...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[8/36] Analyzing BIL...
+  ⭐⭐ HOLD - Score: 54.2/100
+  Sentiment: BULLISH, Action: watch
+
+[9/36] Analyzing URBAN...
+  ❌ SELL - Score: 24.0/100
+  Sentiment: MIXED, Action: hold
+
+[10/36] Analyzing YATRA...
+  ❌ SELL - Score: 28.8/100
+  Sentiment: MIXED, Action: hold
+
+[11/36] Analyzing GNA...
+  ❌ SELL - Score: 22.2/100
+  Sentiment: MIXED, Action: watch
+
+[12/36] Analyzing STEL...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[13/36] Analyzing ATL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[14/36] Analyzing BFSI...
+  ❌ SELL - Score: 26.5/100
+  Sentiment: MIXED, Action: hold
+
+[15/36] Analyzing CLEAN...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 84.1/100
+  Sentiment: BULLISH, Action: buy
+
+[16/36] Analyzing DOLLAR...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[17/36] Analyzing EDELWEISS...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[18/36] Analyzing EMBASSY...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[19/36] Analyzing PREMIUM...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[20/36] Analyzing PROV...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 82.3/100
+  Sentiment: BULLISH, Action: watch
+
+[21/36] Analyzing RAIN...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[22/36] Analyzing STAR...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 88.1/100
+  Sentiment: BULLISH, Action: buy
+
+[23/36] Analyzing SUMIT...
+  ⭐⭐⭐ ACCUMULATE - Score: 57.0/100
+  Sentiment: MIXED, Action: watch
+
+[24/36] Analyzing ADANIENT...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[25/36] Analyzing BEL...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 77.2/100
+  Sentiment: BULLISH, Action: buy
+
+[26/36] Analyzing BPCL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[27/36] Analyzing CIPLA...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[28/36] Analyzing ITC...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[29/36] Analyzing NTPC...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[30/36] Analyzing OIL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[31/36] Analyzing ONGC...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[32/36] Analyzing PAYTM...
+  ⭐⭐⭐⭐⭐ STRONG BUY - Score: 84.1/100
+  Sentiment: BULLISH, Action: buy
+
+[33/36] Analyzing PNB...
+  ❌ SELL - Score: 21.5/100
+  Sentiment: MIXED, Action: watch
+
+[34/36] Analyzing TATAMOTORS...
+  ❌ SELL - Score: 23.0/100
+  Sentiment: MIXED, Action: watch
+
+[35/36] Analyzing TATASTEEL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+[36/36] Analyzing UPL...
+  ❌ SELL - Score: 20.0/100
+  Sentiment: MIXED, Action: watch
+
+====================================================================================================
+🏆 TOP 10 PICKS
+====================================================================================================
+
+22. STAR - STRONG BUY
+   Score: 88.1 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+15. CLEAN - STRONG BUY
+   Score: 84.1 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+32. PAYTM - STRONG BUY
+   Score: 84.1 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+20. PROV - STRONG BUY
+   Score: 82.3 | Sentiment: bullish
+   Catalysts: foreign_investment
+
+25. BEL - STRONG BUY
+   Score: 77.2 | Sentiment: bullish
+   Catalysts: earnings_beat
+
+3. TRUST - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+12. STEL - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+17. EDELWEISS - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+23. SUMIT - ACCUMULATE
+   Score: 57.0 | Sentiment: mixed
+   Catalysts: management_change
+
+1. TRU - ACCUMULATE
+   Score: 55.4 | Sentiment: bullish
+   Catalysts: foreign_investment, management_change
+
+====================================================================================================
+✅ Analysis Complete!
+====================================================================================================
+

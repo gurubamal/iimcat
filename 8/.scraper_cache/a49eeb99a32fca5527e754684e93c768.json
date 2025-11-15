@@ -1,0 +1,33 @@
+{
+  "ticker": "SENCO",
+  "fetch_time": "2025-11-13T07:44:49.534056",
+  "dividends": [
+    {
+      "description": "Dividend - Re 1 Per Sh",
+      "ex_date": "20-Aug-2025",
+      "ex_date_parsed": "2025-08-20T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Re 1 Per Share",
+      "ex_date": "06-Sep-2024",
+      "ex_date_parsed": "2024-09-06T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Interim Dividend - Re 1 Per Share",
+      "ex_date": "21-Nov-2023",
+      "ex_date_parsed": "2023-11-21T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share",
+      "ex_date": "31-Jan-2025",
+      "ex_date_parsed": "2025-01-31T00:00:00"
+    }
+  ],
+  "data_available": true
+}

@@ -1,0 +1,124 @@
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-20): 269.94B
+
+Title   : Reliance to start solar power generation from Kutch project in H1 FY27
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T08:22:12
+Fetched : 2025-10-20T16:49:37.530547
+URL     : https://www.thehindubusinessline.com/companies/reliance-to-start-solar-power-generation-from-kutch-project-in-h1-fy27/article70182075.ece
+--------------------------------------------------------------------------------
+Reliance Industries will commence solar power generation in the first half of the next financial year from its mega renewable energy project in Kutch, Gujarat, a site spread over an area nearly three times the size of Singapore.
+The project is part of the oil-to-telecom conglomerate's broader push towards clean energy and achieving net-zero carbon emissions by 2035.
+In an investor presentation post announcement of its second quarter earnings, Reliance said project development across the 5,50,000-acre site in Kutch is progressing well, with engineering and feasibility studies completed, and the site is currently in various stages of land development.
+"Expected to start commissioning solar generation during the first half of the next year for captive requirements plus green fuels production," it said.
+Four years ago, Reliance Chairman and Managing Director Mukesh Ambani announced a $10 billion investment in a 'new energy' business. That was seen as a notable change of tide, given the conglomerate's mega-scale petroleum refining operation that Ambani spearheaded back in the 1990s.
+With that, Reliance began work on a new integrated renewable energy manufacturing hub named after the group's founder - the Dhirubhai Ambani Green Energy Giga Complex.
+At the company's annual shareholder meeting this year, Anant Ambani gave a glimpse into its scale. A build area four times the size of Tesla's gigafactory, a steel order large enough to build 100 Eiffel Towers and a stretch of cables enough to 'reach the moon and back'.
+The gigafactories at Jamnagar - home to the company's refining and petrochemical complex - will produce gears used in generating electricity from sunlight and the battery value chain. Alongside, in Kutch, it is developing one of the world's largest single-site solar projects spanning 5,50,000 acres of arid land - three times the size of Singapore.
+Reliance's clean energy plans span solar PV, battery storage, green hydrogen and sustainable aviation fuel.
+The firm is on track to set up 20GWp of solar PV manufacturing capacity and 100GWh of battery giga-factory. Reliance has also pledged to produce 3 million tonnes per annum of green hydrogen by 2032, while manufacturing equipment like electrolysers, battery storage and solar panels in-house.
+Solar photovoltaic giga-factory expansion
+In the investor presentation, the company said it continues to gradually expand its solar photovoltaic giga-factory. "Already commissioned 4 PV module lines, and the first cell line is expected to be commissioned soon," Reliance said, adding that it is on track to achieve its targeted capacity and further expand in a modular fashion.
+The PV solar manufacturing chain includes production of polysilicon - high-purity silicon produced from metallurgical grade silicon (sand). This is followed by ingot and wafer creation - polysilicon being melted and cooled to form ingots (either monocrystalline cylinders or multicrystalline blocks). These ingots are then sliced into thin wafers, which form the base of the solar cell.
+Then comes the cell manufacturing - silicon wafers are processed through various steps, including doping, cleaning, and coating. Laser scribing is used to pattern the cells, and copper ribbons are applied for electrical connections.
+Multiple cells are connected together and laminated between sheets of glass and encapsulant to create a waterproof module, or panel. These modules are then assembled into arrays with racking systems, which are support structures for mounting them on areas receiving sunlight.
+With sunlight being available only during daytime, Reliance is also setting up gigafactories for the battery value chain to provide round-the-clock power.
+"The work on Battery Energy Storage giga-factory is progressing at a rapid pace," the firm said, adding it has achieved significant construction and engineering progress on-site for 40 GWh manufacturing capacity, and production line equipment is on track for installation on the foundation.
+More Like This
+Published on October 19, 2025
+
+Title   : Gainers & Losers: RIL,  South Indian Bank among 7 stocks that moved most today. Here’s why 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T11:33:19
+Fetched : 2025-10-20T16:49:37.531446
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/gainers-amp-losers-ril-south-indian-bank-among-7-stocks-that-moved-most-today-heres-why/slideshow/124704547.cms
+--------------------------------------------------------------------------------
+D-Street Newsmakers India’s benchmark indices Nifty and Sensex ended with strong gains on Diwali with firBoth indices hit their fresh 52-week highs today with the broader Nifty index closing at 25,843.15, up 133.30 points or 0.52%, Sensex finished at 84,363.37, gaining 411.18 points or 0.49%.eworks by index heavyweight Reliance Industries (RIL).  Here are 6 stocks that saw action today:
+
+Title   : Base-effect saves RIL Q2; a dilemma is now coming to the fore
+Source  : www.livemint.com
+Published: 2025-10-20T00:10:05
+Fetched : 2025-10-20T16:49:37.531470
+URL     : https://www.livemint.com/companies/reliance-q2-dilemma-jio-reliance-retail-dark-store-quick-commerce-e-commerce-o2c-crude-oil-grasim-sebi-ipo-11760871995185.html
+--------------------------------------------------------------------------------
+Base-effect saves RIL Q2; a dilemma is now coming to the fore
+Reliance Industries' Q2 FY26 consolidated performance was heavily aided by a low base in O2C, retail and Jio Platforms.
+Reliance Industries Ltd (RIL) sailed through the September quarter (Q2FY26) buoyed by a favourable base in the oil to chemicals (O2C), retail and telecom (Jio Platforms Ltd) businesses. Among them, the performance of the O2C segment is critical for RIL’s outlook as the other two prepare for listing.
+The O2C saw a multi-quarter low Ebitda in Q2FY25, both in absolute terms and per tonne of crude oil throughput (quantity of crude oil processed). This helped a year-on-year revival in Q2FY26. However, O2C saw 5% sequential decline in Ebitda/tonne of crude oil processed in Q2FY26. Crude oil throughput or volume was up 9% sequentially to 20.8 million tonnes, but it led to just 3% growth in absolute Ebitda as the higher procurement price of crude oil, including shipping costs, is likely to have impacted the per tonne margin adversely. Overall, RIL’s consolidated Ebitda rose 17.5% year-on-year to ₹45,885 crore.
+With Q2FY26 earnings out of the way, investors may encounter a dilemma—which is the holding company discount. Jio Platforms’ listing is likely in the first half of 2026, which may be followed by Reliance Retail's listing. So, those looking to invest in these verticals may directly buy respective stocks instead of RIL shares. RIL holds a 66% stake in Jio Platforms, and it could fall to about 63% post listing, assuming minimum dilution of 2.5% as per the Securities and Exchange Board of India (Sebi’s) revised norms for listing.
+Investment conundrum
+For perspective, Grasim Industries holds a 56% stake in UltraTech Cement, which would not be much different from RIL’s stake in Jio Platforms after listing. Brokerages such as Motilal Oswal Financial Services and ICICI Securities have applied a discount of 35-40% to the valuation of UltraTech while calculating the sum-of-the-parts (SoTP) for Grasim. Now, there is a possibility that RIL’s stake in Jio Platforms too could be valued after applying some holding company discount, as is being done for Grasim. There is an argument being made for no or lower holding company discount in view of Jio Platforms’ small public issue size after Sebi’s relaxation of norms. But it does not have any merit as there could be enough liquidity, as private equity investors who hold about 16% stake in Jio Platforms could consider selling post listing.
+Meanwhile, Reliance Retail was undergoing restructuring of operations in Q2FY25, wherein it fine-tuned B2B operations and shut down unprofitable stores. Thus, leading to about 4% revenue decline in that quarter. In this backdrop, the 19% year-on-year rise in revenue to ₹79,128 crore in Q2FY26 appears to be impressive. Nevertheless, Reliance Retail is tackling competition by reaching 600 dark stores. Compared to Blinkit, which is closing in on 2,000 dark stores, this number may appear small. But Reliance Retail’s dark stores are complementary to its vast network of 20,000 stores spread across all cities, unlike the concentrated stores of quick commerce companies, mainly in big cities. This could give Reliance Retail an edge over other quick-commerce and E-commerce companies.
+Further, Jio’s average revenue per user (Arpu), though up by just 1% sequentially, rose 8% year-on-year to ₹211 as the tariff hike in July 2024 began to gradually increase Arpu from Q2FY25 onward. The management has no intention of raising tariffs further any time soon. This could lead to slower Arpu growth in H2FY26 and consequently lower Ebitda. Meanwhile, in 2025 so far, the RIL stock is up 16% versus 8% returns by the benchmark index Nifty 50, Jio Platform’s IPO remains a key near-term event for the stock.
+
+Title   : Market Wrap: Sensex jumps 411 pts, Nifty tops 25,800 as Reliance, HDFC Bank rally post-earnings 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T10:16:33
+Fetched : 2025-10-20T16:49:37.531914
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-411-pts-nifty-tops-25800-as-reliance-hdfc-bank-rally-post-earnings-on-diwali-2025/articleshow/124703535.cms
+--------------------------------------------------------------------------------
+The S&P BSE Sensex surged 411.18 points, or 0.49%, to close at 84,363.37, while the NSE Nifty 50 rose 133.30 points, or 0.52%, to settle at 25,843.15.
+On the 30-stock Sensex, Reliance Industries, Bajaj Finserv, Axis Bank, SBI, and TCS led the gains, advancing between 1.8% and 3.5%.
+Reliance Industries jumped 3.5% to a three-month high after its September-quarter results, as analysts turned upbeat on the conglomerate’s core earnings, retail momentum, and improving outlook across businesses.
+HDFC Bank ended little changed after touching a record high earlier in the session, buoyed by steady quarterly earnings and an improvement in asset quality.
+ICICI Bank slipped 3.2%, even as it topped profit estimates, with investors flagging concerns over muted loan and deposit growth.
+Broader markets also firmed, with the mid-cap index up 0.8% and small-caps rising 0.5%.
+The Sensex and Nifty have now climbed 2.8% over four sessions, leaving them less than 2% below their record highs from September 2024.
+Indian markets will hold a special one-hour Muhurat trading session on Tuesday, from 2:30 p.m. to 3:30 p.m. IST, to mark Diwali.
+Expert views
+The Indian market extended its positive momentum, driven by better-than-expected Q2 results from major companies and festival optimism and positive global cues further bolstered investor sentiment, with easing trade narratives between the US-China and rise in European market led by defense stocks, said Vinod Nair, Head of Research at Geojit Investments, adding that improved FII inflows in the cash market turned the domestic market into a net buyer in October, following three consecutive months of selling."PSU banks and mid-sized financial services led the charge, benefiting from potential acquisitions and improvement in margins & asset quality as per Q2 results. The oil industry also experienced notable gains, thanks to declining crude prices and a strengthening Indian rupee," said Nair.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Robust retail, O2C performance support Reliance’s quarterly growth: Sudip Bandyopadhyay 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T04:59:52
+Fetched : 2025-10-20T16:49:37.531946
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/robust-retail-o2c-performance-support-reliances-quarterly-growth-sudip-bandyopadhyay/articleshow/124699667.cms
+--------------------------------------------------------------------------------
+Telecom Business Remains a Key Driver
+Sudip Bandyopadhyay, Group Chairman, Inditrade Capital in an interview to ET Now said: “Telecom has performed well. ARPU met expectations, and customer additions are happening at a scorching pace, even outpacing Bharti Airtel. This segment will remain a core pillar of Reliance’s financials.”
+Stock Reaction and Market Outlook
+When asked about potential market reaction, Bandyopadhyay noted: “Overall, the results are in line with expectations. O2C and retail segments performed well, supported by the festive season and GST relief. ARPU rose as expected. Any comments from management on the Jio listing will guide broker reports and market reaction.”
+Jio Listing: Unlocking Shareholder Value
+On the upcoming Jio listing, likely in the first half of next year, he added: “There are two possible routes: a separate IPO or a demerger like Jio Financial Services. Either way, Jio is a fast-growing business with huge scope for value creation. We’ll have to wait and see how management proceeds.”
+O2C, Digital, and FMCG Segments
+Regarding O2C and digital services, Bandyopadhyay said: “O2C delivered as expected, though the segment is volatile due to global crude price changes. Digital and FMCG numbers will be interesting to watch, especially since FMCG is now a separate subsidiary. The new energy business is also worth monitoring.”
+New Energy and Capex Plans
+On Reliance’s 75,000 crore new energy capex, he commented: “It’s too early to expect major announcements. Any commentary on performance or value unlocking will be closely watched by the market and brokers.”
+Long-Term Investor Perspective
+Bandyopadhyay concluded with advice for investors: “Reliance is a fantastic company with all growth levers in place. Investors should take a three- to five-year view. Value unlocking across telecom, retail, FMCG, and new energy will happen over time. Stay invested and be patient.”
+Reliance Industries’ diversified business model, strong telecom and retail performance, and future growth prospects make it a key focus for long-term investors looking at sustained value creation.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Mcap: 7 of top-10 most valued firms surges by ₹2.16 lakh cr; Reliance, Airtel biggest gainers
+Source  : www.thehindubusinessline.com
+Published: 2025-10-19T07:43:10
+Fetched : 2025-10-20T16:49:37.531996
+URL     : https://www.thehindubusinessline.com/markets/mcap-7-of-top-10-most-valued-firms-surges-by-216-lakh-cr-reliance-airtel-biggest-gainers/article70182056.ece
+--------------------------------------------------------------------------------
+The combined market valuation of seven of the top-10 most valued firms surged by ₹2,16,544.29 crore last week, with Reliance Industries and Bharti Airtel stealing the limelight, in tandem with an optimistic trend in equities.
+Last week, the BSE benchmark jumped 1,451.37 points or 1.75 per cent.
+From the top-10 pack, Reliance Industries, HDFC Bank, Bharti Airtel, ICICI Bank, State Bank of India, Bajaj Finance and Hindustan Unilever were the gainers, while Tata Consultancy Services (TCS), Infosys and Life Insurance Corporation of India (LIC) faced erosion from their valuation.
+The market valuation of Reliance Industries jumped ₹47,363.65 crore to ₹19,17,483.71 crore, the most among the top-10 firms.
+Bharti Airtel added ₹41,254.73 crore taking its valuation to ₹11,47,235.08 crore.
+The market capitalisation (mcap) of ICICI Bank surged by ₹40,123.88 crore to ₹10,26,491.35 crore and that of HDFC Bank rallied ₹33,185.59 crore to ₹15,40,210.78 crore.
+The valuation of Bajaj Finance climbed ₹28,903.45 crore to ₹6,65,899.19 crore.
+The mcap of Hindustan Unilever edged higher by ₹17,774.65 crore to ₹6,12,009.78 crore and that of State Bank of India went up by ₹7,938.34 crore to ₹8,20,924.98 crore.
+However, the valuation of Infosys dropped by ₹30,306.35 crore to ₹5,98,773.87 crore.
+The mcap of TCS declined by ₹23,807.01 crore to ₹10,71,894.61 crore and that of LIC dipped by ₹7,684.87 crore to ₹5,60,173.42 crore.
+Reliance Industries remained the most valued firm followed by HDFC Bank, Bharti Airtel, TCS, ICICI Bank, State Bank of India, Bajaj Finance, Hindustan Unilever, Infosys and LIC.
+More Like This
+Published on October 19, 2025
+

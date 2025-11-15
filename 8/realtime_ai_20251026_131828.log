@@ -1,0 +1,257 @@
+2025-10-26 13:18:28,657 - INFO - AI provider configured: Heuristic
+2025-10-26 13:18:29,196 - INFO - ✅ Frontier AI components loaded
+2025-10-26 13:18:29,196 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 13:18:34,950 - INFO - 🚀 Starting real-time collection + analysis for 10 tickers
+2025-10-26 13:18:34,950 - INFO -    Time window: 48 hours
+2025-10-26 13:18:34,950 - INFO -    Max articles per ticker: 10
+2025-10-26 13:18:34,950 - INFO - [1/10] Processing RELIANCE...
+2025-10-26 13:18:34,950 - INFO - 📰 Fetching news for RELIANCE (last 48h)
+2025-10-26 13:18:37,512 - INFO - ✅ Found 6 recent articles for RELIANCE
+2025-10-26 13:18:37,512 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,512 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:18:37,512 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,517 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,517 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,517 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,517 - INFO -    Headline: FIIs pull back, LIC and retail step in: Reliance Q2 shareholding pattern reveals...
+2025-10-26 13:18:37,517 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,517 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,517 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,518 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,518 - INFO -    Headline: Facebook to hold 30% in Reliance’s AI venture; both companies to jointly invest ...
+2025-10-26 13:18:37,518 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,518 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,518 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,518 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,518 - INFO -    Headline: Reliance partners with Meta's Facebook to develop AI services, plans to set up 7...
+2025-10-26 13:18:37,518 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,519 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,519 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,519 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,519 - INFO -    Headline: Jury is out on how big a hole will Russian oil leave in Reliance's margins...
+2025-10-26 13:18:37,519 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,519 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,520 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,520 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:37,520 - INFO -    Headline: Reliance Industries says assessing implications of EU, UK, and US curbs on Russi...
+2025-10-26 13:18:37,520 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:37,520 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:37,520 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:37,520 - INFO - [2/10] Processing TCS...
+2025-10-26 13:18:37,520 - INFO - 📰 Fetching news for TCS (last 48h)
+2025-10-26 13:18:38,754 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 13:18:38,755 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-26 13:18:38,755 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:18:38,755 - INFO - Using heuristic analyzer for TCS (no external AI configured).
+2025-10-26 13:18:38,756 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:38,756 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:38,756 - INFO - [3/10] Processing HDFCBANK...
+2025-10-26 13:18:38,756 - INFO - 📰 Fetching news for HDFCBANK (last 48h)
+2025-10-26 13:18:39,924 - INFO - ℹ️  No recent news for HDFCBANK
+2025-10-26 13:18:39,924 - INFO - [4/10] Processing ICICIBANK...
+2025-10-26 13:18:39,924 - INFO - 📰 Fetching news for ICICIBANK (last 48h)
+2025-10-26 13:18:41,426 - INFO - ℹ️  No recent news for ICICIBANK
+2025-10-26 13:18:41,427 - INFO - [5/10] Processing INFY...
+2025-10-26 13:18:41,427 - INFO - 📰 Fetching news for INFY (last 48h)
+2025-10-26 13:18:42,714 - INFO - ℹ️  No recent news for INFY
+2025-10-26 13:18:42,714 - INFO - [6/10] Processing ITC...
+2025-10-26 13:18:42,714 - INFO - 📰 Fetching news for ITC (last 48h)
+2025-10-26 13:18:44,258 - INFO - ℹ️  No recent news for ITC
+2025-10-26 13:18:44,258 - INFO - [7/10] Processing SBIN...
+2025-10-26 13:18:44,258 - INFO - 📰 Fetching news for SBIN (last 48h)
+2025-10-26 13:18:45,762 - INFO - ℹ️  No recent news for SBIN
+2025-10-26 13:18:45,762 - INFO - [8/10] Processing BHARTIARTL...
+2025-10-26 13:18:45,762 - INFO - 📰 Fetching news for BHARTIARTL (last 48h)
+2025-10-26 13:18:47,148 - INFO - ℹ️  No recent news for BHARTIARTL
+2025-10-26 13:18:47,148 - INFO - [9/10] Processing MARUTI...
+2025-10-26 13:18:47,149 - INFO - 📰 Fetching news for MARUTI (last 48h)
+2025-10-26 13:18:48,635 - INFO - ✅ Found 2 recent articles for MARUTI
+2025-10-26 13:18:48,635 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 13:18:48,635 - INFO -    Headline: Motilal Oswal sees Maruti Suzuki, Endurance Technologies as top bets in post-GST...
+2025-10-26 13:18:48,635 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 13:18:48,636 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:48,636 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:48,636 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 13:18:48,636 - INFO -    Headline: Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment...
+2025-10-26 13:18:48,636 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 13:18:48,636 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:48,636 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:48,636 - INFO - [10/10] Processing WIPRO...
+2025-10-26 13:18:48,636 - INFO - 📰 Fetching news for WIPRO (last 48h)
+2025-10-26 13:18:50,086 - INFO - ℹ️  No recent news for WIPRO
+2025-10-26 13:18:50,086 - INFO - 
+✅ Collection complete!
+2025-10-26 13:18:50,086 - INFO -    Total articles: 9
+2025-10-26 13:18:50,086 - INFO -    Successfully analyzed: 9
+2025-10-26 13:18:50,087 - INFO - ✅ Results saved to: realtime_ai_stage1_20251026_131828.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/10] Processing RELIANCE...
+   📰 Analyzing 6 article(s)...
+
+[2/10] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+[3/10] Processing HDFCBANK...
+   ℹ️  No recent articles found
+
+[4/10] Processing ICICIBANK...
+   ℹ️  No recent articles found
+
+[5/10] Processing INFY...
+   ℹ️  No recent articles found
+
+[6/10] Processing ITC...
+   ℹ️  No recent articles found
+
+[7/10] Processing SBIN...
+   ℹ️  No recent articles found
+
+[8/10] Processing BHARTIARTL...
+   ℹ️  No recent articles found
+
+[9/10] Processing MARUTI...
+   📰 Analyzing 2 article(s)...
+
+[10/10] Processing WIPRO...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 99.2/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. MARUTI - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+3. TCS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 9
+   Results saved: realtime_ai_stage1_20251026_131828.csv
+2025-10-26 13:18:50,825 - INFO - No external AI keys detected; falling back to heuristic scoring.
+2025-10-26 13:18:50,826 - INFO - AI provider configured: Heuristic
+2025-10-26 13:18:51,306 - INFO - ✅ Frontier AI components loaded
+2025-10-26 13:18:51,307 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 13:18:48,725 - INFO - 🌐 Internet check: OK | Remote AI: NO | AI endpoint reachable: N/A
+2025-10-26 13:18:48,725 - INFO - 🚀 Starting real-time collection + analysis for 3 tickers
+2025-10-26 13:18:48,725 - INFO -    Time window: 48 hours
+2025-10-26 13:18:48,725 - INFO -    Max articles per ticker: 3
+2025-10-26 13:18:48,725 - INFO - [1/3] Processing RELIANCE...
+2025-10-26 13:18:48,725 - INFO - 📰 Fetching news for RELIANCE (last 48h)
+2025-10-26 13:18:55,886 - INFO - ✅ Found 3 recent articles for RELIANCE
+2025-10-26 13:18:55,886 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:55,886 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:18:55,886 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:55,896 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:55,896 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:55,896 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:55,896 - INFO -    Headline: FIIs pull back, LIC and retail step in: Reliance Q2 shareholding pattern reveals...
+2025-10-26 13:18:55,896 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:55,898 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:55,898 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:55,898 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:18:55,898 - INFO -    Headline: Facebook to hold 30% in Reliance’s AI venture; both companies to jointly invest ...
+2025-10-26 13:18:55,898 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:18:55,900 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:55,900 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:55,900 - INFO - [2/3] Processing MARUTI...
+2025-10-26 13:18:55,900 - INFO - 📰 Fetching news for MARUTI (last 48h)
+2025-10-26 13:18:57,130 - INFO - ✅ Found 2 recent articles for MARUTI
+2025-10-26 13:18:57,130 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 13:18:57,130 - INFO -    Headline: Motilal Oswal sees Maruti Suzuki, Endurance Technologies as top bets in post-GST...
+2025-10-26 13:18:57,130 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 13:18:57,131 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:57,131 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:57,131 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 13:18:57,131 - INFO -    Headline: Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment...
+2025-10-26 13:18:57,131 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 13:18:57,132 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:57,132 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:57,132 - INFO - [3/3] Processing TCS...
+2025-10-26 13:18:57,132 - INFO - 📰 Fetching news for TCS (last 48h)
+2025-10-26 13:18:58,335 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 13:18:58,335 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-26 13:18:58,335 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:18:58,335 - INFO - Using heuristic analyzer for TCS (no external AI configured).
+2025-10-26 13:18:58,335 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:18:58,335 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:18:58,335 - INFO - 
+✅ Collection complete!
+2025-10-26 13:18:58,335 - INFO -    Total articles: 6
+2025-10-26 13:18:58,335 - INFO -    Successfully analyzed: 6
+2025-10-26 13:18:58,336 - INFO - ✅ Results saved to: realtime_ai_analysis_20251026_131828.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/3] Processing RELIANCE...
+   📰 Analyzing 3 article(s)...
+
+[2/3] Processing MARUTI...
+   📰 Analyzing 2 article(s)...
+
+[3/3] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 98.3/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 3
+
+2. MARUTI - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+3. TCS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 6
+   Results saved: realtime_ai_analysis_20251026_131828.csv

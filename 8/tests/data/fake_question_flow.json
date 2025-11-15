@@ -1,0 +1,65 @@
+{
+  "ANALYZER": [
+    {
+      "task_clarity_score": 60,
+      "technical_completeness_score": 50,
+      "should_ask_questions": true,
+      "identified_gaps": ["Need environment details"],
+      "assumptions_made": [],
+      "next_state": "QUESTIONING",
+      "reasoning": "Missing DB selection"
+    }
+  ],
+  "QUESTIONING": [
+    {
+      "summary": "Need DB selection",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "Which database should we target?",
+          "priority": "CRITICAL",
+          "type": "TECHNICAL",
+          "context": "Impacts ORM and migrations",
+          "default_answer": null,
+          "dependencies": []
+        }
+      ],
+      "can_proceed_without_answers": false
+    }
+  ],
+  "PLANNING": [
+    {
+      "task_summary": "Implement persistence",
+      "approach": "Use selected DB",
+      "assumptions": ["Networking available"],
+      "steps": [
+        {
+          "id": "S1",
+          "description": "Set up schema",
+          "rationale": "Foundation",
+          "dependencies": [],
+          "estimated_duration": "10 minutes",
+          "validation_criteria": ["Schema applied"],
+          "risks": ["Permissions"],
+          "rollback_strategy": "Drop schema"
+        }
+      ],
+      "success_criteria": ["DB reachable"],
+      "risks": ["Secrets storage"],
+      "estimated_total_duration": "10 minutes",
+      "confidence": 88
+    }
+  ],
+  "CRITIC": [
+    {
+      "approved": true,
+      "confidence": 80,
+      "concerns": [],
+      "suggestions": [],
+      "missing_steps": [],
+      "unnecessary_steps": [],
+      "risk_assessment": "LOW",
+      "recommendation": "APPROVE"
+    }
+  ]
+}

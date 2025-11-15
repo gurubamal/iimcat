@@ -1,0 +1,20 @@
+Full Article Fetch Test - NAZARA
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 1.29B INR
+
+Title   : Broker’s call: Nazara Technologies (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-09-04T11:06:40
+Fetched : 2025-09-05T03:25:34.269706
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-nazara-technologies-buy/article70011788.ece
+--------------------------------------------------------------------------------
+Target: ₹1,400
+CMP: ₹1,106.95
+Nazara Technologies is well-positioned to benefit from the rapidly-expanding global and India gaming markets. India, despite being the second-largest (500Mn+) gamers’ base, remains under-monetised; In-App Purchases (IAP) conversion being less than 3 per cent and Average Revenue Per User (ARPU) of $8–9 as compared with $17–18 in China.
+These offer significant upside as structural tailwinds (digital payments, 5G, Gen Z engagement) drive monetisation.
+Nazara’s global pivot, through acquisitions, such as Fusebox and ZeptoLab IPs, enhances exposure to high-ARPU markets, while leveraging cost-efficient Indian development and hybrid monetisation models. With IAP mix expected to rise, from 19 per cent to about 35 per cent by FY28E, and freemium business registering double-digit growth, Nazara stands to scale up rapidly across casual, narrative and premium genres.
+We initiate coverage on Nazara with a Buy rating and a 1-year forward SOTP-based TP of ₹1,400. We expect Revenue/ EBITDA to expand at a CAGR of 30.7/44.5 per cent over FY25-FY28E, driven by gaming-first focus and ramp-up of recent acquisitions.
+Key risks: Regulatory headwinds in RMG, sub-scale presence beyond Nodwin and weak/ underperforming IPs impacting overall engagement and profitability
+Published on September 4, 2025
+

@@ -1,0 +1,37 @@
+Full Article Fetch Test - BLS
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Staffing Crisis Unfolds at BLS With a Third of Leadership Jobs Now Vacant
+Source  : www.livemint.com
+Published: 2025-09-09T10:18:16
+Fetched : 2025-09-10T03:26:22.436311
+URL     : https://www.livemint.com/companies/news/staffing-crisis-unfolds-at-bls-with-a-third-of-leadership-jobs-now-vacant-11757413096850.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Help is wanted at the Bureau of Labor Statistics — a lot of help.
+A third of high-level roles at the agency that produces marquee numbers on US jobs and inflation are vacant, according to the BLS website. While the commissioner role has been temporarily filled, a range of other leadership positions that oversee various aspects of employment statistics and regional field operations sit empty.
+Many of those staffers, who had been at the agency for decades, took the Trump administration’s deferred resignation offers in recent months, according to people familiar with the matter. That presented a challenge for the agency of roughly 2,000 career employees even before President Donald Trump fired the commissioner last month.
+“When you don’t have leaders to help prioritize and to identify which things you’re going to do, and you have less bandwidth, then what falls behind are improvements,” said Erica Groshen, who served as BLS commissioner during the Obama administration. Those could include efforts like modernizing surveys and boosting response rates, she added.
+Such issues have been at the heart of why the agency has been under so much scrutiny lately. Though a lack of leadership isn’t the root cause of these challenges, it does make it more difficult for the BLS to implement necessary reforms and training.
+Trump cited outsize revisions and the need for more accurate BLS data when he dismissed the agency’s head, Erika McEntarfer, last month. While those adjustments were unusually large, revisions to jobs data are routine as the agency collects more responses over time.
+“For years the BLS has been failing America’s businesses, policymakers, and families by publishing jobs reports with vastly inaccurate data. The prior leadership at the BLS did not take any action to increase response rates or modernize data collection methods to improve the agency’s accuracy,” Taylor Rogers, a White House spokeswoman, said in a statement. “These problems have existed for years and President Trump is actually taking steps to fix them.”
+In addition to the revisions the BLS publishes each month, the data is also subject to an annual adjustment in which the figures are benchmarked to a more accurate but less timely series. A preliminary estimate of that revision due Tuesday may mark down job growth in the year through March by roughly 800,000 or more, some economists say.
+‘High Priority’
+Filling senior roles will be a “very high priority” for the next commissioner as the BLS needs leaders to make hiring decisions, said Groshen, who also co-chairs a BLS advocacy group. Total staffing is down around 20% since Trump took office, she said.
+But with a federal hiring freeze in place until Oct. 15, it’s unclear whether those lower-level positions, like those responsible for data collection and analysis, will be filled anytime soon.
+The administration is taking steps to fill the commissioner role — the only political appointee at the BLS — and has picked EJ Antoni for the position. Antoni currently serves as chief economist at the Heritage Foundation and is awaiting a Senate confirmation hearing. William Wiatrowski, a long-time BLS veteran, is serving as commissioner in the interim.
+The July jobs report, released Aug. 1, showed sizable downward revisions to the prior two months — the biggest since the pandemic. To Ron Hetrick, who oversaw the monthly employment statistics program at the BLS in the 1990s, those deserved more than the statement’s mere mention that they were “larger than normal” and that they were due to additional responses and the recalculation of seasonal factors.
+“I thought BLS needed to own up to the fact that it did an incredibly poor job of explaining what was going on. I was explaining it on their behalf,” said Hetrick, who’s now principal economist at Lightcast, a provider of labor market data. “That just didn’t seem right to me.”
+Not only is the BLS grappling with the departure of experienced personnel, it’s also lost a number of junior staff with technical skills due to Trump’s firing of probationary employees, Groshen said.
+Some of these issues predate the Trump administration, with inflation-adjusted funding declining over many years.
+“The integrity of BLS data came under fire following significant revisions in the Biden administration, and those who are pointing the finger now are the same ones who have consistently complained about a lack of resources for years without making any effort to improve their practices,” said Courtney Parella, a spokesperson for the Department of Labor, which oversees the BLS.
+With less institutional knowledge than usual and Trump’s termination of voluntary advisory committees to the BLS and other government agencies, it’s unclear where the next set of directives will come from to protect and enhance the nation’s gold standard economic data.
+“There is a very particular culture in the BLS that they worked very hard to promote. And that depends a lot on leadership — leading by example and training,” said Groshen. “And when you have a lot of people being thrust into roles that they haven’t been prepared for and trained for for a long time, it’s a risk.”
+--With assistance from Adrienne Tong and Jade Khatib.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

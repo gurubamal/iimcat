@@ -1,0 +1,74 @@
+{
+  "ANALYZER": [
+    {
+      "task_clarity_score": 60,
+      "technical_completeness_score": 50,
+      "should_ask_questions": true,
+      "identified_gaps": ["VR headset type unclear", "Content source unclear"],
+      "assumptions_made": [],
+      "next_state": "QUESTIONING",
+      "reasoning": "Need clarification on setup"
+    }
+  ],
+  "QUESTIONING": [
+    {
+      "summary": "Need clarification on VR setup",
+      "questions": [
+        {
+          "id": "Q1",
+          "text": "What type of VR headset do you have?",
+          "priority": "CRITICAL",
+          "type": "TECHNICAL",
+          "context": "Different headsets need different apps",
+          "default_answer": "Google Cardboard",
+          "dependencies": []
+        },
+        {
+          "id": "Q2",
+          "text": "Where are your movies stored?",
+          "priority": "CRITICAL",
+          "type": "REQUIREMENT",
+          "context": "Determines streaming vs transfer approach",
+          "default_answer": "On the laptop",
+          "dependencies": []
+        }
+      ],
+      "can_proceed_without_answers": false
+    }
+  ],
+  "PLANNING": [
+    {
+      "task_summary": "Set up VR movie viewing",
+      "approach": "Use streaming app",
+      "assumptions": ["WiFi available"],
+      "steps": [
+        {
+          "id": "S1",
+          "description": "Install streaming app",
+          "rationale": "Required for playback",
+          "dependencies": [],
+          "estimated_duration": "10 minutes",
+          "validation_criteria": ["App installed"],
+          "risks": ["Compatibility issues"],
+          "rollback_strategy": "Uninstall app"
+        }
+      ],
+      "success_criteria": ["Can stream movies"],
+      "risks": ["Network issues"],
+      "estimated_total_duration": "30 minutes",
+      "confidence": 85
+    }
+  ],
+  "CRITIC": [
+    {
+      "approved": true,
+      "confidence": 85,
+      "concerns": [],
+      "suggestions": [],
+      "missing_steps": [],
+      "unnecessary_steps": [],
+      "risk_assessment": "LOW",
+      "recommendation": "APPROVE"
+    }
+  ]
+}

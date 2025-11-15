@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+BSE,BSE LIMITED,49.4,35,1,Certainty 35% below threshold (40%),Groww IPO Allotment Today Live: How to check allotment status on BSE & MUFG. GMP,This article focuses entirely on Groww's IPO allotment process and only mentions BSE as the platform where investors can check their allotment status.

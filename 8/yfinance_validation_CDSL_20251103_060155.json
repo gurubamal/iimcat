@@ -1,0 +1,42 @@
+{
+  "ticker": "CDSL",
+  "validation_time": "2025-11-03T06:01:54.084902",
+  "status": "PASS",
+  "issues_count": 0,
+  "warnings_count": 0,
+  "issues": [],
+  "warnings": [],
+  "data": {
+    "price": {
+      "current": 1587.199951171875,
+      "source": "fast_info",
+      "previous_close": 1613.0,
+      "day_high": 1619.0,
+      "day_low": 1569.0999755859375,
+      "change": -25.800048828125,
+      "change_pct": -1.5995070569203347,
+      "timestamp": "2025-11-03T06:01:55.559946"
+    },
+    "technical": {
+      "current_price": 1587.199951171875,
+      "rsi_14": 44.924258917702865,
+      "sma_20": 1592.1400085449218,
+      "price_vs_sma20_pct": -0.3102778239686074,
+      "sma_50": 1551.610009765625,
+      "price_vs_sma50_pct": 2.293742704819625,
+      "volume_current": 2101693,
+      "volume_avg_20d": 1958204,
+      "volume_ratio": 1.0732757358317313,
+      "momentum_10d_pct": -1.495692727979351
+    },
+    "info": {
+      "longName": "Central Depository Services (India) Limited",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "marketCap": 332519014400,
+      "trailingPE": 67.27273,
+      "dividendYield": 0.79
+    },
+    "historical_data_points": 128
+  }
+}

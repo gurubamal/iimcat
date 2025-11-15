@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+COFORGE,COFORGE LIMITED,40.4,2,1,Certainty 2% below threshold (40%),"IT sector stabilising; Motilal Oswal sees 16–33% upside in HCL Tech, Coforge ","Detected 2 catalyst(s). Risks: Regulatory/probe risk, FX/currency risk, Geopolitical risk. Evidence: Regulatory/probe risk: IT sector stabilising; Mot"
+HINDALCO,HINDALCO INDUSTRIES LIMITED,38.2,8,1,Certainty 8% below threshold (40%),"Hindalco faces ₹5,700-crore hit as US Novelis plant fire disrupts output","Detected 2 catalyst(s). Risks: FX/currency risk. Evidence: FX/currency risk: Hindalco faces ₹5,700-crore hit as US Novelis plant fire disrupts output "

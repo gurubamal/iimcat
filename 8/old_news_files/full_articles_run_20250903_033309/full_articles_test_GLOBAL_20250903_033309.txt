@@ -1,0 +1,48 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : Semicon India 2025: Global semiconductor giants welcome India’s move to support the industry
+Source  : www.thehindubusinessline.com
+Published: 2025-09-02T15:11:19
+Fetched : 2025-09-03T04:00:16.412478
+URL     : https://www.thehindubusinessline.com/info-tech/semicon-india-2025-global-semiconductor-giants-welcome-indias-move-to-support-the-industry/article70004912.ece
+--------------------------------------------------------------------------------
+Updated - September 02, 2025 at 09:10 PM.
+|
+New Delhi
+Global semiconductor ecosystem firms such as ASML, Lam Research, Applied Materials and Micron have welcomed India’s move to open up manufacturing facilities and said they are ready to work hand-in-hand to shape the future of technology from India.
+Christophe Fouquet, Chief Executive Officer, ASML (Netherlands-based firm that develops and manufactures photolithography machines, which are essential for producing advanced microchips in the world) said that countries around the world are racing to secure their technological future and the company applauds India’s ambition to emerge as a leader in this space, “an innovation powerhouse unleashing the potential of a billion minds”.
+“It is not only an opportunity for economic growth and job creation, but also important for national resilience. By developing semiconductor manufacturing and design capability, India can secure its supply chains, foster innovation and entrepreneurship, and a lot new opportunities in research and education,” he said.
+Similarly, Tim Archer, President and CEO, Lam Research, said that the company was committed to drive in the success of its customers and as the industry grows towards the $1 trillion market (globally) and beyond, it will continue to invest in technology, talent and supply chain around the world including here in India.
+“We see India laying a foundation for a resilient semiconductor ecosystem. The future of the Indian semiconductor industry is bright. This is an emerging market with a deep talent pool and the government is actively enabling progress through incentives and policy,” Archer added.
+Kai Beckmann, CEO at Merck, a Germany-based advanced materials and solutions provider said with advancements in artificial intelligence (AI), quantum computing, robotics and other emerging tech, India’s semiconductor industry is poised for growth.
+“In these challenging times, we need not less but collaborate more.. .the semiconductor industry is a team sport and we can only be successful together. India will not only contribute to the global semiconductor industry, but will play a key role in shaping our digital future,” he said.
+The company has been operating for 57 years in India with over 4,500 employees and several manufacturing sites through its three biz sectors — electronics, life science and healthcare — vital enablers of India’s strategic industries like semiconductor and biotech, he informed.
+Similarly, Prabhu Raja, President, Semiconductor Product Group at Applied Materials said that the rise of AI and to reach its full potential, the semiconductor industry needs to solve fundamental problems which is how to innovate more powerful and energy efficient semiconductors.
+“This is where innovations in semiconductor will play a critical role. This is the highest-value problem the industry needs to solve, and Applied Materials and India have an essential role to play in making this possible. Part of the challenge is about competing on where the chips are made, and the ‘Make in India’ mission focuses on bringing chip manufacturing in India... we believe invent in India can make this possible,” he said.
+Meanwhile, Ajit Manocha, President and CEO of Semiconductor Equipment and Materials International (SEMI), said that the current geopolitical issues may have some impact, but the semiconductor industry will continue its work to shape up the semiconductor ecosystem in India.
+“The geopolitical issues will have an impact but we cannot be bogged down by any of those issues and we need to keep going in this exponential path in an unprecedented way,” he added.
+From the government’s side also, critical semiconductor production projects may continue to get up to 70 per cent of total project cost as incentive from the Centre as well as States, said S Krishnan, Secretary, Ministry of Electronics and IT.
+Krishnan said that the government is looking to expand benefits under the design linked incentive to support larger domestic companies as well as enhance grants provided under it.
+He said the support that India provides for semiconductor projects is unprecedented and a total of around $30 billion in incentive and various other benefits is under implementation. Centre has been giving 50 per cent capital support while the State government gives additional incentives of around 20 per cent, of the total project cost.
+Published on September 2, 2025
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Sign into Unlock benefits!
+- Access 10 free stories per month
+- Access to comment on every story
+- Sign up/Manage to our newsletters
+- Get notified by email for early preview to new features, discounts & offers
+Looks like you are already logged in from more than 5 devices!
+To continue logging in, remove at least one device from the below list
+
+Title   : Global chip firms expect India to play key role in shaping semicon future; commit support
+Source  : www.livemint.com
+Published: 2025-09-02T16:13:19
+Fetched : 2025-09-03T04:00:16.412478
+URL     : https://www.livemint.com/companies/news/global-chip-firms-expect-india-to-play-key-role-in-shaping-semicon-future-commit-support-11756829600483.html
+--------------------------------------------------------------------------------
+"The story of India's rise can take a historical look at what happened here with software development. There was affordable and industry-relevant talent that was created by focusing on the workforce and creating a transformative IT services industry. When you look at what has happened in recent years with the focus of the government to do the exact same, of creating focus on talent for semiconductors, focus on talent for AI," Papermaster said.
+

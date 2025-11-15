@@ -1,0 +1,33 @@
+{
+  "ticker": "SULA",
+  "fetch_time": "2025-11-11T12:38:18.973956",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 3.60 Per Share",
+      "ex_date": "23-May-2025",
+      "ex_date_parsed": "2025-05-23T00:00:00",
+      "amount": 3.6
+    },
+    {
+      "description": "Dividend - Rs 4.50 Per Share",
+      "ex_date": "22-May-2024",
+      "ex_date_parsed": "2024-05-22T00:00:00",
+      "amount": 4.5
+    },
+    {
+      "description": "Interim Dividend - Rs 4 Per Share",
+      "ex_date": "21-Feb-2024",
+      "ex_date_parsed": "2024-02-21T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": "Dividend - Rs 5.25 Per Share",
+      "ex_date": "15-May-2023",
+      "ex_date_parsed": "2023-05-15T00:00:00",
+      "amount": 5.25
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

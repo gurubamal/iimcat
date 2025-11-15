@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+SUNDARAM,SUNDARAM MULTI PAP LIMITED,26.6,25,1,Certainty 25% below threshold (40%),"PMS Tracker: Top 15 funds gain over 10% in October; Sundaram, Kotak among bigges","The article discusses PMS fund performance where 'Sundaram Alternate Assets' (a fund management company) delivered strong returns. However, this news "

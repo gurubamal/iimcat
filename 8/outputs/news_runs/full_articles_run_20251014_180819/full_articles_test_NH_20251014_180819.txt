@@ -1,0 +1,24 @@
+Full Article Fetch Test - NH
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 1.97B
+
+Title   : Infosys wins £1.2 billion NHS contract; signals revival for Indian IT
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:53:20
+Fetched : 2025-10-14T19:12:14.934123
+URL     : https://www.thehindubusinessline.com/info-tech/infosys-wins-12-billion-nhs-contract-signals-revival-for-indian-it/article70163566.ece
+--------------------------------------------------------------------------------
+Infosys has announced that it has been awarded a £1.2 billion (approx. $1.6 billion) 15-year contract by the NHS Business Services Authority (NHSBSA) to deliver the Future NHS Workforce Solution. This deal ranks among the largest announced by Infosys in recent times.
+Siddharth Maurya, Founder and Managing Director, Vibhavangal Anukulakara Private Ltd , shared that winning a large deal indicates the company is experiencing an increase in client spending and demand for digital and AI transformation projects.
+“This not only boosts the company’s total contract value, but is also a sign of the continued recovery trend in the Indian IT services market, which has been seeing a period of demand stagnation. It also provides evidence of Infosys’ strong business execution and ability to provide seamless, cost-efficient technology services to large global companies,” he said.
+For the second quarter, Infosys is expected to outperform its counterparts, with a stable performance that can be attributed to deal ramp-ups and a gradual recovery in the discretionary IT spending in primary markets.
+As part of this deal, Infosys will develop a data-driven workforce management solution that will replace the current Electronic Staff Record (ESR) system and continue to pay 1.9 million NHS employees in England and Wales over £55 billion in payroll annually.
+The Future NHS Workforce Solution supports the NHS 10-year Health Plan and the mission to create a workforce that is fit for the future. This will be achieved through investment in infrastructure for the NHS workforce with a modern and future-proof solution, giving healthcare workers the tools they need to free up time to continue delivering patient care.
+Advanced technologies
+Powered by advanced technologies, the new solution will deliver a modern, flexible, and integrated platform that supports the entire employee lifecycle - from recruitment and onboarding to payroll, career development, and retirement. With intuitive, AI-driven tools, it will streamline workforce planning and enable data-driven decision-making, creating a seamless and user-friendly experience for the NHS staff.
+Additionally, the solution will empower the NHS workforce to manage their personal information with ease, saving them valuable time. It will also enable seamless integration with other systems, improving the user experience and boosting operational efficiency.
+Salil Parekh, CEO and MD, Infosys, said, “The NHS is a cornerstone of life in the UK, providing vital services that touch the lives of millions every day. With our extensive experience in delivering digital transformation and organizational change for global entities, combined with elements of our AI offering - Infosys Topaz, we will deliver a platform that not only drives efficiency today but empowers the NHS to elevate its invaluable work into the future.”
+The company’s shares closed at ₹1,489.80 on the BSE, down by 0.21 per cent on Tuesday.
+Published on October 14, 2025
+

@@ -1,0 +1,20 @@
+Full Article Fetch Test - IOC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 68.14B
+
+Title   : Air India appoints Vikram Dayal as new head of IOCC following Choorah Singh's resignation
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T10:34:54
+Fetched : 2025-10-14T18:27:55.881609
+URL     : https://www.thehindubusinessline.com/economy/logistics/air-india-appoints-vikram-dayal-as-new-head-of-iocc-following-choorah-singhs-resignation/article70161730.ece
+--------------------------------------------------------------------------------
+Air India has appointed Vikram Dayal as the new Head of its Integrated Operations Control Centre (IOCC) following the resignation of Choorah Singh, who served as Senior Vice President and IOCC Head, according to the sources on Tuesday.
+Singh, who took on the role in October 2023, has stepped down to pursue opportunities in Ireland, according to sources. His resignation comes after he, along with two other executives, was named in a DGCA notice earlier this year over alleged lapses in crew scheduling and rostering in June.
+The Tata Group-owned carrier has yet to issue an official statement regarding the leadership change. Meanwhile, Air India Express is set to launch a direct flight service between Agartala and Bagdogra on October 26, connecting the state capital to North Bengal and providing seamless access to popular destinations such as Darjeeling, Kalimpong, Mirik, and Sikkim. The service will coincide with the beginning of the winter flight schedule, marking a new chapter in Tripura's aviation connectivity.
+According to sources, a 180-seater Boeing aircraft will operate daily on this route. The flight will depart from Bagdogra at 4:30 PM and arrive in Agartala at 5:40 PM, while the return flight will take off from Agartala at 6:10 PM and land in Bagdogra at 7:20 PM.Ticket bookings have already opened, and fares have reportedly been kept affordable for general passengers, making family holidays to North Bengal more accessible than ever.
+Air India also announced an expansion of its services to the United Kingdom as part of its Northern Winter 2025 schedule, adding a fourth daily flight between Delhi and London (Heathrow), effective October 26. According to a release, the additional flight increases Air India's frequency from 24x weekly to 28x weekly this winter, adding 1,196 seats each way per week between Delhi and London (Heathrow).
+All Air India flights on the high-demand route are operated by the airline's new Airbus A350-900 and Boeing 787-9 aircraft, the release said. Air India is the largest carrier between India and the UK, operating 61x weekly and deploying 18,066 seats per week (in one direction), which translates to nearly 1.7 million seats annually on routes between the two countries.
+Air India connects five Indian cities (Delhi, Mumbai, Bengaluru, Ahmedabad and Amritsar) to three points in the UK, namely London (Heathrow), London (Gatwick), and Birmingham.
+Published on October 14, 2025
+

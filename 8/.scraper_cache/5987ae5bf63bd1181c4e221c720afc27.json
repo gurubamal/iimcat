@@ -1,0 +1,118 @@
+{
+  "ticker": "RELIANCE",
+  "fetch_time": "2025-11-13T07:13:28.356049",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 5.5 Per Share",
+      "ex_date": "14-Aug-2025",
+      "ex_date_parsed": "2025-08-14T00:00:00",
+      "amount": 5.5
+    },
+    {
+      "description": "Dividend - Rs 10 Per Share",
+      "ex_date": "19-Aug-2024",
+      "ex_date_parsed": "2024-08-19T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": "Dividend - Rs 9 Per Share",
+      "ex_date": "21-Aug-2023",
+      "ex_date_parsed": "2023-08-21T00:00:00",
+      "amount": 9.0
+    },
+    {
+      "description": "Dividend - Rs 8 Per Share",
+      "ex_date": "18-Aug-2022",
+      "ex_date_parsed": "2022-08-18T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": " Dividend - Rs 7 Per Share",
+      "ex_date": "11-Jun-2021",
+      "ex_date_parsed": "2021-06-11T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Dividend - Rs 6.50  Per Share",
+      "ex_date": "02-Jul-2020",
+      "ex_date_parsed": "2020-07-02T00:00:00",
+      "amount": 6.5
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 6.50 Per Share",
+      "ex_date": "02-Aug-2019",
+      "ex_date_parsed": "2019-08-02T00:00:00",
+      "amount": 6.5
+    },
+    {
+      "description": " Dividend- Rs 6 Per Share",
+      "ex_date": "27-Jun-2018",
+      "ex_date_parsed": "2018-06-27T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": " Dividend -  Rs 11/- Per Share",
+      "ex_date": "13-Jul-2017",
+      "ex_date_parsed": "2017-07-13T00:00:00",
+      "amount": 11.0
+    },
+    {
+      "description": " Interim Dividend - Rs 10.50/- Per Share (Purpose Revised)",
+      "ex_date": "17-Mar-2016",
+      "ex_date_parsed": "2016-03-17T00:00:00",
+      "amount": 10.5
+    },
+    {
+      "description": "Dividend - Rs 10/- Per Share",
+      "ex_date": "08-May-2015",
+      "ex_date_parsed": "2015-05-08T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": "Dividend Rs. 9.50 Per Equity Share",
+      "ex_date": "16-May-2014",
+      "ex_date_parsed": "2014-05-16T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/ Dividend Rs. 9 Per Equity Share",
+      "ex_date": "10-May-2013",
+      "ex_date_parsed": "2013-05-10T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.8.50 Per Share",
+      "ex_date": "31-May-2012",
+      "ex_date_parsed": "2012-05-31T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.8/- Per Share",
+      "ex_date": "05-May-2011",
+      "ex_date_parsed": "2011-05-05T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend Rs 7 Per Share",
+      "ex_date": "10-May-2010",
+      "ex_date_parsed": "2010-05-10T00:00:00",
+      "amount": 7.0
+    }
+  ],
+  "bonuses": [
+    {
+      "description": "Bonus 1:1",
+      "ex_date": "28-Oct-2024",
+      "ex_date_parsed": "2024-10-28T00:00:00",
+      "ratio": "1:1"
+    },
+    {
+      "description": " Bonus 1:1",
+      "ex_date": "07-Sep-2017",
+      "ex_date_parsed": "2017-09-07T00:00:00",
+      "ratio": "1:1"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

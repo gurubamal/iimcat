@@ -1,0 +1,57 @@
+{
+  "ticker": "APOLLO",
+  "fetch_time": "2025-11-13T07:40:01.936849",
+  "dividends": [
+    {
+      "description": "Dividend - Re 0.25 Per Share",
+      "ex_date": "08-Sep-2025",
+      "ex_date_parsed": "2025-09-08T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Re 0.05 Per Share",
+      "ex_date": "20-Sep-2024",
+      "ex_date_parsed": "2024-09-20T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Re 0.025 Per Share",
+      "ex_date": "22-Sep-2023",
+      "ex_date_parsed": "2023-09-22T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Rs 0.25 Per Share",
+      "ex_date": "08-Sep-2022",
+      "ex_date_parsed": "2022-09-08T00:00:00",
+      "amount": 0.25
+    },
+    {
+      "description": " Dividend - Rs 0.25 Per Share",
+      "ex_date": "16-Sep-2021",
+      "ex_date_parsed": "2021-09-16T00:00:00",
+      "amount": 0.25
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 0.50 Per Share",
+      "ex_date": "17-Sep-2020",
+      "ex_date_parsed": "2020-09-17T00:00:00",
+      "amount": 0.5
+    },
+    {
+      "description": " Interim Dividend - Re 1 Per Share",
+      "ex_date": "15-Nov-2018",
+      "ex_date_parsed": "2018-11-15T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share",
+      "ex_date": "04-May-2023",
+      "ex_date_parsed": "2023-05-04T00:00:00"
+    }
+  ],
+  "data_available": true
+}

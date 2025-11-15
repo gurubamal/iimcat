@@ -1,0 +1,25 @@
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 134.25B INR
+
+Title   : Wipro shares in focus after AI-powered security partnership with CrowdStrike 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T03:04:24
+Fetched : 2025-09-16T03:30:44.161435
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-in-focus-after-ai-powered-security-partnership-with-crowdstrike/articleshow/123912243.cms
+--------------------------------------------------------------------------------
+Announced on September 15, the collaboration leverages CrowdStrike Falcon Next-Gen SIEM to simplify threat detection, enhance visibility, and automate responses through a modern SOC (Security Operations Center) that uses artificial intelligence to streamline decision-making and improve efficiency.
+The new offering, which comes amid rising global concerns around cyber threats and data breaches, is expected to bolster Wipro’s position in the high-growth cybersecurity services market. Organisations increasingly face fragmented security architectures, rising costs, and alert fatigue. CyberShield MDR aims to address these pain points through AI-driven threat detection, proactive breach protection, and continuous monitoring.
+The platform integrates capabilities from Wipro Ventures' portfolio companies, including Simbian and Tuskria, to deliver next-gen response systems. Wipro’s global network of eight Cyber Defense Centers (CDCs) will support the delivery and management of these services.
+"Wipro’s CyberShield platform, powered by CrowdStrike’s AI-native product suites and strengthened by our security ecosystem, will help enterprises contain threats swiftly and ensure continuity of digital operations," said Tony Buffomante, Senior Vice President & Global Head – Cybersecurity & Risk Services, Wipro Limited. "This integrated platform approach enables AI automated workflows, prevents lateral threat movement, and eliminates potential security gaps that fragmented solutions often miss."
+Also read: SEBI’s curb on weekly F&O expiry: Feroze Azeez explains what it could mean for investors
+Shares of Wirpo closed flat at Rs 251.20 on the BSE in the previous session.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

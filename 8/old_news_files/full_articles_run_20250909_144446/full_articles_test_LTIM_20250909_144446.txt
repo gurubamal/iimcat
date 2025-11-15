@@ -1,0 +1,20 @@
+Full Article Fetch Test - LTIM
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-09
+
+Title   : LTIMindtree renews multi-million-dollar strategic partnership with OKQ8
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T11:51:47
+Fetched : 2025-09-09T15:19:23.346954
+URL     : https://www.thehindubusinessline.com/companies/ltimindtree-renews-multi-million-dollar-strategic-partnership-with-okq8/article70029337.ece
+--------------------------------------------------------------------------------
+LTIMindtree has announced the renewal of its multi-million-dollar strategic partnership with OKQ8, one of the largest fuel companies in the Nordic region.
+The extended partnership will focus on optimising OKQ8’s technology landscape, spanning Cloud and Infrastructure Management, Application Development and Maintenance for both modern and legacy systems, advanced Data Analytics, CRM and ERP services powered by Microsoft Dynamics. LTIMindtree will also integrate AI-driven processes to streamline operations, enhance customer experiences and sustainability, enabling OKQ8 to achieve greater innovation, cost efficiency and scalability.
+Strong collaboration
+“Renewing our partnership with LTIMindtree is a testament to the strong collaboration and trust we’ve built together over the years,” said Clas Artvin, Chief Information Officer, OKQ8. “Their deep expertise, innovative solutions and understanding of our strategic objectives will enable us to drive operational excellence. We are excited to continue this shared journey,” he added.
+Through this partnership, LTIMindtree will help optimise OKQ8’s core platforms, ensuring improved performance, operational efficiency and sustainability advancements. The renewal of this partnership testifies the shared vision of LTIMindtree and OKQ8 to achieve growth through innovative solutions and technology excellence, navigating challenges together and driving advancements across the region.
+“We are delighted to strengthen our relationship with OKQ8, a long-term partner whose innovative vision aligns with our values,” said Srinivas Rao, Executive Vice-President and Chief Business Officer, LTIMindtree. “This partnership emphasises our continuous commitment to delivering tailored digital transformation solutions that meet evolving industry demands,” he added.
+The company’s shares closed at ₹5,193.00 on the BSE on Tuesday, up 1.93 per cent.
+Published on September 9, 2025
+

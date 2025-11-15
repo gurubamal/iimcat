@@ -1,0 +1,31 @@
+Full Article Fetch Test - PERSISTENT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 4.25B
+
+Title   : Persistent Systems shares rally 6% after 45% YoY surge in Q2 PAT. What brokerages say? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T03:52:48
+Fetched : 2025-10-15T05:16:19.007133
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-shares-in-focus-after-45-yoy-surge-in-q2-pat-what-brokerages-suggest/articleshow/124566994.cms
+--------------------------------------------------------------------------------
+The company also posted a 17.6% YoY growth in revenue, reaching $406.2 million for the quarter ended September 30, 2025. In rupee terms, revenue was Rs 3,580.7 crore, marking a 23.6% YoY rise on a constant currency basis. Sequentially, revenue grew 4.2% QoQ.
+Earnings Before Interest and Taxes (EBIT) stood at Rs 583.7 crore, registering a 43.7% YoY growth, with an EBIT margin of 16.3%. QoQ growth in EBIT was 12.7%, highlighting improved operating efficiency.
+Meanwhile, Profit Before Tax (PBT) came in at Rs 616.8 crore, marking a 42% YoY growth and 11.1% QoQ growth, rounding off a solid financial performance across key metrics.
+Brokerage Takeaways
+Nuvama: Buy | Target price: Rs 7,000
+Nuvama has maintained a ‘Buy’ rating on Persistent Systems, revising its target price from Rs 6,600 to Rs 7,000. The brokerage highlighted revenue growth of 4.4% QoQ in constant currency terms and 17.6% YoY to USD 406.2 million, surpassing its estimate of 3.7% QoQ CC growth.The report noted that the EBIT margin expanded 80 basis points sequentially to 16.3%, exceeding Nuvama’s projection of 15.6%. The company’s Total Contract Value (TCV) remained strong at USD 609 million, up 15% YoY, reflecting sustained deal momentum.
+Nuvama also upgraded EPS for FY26E and FY27E by 3.4% and 2.4%, respectively, driven by slightly higher margin expectations. The brokerage rolled forward its valuation to 45x (from 48x) based on the average of FY27E–FY28E P/E multiples, signaling a moderate valuation outlook while maintaining confidence in Persistent’s growth trajectory.
+Choice International Equities: Add | Target price: Rs 6,050
+Choice Institutional Equities maintained an ‘Add’ rating with a target price of Rs 6,050. The brokerage noted that the company has achieved a 28% CAGR over the past four years, outperforming peers even before the recent AI adoption surge.Persistent’s focus on its top 100 clients, contributing over 82% of revenue, was highlighted as a key strength. The firm is positioning itself to tap into growing AI-related demand through its AI-powered digital engineering platform SASVA.
+The report also pointed to strategic Tier-1 client wins in Q2 FY26, including a major financial services consolidation deal, as evidence of execution strength. Additionally, the company’s contractual clauses for experienced talent are expected to support steady margin growth going forward.
+Given these drivers, Choice projects Revenue, EBIT, and PAT to grow at a CAGR of 18.2%, 24.2%, and 23.9%, respectively, over FY25–FY28.
+Also read: Axis Bank Q2 preview: Profit seen falling 19% YoY as margin and cost pressures persist
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

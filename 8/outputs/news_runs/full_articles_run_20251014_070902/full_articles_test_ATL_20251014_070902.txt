@@ -1,0 +1,27 @@
+Full Article Fetch Test - ATL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 91.05M
+
+Title   : General Atlantic to lead $100 million round in consumer-lending startup Snapmint
+Source  : www.livemint.com
+Published: 2025-10-13T06:27:07
+Fetched : 2025-10-14T07:42:40.676828
+URL     : https://www.livemint.com/companies/start-ups/general-atlantic-snapmint-100-million-funding-elev8-kae-capital-11760322836827.html
+--------------------------------------------------------------------------------
+General Atlantic to lead $100 million round in consumer-lending startup Snapmint
+General Atlantic is set to invest up to $80 million in consumer-lending platform Snapmint as part of a $100 million funding round that includes Elev8 Venture Partners and Kae Capital.
+Mumbai: Consumer lending platform Snapmint is in the process of raising $100 million in a fundraising round led by General Atlantic alongside existing investors including Elev8 Venture Partners and Kae Capital, four people familiar with the matter said.
+“The capital is likely to come in two tranches, with General Atlantic being the lead investor pumping in close to $75-80 million," one of them said. “The first tranche will be about $40 million with the remaining infusion [expected] in the subsequent months."
+“A bulk of the round will be primary capital that will be used to fund the company’s expansion plans, while the balance will include secondary share sales by angel investors, with Kae and Elev8 doubling down on their investment," another person said.
+In a secondary transaction, shareholders sell their stakes to other existing or new investors, and no new capital is injected into the company.
+A third person said the Snapmint funding is expected to close in the coming weeks.
+All the four people familiar with Snapmint’s fundraising plans spoke on condition of anonymity. Snapmint, General Atlantic, Kae, and Elev8 did not respond to Mint’s requests emailed on Sunday.
+Snapmint’s journey
+Snapmint, which offers short-tenure loans for buying products such as smartphones and refrigerators online, raised about $18 million last year. Customers do not need a credit card to make such purchases.
+That funding round, which comprised debt and equity, was led by Prashasta Seth, founder and chief executive of Prudent Investment Managers, with contributions from Perpetuity Ventures, Pegasus Fininvest, and existing investors.
+At the time, the consumer lending startup had outlined plans to use the funds to integrate with additional shopping platforms, expand its merchant network, and scale up its balance sheet for increased loan disbursements.
+To date, Snapmint has raised $65 million across 18 rounds and was valued at $141 million in June, according to market intelligence platform Tracxn. Its other investors include Anicut Capital, 9Unicorns, and Negen Capital.
+Founded in 2017 by Nalin Agrawal, Anil Gelra and Abhineet Sawa, Snapmint had more than 5 million monthly active users on its platform across over 26,000 pincodes in December. Some of its prominent brand partners include boAt, Xiaomi, Croma, Cult, Arvind Fashions, Neeman’s, The Sleep Company, Snitch, and Mokobara.
+Snapmint’s revenue from operations jumped to ₹158.5 crore in 2024-25 from ₹88.5 crore in the year before, Entrackr reported in July. The company also turned a net profit of ₹15 crore in FY25 from a loss of ₹33.6 crore in FY24.
+

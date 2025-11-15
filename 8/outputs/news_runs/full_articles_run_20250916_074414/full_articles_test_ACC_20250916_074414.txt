@@ -1,0 +1,19 @@
+Full Article Fetch Test - ACC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-16
+
+Title   : Broker’s call: KEC International  (Accumulate)
+Source  : www.thehindubusinessline.com
+Published: 2025-09-15T15:56:04
+Fetched : 2025-09-16T07:45:24.296009
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-kec-international-accumulate/article70053806.ece
+--------------------------------------------------------------------------------
+Target: ₹999
+CMP: ₹882.65
+Revenue from operations of KEC International stood at ₹5,022.88 crore in Q1FY26 as against ₹4,511.89 crore in Q1FY25, depicting a growth of 11.3 per cent. With revenue of ₹3,157 crore, T&D’s contribution to topline increased to 63 per cent during the quarter from 55 per cent in the corresponding period last year as the company was able to increase its tendering activities in domestic and international markets.
+Growth in revenues from SAE was, however, limited to 3.8 per cent y-o-y (₹359 crore in Q1FY26 vs ₹346 crore in Q1-FY25) as Brazilian real strengthened against both dollar and rupee. T&D business, together with civil, accounted for bulk of order inflows worth ₹5,500 crore in Q1FY26.
+The stock is currently trading at 28.5x FY26e EPS of ₹30.80 and 22.8x FY27e EPS of ₹38.43. Although its plans of foraying into new markets like STATCOM, semiconductor plants, wind renewable energy and battery energy storage system (BESS) remains a concern, KEC’s flourishing international T&D business along with its expansion of non-T&D segment in international market may help it grow its earnings going forward.
+Given an uptick in earnings, ROE is pegged at 15.6 per cent in FY26e and 17 per cent in FY27. Balancing odds, we assign Accumulate rating with revised target of ₹999 (previous target of ₹776) based on 26x FY27e earnings.
+Published on September 15, 2025
+

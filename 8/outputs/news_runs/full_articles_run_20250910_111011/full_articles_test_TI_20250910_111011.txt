@@ -1,0 +1,27 @@
+Full Article Fetch Test - TI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : JPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor
+Source  : www.livemint.com
+Published: 2025-09-10T02:15:34
+Fetched : 2025-09-10T12:12:48.525253
+URL     : https://www.livemint.com/companies/company-results/jpmorgan-fifth-third-among-banks-facing-losses-tied-to-tricolor-11757470534768.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- JPMorgan Chase & Co., Fifth Third Bancorp and Barclays Plc are among banks bracing for potentially hundreds of millions of dollars in combined losses from loans tied to subprime auto lender Tricolor Holdings, according to people with knowledge of the matter.
+Fifth Third said in a regulatory filing Tuesday that it faced an impairment charge of up to $200 million after discovering alleged fraudulent activity at a commercial borrower, which it didn’t identify. The bank said it was working with law enforcement authorities.
+The lenders are looking into whether collateral for warehouse lines was double-pledged, said some of the people, who asked not to be identified because of the potential for a probe by authorities.
+Tricolor focuses on lending to borrowers across the US southwest who typically have poor or no credit scores. It funds the loans at least in part by packaging them into asset-backed securities to sell to bond investors, most recently selling a $217 million bond in early June, an offering led by JPMorgan and Barclays.
+JPMorgan, Barclays and Fifth Third have been warehouse lenders to Tricolor, according to people with knowledge of the matter.
+Daniel Chu, Tricolor’s chief executive officer, and other executives at the company didn’t respond to multiple requests for comment. Representatives for Fifth Third, JPMorgan and Barclays declined to comment.
+There’s an outstanding balance of about $200 million on Fifth Third’s asset-backed finance loan in question, according to the filing. Fifth Third expects to take a non-cash charge of $170 million to $200 million in the third quarter related to that loan.
+Such loans are typically backed by streams of contractual cash flows tied to a defined pool of assets, such as consumer loans or mortgages.
+Tricolor’s asset-backed securities were trading lower this week after Spanish language news outlet Univision reported that the company has furloughed most of its staff.
+Shares of Fifth Third dropped 2.5% to $44.30 in late trading at 5:47 p.m. in New York.
+--With assistance from Yizhu Wang.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesCompany ResultsJPMorgan, Fifth Third Among Banks Facing Losses Tied to Tricolor
+

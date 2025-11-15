@@ -1,0 +1,2 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,TITAN,37.1,neutral,HOLD,"rights_issue, capital_raising","dilution_risk, rights_issue_typically_neutral_to_negative, small_deal_size, limited_information, market_cap_unknown",45,1,N/A,Titan Intech to raise ₹49 crore via rights issue,"Rights issue of ₹49 crore is typically a neutral to mildly negative catalyst as it leads to equity dilution. Without details on fund utilization, growth plans, or subscription ratio, the impact remain"

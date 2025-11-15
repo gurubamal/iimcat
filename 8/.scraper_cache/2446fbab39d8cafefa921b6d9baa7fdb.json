@@ -1,0 +1,118 @@
+{
+  "ticker": "PFC",
+  "fetch_time": "2025-11-11T12:51:56.992142",
+  "dividends": [
+    {
+      "description": "Interim Dividend - Rs 3.65 Per Share",
+      "ex_date": "26-Nov-2025",
+      "ex_date_parsed": "2025-11-26T00:00:00",
+      "amount": 3.65
+    },
+    {
+      "description": "Interim Dividend - Rs 3.70 Per Share",
+      "ex_date": "18-Aug-2025",
+      "ex_date_parsed": "2025-08-18T00:00:00",
+      "amount": 3.7
+    },
+    {
+      "description": "Dividend - Rs 2.05 Per Share",
+      "ex_date": "13-Jun-2025",
+      "ex_date_parsed": "2025-06-13T00:00:00",
+      "amount": 2.05
+    },
+    {
+      "description": "Interim Dividend - Rs 3.50 Per Share",
+      "ex_date": "19-Mar-2025",
+      "ex_date_parsed": "2025-03-19T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Interim Dividend - Rs 3.50 Per Share",
+      "ex_date": "28-Feb-2025",
+      "ex_date_parsed": "2025-02-28T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Interim Dividend - Rs 3.50 Per Share",
+      "ex_date": "25-Nov-2024",
+      "ex_date_parsed": "2024-11-25T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Interim Dividend - Rs 3.25 Per Share",
+      "ex_date": "30-Aug-2024",
+      "ex_date_parsed": "2024-08-30T00:00:00",
+      "amount": 3.25
+    },
+    {
+      "description": "Dividend - Rs 2.50 Per Share",
+      "ex_date": "26-Jul-2024",
+      "ex_date_parsed": "2024-07-26T00:00:00",
+      "amount": 2.5
+    },
+    {
+      "description": "Interim Dividend - Rs 3 Per Share",
+      "ex_date": "22-Mar-2024",
+      "ex_date_parsed": "2024-03-22T00:00:00",
+      "amount": 3.0
+    },
+    {
+      "description": "Interim Dividend - Rs 3.50 Per Share",
+      "ex_date": "20-Feb-2024",
+      "ex_date_parsed": "2024-02-20T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Interim Dividend - Rs 4.50 Per Share",
+      "ex_date": "24-Nov-2023",
+      "ex_date_parsed": "2023-11-24T00:00:00",
+      "amount": 4.5
+    },
+    {
+      "description": "Dividend - Rs 4.50 Per Share",
+      "ex_date": "16-Jun-2023",
+      "ex_date_parsed": "2023-06-16T00:00:00",
+      "amount": 4.5
+    },
+    {
+      "description": "Interim Dividend - Rs  3.50 Per Share",
+      "ex_date": "24-Feb-2023",
+      "ex_date_parsed": "2023-02-24T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Interim Dividend - Rs 3 Per Share",
+      "ex_date": "24-Nov-2022",
+      "ex_date_parsed": "2022-11-24T00:00:00",
+      "amount": 3.0
+    },
+    {
+      "description": "Interim Dividend - Rs 2.25 Per Share",
+      "ex_date": "01-Sep-2022",
+      "ex_date_parsed": "2022-09-01T00:00:00",
+      "amount": 2.25
+    },
+    {
+      "description": "Dividend - Rs 1.25 Per Share",
+      "ex_date": "09-Jun-2022",
+      "ex_date_parsed": "2022-06-09T00:00:00",
+      "amount": 1.25
+    },
+    {
+      "description": "Interim Dividend - Rs 6 Per Share",
+      "ex_date": "25-Feb-2022",
+      "ex_date_parsed": "2022-02-25T00:00:00",
+      "amount": 6.0
+    }
+  ],
+  "bonuses": [
+    {
+      "description": "Bonus 1:4",
+      "ex_date": "21-Sep-2023",
+      "ex_date_parsed": "2023-09-21T00:00:00",
+      "ratio": "1:4"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

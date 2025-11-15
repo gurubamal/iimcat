@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+FOCUS,FOCUS LIGHTING AND FIXTURES LIMITED,74.3,25,6,Certainty 25% below threshold (40%),"Infosys shares in focus as board fixes Nov 14 record date for Rs 18,000 cr share","CRITICAL MISMATCH: The news article is about Infosys (INFY) share buyback, NOT Focus (FOCUS). This is only tangentially relevant as sector news for IT"

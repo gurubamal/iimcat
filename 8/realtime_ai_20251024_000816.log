@@ -1,0 +1,334 @@
+2025-10-24 00:08:16,394 - INFO - ✅ Frontier AI components loaded
+2025-10-24 00:08:16,396 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-24 00:08:16,396 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-24 00:08:16,396 - INFO -    Time window: 24 hours
+2025-10-24 00:08:16,396 - INFO -    Max articles per ticker: 10
+2025-10-24 00:08:16,398 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-24 00:08:16,401 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-24 00:08:19,257 - INFO - ℹ️  No recent news for 21STCENMGM
+2025-10-24 00:08:19,257 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-24 00:08:19,258 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-24 00:08:19,985 - INFO - ℹ️  No recent news for A2ZINFRA
+2025-10-24 00:08:19,986 - INFO - [3/50] Processing ACL...
+2025-10-24 00:08:19,986 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-24 00:08:21,456 - INFO - ℹ️  No recent news for ACL
+2025-10-24 00:08:21,463 - INFO - [4/50] Processing AGSTRA...
+2025-10-24 00:08:21,465 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-24 00:08:23,176 - INFO - ℹ️  No recent news for AGSTRA
+2025-10-24 00:08:23,176 - INFO - [5/50] Processing ANSALAPI...
+2025-10-24 00:08:23,176 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-24 00:08:24,571 - INFO - ℹ️  No recent news for ANSALAPI
+2025-10-24 00:08:24,571 - INFO - [6/50] Processing BLUECHIP...
+2025-10-24 00:08:24,571 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-24 00:08:26,112 - INFO - ℹ️  No recent news for BLUECHIP
+2025-10-24 00:08:26,113 - INFO - [7/50] Processing DHARAN...
+2025-10-24 00:08:26,113 - INFO - 📰 Fetching news for DHARAN (last 24h)
+2025-10-24 00:08:27,499 - INFO - ℹ️  No recent news for DHARAN
+2025-10-24 00:08:27,499 - INFO - [8/50] Processing EXCEL...
+2025-10-24 00:08:27,500 - INFO - 📰 Fetching news for EXCEL (last 24h)
+2025-10-24 00:08:29,024 - INFO - ℹ️  No recent news for EXCEL
+2025-10-24 00:08:29,024 - INFO - [9/50] Processing FEL...
+2025-10-24 00:08:29,024 - INFO - 📰 Fetching news for FEL (last 24h)
+2025-10-24 00:08:30,335 - INFO - ℹ️  No recent news for FEL
+2025-10-24 00:08:30,335 - INFO - [10/50] Processing GVKPIL...
+2025-10-24 00:08:30,337 - INFO - 📰 Fetching news for GVKPIL (last 24h)
+2025-10-24 00:08:38,654 - INFO - ℹ️  No recent news for GVKPIL
+2025-10-24 00:08:38,655 - INFO - [11/50] Processing IEL...
+2025-10-24 00:08:38,655 - INFO - 📰 Fetching news for IEL (last 24h)
+2025-10-24 00:08:40,162 - INFO - ℹ️  No recent news for IEL
+2025-10-24 00:08:40,162 - INFO - [12/50] Processing ITTL...
+2025-10-24 00:08:40,162 - INFO - 📰 Fetching news for ITTL (last 24h)
+2025-10-24 00:08:41,735 - INFO - ℹ️  No recent news for ITTL
+2025-10-24 00:08:41,735 - INFO - [13/50] Processing KRISHIVAL...
+2025-10-24 00:08:41,735 - INFO - 📰 Fetching news for KRISHIVAL (last 24h)
+2025-10-24 00:08:43,158 - INFO - ℹ️  No recent news for KRISHIVAL
+2025-10-24 00:08:43,159 - INFO - [14/50] Processing MANUGRAPH...
+2025-10-24 00:08:43,159 - INFO - 📰 Fetching news for MANUGRAPH (last 24h)
+2025-10-24 00:08:44,530 - INFO - ℹ️  No recent news for MANUGRAPH
+2025-10-24 00:08:44,531 - INFO - [15/50] Processing MEP...
+2025-10-24 00:08:44,532 - INFO - 📰 Fetching news for MEP (last 24h)
+2025-10-24 00:08:46,194 - INFO - ℹ️  No recent news for MEP
+2025-10-24 00:08:46,195 - INFO - [16/50] Processing MVKAGRO...
+2025-10-24 00:08:46,195 - INFO - 📰 Fetching news for MVKAGRO (last 24h)
+2025-10-24 00:08:47,689 - INFO - ℹ️  No recent news for MVKAGRO
+2025-10-24 00:08:47,690 - INFO - [17/50] Processing NORBTEAEXP...
+2025-10-24 00:08:47,693 - INFO - 📰 Fetching news for NORBTEAEXP (last 24h)
+2025-10-24 00:08:48,973 - INFO - ℹ️  No recent news for NORBTEAEXP
+2025-10-24 00:08:48,973 - INFO - [18/50] Processing ORTINGLOBE...
+2025-10-24 00:08:48,974 - INFO - 📰 Fetching news for ORTINGLOBE (last 24h)
+2025-10-24 00:08:50,475 - INFO - ℹ️  No recent news for ORTINGLOBE
+2025-10-24 00:08:50,477 - INFO - [19/50] Processing OSELDEVICE...
+2025-10-24 00:08:50,477 - INFO - 📰 Fetching news for OSELDEVICE (last 24h)
+2025-10-24 00:08:52,515 - INFO - ℹ️  No recent news for OSELDEVICE
+2025-10-24 00:08:52,517 - INFO - [20/50] Processing PATTECH...
+2025-10-24 00:08:52,517 - INFO - 📰 Fetching news for PATTECH (last 24h)
+2025-10-24 00:08:55,608 - INFO - ℹ️  No recent news for PATTECH
+2025-10-24 00:08:55,637 - INFO - [21/50] Processing POLYSIL...
+2025-10-24 00:08:55,679 - INFO - 📰 Fetching news for POLYSIL (last 24h)
+2025-10-24 00:08:57,999 - INFO - ℹ️  No recent news for POLYSIL
+2025-10-24 00:08:58,011 - INFO - [22/50] Processing PPAP...
+2025-10-24 00:08:58,014 - INFO - 📰 Fetching news for PPAP (last 24h)
+2025-10-24 00:08:59,398 - INFO - ℹ️  No recent news for PPAP
+2025-10-24 00:08:59,398 - INFO - [23/50] Processing PRAXIS...
+2025-10-24 00:08:59,398 - INFO - 📰 Fetching news for PRAXIS (last 24h)
+2025-10-24 00:09:00,760 - INFO - ℹ️  No recent news for PRAXIS
+2025-10-24 00:09:00,760 - INFO - [24/50] Processing RAJRILTD...
+2025-10-24 00:09:00,761 - INFO - 📰 Fetching news for RAJRILTD (last 24h)
+2025-10-24 00:09:02,096 - INFO - ℹ️  No recent news for RAJRILTD
+2025-10-24 00:09:02,096 - INFO - [25/50] Processing RSSOFTWARE...
+2025-10-24 00:09:02,097 - INFO - 📰 Fetching news for RSSOFTWARE (last 24h)
+2025-10-24 00:09:03,766 - INFO - ℹ️  No recent news for RSSOFTWARE
+2025-10-24 00:09:03,768 - INFO - [26/50] Processing SADHNANIQ...
+2025-10-24 00:09:03,770 - INFO - 📰 Fetching news for SADHNANIQ (last 24h)
+2025-10-24 00:09:05,210 - INFO - ℹ️  No recent news for SADHNANIQ
+2025-10-24 00:09:05,210 - INFO - [27/50] Processing SANWARIA...
+2025-10-24 00:09:05,212 - INFO - 📰 Fetching news for SANWARIA (last 24h)
+2025-10-24 00:09:07,983 - INFO - ℹ️  No recent news for SANWARIA
+2025-10-24 00:09:07,992 - INFO - [28/50] Processing SITINET...
+2025-10-24 00:09:07,996 - INFO - 📰 Fetching news for SITINET (last 24h)
+2025-10-24 00:09:11,271 - INFO - ℹ️  No recent news for SITINET
+2025-10-24 00:09:11,284 - INFO - [29/50] Processing SRPL...
+2025-10-24 00:09:11,286 - INFO - 📰 Fetching news for SRPL (last 24h)
+2025-10-24 00:09:13,966 - INFO - ℹ️  No recent news for SRPL
+2025-10-24 00:09:13,967 - INFO - [30/50] Processing TANKUP...
+2025-10-24 00:09:13,967 - INFO - 📰 Fetching news for TANKUP (last 24h)
+2025-10-24 00:09:17,700 - INFO - ℹ️  No recent news for TANKUP
+2025-10-24 00:09:17,703 - INFO - [31/50] Processing UMAEXPORTS...
+2025-10-24 00:09:17,708 - INFO - 📰 Fetching news for UMAEXPORTS (last 24h)
+2025-10-24 00:09:19,327 - INFO - ℹ️  No recent news for UMAEXPORTS
+2025-10-24 00:09:19,327 - INFO - [32/50] Processing UNITEDPOLY...
+2025-10-24 00:09:19,328 - INFO - 📰 Fetching news for UNITEDPOLY (last 24h)
+2025-10-24 00:09:21,189 - INFO - ℹ️  No recent news for UNITEDPOLY
+2025-10-24 00:09:21,195 - INFO - [33/50] Processing VOLERCAR...
+2025-10-24 00:09:21,195 - INFO - 📰 Fetching news for VOLERCAR (last 24h)
+2025-10-24 00:09:22,912 - INFO - ℹ️  No recent news for VOLERCAR
+2025-10-24 00:09:22,912 - INFO - [34/50] Processing WELINV...
+2025-10-24 00:09:22,913 - INFO - 📰 Fetching news for WELINV (last 24h)
+2025-10-24 00:09:25,277 - INFO - ℹ️  No recent news for WELINV
+2025-10-24 00:09:25,290 - INFO - [35/50] Processing WINSOME...
+2025-10-24 00:09:25,317 - INFO - 📰 Fetching news for WINSOME (last 24h)
+2025-10-24 00:09:28,121 - INFO - ℹ️  No recent news for WINSOME
+2025-10-24 00:09:28,128 - INFO - [36/50] Processing AAKASH...
+2025-10-24 00:09:28,141 - INFO - 📰 Fetching news for AAKASH (last 24h)
+2025-10-24 00:09:30,350 - INFO - ℹ️  No recent news for AAKASH
+2025-10-24 00:09:30,352 - INFO - [37/50] Processing AAREYDRUGS...
+2025-10-24 00:09:30,354 - INFO - 📰 Fetching news for AAREYDRUGS (last 24h)
+2025-10-24 00:09:31,975 - INFO - ℹ️  No recent news for AAREYDRUGS
+2025-10-24 00:09:31,976 - INFO - [38/50] Processing AARTECH...
+2025-10-24 00:09:31,976 - INFO - 📰 Fetching news for AARTECH (last 24h)
+2025-10-24 00:09:33,469 - INFO - ℹ️  No recent news for AARTECH
+2025-10-24 00:09:33,469 - INFO - [39/50] Processing AARTISURF...
+2025-10-24 00:09:33,471 - INFO - 📰 Fetching news for AARTISURF (last 24h)
+2025-10-24 00:09:34,556 - INFO - ℹ️  No recent news for AARTISURF
+2025-10-24 00:09:34,557 - INFO - [40/50] Processing AARVEEDEN...
+2025-10-24 00:09:34,557 - INFO - 📰 Fetching news for AARVEEDEN (last 24h)
+2025-10-24 00:09:36,051 - INFO - ℹ️  No recent news for AARVEEDEN
+2025-10-24 00:09:36,052 - INFO - [41/50] Processing ABAN...
+2025-10-24 00:09:36,052 - INFO - 📰 Fetching news for ABAN (last 24h)
+2025-10-24 00:09:37,603 - INFO - ℹ️  No recent news for ABAN
+2025-10-24 00:09:37,603 - INFO - [42/50] Processing ABHAPOWER...
+2025-10-24 00:09:37,603 - INFO - 📰 Fetching news for ABHAPOWER (last 24h)
+2025-10-24 00:09:39,050 - INFO - ℹ️  No recent news for ABHAPOWER
+2025-10-24 00:09:39,050 - INFO - [43/50] Processing ABINFRA...
+2025-10-24 00:09:39,051 - INFO - 📰 Fetching news for ABINFRA (last 24h)
+2025-10-24 00:09:40,561 - INFO - ℹ️  No recent news for ABINFRA
+2025-10-24 00:09:40,562 - INFO - [44/50] Processing ABMINTLLTD...
+2025-10-24 00:09:40,562 - INFO - 📰 Fetching news for ABMINTLLTD (last 24h)
+2025-10-24 00:09:41,929 - INFO - ℹ️  No recent news for ABMINTLLTD
+2025-10-24 00:09:41,929 - INFO - [45/50] Processing ACCENTMIC...
+2025-10-24 00:09:41,929 - INFO - 📰 Fetching news for ACCENTMIC (last 24h)
+2025-10-24 00:09:39,719 - INFO - ℹ️  No recent news for ACCENTMIC
+2025-10-24 00:09:39,719 - INFO - [46/50] Processing ACCORD...
+2025-10-24 00:09:39,719 - INFO - 📰 Fetching news for ACCORD (last 24h)
+2025-10-24 00:09:43,344 - INFO - ℹ️  No recent news for ACCORD
+2025-10-24 00:09:43,344 - INFO - [47/50] Processing AESTHETIK...
+2025-10-24 00:09:43,344 - INFO - 📰 Fetching news for AESTHETIK (last 24h)
+2025-10-24 00:09:44,359 - INFO - ℹ️  No recent news for AESTHETIK
+2025-10-24 00:09:44,361 - INFO - [48/50] Processing AGARWALFT...
+2025-10-24 00:09:44,361 - INFO - 📰 Fetching news for AGARWALFT (last 24h)
+2025-10-24 00:09:45,816 - INFO - ℹ️  No recent news for AGARWALFT
+2025-10-24 00:09:45,818 - INFO - [49/50] Processing AGNI...
+2025-10-24 00:09:45,821 - INFO - 📰 Fetching news for AGNI (last 24h)
+2025-10-24 00:09:47,750 - INFO - ℹ️  No recent news for AGNI
+2025-10-24 00:09:47,750 - INFO - [50/50] Processing AGROPHOS...
+2025-10-24 00:09:47,751 - INFO - 📰 Fetching news for AGROPHOS (last 24h)
+2025-10-24 00:09:49,213 - INFO - ℹ️  No recent news for AGROPHOS
+2025-10-24 00:09:49,221 - INFO - 
+✅ Collection complete!
+2025-10-24 00:09:49,234 - INFO -    Total articles: 0
+2025-10-24 00:09:49,235 - INFO -    Successfully analyzed: 0
+2025-10-24 00:09:49,238 - INFO - ✅ Results saved to: realtime_ai_analysis_20251024_000816.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+[1/50] Processing 21STCENMGM...
+   ℹ️  No recent articles found
+
+[2/50] Processing A2ZINFRA...
+   ℹ️  No recent articles found
+
+[3/50] Processing ACL...
+   ℹ️  No recent articles found
+
+[4/50] Processing AGSTRA...
+   ℹ️  No recent articles found
+
+[5/50] Processing ANSALAPI...
+   ℹ️  No recent articles found
+
+[6/50] Processing BLUECHIP...
+   ℹ️  No recent articles found
+
+[7/50] Processing DHARAN...
+   ℹ️  No recent articles found
+
+[8/50] Processing EXCEL...
+   ℹ️  No recent articles found
+
+[9/50] Processing FEL...
+   ℹ️  No recent articles found
+
+[10/50] Processing GVKPIL...
+   ℹ️  No recent articles found
+
+[11/50] Processing IEL...
+   ℹ️  No recent articles found
+
+[12/50] Processing ITTL...
+   ℹ️  No recent articles found
+
+[13/50] Processing KRISHIVAL...
+   ℹ️  No recent articles found
+
+[14/50] Processing MANUGRAPH...
+   ℹ️  No recent articles found
+
+[15/50] Processing MEP...
+   ℹ️  No recent articles found
+
+[16/50] Processing MVKAGRO...
+   ℹ️  No recent articles found
+
+[17/50] Processing NORBTEAEXP...
+   ℹ️  No recent articles found
+
+[18/50] Processing ORTINGLOBE...
+   ℹ️  No recent articles found
+
+[19/50] Processing OSELDEVICE...
+   ℹ️  No recent articles found
+
+[20/50] Processing PATTECH...
+   ℹ️  No recent articles found
+
+[21/50] Processing POLYSIL...
+   ℹ️  No recent articles found
+
+[22/50] Processing PPAP...
+   ℹ️  No recent articles found
+
+[23/50] Processing PRAXIS...
+   ℹ️  No recent articles found
+
+[24/50] Processing RAJRILTD...
+   ℹ️  No recent articles found
+
+[25/50] Processing RSSOFTWARE...
+   ℹ️  No recent articles found
+
+[26/50] Processing SADHNANIQ...
+   ℹ️  No recent articles found
+
+[27/50] Processing SANWARIA...
+   ℹ️  No recent articles found
+
+[28/50] Processing SITINET...
+   ℹ️  No recent articles found
+
+[29/50] Processing SRPL...
+   ℹ️  No recent articles found
+
+[30/50] Processing TANKUP...
+   ℹ️  No recent articles found
+
+[31/50] Processing UMAEXPORTS...
+   ℹ️  No recent articles found
+
+[32/50] Processing UNITEDPOLY...
+   ℹ️  No recent articles found
+
+[33/50] Processing VOLERCAR...
+   ℹ️  No recent articles found
+
+[34/50] Processing WELINV...
+   ℹ️  No recent articles found
+
+[35/50] Processing WINSOME...
+   ℹ️  No recent articles found
+
+[36/50] Processing AAKASH...
+   ℹ️  No recent articles found
+
+[37/50] Processing AAREYDRUGS...
+   ℹ️  No recent articles found
+
+[38/50] Processing AARTECH...
+   ℹ️  No recent articles found
+
+[39/50] Processing AARTISURF...
+   ℹ️  No recent articles found
+
+[40/50] Processing AARVEEDEN...
+   ℹ️  No recent articles found
+
+[41/50] Processing ABAN...
+   ℹ️  No recent articles found
+
+[42/50] Processing ABHAPOWER...
+   ℹ️  No recent articles found
+
+[43/50] Processing ABINFRA...
+   ℹ️  No recent articles found
+
+[44/50] Processing ABMINTLLTD...
+   ℹ️  No recent articles found
+
+[45/50] Processing ACCENTMIC...
+   ℹ️  No recent articles found
+
+[46/50] Processing ACCORD...
+   ℹ️  No recent articles found
+
+[47/50] Processing AESTHETIK...
+   ℹ️  No recent articles found
+
+[48/50] Processing AGARWALFT...
+   ℹ️  No recent articles found
+
+[49/50] Processing AGNI...
+   ℹ️  No recent articles found
+
+[50/50] Processing AGROPHOS...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 0
+   Results saved: realtime_ai_analysis_20251024_000816.csv

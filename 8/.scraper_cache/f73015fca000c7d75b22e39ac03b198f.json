@@ -1,0 +1,112 @@
+{
+  "ticker": "BRITANNIA",
+  "fetch_time": "2025-11-11T12:47:42.638070",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 75 Per Share",
+      "ex_date": "04-Aug-2025",
+      "ex_date_parsed": "2025-08-04T00:00:00",
+      "amount": 75.0
+    },
+    {
+      "description": "Annual General Meeting/ Dividend - Rs 73.5 Per Share",
+      "ex_date": "05-Aug-2024",
+      "ex_date_parsed": "2024-08-05T00:00:00",
+      "amount": 73.5
+    },
+    {
+      "description": "Interim Dividend - Rs 72 Per Share",
+      "ex_date": "13-Apr-2023",
+      "ex_date_parsed": "2023-04-13T00:00:00",
+      "amount": 72.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 56.50 Per Share",
+      "ex_date": "20-Jun-2022",
+      "ex_date_parsed": "2022-06-20T00:00:00",
+      "amount": 56.5
+    },
+    {
+      "description": " Dividend - Rs 12.50 Per Share Pursuant To Scheme",
+      "ex_date": "25-May-2021",
+      "ex_date_parsed": "2021-05-25T00:00:00",
+      "amount": 12.5
+    },
+    {
+      "description": " Interim Dividend - Rs 62 Per Share",
+      "ex_date": "08-Apr-2021",
+      "ex_date_parsed": "2021-04-08T00:00:00",
+      "amount": 62.0
+    },
+    {
+      "description": " Interim Dividend - Rs 83 Per Share",
+      "ex_date": "26-Aug-2020",
+      "ex_date_parsed": "2020-08-26T00:00:00",
+      "amount": 83.0
+    },
+    {
+      "description": " Interim Dividend-Rs 35 Per Share",
+      "ex_date": "29-Apr-2020",
+      "ex_date_parsed": "2020-04-29T00:00:00",
+      "amount": 35.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend - Rs 15 Per Share",
+      "ex_date": "01-Aug-2019",
+      "ex_date_parsed": "2019-08-01T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": " Annual General Meeting / Dividend- Rs 25 Per Share",
+      "ex_date": "27-Jul-2018",
+      "ex_date_parsed": "2018-07-27T00:00:00",
+      "amount": 25.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 22/- Per Share",
+      "ex_date": "28-Jul-2017",
+      "ex_date_parsed": "2017-07-28T00:00:00",
+      "amount": 22.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend Rs 20/- Per Share",
+      "ex_date": "29-Jul-2016",
+      "ex_date_parsed": "2016-07-29T00:00:00",
+      "amount": 20.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 16/- Per Share",
+      "ex_date": "27-Jul-2015",
+      "ex_date_parsed": "2015-07-27T00:00:00",
+      "amount": 16.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 12/- Per Share",
+      "ex_date": "23-Jul-2014",
+      "ex_date_parsed": "2014-07-23T00:00:00",
+      "amount": 12.0
+    }
+  ],
+  "bonuses": [
+    {
+      "description": " Scheme Of Arangement- Bonus - 1 Debenture For 1 Equity Share Held",
+      "ex_date": "25-May-2021",
+      "ex_date_parsed": "2021-05-25T00:00:00",
+      "ratio": null
+    },
+    {
+      "description": " Scheme Of Arangement- Bonus - 1 Debenture For 1 Equity Share Held",
+      "ex_date": "22-Aug-2019",
+      "ex_date_parsed": "2019-08-22T00:00:00",
+      "ratio": null
+    }
+  ],
+  "splits": [
+    {
+      "description": " Face Value Split (Sub-Division) - From Rs 2/- Per Share To Re 1/- Per Share",
+      "ex_date": "29-Nov-2018",
+      "ex_date_parsed": "2018-11-29T00:00:00"
+    }
+  ],
+  "data_available": true
+}

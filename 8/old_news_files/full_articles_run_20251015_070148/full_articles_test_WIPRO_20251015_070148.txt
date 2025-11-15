@@ -1,0 +1,31 @@
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 33.30B
+
+Title   : Wipro Q2 Preview: Profit may rise 4% YoY amid weak demand and deal ramp-ups 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T08:00:44
+Fetched : 2025-10-15T08:43:04.461052
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q2-preview-profit-may-rise-4-yoy-amid-weak-demand-and-deal-ramp-ups/articleshow/124571570.cms
+--------------------------------------------------------------------------------
+The Bengaluru-based IT services major will announce its quarterly results on October 16, with investor focus likely to remain on margin movement, deal pipeline strength, and management commentary on recovery visibility in the second half of FY26.
+Muted revenue growth expected
+Most analysts expect Wipro’s Q2 performance to stay within its guided range of (-1%) to +1% constant currency (CC) growth. Kotak Institutional Equities sees growth near the midpoint at 0.2% QoQ, driven by the early ramp-up in the Phoenix deal and other large contracts signed earlier this year.Nuvama also expects revenue growth of +0.1% QoQ in CC and +0.2% QoQ in USD terms, while Emkay forecasts a similar 0.1% sequential growth after accounting for minor cross-currency tailwinds. Centrum expects slightly better momentum, at 0.4% QoQ in CC terms, within the guided range.
+Analysts at Axis Securities are more optimistic, projecting 2% QoQ growth, citing improved traction in Europe and stable performance in the BFSI and manufacturing verticals. Still, the overall revenue trajectory remains subdued compared with top-tier peers like Infosys and TCS, as Wipro continues to lag in discretionary tech spending recovery.
+Margins likely to stay under pressure
+Brokerages broadly expect EBIT margin contraction of 30–40 basis points (bps) sequentially due to upfront costs linked to the ramp-up of large deals. Kotak expects a 40-bps margin decline despite tailwinds from rupee depreciation, while Nuvama projects a similar fall due to integration costs and deal transition expenses.In contrast, HSBC estimates a 40-bps improvement in margins on account of favourable currency movements and operational efficiency. Axis Securities expects a 48-bps expansion, led by cost-control efforts and better utilisation.
+Guidance and deal commentary in focus
+For the December quarter (Q3FY26), Wipro is expected to guide for 0–2% CC growth, supported by the continued ramp-up of large deals and potential recovery in Europe. HSBC and Kotak both believe that deal momentum remains encouraging, with large-deal total contract value (TCV) likely at around $1.5 billion, reflecting Wipro’s aggressive pursuit of cost-takeout contracts.However, analysts remain cautious on pricing pressure and execution costs. Kotak warns that upfront costs from large deals may weigh on profitability even as revenues stabilise. Emkay also expects commentary on furloughs, demand trends across BFSI, consumer, and tech, and updates on the Capco consulting business to drive sentiment.
+Outlook: Recovery slow but visible
+Analysts see signs of stability emerging, though recovery remains slow compared to larger peers. The Phoenix deal and a healthy European order book could help offset some softness in US discretionary spending.
+Also read: Nifty glitters before Diwali; post-Diwali fizzle may be just a market myth
+Kotak believes investor focus will also shift toward Wipro’s GenAI adoption, GCC partnerships, and deal win rates over the next two quarters. Meanwhile, Axis expects commentary on European business outlook and margin levers to be key triggers for the stock.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

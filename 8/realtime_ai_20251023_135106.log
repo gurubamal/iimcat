@@ -1,0 +1,60 @@
+2025-10-23 13:51:12,668 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 13:51:12,673 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 13:51:12,673 - INFO - 🚀 Starting real-time collection + analysis for 5 tickers
+2025-10-23 13:51:12,673 - INFO -    Time window: 24 hours
+2025-10-23 13:51:12,673 - INFO -    Max articles per ticker: 10
+2025-10-23 13:51:12,675 - INFO - 
+[1/5] Processing 20MICRONS...
+2025-10-23 13:51:12,675 - INFO - 📰 Fetching news for 20MICRONS (last 24h)
+2025-10-23 13:51:12,675 - ERROR - ❌ Error fetching articles for 20MICRONS: fetch_rss_items() got an unexpected keyword argument 'allowlist'
+2025-10-23 13:51:12,677 - INFO - 
+[2/5] Processing 21STCENMGM...
+2025-10-23 13:51:12,677 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 13:51:12,679 - ERROR - ❌ Error fetching articles for 21STCENMGM: fetch_rss_items() got an unexpected keyword argument 'allowlist'
+2025-10-23 13:51:12,685 - INFO - 
+[3/5] Processing 360ONE...
+2025-10-23 13:51:12,690 - INFO - 📰 Fetching news for 360ONE (last 24h)
+2025-10-23 13:51:12,693 - ERROR - ❌ Error fetching articles for 360ONE: fetch_rss_items() got an unexpected keyword argument 'allowlist'
+2025-10-23 13:51:12,701 - INFO - 
+[4/5] Processing 3IINFOLTD...
+2025-10-23 13:51:12,714 - INFO - 📰 Fetching news for 3IINFOLTD (last 24h)
+2025-10-23 13:51:12,714 - ERROR - ❌ Error fetching articles for 3IINFOLTD: fetch_rss_items() got an unexpected keyword argument 'allowlist'
+2025-10-23 13:51:12,714 - INFO - 
+[5/5] Processing 3MINDIA...
+2025-10-23 13:51:12,714 - INFO - 📰 Fetching news for 3MINDIA (last 24h)
+2025-10-23 13:51:12,714 - ERROR - ❌ Error fetching articles for 3MINDIA: fetch_rss_items() got an unexpected keyword argument 'allowlist'
+2025-10-23 13:51:12,723 - INFO - 
+✅ Collection complete!
+2025-10-23 13:51:12,729 - INFO -    Total articles: 0
+2025-10-23 13:51:12,737 - INFO -    Successfully analyzed: 0
+2025-10-23 13:51:12,747 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_135106.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 0
+   Results saved: realtime_ai_analysis_20251023_135106.csv

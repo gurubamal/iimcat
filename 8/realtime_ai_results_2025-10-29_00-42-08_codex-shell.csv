@@ -1,0 +1,2 @@
+rank,ticker,ai_score,sentiment,recommendation,catalysts,risks,certainty,articles_count,quant_alpha,headline,reasoning
+1,HINDALCO,82.8,bullish,BUY,"earnings, investment, expansion",Delay,66,1,N/A,"Hindalco, Vedanta shares jump up to 2% on strong volumes; metal index advances over 1% ",Detected 3 catalyst(s). From economictimes.indiatimes.com. Score: 100/100. Certainty: 66%. BULLISH.

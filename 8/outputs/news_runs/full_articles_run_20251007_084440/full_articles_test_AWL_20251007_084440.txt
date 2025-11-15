@@ -1,0 +1,13 @@
+Full Article Fetch Test - AWL
+================================================================================
+
+(skipped: outside allowed sources) Title: Microsoft Outlook - Memo Style - bsmedia.business-standard.com
+URL     : https://news.google.com/rss/articles/CBMivAFBVV95cUxQVDRDUUNESGhlc1dwZExEdGFxQzRxSE5OR3FyeHN0cFNxX1ZpUXJxR1FFZ3JpNWZQa2VnOHBELW8tY0tTb3FOVGJqbzRBc3dEWGFkS2ttRzVUaDJwbGRkLVZtdGMwR3IyRFFGeDVDazR6Q1dFbWlvUmZSbUJQOGlsZ3NuY1JUMmp4Y3VFeG5MN2MtUWJnTThOYnVtVWRKVjhFb1ZHcWctVktyMjVuOXFPZ2x5b01rRk5meWZsRg?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: AWL IN EQUITY 06Oct25 EF - bsmedia.business-standard.com
+URL     : https://news.google.com/rss/articles/CBMiugFBVV95cUxOUmVXVElTWEZ2NXFtMmM3WWtHLW5UQ2dJb0ktZlAtN2p4ODFjY1F2N2NZcHB0M1BwQnFwQ0JJWU5fVk5YbTRvUlZUZUFlUU5VM1Z6RG12ZXNicWFKeHJXWEk2WHNHR3hiRzRsblB4TnBoU2pWenJUZUxhMUVGbnlfZFB2MTJxVG9TMGVIalBLNjVvUlBaZElOaG5xaWM5RmhKdWNNX0xjb08yVzM1bGR2VXBHQ3Z6aVlvcmc?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: white rice vs brown rice: Latest News & Videos, Photos about white rice vs brown rice - The Economic Times
+URL     : https://news.google.com/rss/articles/CBMidkFVX3lxTE52eFBNQzNGejdWekZuMG1BVUNrY2FNR3dtNHhrTnRYWEh2aTlfd0dIWURXXzIxcmpVcGx0eUJ4SDBya3k3bTFpMzV3NGdnbXVobTVBbmx6U1lFUkZraHBxcDJWOHVWVHFFQ0xvVkZjeXZkZkdfdVE?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

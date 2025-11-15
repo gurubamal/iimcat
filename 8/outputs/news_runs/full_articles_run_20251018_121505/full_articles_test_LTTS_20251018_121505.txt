@@ -1,0 +1,20 @@
+Full Article Fetch Test - LTTS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-18): 3.16B
+
+Title   : LTTS posts 16% annual revenue growth, secures record $300 million in deals 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-17T13:45:11
+Fetched : 2025-10-18T13:35:30.289595
+URL     : https://www.thehindubusinessline.com/info-tech/ltts-posts-16-annual-revenue-growth-secures-record-300-million-in-deals/article70175449.ece
+--------------------------------------------------------------------------------
+L&T Technology Services reported a 16 per cent year-on-year revenue growth for the second quarter of fiscal year 2026, posting revenues of ₹2,980 crore. The engineering services company achieved a record high total contract value of approximately $300 million in large deals during the quarter.
+The Mumbai-based firm’s net profit stood at ₹329 crore, marking a 4.1 per cent increase from the previous quarter. Quarter-on-quarter revenue growth was 4 per cent, while the EBIT margin came in at 13.4 per cent. The company announced an interim dividend of ₹18 per share with a record date of October 27, 2025.
+CEO and Managing Director Amit Chadha attributed the performance to the company’s multi-segment strategy and investments in artificial intelligence. The Sustainability segment achieved double-digit annual growth for two consecutive quarters. The company has launched several AI-focused platforms including Qguard.ai, FusionWorld.ai, and PLxAI.
+LTTS announced a multi-year membership with MIT Media Lab to collaborate on AI innovations across its Mobility, Sustainability, and Tech segments. The company also received Caterpillar’s Supplier Excellence Recognition certification for the second consecutive year.
+The company’s patent portfolio reached 1,601, including 216 patents in AI and generative AI. Employee strength stood at 23,678 as of September 30, 2025. LTTS maintains its medium-term revenue target of $2 billion.
+The shares of L&T Technology Services Limited ended on the NSE today at ₹4,156 down by ₹40.80 or 0.97 per cent.
+More Like This
+Published on October 17, 2025
+

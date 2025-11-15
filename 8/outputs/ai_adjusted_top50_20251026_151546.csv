@@ -1,0 +1,3 @@
+ticker,company_name,combined_score,adj_score,articles,dups,has_word,amt_cr,reason,event_type,top_title,top_source
+RELIANCE,RELIANCE INDUSTRIES LIMITED,1.0,1.019547,1,1,True,0.015,~0.0% mcap impact; ticker in title,General,"M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS shine",
+UMAEXPORTS,UMA EXPORTS LIMITED,1.0,0.717500,1,1,False,0.000,no exact ticker,General,Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment,

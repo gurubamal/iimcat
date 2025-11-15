@@ -1,0 +1,52 @@
+Full Article Fetch Test - SERVICE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 20.15M
+
+Title   : Amazon Web Services outage knocks out major sites worldwide
+Source  : www.thehindubusinessline.com
+Published: 2025-10-20T09:16:23
+Fetched : 2025-10-21T07:49:53.319542
+URL     : https://www.thehindubusinessline.com/info-tech/amazon-web-services-outage-knocks-out-major-sites-worldwide/article70184645.ece
+--------------------------------------------------------------------------------
+Amazon’s cloud services unit AWS (Amazon Web Services) was hit by an outage on Monday, causing connectivity issues for many companies around the world and disrupting services for several popular websites and apps including Fortnite and Snapchat.
+“We can confirm increased error rates and latencies for multiple AWS Services in the US-EAST-1 Region,” AWS said in an update on its status page.
+AI startup Perplexity, cryptocurrency exchange Coinbase and trading app Robinhood attributed the outages to AWS.
+“Perplexity is down right now. The root cause is an AWS issue. We’re working on resolving it,” Perplexity CEO Aravind Srinivas said in a post on X.
+AWS provides on-demand computing power, data storage and other digital services to companies, governments and individuals. Disruptions to its servers can cause outages across websites and platforms that rely on its cloud infrastructure. AWS competes with Google’s and Microsoft’s cloud services.
+AWS and Amazon did not respond to a request for comment.
+Amazon’s shopping website, PrimeVideo and Alexa were all facing issues, according to Downdetector.
+Fortnite, owned by Epic Games, Roblox, Clash Royale and Clash of Clans were among the gaming sites that were down, while Paypal’s Venmo and Chime were some of the financial platforms that faced issues, the outage tracking website said.
+Uber rival Lyft’s app was also down for thousands of users in the U.S.
+Messaging app Signal’s President Meredith Whittaker also confirmed on X that their platform was hit by the AWS outage as well.
+Published on October 20, 2025
+
+Title   : Jio Financial Services Share Price Live Updates: Jio Financial Services Sees Positive Movement 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-21T02:41:05
+Fetched : 2025-10-21T07:49:53.320334
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/jio-financial-services-stock-price-today-live-21-oct-2025/liveblog/124712160.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Jio Financial Services Share Price Live Updates: Jio Financial Services Sees Positive Movement
+LIVE BLOG
+Jio Financial Services share price live updates
+Stay up-to-date with the Jio Financial Services Stock Liveblog, your trusted source for real-time updates and thorough analysis of a prominent stock. Explore the latest details on Jio Financial Services, including: Last traded price 310.7, Market capitalization: 197392.11, Volume: 14883909, Price-to-earnings ratio 121.06, Earnings per share 2.57. Get a comprehensive understanding of Jio Financial Services with our coverage of both fundamental and technical indicators. Stay informed about breaking news that can have a significant impact on Jio Financial Services's performance. Our expert opinions and recommendations empower you to make well-informed investment choices. Trust the Jio Financial Services Stock Liveblog to keep you informed and equipped in the dynamic market landscape. The data points are updated as on 12:46:07 PM IST, 21 Oct 2025
+Show more1 New Update
+Jio Financial Services is currently priced at Rs 310.7, with a change of 0.46% today. The EMA5 is recorded at Rs 306.44.
+Currently priced at Rs 310.7, Jio Financial Services has experienced a 0.46% increase today, while the 1D returns are at 0.45.
+Stay up-to-date with the latest developments and Jio Financial Services News
+Jio Financial Services is currently trading at Rs 310.7, marking a gain of 0.46% today. The SMA5 is positioned at Rs 307.77, suggesting a favorable trend in its recent performance.
+The current price of Jio Financial Services stands at Rs 310.7, reflecting a percentage change of 0.46 today, with the SMA3 at Rs 307.57.
+Jio Financial Services is currently valued at Rs 310.7, reflecting a 0.46% increase today, despite a negative return of 1.99% over the last month.
+Discover the latest market updates and real-time stock information on Jio Financial Services Stock
+At Rs 310.70, Jio Financial Services has seen a 0.46% increase today, with a notable trading volume of 14,883,909 shares compared to its 7-day average of 10,631,789.
+The last week saw Jio Financial Services achieving returns of 0.73%, showcasing resilience in the market.
+Yesterday, Jio Financial Services finished the trading day at Rs 309.3.
+Jio Financial Services has recorded a return of -1.99% in the last month, marking a loss in its financial trajectory.
+Over the last three months, Jio Financial Services has recorded a return of -1.94%, reflecting a challenging market environment.
+On the last trading day, Jio Financial Services closed at Rs 309.3, marking a 0.45% rise, alongside a trading volume of 13,963,053 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+

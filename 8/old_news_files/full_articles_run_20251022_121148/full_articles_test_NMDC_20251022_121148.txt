@@ -1,0 +1,21 @@
+Full Article Fetch Test - NMDC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 19.68B
+
+Title   : NMDC cuts rates of iron ore lump by ₹550 per tonne, fines by ₹500/tonne
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T09:41:55
+Fetched : 2025-10-22T14:17:07.514778
+URL     : https://www.thehindubusinessline.com/markets/commodities/nmdc-cuts-rates-of-iron-ore-lump-by-550-per-tonne-fines-by-500tonne/article70189337.ece
+--------------------------------------------------------------------------------
+State-owned NMDC on Wednesday said it has slashed prices of iron ore lump and its fines by ₹550 and ₹500 per tonne, respectively, with immediate effect.
+It has fixed the price of lump ore at ₹5,550 per tonne and fines at ₹4,750 a tonne, the country's largest iron ore miner said in a regulatory filing.
+Lump ores or high-grade iron ores contain 65.5 per cent iron content, while fines are inferior-grade ores with 64 per cent or less iron content.
+In the last price revision announced on August 1, NMDC had fixed the rate of the lump at ₹6,100 per tonne and that of fines at ₹5,250 per tonne.
+The prices effective from October 22 are inclusive of royalty, district mineral fund (DMF), National Mineral Exploration Trust (DMET) and exclude cess, forest permit fee, transit fee, GST, environmental cess and other taxes.
+"The prices of iron ore were not reviewed for past two months. The domestic steel market, which is a consumer, remained under acute pressure, as prices continued on their downward trajectory," market research firm BigMint said.
+Iron ore is one of the key raw materials used in the manufacturing of steel, and any movement in its prices has a direct impact on rates of steel, an alloy widely used in segments like construction, infrastructure, automobile and railways.
+Hyderabad-based NMDC (formerly known as National Mineral Development Corporation) under Ministry of Steel contributes around 20 per cent to India's total iron ore production.
+Published on October 22, 2025
+

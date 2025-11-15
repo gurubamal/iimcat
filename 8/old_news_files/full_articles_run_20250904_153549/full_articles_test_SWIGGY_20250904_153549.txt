@@ -1,0 +1,30 @@
+Full Article Fetch Test - SWIGGY
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-04
+
+Title   : Zomato, Swiggy, Blinkit delivery fees to face 18% GST. What it means for investors 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-04T10:28:14
+Fetched : 2025-09-04T16:25:01.572970
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/zomato-swiggy-blinkit-delivery-fees-to-face-18-gst-what-it-means-for-investors/articleshow/123696929.cms
+--------------------------------------------------------------------------------
+The GST Council’s decision last night to bring local e-commerce delivery services under Section 9(5) of the CGST Act closes a loophole that platforms such as Zomato, Swiggy, and Blinkit had used to avoid taxes on delivery charges. The move comes at a time when these companies have become major consumption drivers in India’s digital economy.
+Morgan Stanley analysts estimate the new tax will add roughly Rs 2 per order for Zomato’s food delivery business, based on current customer delivery fees of Rs 11–12. For Swiggy, the burden could be steeper at Rs 2.6 per order, given average delivery fees of around Rs 14.5 per transaction.
+Swiggy’s quick commerce arm, Instamart, faces a smaller hit of Rs 0.8 per order due to lower delivery fees of about Rs 4 per transaction. Meanwhile, Zomato’s quick commerce platform Blinkit appears insulated, as its delivery fee was already included in revenues and subject to GST, implying no incremental impact, Morgan Stanley noted.
+Also Read | GST 2.0 trigger throws up over 90 stock ideas as rate cuts may spark new market cycle. Full list
+Stock markets reacted swiftly to the announcement, with Swiggy shares falling 1.5%, while Zomato’s parent, Eternal, ended nearly flat, reflecting investor caution over potential margin compression.
+Until now, platforms had avoided GST on delivery fees by treating them as pass-through charges rather than revenue. The latest notification removes this distinction, mandating an 18% GST regardless of whether companies record delivery fees as revenue or pass-through. The new rules take effect from September 22.
+Jefferies described the GST levy as "a slight negative for Eternal and Swiggy," while emphasising that "this should be a pass-through to the user."
+Morgan Stanley believes the industry structure supports cost pass-through capabilities: "We do think with the current industry structure, companies should be able to pass it back onto consumers," the brokerage stated, noting that delivery fees have been "getting diluted" incrementally.
+The tax clarification could resolve a significant overhang for the sector. Companies have faced "multiple demands from various state governments on GST dues on past delivery services," and the new notification creates "a possibility of resolution on past cases over time," though Morgan Stanley cautioned this "could be more complicated as cases are pending at state levels."
+Additionally, broader GST rate reductions on food items and consumer goods could offset delivery fee increases by lowering overall order values, potentially boosting demand sentiment that would benefit platform companies.
+The immediate concern centers on profitability impact if companies absorb the additional tax burden rather than passing it to consumers. With food delivery and quick commerce platforms already navigating thin margins while scaling operations, any incremental cost pressure poses challenges for their path to sustainable profitability.
+Also Read | Explained: How PM Modi's Rs 48,000 crore GST gift impacts stock market investors
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

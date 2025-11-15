@@ -1,0 +1,26 @@
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 33.30B
+
+Title   : Q2FY26 preview: Wipro may see flat revenue, revise lower-end guidance for Q3
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T14:35:34
+Fetched : 2025-10-13T21:35:12.251641
+URL     : https://www.thehindubusinessline.com/info-tech/q2fy26-preview-wipro-may-see-flat-revenue-revise-lower-end-guidance-for-q3/article70159438.ece
+--------------------------------------------------------------------------------
+Wipro is expected to report yet another weak quarter with Q2FY26, with brokerages indicating that the IT major may see a revenue decline of
+0.3 per cent QoQ in CC & flattish growth in USD terms due to weakness in the Capco business and the retail segment. The company is also expected to revise the lower end of its guidance to 0 per cent QoQ revenue growth for Q3FY26.
+Revenue and Profitability
+The company is projected to post revenues between ₹22,301 crore and ₹22,670 crore, reflecting a sequential increase of 2.0 per cent –2.6 per cent , as per a brokerage poll. On a year-on-year basis, revenue growth is expected to range between 1.2 per cent and 1.8 per cent .
+Profit after tax (PAT) is estimated at ₹3,176 crore–₹3,340 crore, marking a sharp quarter-on-quarter decline of 4.2 per cent –4.6 per cent and a year-on-year dip of 0.6 per cent –1 per cent .
+According to IDBI Capital, Wipro’s revenue growth will primarily be driven by inorganic factors. The report noted that the European market is stabilizing after client-specific challenges, with a gradual recovery expected.
+Margins and Guidance
+The company’s EBIT margin is projected to range between 16.5 per cent and 17 per cent , slightly lower than the previous quarter’s 17.3 per cent . It is also expected to update its revenue guidance for the upcoming quarter.
+According to a BOB Capital Markets report, Wipro’s EBIT margin is likely to improve, aided by operational efficiencies, continued cost-optimization initiatives, and the absence of the one-off impact seen in the prior quarter.
+A poll of brokerages suggests that the company may either maintain its Q2 revenue guidance of -1 per cent to 1 per cent for Q3 or revise the lower end upward to 0 per cent growth.
+Hiring and Attrition
+In September, President Trump issued a proclamation requiring a one-time payment of $100,000 for all new H-1B visa petitions filed for workers currently outside the US, citing the need to safeguard American jobs. The announcement took India’s IT services sector, one of the biggest beneficiaries of the H-1B program, by storm.
+Data from the US Citizenship and Immigration Services (USCIS) shows that Wipro has obtained 77,289 H-1B visas between 2009 and 2025, ranking fourth among major Indian IT firms. In FY25 alone, it secured 1,523 visas -- the lowest among its peers -- and is expected to further reduce its dependency on such visas, leaving it relatively insulated from the new policy.
+Published on October 13, 2025
+

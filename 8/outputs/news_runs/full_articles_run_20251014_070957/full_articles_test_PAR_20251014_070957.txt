@@ -1,0 +1,30 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 33.28M
+
+Title   : EQT scraps Zelestra India sale, brings in O2's Parag Sharma to lead $600 mn push
+Source  : www.livemint.com
+Published: 2025-10-12T12:37:48
+Fetched : 2025-10-14T07:24:03.605349
+URL     : https://www.livemint.com/companies/news/eqt-drops-zelestra-india-sale-plan-to-invest-another-600-million-brings-in-former-o2-power-chief-parag-sharma-as-ceo-11760265916880.html
+--------------------------------------------------------------------------------
+EQT scraps Zelestra India sale, brings in O2's Parag Sharma to lead $600 mn push
+The alternative asset manager will carve out Zelestra India as a separate company and plans to develop it on the lines of O2 Power, which was sold to JSW Group last December.
+New Delhi: European alternative asset manager EQT has dropped the plan to sell renewable developer Zelestra’s India operations and instead transferred it to its Asia Pacific infrastructure team headed by Hong Kong-based partner Ken Wong.
+EQT will also invest around $600 million to develop the portfolio and has brought in Parag Sharma, former chief executive officer (CEO) and co-founder of EQT—and Temasek-backed O2 Power, to head the company, replacing incumbent CEO Sajay K.V., said four people aware of the development.
+Zelestra had hired JP Morgan to run the sale process for its India operations, eyeing a deal with an equity and enterprise value of $184 million and $421 million, respectively. Mint earlier reported that the world’s largest alternative asset manager Blackstone was looking to acquire Zelestra’s Indian operations.
+The new plan is to carve out Zelestra India as a separate company and build it on similar lines as O2 Power, which was sold to JSW Neo Energy in December last year for an enterprise value of $1.47 billion.
+“EQT is not selling Zelestra India now. The plan is to build another O2 Power. While the sale process run by JP Morgan was on, it was decided that EQT’s Asia Pacific team would take Zelestra India forward on similar lines as was done for O2 Power," said one of the four people cited above, requesting anonymity. “It will still be housed under the EQT Infrastructure V fund, but placed under a different partner. The plan is to infuse another $600 million in expanding Zelestra India portfolio."
+The second person cited above, who also did not want to be named, said, “EQT Asia infrastructure team is carving out Zelestra India operations out of Zelestra and will run it as a portfolio company."
+Sharma, who has already joined Zelestra India as its new CEO, declined to comment. Sajay K.V. did not respond to phone calls or a message left on his cellphone.
+Spokespersons for EQT, Zelestra, JP Morgan and Blackstone declined to comment.
+Zelestra India has an operational capacity of 600 megawatt (MW), with an additional 2 gigawatt (GW) contracted portfolio, of which 1.5GW is under construction. The green energy platform is targeting 8.6GW capacity by 2031.
+Sajay K.V. had taken over as the CEO of Zelestra’s Indian business unit in December 2023, after stints with BrightNight Power, Hero Future Energies, Siemens Gamesa and Vestas.
+EQT has €273 billion in assets under management. Zelestra has a 29GW of global portfolio in 13 countries and has been present in India since 2015.
+India’s green energy capacity addition has been on an upward trajectory. With a solar power sector potential of 748GW, India has an installed renewable energy capacity of 245GW, of which solar and wind power account for 116GW and 52GW, respectively. The country plans to add 50GW of green energy capacity annually to reach 500GW by 2030. Given the nation’s green energy transition trajectory and the net-zero target by 2070, the plan is to add 1,800GW of renewable energy capacity by 2047 and 5,000GW by 2070.
+This large scale of India’s green energy space has opened up mergers and acquisitions (M&A) opportunities and attracted global and domestic investor interest.
+“The power sector led M&A activity worth US$8.5 billion, driven largely by the renewable energy sector's growth," wrote EY in a 13 August report.
+“The renewable energy sector in India alone contributed around 80% of the power sector’s total, marking a significant increase from US$3.2 billion in H1 2024 and US$2.8 billion in H2 2024, indicating a strong interest in sustainable investments," the EY report said.
+“India is now recognized as the world’s fourth-largest renewable energy market, having attracted over US$4 billion in FDI in the past year alone… The presence of over 60 marquee global investors, a strong track record of profitable exits and a progressive policy framework are accelerating the shift towards the next level of growth in renewable energy," the report said.
+

@@ -1,0 +1,19 @@
+Full Article Fetch Test - SCI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : MosChip Technologies rebounds 0.97% after sharp selloff, faces MSCI index deletion  
+Source  : www.thehindubusinessline.com
+Published: 2025-09-10T08:02:00
+Fetched : 2025-09-10T12:05:18.738631
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/moschip-technologies-rebounds-097-after-sharp-selloff-faces-msci-index-deletion/article70032944.ece
+--------------------------------------------------------------------------------
+MosChip Technologies Limited shares recovered 0.97 per cent to ₹239.40 on Wednesday afternoon, trading between ₹222.00 and ₹243.87 during the session.
+The stock opened at ₹235.00 against the previous close of ₹237.10, with over 177.63 lakh shares changing hands worth ₹418.74 crore by 1.20 PM.
+The semiconductor company’s shares have been under pressure following MSCI’s announcement to delete it from the MSCI India Small Cap Index effective May 30, 2025. The deletion is part of MSCI’s quarterly rebalancing, which will see 22 stocks removed from the small-cap index, including MosChip Technologies.
+Both BSE and NSE have placed MosChip under the Additional Surveillance Measure (ASM) framework due to high volatility. The stock surged 63 per cent over seven sessions before experiencing sharp corrections, prompting exchanges to implement cautionary measures for investors.
+Despite today’s modest recovery, the stock remains highly volatile with an annualized volatility of 70.69 per cent. The company trades at a significant premium with applicable margin rates of 50 per cent, reflecting heightened risk perception. MosChip’s 52-week high of ₹268.75 was recorded on September 8, while its low stands at ₹129.98 from April 7.
+The recent rally has been attributed to optimism around India’s semiconductor mission, though the MSCI deletion could trigger selling pressure from passive funds. With deliverable quantity at just 25.48 per cent of traded volume, the stock shows signs of speculative trading activity.
+Published on September 10, 2025
+

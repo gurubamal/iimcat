@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+MADHUSUDAN,MADHUSUDAN MASALA LIMITED,39.9,25,1,Certainty 25% below threshold (40%),Madhusudan Kela Portfolio: 7 stocks rally up to 67% in FY26; fresh bet in Q2 rev,"This article is about renowned investor Madhusudan Kela's portfolio holdings across 15 stocks, not specifically about MADHUSUDAN company. The ticker M"

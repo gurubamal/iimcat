@@ -1,0 +1,20 @@
+Full Article Fetch Test - DRONE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -68138530.00
+
+Title   : DGCA nod for Kerala Agri Varsity Drone Pilot Training Centre 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T11:32:37
+Fetched : 2025-10-15T16:58:19.284990
+URL     : https://www.thehindubusinessline.com/economy/agri-business/dgca-nod-for-kerala-agri-varsity-drone-pilot-training-centre/article70166657.ece
+--------------------------------------------------------------------------------
+Kerala Agricultural University has received approval from the Directorate General of Civil Aviation for its Drone Pilot Training Centre at the Agri Business Incubator (KAU-RABI), Vellanikkara.
+The Remote Pilot Training Organisation (RPTO) marks a major step towards integrating drone technology into agricultural research and field applications. Located within the university campus, the centre aims to bridge precision farming research with real-world practices — helping optimise spray volume, application timing and nutrient management.
+Funded by NABARD, the project reflects a shared commitment to promoting sustainable, technology-driven agriculture.
+KAU Vice-Chancellor B Ashok said the new facility would help cut production costs and create new skilled employment opportunities in agriculture. The initiative would give much-needed momentum to Kerala’s farming sector, particularly in addressing the challenge of labour shortage.
+KN Anith, Director of Research, noted that combining KAU’s standardised farm technologies with drone-based delivery systems would enhance efficiency and profitability for farmers.
+KP Sudheer, Head of KAU Agri Business Incubator, said the university had previously conducted several drone operation and maintenance programmes. This marks the first time KAU is offering an authorised Remote Pilot Training Course, he said, adding that the initiative would encourage young entrepreneurs and start-ups to embrace modern, technology-led farming.
+The centre established in collaboration with Modha Aero Academy Pvt Ltd, is expected to empower a new generation of tech-savvy farmers and agripreneurs.
+Published on October 15, 2025
+

@@ -1,0 +1,31 @@
+Full Article Fetch Test - NUVAMA
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : Mumbai Housing Registrations Dip in August, But Remain at Record Highs YTD: Nuvama 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-03T06:59:49
+Fetched : 2025-09-03T11:03:48.396942
+URL     : https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mumbai-housing-registrations-dip-in-august-but-remain-at-record-highs-ytd-nuvama/articleshow/123671943.cms
+--------------------------------------------------------------------------------
+The number of units registered fell 3% year-on-year (YoY) and 11% month-on-month (MoM) to 11,230 units. By value, registrations declined 6% YoY and 11% MoM to ₹167 billion.
+Despite this moderation, August 2025 was still the second-best August ever, both in terms of units and value, after August 2024. The average ticket size during the month stood at ₹14.8 million, down 2% YoY but flat on a sequential basis.
+Residential, Luxury Segments in Focus
+Residential properties continued to dominate demand, accounting for 80% of total registrations in August. Luxury homes priced above ₹50 million sustained their momentum, contributing 6% of registrations. Smaller apartments remained most popular, with units under 1,000 sq. ft. making up ~84% of the total. Units between 1,000–2,000 sq. ft. contributed ~13%, while those above 2,000 sq. ft. comprised 3%.
+Regionally, western suburbs led demand with a ~54% share, followed by central suburbs at 32%. South and Central Mumbai accounted for 7% each, underscoring the consistent dominance of suburban markets.
+Year-to-Date Trend Remains Robust
+Even with August’s weather-related disruption and broader geopolitical uncertainties, cumulative registrations in Mumbai for the year-to-date CY25 stood at 99,868 units—an all-time high and up 3% YoY. By value, registrations touched ₹1.5 trillion, up 11% YoY, with the average ticket size also rising 7% YoY to ₹14.8 million.
+At the state level, Maharashtra reported a decline of 7% YoY and 14% MoM in registrations, with 126,106 units recorded in August.
+Outlook: Organised Developers Set to Gain
+Nuvama expects sales momentum in Mumbai to strengthen in the coming months, supported by a robust launch pipeline and likely mortgage rate cuts. This, it noted, would particularly benefit Mumbai-based developers such as Lodha, Oberoi, Godrej Properties, Sunteck, and Rustomjee.
+The brokerage reiterated its broader sector thesis from its Real Estate – Leadership matters report, highlighting consolidation as the key theme in India’s property market. According to Nuvama, buoyancy in sales should sustain, driven by strong business development targets, improved cash flows aiding new launches, interest rate stabilisation, diversification, and rising market share of organised players.
+Additionally, structural factors such as wage growth, rising employment opportunities, and the return-to-office trend are expected to further support housing demand.
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

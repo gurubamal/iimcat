@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+WORTH,WORTH PERIPHERALS LIMITED,34.9,5,1,Certainty 5% below threshold (40%),BEL shares in focus on new order win worth Rs 792 crore ,"CRITICAL MISMATCH: This article discusses BEL's ₹792cr defense contract win, but the analysis is requested for WORTH ticker. There is zero connection "

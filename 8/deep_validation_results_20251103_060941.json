@@ -1,0 +1,122 @@
+[
+  {
+    "ticker": "RELIANCE",
+    "validation_time": "2025-11-03T06:09:37.677849",
+    "checks": {
+      "price_trend": {
+        "current_price": 1486.4000244140625,
+        "price_1m_ago": 1364.0,
+        "price_3m_ago": 1382.080078125,
+        "price_6m_ago": 1296.4222412109375,
+        "price_1y_ago": 1326.7510986328125,
+        "52w_high": 1544.8301010282516,
+        "52w_low": 1110.415052053189,
+        "change_1m_pct": 8.973608828010446,
+        "change_3m_pct": 7.5480392156862735,
+        "change_6m_pct": 14.65400524335915,
+        "change_1y_pct": 12.033072815674672,
+        "position_in_52w_range_pct": 86.54971167503378
+      }
+    },
+    "issues": [],
+    "corrections": [],
+    "error": "Invalid comparison between dtype=datetime64[ns, Asia/Kolkata] and datetime",
+    "verdict": "PASSED"
+  },
+  {
+    "ticker": "CDSL",
+    "validation_time": "2025-11-03T06:09:38.957090",
+    "checks": {
+      "price_trend": {
+        "current_price": 1587.199951171875,
+        "price_1m_ago": 1458.5999755859375,
+        "price_3m_ago": 1510.4844970703125,
+        "price_6m_ago": 1356.3411865234375,
+        "price_1y_ago": 1533.2984619140625,
+        "52w_high": 1973.707641734152,
+        "52w_low": 1038.978785448007,
+        "change_1m_pct": 8.816671996328349,
+        "change_3m_pct": 5.0788640499361195,
+        "change_6m_pct": 17.020700023138925,
+        "change_1y_pct": 3.5153944647231725,
+        "position_in_52w_range_pct": 58.65028794575301
+      }
+    },
+    "issues": [],
+    "corrections": [],
+    "error": "Invalid comparison between dtype=datetime64[ns, Asia/Kolkata] and datetime",
+    "verdict": "PASSED"
+  },
+  {
+    "ticker": "TCS",
+    "validation_time": "2025-11-03T06:09:39.548088",
+    "checks": {
+      "price_trend": {
+        "current_price": 3058.0,
+        "price_1m_ago": 2877.667236328125,
+        "price_3m_ago": 3067.85791015625,
+        "price_6m_ago": 3347.7421875,
+        "price_1y_ago": 3835.050048828125,
+        "52w_high": 4343.802869518513,
+        "52w_low": 2855.9483563860495,
+        "change_1m_pct": 6.266630185565786,
+        "change_3m_pct": -0.3213287722229588,
+        "change_6m_pct": -8.654853667700479,
+        "change_1y_pct": -20.261796819719937,
+        "position_in_52w_range_pct": 13.580067259974221
+      }
+    },
+    "issues": [],
+    "corrections": [],
+    "error": "Invalid comparison between dtype=datetime64[ns, Asia/Kolkata] and datetime",
+    "verdict": "PASSED"
+  },
+  {
+    "ticker": "INFY",
+    "validation_time": "2025-11-03T06:09:40.305960",
+    "checks": {
+      "price_trend": {
+        "current_price": 1482.300048828125,
+        "price_1m_ago": 1420.060546875,
+        "price_3m_ago": 1493.1417236328125,
+        "price_6m_ago": 1429.1065673828125,
+        "price_1y_ago": 1706.7401123046875,
+        "52w_high": 1948.7771714843159,
+        "52w_low": 1269.4320382766355,
+        "change_1m_pct": 4.382876637907439,
+        "change_3m_pct": -0.7260981749481701,
+        "change_6m_pct": 3.72214939454992,
+        "change_1y_pct": -13.150219055523987,
+        "position_in_52w_range_pct": 31.33429535976588
+      }
+    },
+    "issues": [],
+    "corrections": [],
+    "error": "Invalid comparison between dtype=datetime64[ns, Asia/Kolkata] and datetime",
+    "verdict": "PASSED"
+  },
+  {
+    "ticker": "HDFCBANK",
+    "validation_time": "2025-11-03T06:09:41.059966",
+    "checks": {
+      "price_trend": {
+        "current_price": 987.2999877929688,
+        "price_1m_ago": 951.0,
+        "price_3m_ago": 1004.25,
+        "price_6m_ago": 945.6181030273438,
+        "price_1y_ago": 856.2757568359375,
+        "52w_high": 1020.5,
+        "52w_low": 801.3186405131205,
+        "change_1m_pct": 3.817033416715957,
+        "change_3m_pct": -1.687827951907518,
+        "change_6m_pct": 4.407898350526789,
+        "change_1y_pct": 15.301639677524529,
+        "position_in_52w_range_pct": 84.85272092263911
+      }
+    },
+    "issues": [],
+    "corrections": [],
+    "error": "Invalid comparison between dtype=datetime64[ns, Asia/Kolkata] and datetime",
+    "verdict": "PASSED"
+  }
+]

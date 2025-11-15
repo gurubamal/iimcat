@@ -1,0 +1,24 @@
+Full Article Fetch Test - NH
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 1.97B
+
+Title   : NHAI offers ₹1,000 FASTag reward for reporting dirty toll toilets via Rajmargyatra app
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T03:04:00
+Fetched : 2025-10-14T12:21:38.325969
+URL     : https://www.thehindubusinessline.com/economy/logistics/nhai-offers-1000-fastag-reward-for-reporting-dirty-toll-toilets-via-rajmargyatra-app/article70161128.ece
+--------------------------------------------------------------------------------
+State-owned NHAI has launched a special drive that encourages highway users to report dirty toilets at toll plazas and get Rs 1,000 in their FASTag account as a reward till October 31, 2025.
+The highway users can upload geo-tagged pictures through the latest version of the ‘Rajmargyatra’ app and provide details such as user’s name, location, Vehicle Registration Number and mobile number, an official statement said.
+Each Vehicle Registration Number (VRN) reporting such instances will be eligible for a reward of Rs 1,000 in the form of FASTag recharge that will be credited to the linked VRN provided by the user.
+The reward will be non-transferable and cannot be claimed in cash. The initiative will continue till October 31, 2025 on all National Highways across the country.
+Eligibility rules and toilet coverage
+According to the statement, the drive shall be applicable only to toilets constructed, operated, or maintained under NHAI jurisdiction. Other toilets located at retail fuel stations, dhabas, or other public facilities not under NHAI's control are excluded.
+Each VRN shall be eligible for only one reward during the entire scheme period, it said.
+Also, each NH toilet facility shall be eligible for reward consideration only once per day, irrespective of the number of reports received for that location.
+In case multiple reports are received for the same toilet on the same day, only the first valid image reported through the Rajmargyatra app shall be considered eligible for the reward.
+The statement said only clear, geo-tagged, and time-stamped images captured through the app shall be considered. Any manipulated, duplicate, or previously reported images will be rejected.
+Entries shall be verified through Al-assisted screening and manual validation, wherever necessary.
+Published on October 14, 2025
+

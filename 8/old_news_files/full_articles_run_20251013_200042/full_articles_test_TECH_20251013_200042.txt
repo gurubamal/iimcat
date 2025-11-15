@@ -1,0 +1,193 @@
+Full Article Fetch Test - TECH
+================================================================================
+
+Title   : HCL Technologies Q2 Results: Cons PAT flat at Rs 4,235 crore, revenue up 11% YoY. Rs 12/share dividend announced 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T12:13:07
+Fetched : 2025-10-13T21:21:45.495235
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q2-results-cons-pat-flat-yoy-at-rs-4235-crore-revenue-up-11-rs-12/share-dividend-announced/articleshow/124526932.cms
+--------------------------------------------------------------------------------
+The revenue from operations stood at Rs 31,942 crore, up 11% over Rs 28,862 crore posted in the corresponding quarter of the last financial year.
+The company's board of directors also declared an interim dividend of Rs 12 per equity share for the financial year 2025-26.
+HCL Tech's bottomline grew over 10% on a sequential basis from Rs 3,843 crore reported in Q1FY26, while its topline increased by 5.2% over Rs 30,349 crore in the April-June quarter.
+The revenue was higher than Street's estimates of Rs 31,474 crore.
+The constant currency (CC) revenue saw a 2.4% QoQ uptick while rising by 4.6% YoY, while the dollar revenue was reported at $3,644 million, up 2.8% QoQ and up 5.8% YoY.
+FY26 Guidance
+The company revenue growth is expected to be between 3.0% - 5.0% YoY in CC while the services revenue growth is expected to be between 4.0% - 5.0% YoY in CC. The Earnings Before Interest and Taxes (EBIT) margin is likely to remain between 17.0% - 18.0%.HCL Q2 Results: Bookings
+The Total Contract Value (TCV), which indicates new deal wins, stood at $2,569 million, up 41.8% QoQ and up 15.8% YoY.Other key takeaways
+-- HCL Technologies' Earnings Before Interest and Taxes stood at Rs 5,550 crores, which was 17.4% of revenue and was up 12.3% QoQ and 3.5% YoY. Meanwhile, USD EBIT stood at $637 million, up 10.2% QoQ and down 0.5% YoY.-- Q2FY26 EBIT margin includes 55 bps impact of restructuring cost.
+-- Total people count stood at 226,640 with net addition at Rs 3,489. The LTM (Last twelve months) attrition was reported at 12.6%, down from 12.9% in Q2 of last year.
+-- ROIC (on LTM basis) – Company at 38.6%, up 290 bps YoY; services at 45.3%, up 180 bps YoY
+-- HCLTech reported standalone AI revenue of $100 million for Q2FY26, claiming it was first Indian-headquartered IT services company to report standalone AI revenue.
+Also read: HCL Tech announces 91st straight quarterly dividend at Rs 12 per share as Q2 profit holds steady
+Management take
+Commenting on the company's Q2 performance, HCLTech chairperson Roshni Nadar Malhotra said that HCL continued to perform well despite the uncertain business environment and is investing in new technologies and capabilities to unlock growth opportunities. "The upskilling of our global talent base remains a key priority and an enabler of innovation for our clients,” she added.(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+Source  : www.livemint.com
+Published: 2025-10-13T16:09:15
+Fetched : 2025-10-13T21:21:45.495972
+URL     : https://www.livemint.com/companies/hcltech-reports-fastest-q2-growth-in-five-years-calls-ai-revenue-in-a-first-11760365179969.html
+--------------------------------------------------------------------------------
+HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first
+HCL Technologies Ltd reported a strong second-quarter performance with a 2.8% sequential revenue growth to $3.64 billion, surpassing estimates. The company also marked revenue from AI, contributing $100 million. HCLTech's net profit rose 8% to $486 million.
+Defying market uncertainties, HCL Technologies Ltd recorded its strongest second-quarter performance in July-September 2025 in five years. The Noida-headquartered company also became the first of the big five to report revenue from artificial intelligence (AI).
+India’s third-largest IT services company reported revenue growth of 2.8% sequentially to $3.64 billion—beating an estimate of $3.54 billion by a Bloomberg poll of 31 analysts. Its net profit also jumped 8% sequentially to $486 million in the quarter.
+The company became the first among India’s biggest IT outsourcing companies to report revenue from advanced AI, $100 million in Q2.
+Before HCLTech, Accenture was the only large IT outsourcer to call out revenue from AI. The world’s largest IT services company got $2.7 billion in revenue from the new technology, which is roughly a fifth of HCL’s total revenue last fiscal.
+Notably, its growth trajectory is at odds with larger peer Tata Consultancy Services Ltd, which last Friday reported subdued second-quarter earnings, even as it made its biggest pivot by committing to invest upwards of $6 billion in data centres over five-seven years.
+Much of HCLTech's growth in Q2 came from banks and financial institutions, which made up a fourth of the incremental revenue of $99 million. In terms of geography, much of the company’s incremental revenue came from the Americas, which fetched more than half of its business.
+During HCLTech’s post-earnings media interaction on Monday, its top executive said the macro environment was largely unchanged. “Overall demand environment is more or less similar to what we saw in the last quarter," said C Vijayakumar, the company’s chief executive.
+“I think discretionary spend in certain pockets is almost becoming mandatory," he said, adding that a lot of non-essential spending was being ploughed into AI.
+HCLTech’s AI approach through its products and IP-led platforms is similar to Accenture Plc and in contrast to TCS, which is taking a hardware route through data centres.
+TCS also differed in its interpretation of the demand environment. “Lingering uncertainties in the broader economic environment continue to remain a key challenge," the company’s chief executive and managing director, K. Krithivasan, said during the company’s post-earnings press conference on 9 October.
+“Companies are keeping a tight control over their discretionary budgets in response to economic and demand volatility," Krithivasan said. “Clients are consolidating vendors to achieve transformation objectives effectively and efficiently." TCS ended the previous quarter with $7.47 billion in revenue, up 0.6% sequentially.
+HCLTech’s guidance
+HCLTech’s tempered outlook on the demand environment is reflected in its guidance. The company retained its revenue guidance of 3-5% in constant currency terms for the full year. Constant currency does not take currency fluctuations into account.
+“We are raising our full-year services revenue guidance to 4-5% in constant currency from the earlier 3-5% in constant currency. Given the softness in the software segment, we are keeping the company-level guidance unchanged at 3-5% in constant currency," said Vijayakumar.
+At least one analyst mirrored the company’s caution. “Revenue growth was better than our expectation," said Amit Chandra, vice-president for HDFC Securities. “The lower end of the services revenue guidance increase is good but that does not imply optimism."
+Restructuring and layoffs
+The management also threw light on the restructuring plan announced last quarter, as part of which facilities that were redundant would be shut off and employees that were not redeployable would be let go of.
+“When you're trying to restructure, there will be some reductions, but those are all managed through the regular process that we go through," Ram Sundararajan, the company’s chief people officer, said during the post-earnings call.
+However, the company added headcount of 3,489, ending the second quarter with 226,640 employees. This comes on the back of TCS cutting headcount by more than 19,000 in the same period. TCS announced its plans to cut 2% of its headcount, primarily in middle and higher-level roles, on 27 July.
+To be sure, HCLTech was the only other large IT services company apart from TCS that called out workforce reduction last quarter, and that too before the latter. During the company’s post-earnings press conference in July, the management attributed workforce reductions to meet the company’s operating margin aspiration of up to 19%.
+The company retained its operating margin guidance for the full year at 17-18%, and its profitability jumped 110 basis points to 17.4% in Q2, which the management attributed to the recovery plan outlined last quarter. The margins include a restructuring cost of 55 basis points. One basis point is a hundredth of a percentage point.
+No data centre plans
+During the post-earnings press conference, the company also dismissed plans of foraying into the data centre business like TCS did.
+“From our perspective, we are very focused on two broad elements in AI. One is, of course, building intellectual property," said Vijayakumar, adding that “companies like Open AI and tech OEMs and hyperscalers, they're really investing and enhancing the intelligence layer. Now we see a tremendous opportunity to build IP to make that intelligence layer relevant and scalable for enterprises. This is where we are investing."
+He added that the second element included the company’s physical and agentic AI solutions.
+His commentary comes after TCS announced its intent to build AI data centres in the country, in a bid to make it the world’s largest AI-led technology services company. The company plans to invest upwards of $6 billion over the next five-seven years to construct and run a data centre with 1GW (gigawatt) capacity. Its management attributed this move to creating additional revenue streams from Gen AI.
+HCLTech’s shares ended flat at ₹1,494.7 at the end of market hours on Monday. In contrast, the 30-share BSE Sensex index closed 0.2% lower at 82,327.05 points. The company’s earnings were announced after market hours.
+
+Title   : HCLTech reports steady Q2 performance amid auto sector slowdown; AI, new bookings drive growth
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T14:58:49
+Fetched : 2025-10-13T21:21:45.497565
+URL     : https://www.thehindubusinessline.com/info-tech/hcltech-reports-steady-q2-performance-amid-auto-sector-slowdown-ai-new-bookings-drive-growth/article70159482.ece
+--------------------------------------------------------------------------------
+Noida-based HCL Technologies (HCLTech) reported a steady second-quarter performance, supported by strong demand for its AI-powered solutions, robust new bookings, and continued revenue growth, even as the manufacturing segment faced some pressure from a slowdown in the auto sector.
+For the quarter ended September 30, HCLTech posted a flat consolidated net profit of ₹4,235 crore, unchanged from the same period last year. Consolidated revenue grew 10.6 per cent year on year to ₹31,942 crore, up from ₹28,862 crore in Q2 FY25.
+The company expects a healthy pipeline in the coming quarter and has set revenue guidance of 3-5 per cent y-o-y growth in constant currency (CC) for FY26, with services revenue projected to rise 4-5 per cent in CC terms. It also anticipates an EBIT margin in the 17-18 per cent range for the full year.
+“We continue to perform well despite the uncertain business environment and are investing in new technologies and capabilities to unlock growth opportunities. Upskilling our global talent remains a key priority and an enabler of innovation for our clients,” said Roshni Nadar Malhotra, Chairperson, HCLTech.
+C Vijayakumar, CEO and MD, highlighted that HCLTech’s new bookings exceeded $2.5 billion in the quarter without reliance on any mega deals. The company added 3,489 employees during the quarter, while increasing revenue per employee by 1.8 per cent, reflecting alignment with its AI growth strategy.
+Growing AI demand
+“A standout quarter on every front — marked by strong execution, growing demand for our AI-powered solutions, and Advanced AI revenue exceeding $100 million this quarter. Our revenue grew 2.4 per cent sequentially in CC, with operating margin recovering to 17.5 per cent,” Vijayakumar said.
+During Q2, the company on-boarded 5,196 freshers compared to 2,932 in the same quarter last year, taking total headcount to 2,26,640 (2,18,621). HCLTech is also undertaking a reskilling programme, which may result in some job reductions, primarily spread across multiple countries.
+“There will be some reductions when you are trying to restructure. These are managed through reskilling and redeployment exercises,” said Ram Sundararajan, Chief People Officer.
+Local hire
+The company will implement salary increments effective October and has merged quarterly variable pay into fixed pay for all employees. Regarding the recent H1B visa fee revision in the US, Vijayakumar said HCLTech is reducing reliance on visas by strengthening its global delivery model and increasing local hiring and training.
+HCLTech’s Board declared an interim dividend of ₹12 per equity share of ₹2 each for FY26.
+Published on October 13, 2025
+
+Title   : HCL Tech announces 91st straight quarterly dividend at Rs 12 per share as Q2 profit holds steady 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T12:28:44
+Fetched : 2025-10-13T21:21:45.497718
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-announces-91st-straight-quarterly-dividend-at-rs-12-per-share-as-q2-profit-holds-steady/articleshow/124527382.cms
+--------------------------------------------------------------------------------
+Consolidated revenue for the quarter stood at Rs 31,942 crore, up 5% sequentially and 11% year-on-year (YoY), supported by robust performance in its services and engineering segments. On a constant currency basis, revenue grew 2.4% quarter-on-quarter (QoQ) and 4.6% YoY.
+HCL Tech’s net income came in at Rs 4,235 crore, flat YoY but up 10% sequentially. Operating profit (EBIT) rose to Rs 5,550 crore, representing a margin of 17.4%, aided by improved efficiency and controlled costs despite a 55-basis-point restructuring impact.
+The company reported a return on invested capital (ROIC) of 38.6%, with the services business alone generating a healthy 45.3% ROIC.
+Commenting on the results, CEO and Managing Director C Vijayakumar said, "This was a standout quarter on every front—marked by strong execution, growing demand for our AI-powered solutions, and our new deal wins exceeding $2.5 billion without reliance on any mega-deal."
+He added that HCL Tech continues to see broad-based growth across sectors and geographies.
+The company’s free cash flow to net income ratio stood at 125%, underscoring its strong cash generation ability. HCL Tech ended the quarter with Rs 31,570 crore in gross cash and Rs 29,211 crore in net cash, even after paying Rs 3,251 crore in dividends during the quarter.
+Chairperson Roshni Nadar Malhotra said HCL Tech’s focus remains on “capital efficiency and sustainable growth," while CFO Shiv Walia noted that the firm "delivered superior revenue growth with enhanced profitability and solid cash generation."
+The company’s guidance for FY26 remains unchanged — revenue growth between 3% and 5% in constant currency terms and an EBIT margin band of 17–18%.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Chara Technologies raises ₹52 cr to expand rare-earth-free motor manufacturing
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T13:09:35
+Fetched : 2025-10-13T21:21:45.497819
+URL     : https://www.thehindubusinessline.com/companies/chara-technologies-raises-52-cr-to-expand-rare-earth-free-motor-manufacturing/article70157742.ece
+--------------------------------------------------------------------------------
+Chara Technologies, deep-tech powertrain solutions company developing rare-earth-free motors and controllers, has raised ₹52 crore ($6 m) in Series A funding led by Arkam Ventures, with participation from Exfinity Venture Partners, Kalaari Capital, and IIMA Ventures.
+The funding comes at a time when the company is planning to establish a new factory in Bengaluru along with a dedicated testing and validation facility. The expansion is expected to increase Chara’s production capacity five-fold, from 20,000 to 100,000 units annually.
+Chara is also launch new product lines, including lighter, higher-speed motors, larger-capacity variants, and industrial models, strengthening end-to-end powertrain architecture and expanding its in-house capabilities in controls, algorithms, and system efficiency.
+Founded in 2019 by Bhaktha Keshavachar, Mahalingam Koushik, and Ravi Prasad to build electric powertrain systems that are not dependent on rare-earth magnets. These magnets, which make up about 40 per cent of a motor’s cost, are largely sourced from China, creating both price volatility and supply chain dependence for manufacturers.
+Chara has built a synchronous reluctance architecture that eliminates magnets entirely, making its motors 15-20 per cent more cost-effective and significantly more sustainable, while still matching the performance of PMSMs (Permanent magnet synchronous motors). Chara’s products deliver improved vehicle range, reduce energy losses, and lower total cost of ownership (TCO). These are key enablers for EV adoption in cost-sensitive and high-volume markets such as India.
+The firm has filed for nine patents (one granted) and its product portfolio today is targeted at two-wheelers, three-wheelers, and four-wheelers as well as off-highway applications, including agricultural and industrial equipment. Chara is the first rare-earth-free motor and controller company to receive Indian government approval from both ARAI and ICAT, and its motor systems are in active deployment across multiple sectors and geographies, demonstrating proven performance and scalability.
+The firm has close to 100 customers, including Greaves Cotton, BullWork, Sonalika, VST, and European OEMs. With Greaves Cotton, Chara has entered into a strategic partnership to jointly manufacture rare-earth-free synchronous reluctance motors and controllers at Greaves’ Shendra facility in Aurangabad. The partnership aims to address critical supply chain vulnerabilities in the EV industry while promoting sustainability. The collaboration is expected to deliver savings up to 50 per cent and reduce CO2 emissions by approximately 30 per cent by eliminating rare-earth magnets.
+Announcing the fund raise and its growth plans, Bhaktha Keshavachar, Founder & CEO, Chara Technologies, said: “Deep-tech, autonomy in energy systems and manufacturing are key ingredients for a Viksit Bharat. At Chara, we are working diligently towards these goals. The infusion of capital will help us scale our product deployments, strengthen our manufacturing capability and invest in future products. Our goal is to build a deep-tech product company in India and deploy our products worldwide.”
+With footprints already in Belgium and Italy, Chara will now double down on its international expansion plan targeting North America and deeper presence in Europe. The company is also targeting a 6x top line growth, from FY25 to FY26, with a goal of selling 40,000 motors by FY27, supported by growing OEM adoption and new product introductions.
+“As more players enter the space, Chara remains committed to advancing the technology, scaling deployment, and continuing its leadership in building sustainable, high-performance motor systems that redefine what is possible without the dependence on rare-earths.” added Mahalingam Koushik, CoFounder and CTO
+To strengthen its board, the company has also appointed industry veteran Nagesh Basavanahalli as an Independent Board Member.
+Chara marks Arkam’s second investment in the deep tech domain. According to Rahul Chandra, Managing Director, Arkam: “Arkam backs category winning companies and Chara is one of those pioneering companies that is solving a critical need for the EV ecosystem. Chara with its combination of proven technology and design to manufacturing capability is well placed to fulfil the growing needs of Indian auto OEMs for power train solutions. Chara is the first Indian company that allows for end to end domestic sufficiency to enable the massive mission of EV adoption in India. They have achieved the most important milestone of a deeptech company - commercialising production and proving on road performance of a IP rich product starting from inhouse design. The fresh capital will allow Chara to deliver on the quality and reliable production requirements of large OEMs.
+Published on October 13, 2025
+
+Title   : HCL Tech Q2 Results: Profit flat at Rs 4,235 cr, revenue up 11% YoY; Rs 12/share dividend declared 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T13:23:21
+Fetched : 2025-10-13T21:21:45.497972
+URL     : https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-q2-results-profit-flat-at-rs-4235-cr-revenue-up-11-yoy-rs-12/share-dividend-declared/videoshow/124528614.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Earnings›HCL Tech Q2 Results: Profit flat at Rs 4,235 cr, revenue up 11% YoY; Rs 12/share dividend declared
+HCL Tech Q2 Results: Profit flat at Rs 4,235 cr, revenue up 11% YoY; Rs 12/share dividend declared
+India's third-largest IT services company, HCL Technologies, on Monday reported a flat Q2 net profit at Rs 4,235 crore versus Rs 4,235 crore in the year-ago period. The profit after tax (PAT) is attributable to the shareholders of the company and was in line with Street's expectations of Rs 4,231 crore. The revenue from operations stood at Rs 31,942 crore, up 11% over Rs 28,862 crore posted in the corresponding quarter of the last financial year.
+Show more- 04:01
+- 08:41
+- 16:23
+- 06:24
+- 03:39
+- 09:33
+- 06:40
+- 10:14
+- 03:09
+- 13:58
+- 09:55
+- 04:44
+- 06:35
+- 11:14
+- 09:34
+- 01:50
+- 06:33
+- 01:33
+- 01:12
+- 01:45
+- 01:30
+- 12:23
+- 04:15
+- 07:01
+- 02:32
+- 01:49
+- 02:34
+- 02:14
+- 03:51
+- 02:58
+- 02:41
+- 03:24
+- 02:07
+- 08:59
+- 08:03
+- 05:17
+
+Title   : HCL Tech announces big changes to variable pay policy - Who will benefit? When will employees get hike? Details here
+Source  : www.livemint.com
+Published: 2025-10-13T13:57:42
+Fetched : 2025-10-13T21:21:45.498067
+URL     : https://www.livemint.com/companies/news/hcl-tech-announces-big-changes-to-variable-pay-policy-who-will-benefit-when-will-employees-get-hike-details-here-11760360156364.html
+--------------------------------------------------------------------------------
+IT giant HCL Tech has announced its plan to change its quarterly variable pay policy to fixed salaries for all employees and roll out salary increments from October, following last year's process.
+“We have also taken a decision to move the quarterly variable pay and convert that into fixed pay and merge it with fixed salary for all our employees,” HCL Tech's Chief People Officer Ram Sundararajan said at a press conference following the release of quarterly earnings on Monday.
+HCL Tech's variable pay system has two components. The first applies to most project-related employees. It involves variable pay based on project performance metrics, distributed quarterly. According to Sundararajan, the IT firm has combined this portion with fixed pay, so it is now paid as a fixed monthly salary.
+“We had the variable pay, which is linked to project-level performance metrics that are distributed on a quarterly basis. That part is what we have merged with the fixed pay, so that it gets paid as fixed pay monthly,” the HR head said.
+Sundararajan said the second component of variable pay is the annual performance bonus, which will continue. If we consider linking your pay to performance, the ongoing component is the annual performance bonus, which will continue to be in place.
+The shift from a quarterly variable pay policy will primarily benefit junior staff, while senior employees continue with their annual performance bonuses, according to the IT major.
+The IT major will start rolling out the annual increments from October 2025. The company will follow the same process as last year.
+"We have gone ahead and made a decision to roll out the increments, which will be effective from October. We'll follow the same process as we did last year in terms of how we go about running the increment process,” said Ram Sundararajan.
+The IT major's voluntary employee attrition rate dropped to 12.6% in September 2025, from 12.9% in September 2024 and 12.8% in June 2025. This indicates a decline in the number of employees leaving the company over the past year, based on a trailing twelve-month (LTM) basis, as per the company’s regulatory filing.
+HCL Tech had a total of 226,640 employees as of September 30, 2025, compared to 223,151 at the end of June 2025, reflecting a net addition of 3,489 employees during the quarter. On a year-on-year (YoY) basis, the company added 8,019 employees, up from 218,621 in September 2024.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsHCL Tech announces big changes to variable pay policy - Who will benefit? When will employees get hike? Details here
+

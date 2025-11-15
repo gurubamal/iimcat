@@ -1,0 +1,34 @@
+Full Article Fetch Test - DIXON
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-20): 2.25B
+
+Title   : Dixon Technologies shares fall 3% after Q2 results. Should you buy, sell or hold? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T05:46:34
+Fetched : 2025-10-20T20:14:47.493013
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/dixon-technologies-shares-fall-3-after-q2-results-should-you-buy-sell-or-hold/articleshow/124700306.cms
+--------------------------------------------------------------------------------
+Dixon reported an 81% YoY jump in net profit to Rs 746 crore for Q2 FY26, while revenue rose 33% to Rs 15,351 crore. Production of mobiles, wearables, telecom equipment, and IT hardware, accounting for 90% of revenue, grew 41% YoY, contributing Rs 472 crore to operating margins.
+The company has applied for government incentives under the Electronics Component Manufacturing Scheme and plans to invest Rs 3,000 crore over the next 2–3 years in its components business. Managing Director Atul Lall noted that these measures are intended to protect margins after the smartphone PLI scheme ends later this fiscal year, though some short-term pressure is expected.
+Backward integration to cut costs and expand IT hardware
+Dixon’s components strategy aims to improve backward integration and remove 4–5% cost disadvantages in IT hardware production. “Once we are able to do this in the next 7–8 months, our cost structures are going to be as good as China,” Lall said.
+Revenue from IT hardware surged to Rs 331 crore in Q2, from Rs 57 crore a year ago. The company targets Rs 1,200–1,300 crore in IT hardware revenue this fiscal, with aspirations to reach Rs 4,000–5,000 crore over the next two years. A joint venture with Taiwan-based ODM Inventec is set to start data centre component production in Q1 FY27.
+Dixon is also in talks with a global smartphone ODM, expecting manufacturing to start in late FY26 or early FY27, with anticipated volumes of roughly half a million units per month. Export opportunities, particularly through its stake in Transsion, are a key focus.
+Motilal Oswal
+Motilal Oswal maintained a 'Buy' rating with a target of Rs 22,500, noting that Dixon’s Q2 revenue and PAT were largely in line with estimates. The brokerage highlighted 42% YoY growth in the mobile segment, aided by the Ismartu integration and higher client volumes, as the key driver of performance.
+The brokerage said that overall growth was partly impacted by a GST-related slowdown in consumer demand and customer decision deferrals. However, Motilal Oswal sees consumer durables demand recovering, which is expected to support further growth in the third quarter. The brokerage also emphasised Dixon’s ongoing focus on backward integration through component PLI initiatives and long-term joint ventures, which should improve efficiency and strengthen client relationships.
+Motilal Oswal revised estimates to factor in improved margin assumptions for the home appliances segment and projects a CAGR of 36% revenue, 41% EBITDA, and 46% PAT over FY25–FY28, with EBITDA margins of 3.8%, 4.1%, and 4.4% in FY26, FY27, and FY28, respectively.
+JM Financial
+JM Financial gave an 'Add' rating for Dixon, stating that the Q2 results alleviated concerns about a potential slowdown in the mobile and EMS business. The brokerage noted that mobile and EMS revenue grew 41% YoY, while consumer electronics (-32%) and home appliances (-3%) remained weak due to deferred purchases following anticipated GST cuts.
+The brokerage highlighted that Dixon’s backward integration plans are largely on track, with camera module assembly consolidated in September 2025 and display assembly expected to become operational by March–April 2026. The firm also noted that Dixon is in discussions with a large global ODM, expected to begin manufacturing by 4Q FY26/1Q FY27, potentially adding 0.5 million units per month.
+Also read | Ola Electric & Ather Energy: Can you bet on India’s EV stocks as China tightens lithium grip?
+While JM Financial slightly reduced FY26E EPS estimates due to higher finance costs and minority interest, FY27 and FY28 projections remain largely unchanged. The brokerage values Dixon at 60x Sep’27E EPS, arriving at a target price of Rs 18,000.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

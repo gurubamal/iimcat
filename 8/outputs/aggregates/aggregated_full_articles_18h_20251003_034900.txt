@@ -1,0 +1,758 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-03T03:49:00.583939
+Hours back: 18
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 150
+====================================================================================================
+
+Full Article Fetch Test - 20MICRONS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 360ONE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 3IINFOLTD
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 3MINDIA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 3PLAND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 5PAISA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - 63MOONS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AAATECH
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AADHARHFC
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AAKASH
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AAREYDRUGS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARON
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARTECH
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARTIDRUGS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARTIIND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARTIPHARM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARTISURF
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARVEEDEN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AARVI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AAVAS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABAN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABB
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABBOTINDIA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABCAPITAL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABDL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABFRL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABINFRA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABLBL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABMINTLLTD
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABREL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ABSLAMC
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACC
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACCELYA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACCURACY
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACEINTEG
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACLGATI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACMESOLAR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ACUTAAS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADANIENSOL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADANIENT
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADANIGREEN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADANIPORTS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADANIPOWER
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADFFOODS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADOR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADROITINFO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADSL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADVANIHOTR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ADVENZYMES
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AEGISLOG
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AEGISVOPAK
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AEROENTER
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AEROFLEX
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AERONEU
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AETHER
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AFCONS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AFFLE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AFFORDABLE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AFIL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AFSL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGARIND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGARWALEYE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGIIL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGRITECH
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGROPHOS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AGSTRA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AHLADA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AHLEAST
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AHLUCONT
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AIAENG
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AIIL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AIRAN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AIROLAM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AJANTPHARM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AJAXENGG
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AJMERA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AJOONI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKASH
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKG
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKSHAR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKSHARCHEM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKSHOPTFBR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKUMS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AKZOINDIA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALANKIT
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALBERTDAVD
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALEMBICLTD
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALICON
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALIVUS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALKALI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALKEM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALKYLAMINE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALLCARGO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALLDIGI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALLTIME
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALMONDZ
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALOKINDS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALPA
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALPHAGEO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ALPSINDUS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMBER
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMBICAAGAR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMBIKCO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMBUJACEM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMDIND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMJLAND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMNPLST
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - AMRUTANJAN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANANDRATHI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANANTRAJ
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANDHRAPAP
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANDHRSUGAR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANGELONE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANIKINDS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANKITMETAL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANMOL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANSALAPI
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANTGRAPHIC
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANTHEM
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANUHPHR
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANUP
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ANURAS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APARINDS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APCL
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APCOTEXIND
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APEX
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APLAPOLLO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APLLTD
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APOLLO
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APOLLOHOSP
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APOLLOPIPE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APOLLOTYRE
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APOLSINHOT
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APTECHT
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - APTUS
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARCHIDPLY
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARCHIES
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARE&M
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARENTERP
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARFIN
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARIES
+================================================================================
+
+(no fresh items in last 18h)
+
+Full Article Fetch Test - ARIHANTCAP
+================================================================================
+
+(no fresh items in last 18h)
+

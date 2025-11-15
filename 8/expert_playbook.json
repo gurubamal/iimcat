@@ -1,0 +1,73 @@
+{
+  "heuristic": {
+    "ambiguous_symbols": ["GLOBAL", "TOTAL", "POWER", "OIL"],
+    "credible_domains": [
+      "reuters.com",
+      "bloomberg.com",
+      "bqprime.com",
+      "economictimes.indiatimes.com",
+      "livemint.com",
+      "moneycontrol.com",
+      "business-standard.com",
+      "thehindubusinessline.com",
+      "financialexpress.com",
+      "cnbctv18.com",
+      "businesstoday.in",
+      "zeebiz.com"
+    ],
+    "confirmation_words": [
+      "announced", "signed", "completed", "reported", "filed", "posted", "launched", "declares",
+      "approved", "approves", "bags", "wins", "secures", "awarded", "commissioned", "inaugurated",
+      "commissions", "acquired", "acquires", "merges", "board approves", "q1", "q2", "q3", "q4", "fy"
+    ],
+    "speculation_words": [
+      "may", "might", "could", "would", "plan", "plans", "expects", "expecting", "considering",
+      "exploring", "proposal", "likely", "rumour", "rumor", "sources say", "sources said", "set to"
+    ],
+    "positive_words": [
+      "growth", "strong", "record", "beat", "surge", "rise", "gain", "high", "upgrade", "order win",
+      "approval", "commission", "acquire", "wins", "bagged", "secures"
+    ],
+    "negative_words": [
+      "loss", "decline", "drop", "fall", "weak", "pressure", "concern", "downgrade", "fraud", "resigns", "resignation"
+    ],
+    "number_patterns": [
+      "₹\\s*\\d+(?:,\\d+)*(?:\\.\\d+)?",
+      "rs\\.?\\s*\\d+(?:,\\d+)*(?:\\.\\d+)?",
+      "inr\\s*\\d+(?:,\\d+)*(?:\\.\\d+)?",
+      "\\b\\d+(?:\\.\\d+)?\\s*(?:cr|crore|bn|billion|mn|million|lakh)\\b",
+      "\\b\\d+(?:\\.\\d+)?\\s*%\\b",
+      "\\bup\\s*\\d+(?:\\.\\d+)?\\s*%\\b",
+      "\\bdown\\s*\\d+(?:\\.\\d+)?\\s*%\\b"
+    ]
+  },
+  "setups": {
+    "earnings_gap_rvol": {
+      "gap_up_threshold_pct": 2.0,
+      "rvol_threshold": 1.8,
+      "bonus": 12
+    },
+    "base_breakout_squeeze": {
+      "bonus": 10
+    },
+    "pullback_20ema": {
+      "tolerance_pct": 1.5,
+      "bonus": 8
+    }
+  },
+  "alpha": {
+    "weights": {
+      "mom20": 25,
+      "mom60": 15,
+      "rvol": 10,
+      "squeeze_bo": 10,
+      "pbz": 10,
+      "news": 20,
+      "trend_bonus": 5
+    },
+    "gate_thresholds": {
+      "alpha": 70,
+      "rvol": 1.5
+    }
+  }
+}

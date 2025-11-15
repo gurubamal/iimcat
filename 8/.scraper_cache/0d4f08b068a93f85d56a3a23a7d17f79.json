@@ -1,0 +1,33 @@
+{
+  "ticker": "FOCUS",
+  "fetch_time": "2025-11-13T22:15:32.766025",
+  "dividends": [
+    {
+      "description": "Dividend - Re 0.50 Per Share",
+      "ex_date": "30-Aug-2024",
+      "ex_date_parsed": "2024-08-30T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Rs 1.50 Per Share",
+      "ex_date": "18-Aug-2023",
+      "ex_date_parsed": "2023-08-18T00:00:00",
+      "amount": 1.5
+    },
+    {
+      "description": "Dividend - Re 0.50 Per Share",
+      "ex_date": "13-Sep-2022",
+      "ex_date_parsed": "2022-09-13T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 2/- Per Share",
+      "ex_date": "06-Oct-2023",
+      "ex_date_parsed": "2023-10-06T00:00:00"
+    }
+  ],
+  "data_available": true
+}

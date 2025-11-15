@@ -1,0 +1,32 @@
+{
+  "assistants": [
+    {
+      "name": "claude",
+      "enabled": true,
+      "input_mode": "stdin",
+      "shell_command": "echo 'Claude assistant not yet configured. Provide shell_command in configs/assistant_channels.json.'",
+      "timeout": 120
+    },
+    {
+      "name": "copilot",
+      "enabled": true,
+      "input_mode": "stdin",
+      "shell_command": "echo 'Copilot assistant not yet configured. Provide shell_command in configs/assistant_channels.json.'",
+      "timeout": 120
+    },
+    {
+      "name": "cursor-agent",
+      "enabled": true,
+      "input_mode": "stdin",
+      "shell_command": "echo 'Cursor agent not yet configured. Provide shell_command in configs/assistant_channels.json.'",
+      "timeout": 120
+    },
+    {
+      "name": "codex",
+      "enabled": true,
+      "input_mode": "stdin",
+      "shell_command": "echo 'Codex assistant not yet configured. Provide shell_command in configs/assistant_channels.json.'",
+      "timeout": 120
+    }
+  ]
+}

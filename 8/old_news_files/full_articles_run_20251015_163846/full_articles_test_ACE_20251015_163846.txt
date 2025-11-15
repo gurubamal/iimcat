@@ -1,0 +1,19 @@
+Full Article Fetch Test - ACE
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 977.20M
+
+Title   : Digital NBFCs sanction 3 crore personal loans amounting to ₹43,019 crore in Q1: FACE
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T14:48:44
+Fetched : 2025-10-15T17:05:03.827359
+URL     : https://www.thehindubusinessline.com/money-and-banking/digital-nbfcs-sanction-3-crore-personal-loans-amounting-to-43019-crore-in-q1-face/article70167722.ece
+--------------------------------------------------------------------------------
+Digital-first non-banking finance companies (NBFCs) sanctioned 3 crore personal loans amounting to ₹43,019 crore in Q1FY26, according to Fintech Association for Consumer Empowerment (FACE), the RBI-recognised Self-Regulatory Organisation (SRO ) for the fintech sector.
+These loans represent 80 per cent of all personal loan volume and 20 per cent of value, showing deep market integration.
+“Their growing portfolio of ₹1.2 lakh crore, as on June 2025, reflects growth underpinned by improving credit quality (2.5 per cent DPD 90+ or NPAs). Crucially, digital lending is expanding the reach of formal credit,” said the SRO, citing data from CRIF High Mark credit bureau.
+Over half of the new loans were extended to borrowers under 35 years old, with a slow yet steady rise in female participation and continued penetration into markets beyond metros.
+Sugandh Saxena, CEO of FACE, said: “Digital lending is creating pathways to opportunity and resilience, closing divides of geography, demography and digital through focus on technology, inclusion and innovation. The maturity of the market, strong customer preference for digital and regulatory and self-regulatory rules continue to nurture the digital lending for scale and purpose with customer choice and centricity.”
+The average ticket size of such loans was ₹14,270, and one out of three loans were under ₹25,000 in value, highlighting digital lending’s focus on inclusion and flexibility.
+Published on October 15, 2025
+

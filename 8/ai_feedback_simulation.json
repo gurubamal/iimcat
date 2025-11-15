@@ -1,0 +1,20 @@
+{
+  "asof": "2025-11-13T15:14:13.284154+00:00",
+  "entries": [
+    {
+      "ticker": "RELIANCE",
+      "initial_action": "HOLD",
+      "change_pct": -0.125
+    },
+    {
+      "ticker": "TCS",
+      "initial_action": "HOLD",
+      "change_pct": -0.742
+    },
+    {
+      "ticker": "INFY",
+      "initial_action": "HOLD",
+      "change_pct": -0.971
+    }
+  ]
+}

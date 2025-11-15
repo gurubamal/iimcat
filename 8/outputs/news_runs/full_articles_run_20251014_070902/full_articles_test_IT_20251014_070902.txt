@@ -1,0 +1,134 @@
+Full Article Fetch Test - IT
+================================================================================
+
+Title   : NITI Aayog releases report on deep-sea fisheries, asks govt to have dedicated scheme
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T15:58:53
+Fetched : 2025-10-14T08:06:25.443358
+URL     : https://www.thehindubusinessline.com/economy/agri-business/niti-aayog-releases-report-on-deep-sea-fisheries-asks-govt-to-have-dedicated-scheme/article70159592.ece
+--------------------------------------------------------------------------------
+Highlighting that India’s export earnings from fish and fishery products doubled to ₹60,523 crore in 2023-24 from ₹30,213 crore in 2013-14, a report by NITI Aayog on deep sea fishing has suggested focussed approach and an investment of about ₹9,000 crore over next 15 years to make the sector shine like inland fishery.
+The report titled “India’s Blue Economy: Strategy for Harnessing Deep-Sea and Offshore Fisheries” has suggested steps in three phases over the next 15 years. The government should lay the foundation work for fostering early growth in phase one (2025-28), scale up activities to raise production and global competitiveness in phase two (2029-32) and make India a global leader in deep sea fishery in phase three (2033-41).
+Asking the government to create clear Rules for responsible fishing in deep waters (beyond 200 nautical miles in international water) and a regulatory law aligned with international laws (UNCLOS), standards and guidelines, the NITI report said there is need for streamline licensing, registration and access policies based on resource potential, stakeholder inclusion and sustainability principles.
+It has suggested revision of subsidy and incentive schemes to tap the potential of deep-sea and offshore fishing, and also legal mandates for institutions for effective monitoring, control, surveillance and enforcement. “Create a dedicated agency/directorate under the Department of Fisheries for holistic governance of deep-sea and offshore fisheries,” it said stressing on augmentation of research, data collection and stock assessment capabilities.
+Other recommendations include establishment of a dedicated Deep-Sea Fishing Development Fund through budgetary support under PMMSY and industry contributions, creating a Deep-Sea Fishing Program (DSFP) with an advisory council consisting of all maritime states and other relevant agencies to advise the Programme Director. It also has asked the government to set up a dedicated Programme Management Unit in the Department of Fisheries to design, coordinate, implement and monitor it.
+It has noted that choice of technique must be carefully aligned with the target species, vessel capabilities, and regulatory frameworks that promote sustainable fishing practices. To promote fish exports, it suggested establishing framework and addressing critical infrastructure gaps.
+It has pointed out that there were only four vessels in 2023, owned by Fishery Survey of India (FSI) for deep sea fishing, whereas Sri Lanka had 1,883 and Iran had 1,216 vessels and due to which there has been limited participation by India in high-sea fisheries.
+India has an extensive maritime area, with a coastline stretching over 11,098 km across nine coastal states and four union territories. The deep waters beyond the continental shelf, extending beyond the Exclusive Economic Zone (EEZ) boundary of 200 nautical miles, contain select high-value fish stocks, including tuna, billfish and shrimp species, an official statement said.
+The EEZ potential is estimated at 7.16 million tonnes (mt), including conventional and non-conventional resources.
+According to the report, the areas of intervention include: 1) Policy and regulatory overhaul; 2) institutional strengthening and capacity building; 3) Fleet modernisation and infrastructure upgradation; 4) Sustainable Fisheries Management; 5) Resource mobilisation and financing and 6) Stakeholder inclusion and partnerships.
+By addressing policy, institutional capacity, infrastructure, sustainable management practices, financing and stakeholder engagement, India can unlock the full potential of its deep-sea and offshore resources while ensuring their long-term viability, it said.
+Published on October 13, 2025
+
+Title   : Sensex climbs 200 pts, Nifty above 25,250 as rally in IT stocks, soft inflation lift mood 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-14T03:57:00
+Fetched : 2025-10-14T08:06:25.443412
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/sensex-climbs-200-pts-nifty-above-25250-as-rally-in-it-stocks-soft-inflation-lift-mood/articleshow/124542784.cms
+--------------------------------------------------------------------------------
+The S&P BSE Sensex climbed 210.50 points, or 0.26%, to open at 82,537.55, while the NSE Nifty 50 advanced 57.30 points, or 0.23%, to start at 25,284.65.
+On the 30-share Sensex, Tech Mahindra, HCL Technologies, Tata Steel, Infosys, and Reliance Industries led the gains, rising between 0.8% and 2%.
+Across sectors, IT stocks outperformed, with the Nifty IT index up 0.9%. Shares of HCLTech advanced 1.6% after the nation’s third-largest software exporter reaffirmed its full-year revenue growth guidance of 3%–5% and topped second-quarter revenue estimates.
+Broader markets also edged higher, with the smallcap and midcap indexes gaining 0.4% and 0.3%, respectively.
+Meanwhile, India’s retail inflation fell to an eight-year low of 1.54% in September, government data showed Monday, as food prices cooled. The sharp moderation has bolstered expectations of a potential rate cut when the Reserve Bank of India meets in December.
+Expert views
+Dr. V.K. Vijayakumar, Chief Investment Strategist at Geojit Investments, said the market trends over the past year highlight a clear shift in investor preference. “A significant takeaway from the last one year market performance is the outperformance of large caps (Nifty up by 1.05%) and the underperformance of smallcaps (Nifty Smallcap index down by 4.77%),” he said, adding that public sector banks also stood out. “Equally significant is the outperformance of PSU banks (Nifty PSU Bank index up by 16.77%) and the huge underperformance of IT (Nifty IT down by 16.5%).”
+He noted that valuations have been a key driver behind these divergences. According to Vijayakumar, “IT stocks, particularly the large caps, are viewed as overvalued by the market since they are facing many headwinds and some strong structural issues. On the other hand, PSU stocks have been trading at very low valuations despite decent growth and robust balance sheets. This anomaly in valuations has been corrected by the market.”
+Vijayakumar expects this trend to persist but added that “in growth stocks like digital companies and renewable energy, their long-term growth potential will continue to attract investment despite high valuations.”
+“With Muhurat trading approaching,” he said, “there is room for a mild rally.”
+Global Markets
+Asian stocks slipped on Tuesday as optimism over U.S.-China trade talks later this month was tempered by doubts about a durable deal.
+Early gains in MSCI’s Asia-Pacific index outside Japan and S&P 500 futures faded after initial rebounds following U.S. Treasury Secretary Scott Bessent’s comments that President Donald Trump remains on track to meet Chinese President Xi Jinping in South Korea later this month.
+Trade tensions escalated as both nations began imposing port fees on ocean shipping firms, raising costs on global cargo routes.
+Hong Kong’s Hang Seng Index fell 0.4%, while China’s CSI 300 dipped 0.1%. Taiwan led gains with a 0.8% jump as TSMC hit a record after OpenAI partnered with Broadcom to produce its first in-house AI chips. South Korea’s Kospi rose 0.6% after Samsung projected a 32% jump in third-quarter operating profit, beating estimates. Japan’s Nikkei dropped 1.2% as markets reopened after a holiday, with the dollar steady at 152.31 yen.
+Gold climbed 1.1% to $4,155.90 an ounce, extending record gains, while Bitcoin fell 1.9% to $113,629.29 and Ether slipped 3% to $4,161.79.
+FII/DII Activity
+Foreign Institutional Investors (FIIs) turned net sellers on October 13 after four consecutive days of buying, offloading equities worth just over Rs 240 crore. Domestic Institutional Investors (DIIs), in contrast, remained net buyers, investing Rs 2,333.42 crore.
+MORE TO COME...
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Italian asset managers net inflows up 70% y/y in September
+Source  : www.livemint.com
+Published: 2025-10-13T05:01:46
+Fetched : 2025-10-14T08:06:25.443538
+URL     : https://www.livemint.com/companies/news/italian-asset-managers-net-inflows-up-70-y-y-in-september-11760331707312.html
+--------------------------------------------------------------------------------
+By Laura Contemori and Mirko Miorelli
+Oct 13 (Reuters) - Italy's five listed asset gatherers reported combined net inflows of 3.77 billion euros ($4.36 billion) in September, up 70.2% from 2.22 billion euros in the same month of 2024.
+Net inflows into more lucrative managed assets rose 11.2% from the same month of last year, to a combined 2.43 billion euros, data showed.
+WHY IS IT IMPORTANT?
+The fund management industry is under pressure to protect margins from growing technology spending and competition from passive products and other cheaper forms of investment.
+The industry is also bracing for what experts describe as the largest intergenerational wealth transfer in history.
+With interest rates falling, Italian banks are increasingly turning to wealth management to support revenues while consolidation intensifies.
+Monte dei Paschi di Siena (MPS) has picked fund business veteran Alessandro Melzi d'Eril as the new head of Mediobanca, of which it secured 86.3% in September following a hostile takeover.
+Mediobanca will focus on private banking and investment banking, MPS CEO Luigi Lovaglio told parliament this week.
+In April, Italy's third-largest bank Banco BPM bought fund manager Anima Holding, which at the time was led by Melzi d'Eril, as it fought a now failed bid by UniCredit .
+Keen to secure distribution capacity in Italy, including for its fund business Amundi whose contract with UniCredit expires in 2027, Credit Agricole has discussed with Italian government officials terms for a possible tie-up between its Italian unit and Banco BPM.
+BY THE NUMBERS
+QUOTES "For September, [Fineco's] flows are predominately driven by asset under management, with assets under custody (AuC) flows and deposit flows contributing positively," Citi analysts said in a note.
+"Credit activity was also very encouraging, with higher loans granted driven principally by mortgages, which have returned to a stable trajectory. In addition, protection premiums continue to point to growing interest in insurance solutions for families", Banca Mediolanum CEO Massimo Doris said in a statement.
+"It was the second best September ever for the bank for which this is traditionally a challenging month due to seasonality", Banca Generali said in a note. ($1 = 0.8646 euros)
+(Reporting by Laura Contemori, Philippe Leroy Beaulieu and Mirko Morelli in Gdansk; Editing by Valentina Za)
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Title   : DPIIT launches PM GatiShakti Offshore for integrated planning
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T03:28:19
+Fetched : 2025-10-14T08:06:25.443568
+URL     : https://www.thehindubusinessline.com/economy/logistics/dpiit-launches-pm-gatishakti-offshore-for-integrated-planning/article70161121.ece
+--------------------------------------------------------------------------------
+The DPIIT on Monday announced the launch of PM GatiShakti -- Offshore, a digital platform developed for the integrated planning and management of offshore projects like wind farms, marine resource exploration, and coastal infrastructure development.
+The platform provides a unified geospatial interface that consolidates critical data sets from multiple government ministries and departments to enable data-driven decision-making.
+It aims to strengthen India's Blue economy and support the nation's transition toward green energy and sustainable coastal growth, the Department for Promotion of Industry and Internal Trade (DPIIT) said.
+Citing an example, it said that while planning offshore power transmission routes, the platform can integrate datasets from multiple ministries, including power, petroleum and natural gas, environment and telecommunications.
+In the case of a proposed High Voltage Direct Current (HVDC) subsea link connecting the Indian mainland with the Andaman and Nicobar Islands, data can be analysed to identify optimal seabed depths for cost-effective cable laying, while ecological layers, such as coral reefs, mangroves, and turtle nesting zones, can help avoid environmentally sensitive areas.
+"PM GatiShakti - Offshore is a pioneering initiative under the PM GatiShakti Programme, developed as a digital platform for the integrated planning and management of offshore development," it said.
+The portal would have detailed data sets on offshore wind, solar, tidal, wave, and ocean thermal energy potential; oil and gas fields and pipelines; bathymetry and sedimentary basins; coastal regulation zones; coral reefs, mangroves, and marine mammal areas; ports, airports, power infrastructure, and fish landing centers; along with oceanographic and hazard indicators, such as surface currents, wave heights, and earthquake risk zones.
+"Collectively, these layers provide planners, regulators, and investors with critical insights for sustainable and technically sound decision-making," it said.
+Meanwhile, Commerce and Industry Minister Piyush Goyal launched the Logistics Excellence, Advancement, and Performance Shield (LEAPS) 2025.
+LEAPS is a flagship initiative of the department, and it aims to benchmark logistics excellence, strengthen India's competitiveness, and align with the vision of the National Logistics Policy (NLP) and PM GatiShakti.
+Registrations for LEAPS are now open on the Rashtriya Puraskar Portal (https://awards.gov.in/). Interested applicants can submit their entries by November 15.
+Applications are invited across 13 categories, including air and road freight service providers; multimodal transport operators; warehouse service providers (agriculture); education institute promoting the logistics sector; and logistics service delivery for e-commerce operations.
+Published on October 14, 2025
+
+Title   : NDR InvIT acquires Lucknow’s MLG Warehousing for ₹144 crore, expands North India logistics footprint
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T02:40:15
+Fetched : 2025-10-14T08:06:25.443611
+URL     : https://www.thehindubusinessline.com/economy/logistics/ndr-invit-acquires-lucknows-mlg-warehousing-for-144-crore-expands-north-india-logistics-footprint/article70161123.ece
+--------------------------------------------------------------------------------
+NSE-listed NDR InvIT Trust on Monday announced the acquisition of MLG Warehousing and Industrial Park in Lucknow, Uttar Pradesh, valued at Rs 143.9 crore.
+The Grade-A warehousing asset spans approximately 4.63 lakh sq ft of leasable area and is built on around 21 acres of land, and marks its strategic entry into Lucknow's logistics market, NDR InvIT said.
+The warehouse is currently 98 per cent occupied and leased to leading clients across FMCD, third-party logistics, retail, and paint sectors, the platform said.
+Located in Lucknow, along the NH 30 (Lucknow-Raebareli Road) corridor, the warehouse has seamless connectivity, while its location on the southern periphery of the city ensures efficient access to key consumption and industrial hubs across neighbouring districts, it added.
+Expanding pan-India logistics portfolio
+The acquisition is aligned with NDR InvIT's strategy of expanding its pan-India logistics portfolio through the acquisition of high-quality, income-generating assets in key consumption markets, the company said.
+With this addition, NDR InvIT continues to strengthen its position as one of India's most diversified logistics infrastructure platforms, it noted.
+NDR InvIT is an infrastructure investment trust managed by NDR InvIT Managers and sponsored by NDR Warehousing Private Limited.
+"Lucknow serves as a key consumption and distribution hub for North India, and this investment reinforces our commitment to expanding into high-growth markets," said N Amrutesh Reddy, Director at NDR InvIT.
+He said the Trust is focused on enabling the next phase of India's logistics transformation by creating a network of future-ready, sustainable, and strategically located assets that power the country's supply chain ecosystem.
+"This Grade-A facility exemplifies our focus on quality, with modern infrastructure, efficient layouts, and seamless multimodal connectivity designed to meet the needs of leading occupiers," said Hiten Shah, Regional Business Head for East at NDR Asset Management.
+NDR InvIT Trust has assets under management (AUM) of 19.22 million sf.
+The asset portfolio is diversified across over 67 warehouses and 37 Industrial parks, located in 15 cities, as per the platform.
+Published on October 14, 2025
+
+Title   : IIT-M-incubated Muse Wearables launches smart ring for contactless payments 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T13:42:30
+Fetched : 2025-10-14T08:06:25.443642
+URL     : https://www.thehindubusinessline.com/info-tech/iit-m-incubated-muse-wearables-launches-smart-ring-for-contactless-payments/article70158233.ece
+--------------------------------------------------------------------------------
+IIT-Madras-incubated smart wearables maker Muse Wearables has partnered with the National Payments Corporation of India (NPCI) to launch Ring One, a smart ring that allows users to make instant, secure payments by tapping their ring on any NFC-enabled Point of Sale (POS) terminal.
+The payments will be powered by the company’s Muse Wallet, a payments platform that enables tokenised, hardware-level transactions using a secure element embedded within Ring One.
+Muse Wallet was developed in partnership with NPCI and RuPay to meet global payment security standards. The platform is currently live in over 40 countries and supports cards from nearly 600 banks.
+“We are taking on foreign tech giants in the digital wallet ecosystem by creating a truly sovereign alternative for India. With Muse Wallet, we are making cashless payments effortless. In the next two years, we aim to enable millions of RuPay cardholders to experience the convenience of wearable payments,” said KLN Sai Prasanth, co-founder and CEO, Muse Wearables
+Muse Wallet enables any RuPay credit or debit card to be converted into a secure digital token and stored directly inside a tamper-resistant Secure Element (SE) chip — the same grade of hardware security used in bank cards and passports. This ensures complete isolation of sensitive credentials from the phone’s operating system or applications.
+Published on October 13, 2025
+

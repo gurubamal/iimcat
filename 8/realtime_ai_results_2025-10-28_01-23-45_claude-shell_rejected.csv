@@ -1,0 +1,4 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+NUVOCO,43.7,35,1,Certainty 35% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,"Target price increase of ₹25-50/tonne for premium cement is positive but lacks confirmation of implementation, volume impact, and actual margin improv"
+PREMIUM,43.7,35,1,Certainty 35% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,"Price increase target of ₹25-50/tonne for premium segment shows pricing power intent but lacks confirmation of implementation, customer acceptance, an"
+WORTH,35.8,15,2,Certainty 15% below threshold (40%),"Govt clears 7 projects worth ₹5,532 crore under electronics manufacturing scheme","This is a sector-level government scheme announcement for electronics manufacturing with ₹5,532 crore across 7 projects. Without knowing which specifi"

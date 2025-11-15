@@ -1,0 +1,23 @@
+Full Article Fetch Test - VIVO
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -12653000.00
+
+Title   : Apple's shipments in China rise on iPhone 17 boost; sluggish demand hurts Huawei, Xiaomi and Vivo — details here
+Source  : www.livemint.com
+Published: 2025-10-15T10:17:12
+Fetched : 2025-10-15T16:56:24.098401
+URL     : https://www.livemint.com/companies/news/apples-shipments-in-china-rise-on-iphone-17-boost-sluggish-demand-hurts-huawei-xiaomi-and-vivo-details-here-11760517406369.html
+--------------------------------------------------------------------------------
+Apple's shipments in China have risen, despite sluggish demand in the country's smartphone market, according to data issued by research firm IDC on Wednesday.
+Shipments for the US tech giant grew 0.6% from a year earlier to 10.8 million units in the third quarter, making Apple the only brand among China's top three vendors to record shipment growth during the period, Reuters reported, quoting the IDC report.
+Apple, which recorded the second-highest tally of shipments during the period, captured a 15.8% market share in the third quarter.
+A senior smartphone analyst at IDC, Will Wong, attributed this growth partly to Apple’s "value-for-money” base model iPhone 17, which successfully captured “value-seeking customers”.
+The appeal of the latest iPhone model helped the company achieve modest growth and a higher ranking than the previous quarter.
+The regular iPhone 17 has received the most significant upgrade to the entry-level iPhone in years. It is said to no longer feel like a compromise like the base model used to be and could legitimately compete with Pro models from this year and past, outside of camera enthusiasts, a Mint report which reviewed the new iPhone lineup said.
+China's total smartphone shipments in the third quarter fell 0.6% from a year earlier to 68.4 million units. However, this decline is less severe than the 4% drop in the second quarter.
+Shipments of other major vendors also declined. Huawei's shipments eased 1% to 10.4 million units, putting it in third place, while Xiaomi's shipments dropped 1.7% to 10 million units, putting it in fourth place. Chart-topper Vivo saw shipments fall 7.8% from a year earlier to 11.8 million units.
+IDC anticipates that China's smartphone market is expected to improve early in the fourth quarter, driven by the launch of some flagship products that started last month, Reuters reported.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsApple's shipments in China rise on iPhone 17 boost; sluggish demand hurts Huawei, Xiaomi and Vivo — details here
+

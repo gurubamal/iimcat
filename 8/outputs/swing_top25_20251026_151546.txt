@@ -1,0 +1,73 @@
+15:15:47 [INFO] <module>:159 - 🚀 Performance debugging enabled: False
+15:15:47 [WARNING] <module>:5888 - Enhanced screener modules not available - using legacy methods
+15:15:47 [WARNING] <module>:5901 - sklearn not available - some institutional modules will use fallback methods
+15:15:47 [WARNING] __init__:5930 - Institutional modules initialized with limited functionality
+15:15:47 [INFO] main:9654 - Fetching market data for shortlisted candidates...
+15:15:47 [INFO] batched_history_download:8227 - Downloading validated historical data for 2 tickers...
+15:15:47 [INFO] safe_yfinance_download:1608 - Downloading data for 2 symbols...
+15:15:48 [WARNING] apply_adaptive_winsorization:1843 - High volume clipping 9.9% for RELIANCE.NS
+15:15:48 [WARNING] validate_winsorization_quality:2020 - High volume clipping 9.8% for RELIANCE.NS
+15:15:49 [WARNING] apply_adaptive_winsorization:1843 - High volume clipping 13.8% for UMAEXPORTS.NS
+15:15:49 [WARNING] validate_winsorization_quality:2020 - High volume clipping 13.3% for UMAEXPORTS.NS
+15:15:49 [INFO] safe_yfinance_download:1646 - Successfully validated data for 2 out of 2 symbols
+15:15:49 [INFO] batched_history_download:8253 - Data validation completed. Success rate: 100.0% (2/2)
+15:15:50 [INFO] main:9699 - Technical scoring for 2 candidates...
+Warning: enhanced_backtester.py not found. Backtesting features disabled.
+Warning: scikit-learn not available. Some institutional features will be limited.
+[WARNING] Transformers not available (No module named 'transformers'...). Using simple sentiment scoring.
+[WARNING] Transformers not available (No module named 'transformers'...). Using simple sentiment scoring.
+
+[ENHANCED SCREENING] v24.1 - Institutional-Grade Filtering & Critical Financial Metrics
+[DATA QUALITY] YFinance Data Validation: ENABLED
+   * OHLC relationship validation
+   * Price and volume anomaly detection
+   * Financial ratio boundary checks
+   * Missing data handling with fallbacks
+[INSTITUTIONAL] Institutional-Grade Screening: ENABLED
+   * Minimum Market Cap: Rs.50.0 Cr
+   * Minimum Daily Turnover: Rs.0.3 Cr
+   * Maximum Gap Tolerance: 25.0%
+   * Volume consistency validation
+   * Momentum quality assessment
+   * Technical structure filtering
+[OK] Enhanced Financial Analysis: ENABLED
+   * Debt-to-Equity ratio screening
+   * ROE & Interest Coverage analysis
+   * Institutional holdings tracking
+   * Delivery percentage conviction
+   * Technical overextension alerts
+[SOFT] Relaxed Filtering Mode: ENABLED
+   * Winsorization threshold: 30% (raised from 20%)
+   * Volume threshold: 1.2x (relaxed from 1.5x)
+   * Buyer dominance: 45% (relaxed from 55%)
+   * Min score: 0.0 (overrides --min-score)
+   * POOR data quality allowed with ⚠️ tags
+================================================================================
+📋 Using pre-ranked tickers from file: /home/vagrant/R/essentials/outputs/tickers_news_top25.txt
+✅ Loaded 2 tickers from file
+📊 Sample tickers: RELIANCE, UMAEXPORTS
+🟢 Using disk cache for RELIANCE.NS (age: 0.0h)
+🟢 Using disk cache for UMAEXPORTS.NS (age: 0.0h)
+🟡 Using memory cache for RELIANCE.NS (age: 0.0h)
+🟡 Using memory cache for UMAEXPORTS.NS (age: 0.0h)
+� Fresh data required for RELIANCE.NS (1y) - bypassing cache
+� Not caching RELIANCE.NS (1y) - fresh data required
+� Fresh data required for UMAEXPORTS.NS (1y) - bypassing cache
+� Not caching UMAEXPORTS.NS (1y) - fresh data required
+� Fresh data required for RELIANCE.NS (1y) - bypassing cache
+� Fresh data required for UMAEXPORTS.NS (1y) - bypassing cache
+� Not caching RELIANCE.NS (1y) - fresh data required
+� Not caching UMAEXPORTS.NS (1y) - fresh data required
+
+🔍 SCORING DEBUG SUMMARY:
+   📊 Total candidates processed: 0
+   🎯 Min score required: 0.15
+   📏 Base scale factor: 60.0
+   ❌ Candidates passing filter: 0
+   💡 Suggestion: Try lower --min-score (e.g., 0.1) or lower --base-scale (e.g., 50)
+
+📊 YFinance Cache Stats:
+   Memory Cache: 2 entries
+   Disk Cache: 106 files
+   Recent Requests: 4/min
+[ERROR] no stocks meet criteria

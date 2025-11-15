@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+# Minimal stub Gemini CLI to return valid JSON
+# Accepts: gemini --prompt <text> | gemini -p <text> | gemini (stdin)
+# We ignore the prompt content and return deterministic JSON to validate the bridge.
+read_prompt() {
+  if [ "$1" = "--prompt" ] || [ "$1" = "-p" ]; then
+    shift
+    echo "$*"
+  else
+    cat
+  fi
+}
+read_prompt "$@" > /dev/null
+cat <<J
+{
+  "exit_urgency_score": 66.7,
+  "sentiment": "neutral",
+  "exit_recommendation": "WATCH",
+  "exit_catalysts": ["technical weakness"],
+  "hold_reasons": ["no critical news"],
+  "risks_of_holding": ["trend may deteriorate"],
+  "certainty": 61,
+  "reasoning": "Calibrated stub output for validation."
+}
+J

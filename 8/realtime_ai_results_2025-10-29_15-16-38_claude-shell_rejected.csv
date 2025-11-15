@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+RELIANCE,RELIANCE INDUSTRIES LIMITED,34.7,20,1,Certainty 20% below threshold (40%),Nvidia nears $5 trillion valuation as AI chip orders top $500 billion,"This article discusses NVIDIA's $5 trillion valuation and $500B AI chip orders, NOT Reliance Industries. The connection to RELIANCE is extremely indir"

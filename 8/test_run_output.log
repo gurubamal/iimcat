@@ -1,0 +1,194 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🆓 Running AI Analysis WITHOUT API Keys
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Method: Claude CLI Bridge
+Cost: FREE with Claude subscription
+Speed: ~5s per analysis
+Accuracy: ~95% (best for final rankings)
+
+Configuration:
+  Provider: Claude CLI Bridge
+  Tickers: test.txt
+  Hours: 48
+  Max Articles: 10
+  Ticker Validation: DISABLED (all tickers will be processed)
+  Popularity/Ad Filter: ENABLED (tunable via AD_POPULARITY_ENABLED/AD_STRICT_REJECT)
+
+Starting analysis...
+  Tip: export MIN_CERTAINTY_THRESHOLD=35 to widen candidates (optional)
+
+2025-11-09 16:02:13,629 - INFO - 📊 Loaded 12 unique tickers (AI will validate against NSE/BSE)
+2025-11-09 16:02:13,903 - INFO - ✅ Loaded 0 cached ticker validations
+2025-11-09 16:02:13,904 - INFO - Using Claude CLI shell bridge (no API key).
+2025-11-09 16:02:13,908 - INFO - AI provider configured: Claude-shell
+2025-11-09 16:02:23,431 - INFO - ✅ Frontier AI components loaded
+2025-11-09 16:02:23,432 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-11-09 16:02:32,063 - INFO - 🌐 Internet check: OK | Remote AI: YES | AI endpoint reachable: N/A
+2025-11-09 16:02:37,580 - INFO - 🧪 Agent internet probe: OK (provider=claude-shell, url=https://example.com/)
+2025-11-09 16:02:37,582 - INFO - 🚀 Starting real-time collection + analysis for 12 tickers
+2025-11-09 16:02:37,584 - INFO -    Time window: 48 hours
+2025-11-09 16:02:37,584 - INFO -    Max articles per ticker: 10
+2025-11-09 16:02:37,584 - INFO -    ⚡ Ticker validation DISABLED - processing all tickers
+2025-11-09 16:02:37,584 - INFO - [1/12] Processing CANBK...
+2025-11-09 16:02:37,585 - INFO - 📰 Fetching news for CANBK (last 48h)
+2025-11-09 16:02:45,369 - INFO - ℹ️  No recent news for CANBK from live sources
+2025-11-09 16:02:45,369 - INFO - [2/12] Processing HYUNDAI...
+2025-11-09 16:02:45,371 - INFO - 📰 Fetching news for HYUNDAI (last 48h)
+2025-11-09 16:02:47,609 - INFO - ℹ️  No recent news for HYUNDAI from live sources
+2025-11-09 16:02:47,618 - INFO - [3/12] Processing IOC...
+2025-11-09 16:02:47,621 - INFO - 📰 Fetching news for IOC (last 48h)
+2025-11-09 16:02:48,709 - INFO - ℹ️  No recent news for IOC from live sources
+2025-11-09 16:02:48,709 - INFO - [4/12] Processing MARUTI...
+2025-11-09 16:02:48,711 - INFO - 📰 Fetching news for MARUTI (last 48h)
+2025-11-09 16:02:51,551 - INFO - ✅ Found 3 recent articles for MARUTI
+2025-11-09 16:02:51,564 - INFO - ⏭️  SKIPPED MARUTI: Low-signal source without company-specific action
+2025-11-09 16:02:51,569 - INFO -    Headline: NCLT approves merger scheme of Suzuki Motor Gujarat with Maruti Suzuki India
+2025-11-09 16:02:51,577 - INFO - ⏭️  SKIPPED MARUTI: Low-signal source without company-specific action
+2025-11-09 16:02:51,588 - INFO -    Headline: NCLT approves merger of Suzuki Motor Gujarat with parent Maruti Suzuki India: He
+2025-11-09 16:02:51,589 - INFO - ⏭️  SKIPPED MARUTI: Low-signal source without company-specific action
+2025-11-09 16:02:51,591 - INFO -    Headline: NCLT approves merger scheme of Suzuki Motor Gujarat with Maruti Suzuki India
+2025-11-09 16:02:51,593 - INFO - [5/12] Processing ACC...
+2025-11-09 16:02:51,593 - INFO - 📰 Fetching news for ACC (last 48h)
+2025-11-09 16:02:54,078 - INFO - ℹ️  No recent news for ACC from live sources
+2025-11-09 16:02:54,080 - INFO - [6/12] Processing RELIANCE...
+2025-11-09 16:02:54,080 - INFO - 📰 Fetching news for RELIANCE (last 48h)
+2025-11-09 16:02:57,201 - INFO - ✅ Found 6 recent articles for RELIANCE
+2025-11-09 16:02:57,209 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-11-09 16:02:57,210 - INFO -    Headline: Elon Musk’s $1 Trillion Tesla Payday Explained 
+2025-11-09 16:02:57,217 - INFO - ⏭️  SKIPPED RELIANCE: Low-signal source without company-specific action
+2025-11-09 16:02:57,219 - INFO -    Headline: Musk offers lofty promises after $1 trillion Tesla payday
+2025-11-09 16:02:57,219 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-11-09 16:02:57,219 - INFO -    Headline: Reliance Chairman Mukesh Ambani donates  ₹15 crore to Guruvayur Devaswom for new...
+2025-11-09 16:03:25,595 - INFO -    Fundamental adjustment: +7.46 (health=healthy, quarterly_eYoY=78.32%, annual_eYoY=0.04%)
+2025-11-09 16:03:25,599 - INFO -    ✅ Score: 60.0 | Sentiment: neutral
+2025-11-09 16:03:25,602 - INFO -    Recommendation: HOLD
+2025-11-09 16:03:25,603 - INFO - ⏭️  SKIPPED RELIANCE: Low-signal source without company-specific action
+2025-11-09 16:03:25,603 - INFO -    Headline: Reliance Chairman Mukesh Ambani visits Sri Venkateswara Swamy Temple in Tirumala
+2025-11-09 16:03:25,604 - INFO - ⏭️  SKIPPED RELIANCE: Low-signal source without company-specific action
+2025-11-09 16:03:25,604 - INFO -    Headline: Elon Musk’s path to ‘trillionaire’ status isn’t guaranteed — The devil is in the
+2025-11-09 16:03:25,605 - INFO - ⏭️  SKIPPED RELIANCE: Low-signal source without company-specific action
+2025-11-09 16:03:25,606 - INFO -    Headline: India’s economic growth: The path to a $5 trillion economy
+2025-11-09 16:03:25,606 - INFO - [7/12] Processing FOCUS...
+2025-11-09 16:03:25,606 - INFO - 📰 Fetching news for FOCUS (last 48h)
+2025-11-09 16:03:28,667 - INFO - ✅ Found 2 recent articles for FOCUS
+2025-11-09 16:03:28,668 - INFO - ⏭️  SKIPPED FOCUS: No specific numbers or confirmed actions
+2025-11-09 16:03:28,668 - INFO -    Headline: Tailwinds for rally fade; focus on Bihar results, US equation 
+2025-11-09 16:03:28,669 - INFO - ⏭️  SKIPPED FOCUS: Low-signal source without company-specific action
+2025-11-09 16:03:28,669 - INFO -    Headline: As India and Australia resume CECA negotiations, focus firmly on strengthening e
+2025-11-09 16:03:28,669 - INFO - [8/12] Processing URBAN...
+2025-11-09 16:03:28,669 - INFO - 📰 Fetching news for URBAN (last 48h)
+2025-11-09 16:03:30,311 - INFO - ℹ️  No recent news for URBAN from live sources
+2025-11-09 16:03:30,312 - INFO - [9/12] Processing CDSL...
+2025-11-09 16:03:30,312 - INFO - 📰 Fetching news for CDSL (last 48h)
+2025-11-09 16:03:32,356 - INFO - ℹ️  No recent news for CDSL from live sources
+2025-11-09 16:03:32,356 - INFO - [10/12] Processing MADHUSUDAN...
+2025-11-09 16:03:32,356 - INFO - 📰 Fetching news for MADHUSUDAN (last 48h)
+2025-11-09 16:03:33,853 - INFO - ℹ️  No recent news for MADHUSUDAN from live sources
+2025-11-09 16:03:33,853 - INFO - [11/12] Processing PRUDENT...
+2025-11-09 16:03:33,853 - INFO - 📰 Fetching news for PRUDENT (last 48h)
+2025-11-09 16:03:35,152 - INFO - ℹ️  No recent news for PRUDENT from live sources
+2025-11-09 16:03:35,153 - INFO - [12/12] Processing STANLEY...
+2025-11-09 16:03:35,153 - INFO - 📰 Fetching news for STANLEY (last 48h)
+2025-11-09 16:03:37,242 - INFO - ℹ️  No recent news for STANLEY from live sources
+2025-11-09 16:03:37,244 - INFO - 
+✅ Collection complete!
+2025-11-09 16:03:37,244 - INFO -    Valid tickers: 12/12
+2025-11-09 16:03:37,245 - INFO -    Invalid tickers: 0
+2025-11-09 16:03:37,245 - INFO -    Total articles: 11
+2025-11-09 16:03:37,245 - INFO -    Successfully analyzed: 1
+2025-11-09 16:03:37,250 - INFO - ✅ Saved 0 ticker validations to cache
+2025-11-09 16:03:37,252 - INFO - ✅ 1 qualified stocks saved to realtime_ai_results_2025-11-09_16-03-37_claude-shell.csv
+2025-11-09 16:03:37,254 - WARNING - ⚠️  Could not record predictions to learning database: too many values to unpack (expected 2)
+2025-11-09 16:03:37,254 - INFO - ✅ All stocks passed certainty threshold (40%)
+2025-11-09 16:03:37,254 - INFO - ✅ Results saved to: realtime_ai_results_2025-11-09_16-03-37_claude-shell.csv
+2025-11-09 16:03:37,259 - INFO - 🤖 AI provider: claude-shell
+2025-11-09 16:03:37,262 - INFO - 📊 External AI calls used: 1
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/12] Processing CANBK...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[2/12] Processing HYUNDAI...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[3/12] Processing IOC...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[4/12] Processing MARUTI...
+   ✅ Valid ticker: Validation disabled
+   📰 Analyzing 3 article(s)...
+
+[5/12] Processing ACC...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[6/12] Processing RELIANCE...
+   ✅ Valid ticker: Validation disabled
+   📰 Analyzing 6 article(s)...
+  Fetching fundamental data for RELIANCE...
+
+[7/12] Processing FOCUS...
+   ✅ Valid ticker: Validation disabled
+   📰 Analyzing 2 article(s)...
+
+[8/12] Processing URBAN...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[9/12] Processing CDSL...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[10/12] Processing MADHUSUDAN...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[11/12] Processing PRUDENT...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[12/12] Processing STANLEY...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE (RELIANCE INDUSTRIES LIMITED) - Score: 55.1/100
+   Sentiment: NEUTRAL | Rec: HOLD
+   Catalysts: csr_activity, brand_perception
+   Risks: News has zero direct impact on revenue/earnings, CSR donation not material to ₹10+ lakh crore market cap, No trading catalyst - pure PR/branding activity
+   Alpha: 51.6 | Gates: alpha:False|rvol:False|trend:True|volatility:False|all:False | Setups: pb_ema20
+   Certainty: 85% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 1
+   Results saved: realtime_ai_results_2025-11-09_16-03-37_claude-shell.csv
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Analysis Complete!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Results: realtime_ai_rankings.csv
+

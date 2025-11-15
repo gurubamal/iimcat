@@ -1,0 +1,78 @@
+Nifty 50 News Scan – Run Context
+================================
+
+Purpose
+- Re-run the enhanced India finance collector (Nifty 50 or full NSE) and then screen aggregated full articles to surface crucial, investable news.
+- NEW: Provide two ranking paths you can pick at run-time — Script Path (original rules) or AI Path (entity-aware, deduplicated, magnitude-weighted). Use the orchestration command below and choose.
+
+Prereqs
+- Run these from this folder: intelligent_scripts/essentials
+- Python available; internet access for fetching news.
+
+Step 1 – Fetch full articles (Nifty 50, last 24h)
+# PowerShell (note: quote M&M to avoid & parsing)
+python .\enhanced_india_finance_collector.py ^
+  --tickers ADANIENT ADANIPORTS APOLLOHOSP ASIANPAINT AXISBANK BAJAJ-AUTO BAJFINANCE BAJAJFINSV ^
+           BHARTIARTL BPCL BRITANNIA CIPLA COALINDIA DIVISLAB DRREDDY EICHERMOT GRASIM HCLTECH ^
+           HDFCBANK HDFCLIFE HEROMOTOCO HINDALCO HINDUNILVR ICICIBANK INDUSINDBK INFY ITC ^
+           JSWSTEEL KOTAKBANK LT 'M&M' MARUTI NESTLEIND NTPC ONGC POWERGRID RELIANCE SBILIFE ^
+           SBIN SHRIRAMFIN SUNPHARMA TATACONSUM TATAMOTORS TATASTEEL TCS TECHM TITAN ULTRACEMCO WIPRO SHREECEM ^
+  --hours-back 24 ^
+  --max-articles 2 ^
+  --no-per-ticker ^
+  --sources reuters.com livemint.com economictimes.indiatimes.com business-standard.com moneycontrol.com ^
+           thehindubusinessline.com financialexpress.com cnbctv18.com zeebiz.com ^
+  --output-file aggregated_nifty50
+
+# Optional: broaden window or enable NewsAPI (restricted to the same allowlist)
+# 48h window:
+#   change --hours-back 48
+# NewsAPI lane:
+#   setx NEWSAPI_KEY YOUR_KEY_HERE (or set in current session) and add --newsapi
+
+Step 2 – Choose Your Path (Script vs AI)
+Run the orchestrator and pick a path when prompted:
+
+python .\run_swing_paths.py
+
+- Path A: Script Path
+  - Uses the original rules in ..\screen_full_articles.py (recency + source + keyword cues) to rank news and export CSV.
+  - Optionally blend technicals or pass the shortlist into the institutional screener (rate-limited, batched yfinance) with your confirmation.
+
+- Path B: AI Path
+  - Reads the news CSV and re-ranks with entity-aware heuristics:
+    - Cross-ticker deduplication (shares story impact fairly when titles duplicate)
+    - Ticker/company whole-word checks (penalize fund/PE-only contexts)
+    - Deal-size magnitude weighting (₹/cr/mn/bn) with capped boost
+  - Optionally proceeds into the institutional screener after confirmation.
+
+Notes on running:
+- If no aggregated file is present, the orchestrator will tell you how to fetch it first.
+- The institutional screener needs network. It uses batched yfinance with strict rate limiting to avoid throttling.
+
+What counts as “crucial” (signal cues used by the screener)
+- Positive: order/contract wins, MoU/partnership/JV, acquisition/merger, approvals (SEBI/USFDA), major capex/expansion, upgrades/target hikes, strong profit/margin prints.
+- Negative: downgrades/target cuts, guidance cuts, probes/raids/fines, accidents/shutdowns/strikes, loss/warnings, governance issues (pledge increase, key resignations).
+
+Outputs
+- Aggregated file: aggregated_nifty50_YYYYMMDD_HHMMSS (created in this folder)
+- Ranked lists:
+  - Script Path: prints Top N and writes all_news_screen.csv
+  - AI Path: prints Top N and writes ai_adjusted_top25_YYYYMMDD_HHMMSS.csv
+
+Notes
+- Sources are allowlisted finance desks; exchange/regulator lanes are enabled by default.
+- If you see few items, try a 48h window or add more RSS via --extra-rss.
+
+Learning DB
+- Every AI Path run updates a local SQLite DB `learning.db` and appends a concise summary to `learning_context.md`.
+- View updates: open `learning_context.md` to see Top reasons, event mix, and source mix per run.
+- The DB captures per-ticker appearance stats, event-type counts, and source reliability averages to make future runs smarter.
+
+Quick Commands
+- Minimal typing: `python .\smart_scan.py run scan` (prompts options; defaults to AI Path full auto)
+- Load context + run full AI scan: `python .\smart_scan.py load context and run scan`
+- Read latest context only (then choose): `python .\smart_scan.py read context`
+- Load context (menu): `python .\smart_scan.py load context`
+- AI Path full auto (no prompts): `python .\run_swing_paths.py --path ai --auto-apply-config --auto-screener --top 25`
+- AI Path top picks only: `python .\smart_scan.py load context and give me top picks`

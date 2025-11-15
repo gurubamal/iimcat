@@ -1,0 +1,3 @@
+ticker,rating,score,sentiment,action,catalysts,risks,opportunities,reasoning
+RELIANCE,SELL,23.8,mixed,hold,,,"Market Tailwind, Innovation","AI Analysis: MIXED sentiment with 0 major catalysts. Average impact: 0/100, Confidence: 48%."
+ITC,SELL,20.0,mixed,watch,,,Innovation,"AI Analysis: MIXED sentiment with 0 major catalysts. Average impact: 0/100, Confidence: 40%."

@@ -1,0 +1,19 @@
+Full Article Fetch Test - NH
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 1.97B
+
+Title   : NHAI to deploy Network Survey Vehicles to enhance riding experience
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T13:03:37
+Fetched : 2025-10-22T13:22:49.324126
+URL     : https://www.thehindubusinessline.com/economy/logistics/nhai-to-deploy-network-survey-vehicles-to-enhance-riding-experience/article70189867.ece
+--------------------------------------------------------------------------------
+Road Ministry on Wednesday said that National Highway Authority of India (NHAI) will deploy Network Survey Vehicles (NSV) in 23 states covering around 21,000 km. This aims to enhance the riding experience of the commuters on National Highways.
+To implement this initiative, NHAI has invited bids from qualified companies. These vehicles will be used for “collection, processing and analysing Road inventory and Pavement condition data of National Highway stretches,” a statement by the Ministry said. NSV System is a specialized infrastructure management tool comprising vehicles equipped with advanced sensors and data acquisition systems.
+These vehicles systematically collect data on road inventory and condition of National Highways. The collected data is useful to take decisions for pavement maintenance, asset management, and infrastructure planning, contributing to the enhancing safety and efficiency of the National Highway Network across the country.
+“The data collected through NSV surveys will highlight deficiencies in road conditions, prompting NHAI to take corrective measures for better upkeep of National Highways,” the Ministry said. Data collected through NSV survey will be uploaded on NHAI’s ‘AI’ based portal Data Lake, where it will be analysed by a dedicated team of experts at NHAI to transform data into knowledge and subsequent actionable insights. Finally, “the data collected at regular intervals as per Government of India guidelines shall be preserved for future technical purposes in Road Asset Management system in prescribed formats,” the statement said.
+The pavement condition surveys will be carried out using 3D laser based NSV system capable of capturing and reporting road defects automatically without any human intervention with the help of high resolution 360-degree cameras, DGPS (Differential Global Positioning System), IMU (Inertial Measurement Unit), and DMI (Distance Measuring Indicator).
+These are equipped with versatile data acquisition & processing software to accurately measure and report the inventory & pavement condition data. The data shall be collected for all projects involving 2/4/6 and 8 lanes with NSV before start of work and thereafter at regular intervals of six months, the Ministry added.
+Published on October 22, 2025
+

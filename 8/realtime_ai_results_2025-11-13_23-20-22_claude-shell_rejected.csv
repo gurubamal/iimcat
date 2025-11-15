@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+FOCUS,FOCUS LIGHTING AND FIXTURES LIMITED,64.3,15,4,Certainty 15% below threshold (40%),Eicher Motors shares in focus after Q2 PAT jumps 24% YoY ,"CRITICAL ERROR: This news article is about EICHER MOTORS (₹1,369cr Q2 PAT, +24% YoY), NOT about FOCUS stock. The technical data provided is for FOCUS "
+PREMIUM,PREMIUM PLAST LIMITED,24.5,5,1,Certainty 5% below threshold (40%),Pine Labs shares list at 9.5% premium over IPO price ,"This article discusses Pine Labs' IPO listing at 9.5% premium, which has absolutely no connection to PREMIUM (the ticker being analyzed). The news is "

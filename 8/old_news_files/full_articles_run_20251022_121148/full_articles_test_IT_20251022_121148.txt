@@ -1,0 +1,56 @@
+Full Article Fetch Test - IT
+================================================================================
+
+Title   : Stellantis CEO to Meet Italy Unions Amid Slow Europe Car Demand
+Source  : www.livemint.com
+Published: 2025-10-21T03:56:08
+Fetched : 2025-10-22T13:08:38.358520
+URL     : https://www.livemint.com/companies/news/stellantis-ceo-to-meet-italy-unions-amid-slow-europe-car-demand-11761018968516.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Stellantis NV Chief Executive Officer Antonio Filosa is meeting with Italian labor unions on Monday as weak demand prompts the maker of Fiat and Alfa Romeo cars to pause output at several factories.
+Unions such as FIM-CISL and Fiom have said they want Filosa to clarify his intentions for manufacturing in Italy after a prolonged slump in local car production raises questions over the future of sites such as Cassino and Termoli. They also want more clarity on plans for the ailing Maserati brand.
+Late last year, Stellantis pledged to make new models the overhauled Fiat 500 small car in Italy as part of a push to repair relations with government following the tenure of former CEO Carlos Tavares, who had pushed to move production to cheaper countries such as Morocco. A few days after his ouster, Stellantis pledged to invest €2 billion ($2.3 billion) in Italy this year.
+Stellantis didn’t immediately respond to a request for comment to on the meeting.
+Like its rivals, Stellantis is contending with excess capacity in Europe, where Chinese manufacturers led by BYD Co. are expanding with competitively priced cars. The company has committed to €6 billion in orders from local suppliers and vowed to shut down no Italian plants.
+In Europe, Stellantis has temporarily shut down several sites because of lackluster demand for some models, with repercussions on local suppliers. Forvia on Monday said it’s facing costs of “several tens of millions of euros” in sales this year because of the production stoppage.
+Filosa has scraped some European investments and vowed to invest $13 billion in the US, a critical market, over the next four years, further adding to European unions worries.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Title   : CIL, IIT Madras to develop solutions for repurposing coal mines, create low-carbon tech
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T12:44:53
+Fetched : 2025-10-22T13:08:38.358643
+URL     : https://www.thehindubusinessline.com/news/education/cil-iit-madras-to-develop-solutions-for-repurposing-coal-mines-create-low-carbon-tech/article70189828.ece
+--------------------------------------------------------------------------------
+State-owned Coal India Ltd on Wednesday announced its collaboration with IIT Madras to develop solutions for repurposing coal mines, create low-carbon technologies and redefine coal as a valuable feedstock for the country's clean energy future.
+In a statement, Coal India Ltd (CIL) said that it has signed a Memorandum of Understanding (MoU) with the Indian Institute of Technology Madras (IIT Madras) to establish the 'Centre for Sustainable Energy'.
+The centre will serve as a hub for R&D and capacity-building initiatives in sustainable energy technologies. It will be supported by CIL's funding and aligned with its strategic diversification goals.
+"This partnership underscores a shared commitment to leading India's energy transition through indigenous research, innovation, and technology development to achieve the nation's net-zero ambitions by 2070," CIL said in a statement.
+CIL Chairman P M Prasad said, "Through this collaboration with IIT Madras, Coal India aims to generate indigenous solutions that ensure energy security, decarbonisation, and socioeconomic progress." IIT Madras Director V Kamakoti stated that industry-academia collaborations have been a cornerstone of IIT Madras' journey toward leading India's transition to a low-carbon economy. "Together, we aim to develop scalable and impactful solutions that support India's sustainable energy future."
+Published on October 22, 2025
+
+Title   : Govt proposes tweaks in IT rules to tackle deepfakes
+Source  : www.thehindubusinessline.com
+Published: 2025-10-22T09:14:17
+Fetched : 2025-10-22T13:08:38.358725
+URL     : https://www.thehindubusinessline.com/info-tech/india-proposes-new-it-rules-to-tackle-deepfakes/article70189282.ece
+--------------------------------------------------------------------------------
+In a bid to curb user harm from AI-generated deepfakes and synthetically produced content, the IT Ministry has proposed draft amendments to IT rules that mandate labelling and prominent markers to ensure users can distinguish synthetic and authentic content and mooted greater accountability for major social media platforms.
+With the increasing availability of generative AI tools and the resulting proliferation of synthetically generated information (deepfakes), the potential for misuse of such technologies to cause user harm, spread misinformation, manipulate elections, or impersonate individuals has grown significantly, the IT Ministry said.
+Taking note of these risks, and after extensive public discussions and parliamentary deliberations, MeitY has prepared the draft amendments to the IT Rules, 2021, it said, adding that the move aims to strengthen due diligence obligations for intermediaries, particularly social media intermediaries (platforms with 50 lakh or more users like Meta) and significant social media intermediaries (SSMIs), as well as for platforms that enable the creation or modification of synthetically generated content.
+It requires significant social media () to obtain a user declaration on whether uploaded information is synthetically generated, deploy reasonable and proportionate technical measures to verify such declarations, and ensure that synthetically generated information is clearly labelled or accompanied by a notice indicating the same.
+The proposed amendments, as outlined in the draft notification, introduce a clear definition of ‘synthetically generated information’, as well as labelling and metadata embedding requirements for such information to ensure users can distinguish synthetic from authentic content, according to the draft.
+The draft introduces a new clause defining synthetically generated content as information that is artificially or algorithmically created, generated, modified or altered using a computer resource, in a manner that appears reasonably authentic or true.
+The proposed tweaks in IT rules also introduce visibility and audibility standards, meaning synthetic content will have to be prominently marked, including a minimum 10 per cent visual or initial audio duration coverage; and enhanced verification and declaration obligations for significant social media platforms, mandating reasonable technical measures to confirm whether uploaded content is synthetically generated and to label it accordingly.
+These amendments are intended to promote user awareness, enhance traceability, and ensure accountability while maintaining an enabling environment for innovation in AI-driven technologies, the IT Ministry said.
+It has sought feedback/comments on the draft amendment to the IT rules till November 6, 2025.
+“Recent incidents of deepfake audio, videos and synthetic media going viral on social platforms have demonstrated the potential of generative AI to create convincing falsehoods - depicting individuals in acts or statements they never made. Such content can be weaponised to spread misinformation, damage reputations, manipulate or influence elections, or commit financial fraud,” said the accompanying explanatory note on the IT Ministry website.
+Globally and domestically, policymakers are increasingly concerned about fabricated or synthetic images, videos, and audio clips (deepfakes) that are indistinguishable from real content, and are being blatantly used to produce non-consensual intimate or obscene imagery; mislead the public with fabricated political or news content; commit fraud or impersonation for financial gain.
+The IT Rule changes seek to provide statutory protection to intermediaries, removing or disabling access to synthetically generated information based on reasonable efforts or user grievances.
+It mandates that intermediaries offering computer resources enabling creation or modification of synthetically generated information must ensure that such information is labelled or embedded with a permanent unique metadata or identifier; stipulates that such label or identifier must be visibly displayed or made audible in a prominent manner on or within the synthetic content, covering at least 10 per cent of the surface area of a visual display or, in the case of audio content, during the initial 10 per cent of its duration. The label or identifier must enable immediate identification of the content as synthetically-generated information.
+The rule further prohibits intermediaries from modifying, suppressing, or removing such labels or identifiers.
+Published on October 22, 2025
+

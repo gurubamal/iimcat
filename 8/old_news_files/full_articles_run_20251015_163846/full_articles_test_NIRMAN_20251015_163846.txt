@@ -1,0 +1,29 @@
+Full Article Fetch Test - NIRMAN
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 71.04M
+
+Title   : Sebi bars Nirman Agri Genetics and promoter from markets after finding IPO funds diverted 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T07:40:50
+Fetched : 2025-10-15T16:49:33.738598
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-nirman-agri-genetics-and-promoter-from-markets-after-finding-ipo-funds-diverted/articleshow/124571193.cms
+--------------------------------------------------------------------------------
+The Nashik-based company, which raised Rs 20.3 crore through its SME IPO in March 2023, was found to have misused around Rs 18.89 crore (93% of the issue amount), according to Sebi’s 19-page order signed by Whole-Time Member Kamlesh Chandra Varshney.
+The investigation began after similarities were found between NAGL’s fund movements and those in the Synoptics Technologies case, both handled by merchant banker First Overseas Capital. The probe revealed that NAGL had provided conflicting information about its IPO fund utilisation and failed to produce any valid agreements or invoices for payments made to several vendors.
+Bogus transactions and forged licenses
+The regulator found that large portions of the IPO money were sent to four entities — Janvi Traders, Lalit Traders, Somnath Agriculture Trading Co, and VN Enterprise — which were either non-existent or linked to unrelated individuals.
+In one instance, Sebi found that Janvi Traders used a forged APMC license and withdrew Rs 5 crore in cash on the same day it received Rs 2.5 crore from NAGL. Site visits by NSE officials confirmed that none of these entities operated at their registered addresses.
+Further scrutiny of bank statements showed that NAGL routed another Rs 6.75 crore through shell firms, ultimately landing in the personal or family accounts of the company’s promoter. Funds were traced to entities owned by Pranav Bagal’s father, mother, uncle, cousin, and even an independent director, suggesting a complex web of insider transactions.
+Promoter share sales raise alarm
+Sebi observed that promoter Pranav Bagal sold about 8.6 lakh shares, or 10.7% of NAGL’s equity, in September 2025, netting Rs 16.08 crore. The regulator said these sales were executed "at prices based on misstated financials," posing a risk of further offloading and potential harm to retail investors.
+NAGL’s promoter holding fell from 65.6% at listing to 44.3% by September 2025, even as the number of public shareholders rose nearly fourfold in two years.
+Adding to investor concerns, Sebi noted that the company recently proposed a stock split, bonus issue, and a name change to Agriicare Life Crop, which the regulator described as part of "a larger scheme to deceive investors."
+Pending further investigation, Sebi has restrained the company and its promoter from accessing or dealing in the securities market and barred NAGL from proceeding with the proposed bonus and stock split.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

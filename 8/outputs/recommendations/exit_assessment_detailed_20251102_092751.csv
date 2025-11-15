@@ -1,0 +1,6 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+KEC,HOLD,HOLD,41,75,35,LOW,45,50,35,0,45,"RSI oversold at 22.8 (potential further downside), Low volume on downtrend (weak support), Close below lower Bollinger band",HOLD: RSI oversold at 22.8 (potential further downside); Low volume on downtrend (weak support) stop: close< 801.91 (swing_low - 1.0*ATR)
+PETRONET,HOLD,STRONG HOLD,24,75,0,NONE,45,50,20,0,45,No significant technical exit signals,STRONG HOLD: No significant technical exit signals stop: close< 271.01 (swing_low - 1.0*ATR)
+DEEPAKNTR,HOLD,HOLD,37,75,27,LOW,45,50,35,0,45,"RSI oversold at 25.3 (potential further downside), Unusual volume spike on down move, Daily and weekly trends aligned down",HOLD: RSI oversold at 25.3 (potential further downside); Unusual volume spike on down move stop: close< 1703.29 (swing_low - 1.0*ATR)
+AURIGROW,HOLD,HOLD,31,50,5,NONE,45,50,80,0,45,High short-term volatility (ATR 4.0% of price),HOLD: High short-term volatility (ATR 4.0% of price)
+SAGILITY,HOLD,STRONG HOLD,26,75,5,NONE,45,50,20,0,45,High short-term volatility (ATR 4.3% of price),STRONG HOLD: High short-term volatility (ATR 4.3% of price) stop: close< 41.17 (swing_low - 1.0*ATR)

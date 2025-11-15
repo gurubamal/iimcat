@@ -1,0 +1,32 @@
+Full Article Fetch Test - TATAMOTORS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 39.24B
+
+Title   : Tata Motors demerger: Stock slides 7% in 7 days. Will the restructuring spark gains or more volatility? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-13T06:32:29
+Fetched : 2025-10-13T18:06:20.564334
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-demerger-stock-slides-7-in-7-days-will-the-restructuring-spark-gains-or-more-volatility/articleshow/124519522.cms
+--------------------------------------------------------------------------------
+On Thursday, October 9, Tata Motors said its Composite Scheme of Arrangement involving TML Commercial Vehicles Ltd (TMLCV) and Tata Motors Passenger Vehicles Ltd (TMPV) became effective from October 1, after approvals from the National Company Law Tribunal’s Mumbai Bench.
+The company has fixed October 14 as the record date to determine shareholders eligible to receive one fully paid-up share of TMLCV for every share held in Tata Motors. Following the restructuring, Tata Motors will be renamed Tata Motors Passenger Vehicles Ltd, housing the passenger vehicle, electric vehicle, and Jaguar Land Rover (JLR) businesses. TMLCV, renamed Tata Motors Ltd, will focus on domestic commercial vehicle operations. Shareholders will receive shares of both companies in a 1:1 ratio, with the stock’s price adjusting on the ex-date to reflect the new structure.
+Analysts weigh in on Tata Motors demerger
+YES Securities expects the restructuring to “unlock value” for investors. “Fundamentally, pure play CV and PV verticals will be available for an investor to play auto cycles, which is currently aggregated into one. We think it is a good value unlocking opportunity,” the brokerage said, maintaining a “buy” rating on the stock in a staggered manner with a target price of Rs 720, while cautioning that “volatility in F&O and MTF is likely ahead of the ex-date as price will go ex CV business.”Khushi Mistry, Research Analyst at Bonanza, said that the separation will sharpen business focus for both entities. “TMLCV will enter the market as India’s largest commercial vehicle manufacturer with a 37.1% market share,” she said. “TMPV, comprising passenger vehicles, EVs, and JLR, is expected to grow 8–10% in H2FY26, aided by new launches, strong SUV positioning, and rising EV and CNG demand, which form 45% of its PV segment revenue.”
+JLR restart supports sentiment
+Jaguar Land Rover, Tata Motors’ UK-based subsidiary, began a phased restart of operations on October 8 after a cyberattack in early September disrupted global production. Mistry noted that the incident caused a 24% drop in wholesale volumes and a 17% decline in retail sales for the September quarter, with losses estimated at £50 million per week. Full production is expected to resume post-Christmas.YES Securities said, “2QFY26 JLR dispatches (-24% YoY and QoQ) witnessed impact of production loss due to cyberattack since the start of Sep’25. However, the retail level impact was much lower. We think gradually volumes to improve in 3Q, 4Q, which should support sentiments.”
+Technical picture
+Technically, Tata Motors remains under pressure. The stock trades below all eight major simple moving averages, while the RSI at 44.2 signals neutral momentum. MACD at -1.1 reinforces the bearish trend.Ajit Mishra, SVP, Research at Religare Broking, warned that “sustained trade below Rs 670 may trigger further correction toward Rs 640–625 levels. Conversely, a decisive close above Rs 720 could revive bullish momentum, opening the path toward Rs 750–770.”
+Meanwhile, Hitesh Tailor, Technical Research Analyst at Choice Broking, noted a bullish setup forming. “The stock is forming an ascending triangle pattern on the weekly chart — a bullish setup often preceding a breakout. A decisive move above Rs 715 could open the path for a rally toward Rs 775.”
+Drumil Vithlani of Bonanza recommended holding existing positions and “avoiding fresh entry until clarity emerges post-event,” noting the stock is trading below the 20-week EMA of Rs 688.46, now acting as resistance.
+What investors should watch?
+With the record date set for October 14, market attention is split between the potential value unlocking from the restructuring and short-term trading volatility. Analysts recommend caution on fresh positions, though long-term sentiment remains positive if JLR production ramps up and both entities settle into their respective businesses.Also read | TCS, Tata Motors tumble up to 42% from peak, with over Rs 4 lakh crore wiped off Tata stocks in 2025 amid boardroom turmoil
+Investors will soon learn whether Tata Motors’ restructuring sparks renewed momentum or if the stock idles until both engines start firing again.
+Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

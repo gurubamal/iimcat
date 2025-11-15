@@ -1,0 +1,14 @@
+{
+  "ticker": "AAKASH",
+  "fetch_time": "2025-11-13T22:00:48.000866",
+  "dividends": [],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Re 1/- Per Share",
+      "ex_date": "03-Feb-2022",
+      "ex_date_parsed": "2022-02-03T00:00:00"
+    }
+  ],
+  "data_available": true
+}

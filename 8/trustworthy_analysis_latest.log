@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/vagrant/R/essentials/trustworthy_news_analyzer.py", line 340, in <module>
+    df = pd.read_csv('outputs/ai_adjusted_top50_20251017_001248.csv')
+  File "/home/vagrant/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+  File "/home/vagrant/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+  File "/home/vagrant/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+  File "/home/vagrant/.local/lib/python3.10/site-packages/pandas/io/parsers/readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+  File "/home/vagrant/.local/lib/python3.10/site-packages/pandas/io/common.py", line 873, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'outputs/ai_adjusted_top50_20251017_001248.csv'

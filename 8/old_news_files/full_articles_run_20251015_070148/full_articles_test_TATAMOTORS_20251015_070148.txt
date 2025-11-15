@@ -1,0 +1,74 @@
+Full Article Fetch Test - TATAMOTORS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 39.24B
+
+Title   : Tata Motors commences trade after demerger  
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:33:30
+Fetched : 2025-10-15T08:42:09.449196
+URL     : https://www.thehindubusinessline.com/companies/tata-motors-commences-trade-with-demerged-business/article70163042.ece
+--------------------------------------------------------------------------------
+Tata Motors started trading on Tuesday with its demerged business — the passenger vehicle and commercial vehicle business.
+The company’s shares dropped 40 per cent on early Tuesday; a notional decline post its demerger. The demerged entity ended at ₹395.50 at down 0.88 per cent from the discovered price of ₹399. The combined entity on Monday closed at ₹690 on the BSE.
+The company will be named Tata Motors Passenger Vehicles Ltd which will include passenger vehicles, electric vehicles and Jaguar Land Rover (JLR). The existing Tata Motors shareholders will receive equal shares in both the new entities (record date: October 14).
+The Tata Motors Commercial Vehicle (TMLCV), the demerged business, is expected to be listed in November.
+Revenue declines
+“TMLCV will enter the market as India’s largest commercial vehicle (CV) manufacturer with a 37.1 per cent market share. In Q1FY26, the CV segment sustained a healthy double-digit EBITDA margin of 12.2 per cent, even as revenue declined, supported by continued operational efficiencies. It will also benefit from the €3.8 billion Iveco acquisition, making it the world’s fourth largest truck manufacturer (above 6 tonnes). The domestic CV industry is expected to grow 3-5 per cent in FY26, supported by infrastructure and e-commerce demand. The TMPV segment will incorporate passenger vehicle (PV) business, electric vehicles (EV), and Jaguar Land Rover operations. The domestic PV segment is expected to grow 8-10 per cent in H2FY26, aided by new launches, strong SUV positioning, and rising EV and CNG demand, which form 45 per cent of its PV segment revenue,” said Khushi Mistry, Research Analyst at Bonanza.
+Published on October 14, 2025
+
+Title   : Mint Explainer | Tata Motors demerger: How Tata Group created two global auto businesses
+Source  : www.livemint.com
+Published: 2025-10-15T07:17:14
+Fetched : 2025-10-15T08:42:09.449340
+URL     : https://www.livemint.com/companies/mint-explainer-tata-motors-demerger-how-tata-group-created-two-global-auto-businesses-jlr-11760503996068.html
+--------------------------------------------------------------------------------
+Mint Explainer | Tata Motors demerger: How Tata Group created two global auto businesses
+Tata Motors has split its passenger and commercial vehicle divisions into two independent global entities, aiming for strategic focus, international expansion and clearer investor opportunities.
+NEW DELHI : The demerger of Tata Motors’ passenger and commercial vehicle divisions has created two distinct global automotive entities, each with a clear focus and international footprint.
+On 14 October, Tata Motors Ltd formally became Tata Motors Passenger Vehicles Ltd (TMPVL) and began trading separately from its commercial vehicle unit. The discovered value of the passenger vehicle business came at around ₹395 per share, roughly 40% below the price at which the consolidated company previously traded.
+At 12:15pm, the stock traded at ₹392.60 apiece on the BSE.
+Mint explains why the split was executed and what it means for the company and investors.
+Why the demerger?
+A demerger allows a company to separate distinct business units with enough scale and financial strength to operate independently.
+Before the split, Tata Motors encompassed two very different businesses: passenger vehicles (PV) and commercial vehicles (CV). The PV business sells cars domestically and internationally, including through UK-based Jaguar Land Rover (JLR), which operates in markets such as China, the US and Europe. The CV business, in contrast, has primarily focused on India, selling trucks and buses.
+In fiscal year 2025 (FY25), the passenger vehicle business accounted for over 82% of Tata Motors’ ₹4.4 trillion revenue, while the commercial vehicle unit contributed roughly 18%.
+In August 2024, Tata Motors’ board decided that separating the businesses would drive better strategic focus and returns for shareholders, a plan later approved by the National Company Law Tribunal (NCLT).
+“The proposed demerger will bring greater strategic clarity and agility, enabling a more focused approach to execution and value creation, delivering superior experiences for customers, rewarding careers for employees and long-term returns for shareholders," said Tata Group chairman N. Chandrasekaran in the company’s annual report.
+Building a global presence
+The group’s global ambitions date back to 2008, when Tata Motors acquired Jaguar Land Rover (JLR) for $2.3 billion, the second-largest acquisition by the Tata Group after Tata Steel’s purchase of Corus for $13.1 billion in 2007. JLR’s lineup includes Range Rover, Range Rover Sport and Defender vehicles sold worldwide.
+“This is a momentous time for all of us at Tata Motors. Jaguar and Land Rover are two iconic British brands with worldwide growth prospects. We are looking forward to extending our full support to the Jaguar and Land Rover teams to realise their competitive potential," Ratan Tata had said in 2008, emphasizing the acquisition’s long-term potential.
+Following the PV-CV split, Tata Motors pursued a similar global strategy for its commercial vehicle business. In July, it announced the acquisition of Italy’s Iveco commercial vehicle and powertrain business, expanding the CV unit’s international reach.
+“This is a logical next step following the demerger… and will allow the combined group to compete on a truly global basis with two strategic home markets in India and Europe," Chandrasekaran said.
+The combined Tata Motors-Iveco entity is expected to sell over 540,000 units annually and generate more than $25 billion in revenue. Management will also be split: Shailesh Chandra will lead the passenger vehicle business, while Gireesh Wagh heads the commercial vehicle unit.
+What’s in store for investors
+With the demerger, both units will trade independently. TMPVL has already begun trading, while the CV entity—retaining the Tata Motors name—is expected to list by November.
+Shareholders of the original Tata Motors will receive one share in each demerged entity, maintaining their existing ownership proportions: promoters hold 43%, public shareholders 23%, and foreign/domestic institutional investors 34%.
+Analysts caution that both businesses will face near-term challenges.
+“JLR is facing several headwinds, which include, tariff-led slowdown for exports to the US, demand weakness in key regions like Europe and China; and rising VME, warranty and emission costs," analysts at Motilal Oswal Financial Services wrote in a 30 September note.
+The company also faces the task of integrating Iveco, with the acquisition expected to complete by April 2026, pending regulatory approvals. During an investor call in July, questions were raised about potential synergies.
+“Given the group’s challenging experience with the Corus and JLR acquisitions, why do you think this is somewhere Tata Motors can create value?" asked Sonal Gupta, head of research-equities, at HSBC Asset Management India. “Tata Motors CV (commercial vehicles) has limited international presence. We haven’t really been able to capitalize the tech from Tata Daewoo to grow internationally."
+Tata Motors, however, remains optimistic, noting that synergies with Iveco could surpass those achieved with JLR.
+“The company highlighted that the complementarity with IVECO is highly significant, with synergies expected to surpass those achieved with JLR. Except for a higher power-to-weight ratio in Europe, the product platforms are largely similar, enabling deeper integration," analysts at JM Financial wrote in a 29 September note.
+Analysts note that the demerger positions Tata Motors as two globally focused companies. While it offers investors clarity and separate trading opportunities, execution and integration challenges remain.
+
+Title   : Tata Motors commercial vehicle shares valued at Rs 261 following demerger. What are analysts saying? 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T06:40:05
+Fetched : 2025-10-15T08:42:09.450099
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-commercial-vehicle-shares-valued-at-rs-261-following-demerger-what-are-analysts-saying/articleshow/124570059.cms
+--------------------------------------------------------------------------------
+The listing date for Tata Motors Commercial Vehicle Ltd (TMLCV), the demerged entity, remains undecided. However, India’s leading electric vehicle manufacturer suggests that the listing could take up to 60 days, potentially in mid-November or December.
+The demerger officially took effect with October 14 as the record date, marking the separation of Tata Motors’ passenger and commercial vehicle operations. Under the demerger terms, shareholders holding stock before this date will receive one share of TMLCV for every existing share.
+The new entity will be listed on both the NSE and BSE following regulatory clearance, with share allotments expected to reflect in demat accounts within 30–45 days.
+Given the company’s recent challenges and weak financial performance, analysts believe the move provides better visibility to each business segment and allows investors to value them independently. Nomura pegged TMPV at Rs 367 and TMLCV at Rs 365, while cautioning about short-term “technical volatility” as the stock adjusts to ex-demerger levels. SBI Securities expects TMPV to trade between Rs 285 and Rs 384, supported by JLR’s improving profitability, and projects a Rs 320–470 range for TMLCV, factoring in its planned €3.8 billion acquisition of Iveco Group NV’s commercial vehicle assets.
+TMPV, which continues to draw about 87% of revenue from JLR, is projected to post 8–10% growth in H2 FY26, supported by upcoming model launches, strong SUV sales, and growing demand for EVs and CNG vehicles, which now account for 45% of passenger vehicle revenue.
+While the September cyberattack temporarily affected JLR’s production, analysts said the retail impact was minimal and recovery is underway.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

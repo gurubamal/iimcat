@@ -1,0 +1,2346 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-10-15T03:14:58.638605
+Hours back: 48
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com
+Tickers planned: 2993
+====================================================================================================
+
+Full Article Fetch Test - 21STCENMGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - A2ZINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGSTRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANSALAPI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BLUECHIP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DHARAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EXCEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GVKPIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ITTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KRISHIVAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANUGRAPH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MEP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MVKAGRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NORBTEAEXP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORTINGLOBE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OSELDEVICE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PATTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - POLYSIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PPAP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRAXIS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAJRILTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RSSOFTWARE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SADHNANIQ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SANWARIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SITINET
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SRPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - TANKUP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - UMAEXPORTS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - UNITEDPOLY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - VOLERCAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - WELINV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - WINSOME
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAKASH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AAREYDRUGS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARTISURF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AARVEEDEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABHAPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ABMINTLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACCENTMIC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ACCORD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AESTHETIK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGARWALFT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGNI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGROPHOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AGUL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AHIMSA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AILIMITED
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AISL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKANKSHA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AKIKO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALPSINDUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ALUWIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMANTA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMBANIORGO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMEYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AMJUMBO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANKITMETAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ANLON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - APS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARCHIES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARENTERP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARFIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARSHIYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARTNIRMAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARUNAYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARVEE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ARVINDPORT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ASCOM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ASIANHOTNR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ASIANTILES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ASLIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ASTRON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ATALREAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ATLASCYCLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AUSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AUSOMENT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AVSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - AXISCADES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BAFNAPH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BAJAJINDEF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BAJEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BALAJIPHOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BALCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BALUFORGE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BANKA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BARFLEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BASILIC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BBOX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BCG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BDR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BESTAGRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BEWLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BGLOBAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BGRENERGY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHAGYANGR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BHARATSE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BIKEWO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BIOFILCHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BIRDYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BIRLACABLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BLSE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BLUECOAST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BLUEJET
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BOHRAIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BOSS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BROOKS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BULKCORP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - BVCL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - C2C
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CADSYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CALSOFT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CALSOFTPP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CAMLINFINE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CAPTRUST
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CBAZAAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CENTRUM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CEREBRAINT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CHANDAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CINEVISTA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CLEDUCATE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CMICABLES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CMRSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - COFFEEDAY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - COMMITTED
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - COMPINFO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CONTI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - COUNCODOS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CPEDU
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CPPLUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CPS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CTE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CUBEXTUB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CURAA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CURRENT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CYBERMEDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - CYBERPP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DANGEE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DCAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DCMFINSERV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DELPHIFX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DELTAMAGNT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DESTINY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DGCONTENT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DHRUV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DIGJAMLMTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DIVINEHIRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DIVYADHAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DREAMFOLKS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DRL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - DRSDILIP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - E2E
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EASTSILK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EDUCOMP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EFFWA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EIFFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ELECTHERM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ELGIRUBCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EMAMIREAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ENERGYDEV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ENSER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - EQUIPPP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ESCONET
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ESFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ESSARSHPNG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FALCONTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FCONSUMER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FELDVR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FLEXITUFF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FLFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FLYSBS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FMNL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FOCE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FOODSIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FORCAS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FORGEAUTO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - FSC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GANGABATH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GANGAFORGE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GATECHDVR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GAYAHWS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GAYAPROJ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GCHOTELS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GENSOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GFSTEELS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GINNIFILA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GLFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 42.08M
+
+Title   : ReNew Global promoters offer higher price to delist co from Nasdaq
+Source  : www.livemint.com
+Published: 2025-10-14T18:32:41
+Fetched : 2025-10-15T03:23:04.439379
+URL     : https://www.livemint.com/companies/news/renew-global-promoters-offer-higher-price-to-delist-nasdaq-cppib-adia-sumant-sinha-11760461765608.html
+--------------------------------------------------------------------------------
+New Delhi: ReNew Global Energy Plc on Tuesday said its promoters have made a final non-binding offer to buy back shares and delist the Nasdaq-listed company.
+The promoters’ consortium has increased its offer price to $8.15 per share, payable in cash, ReNew said. Last December, the promoters had offered $7.07 per share, and revised it to $8 in June this year.
+“This represents an increase of $1.08 per share, equivalent to 15.3%, from the initial non-binding proposal dated December 10, 2024. The revised proposal represents a 28.5% premium versus the undisturbed share price of $6.34 on December 10, 2024, being the closing share price prior to the initial non-binding proposal becoming public and a 41.5% premium to the 30-day volume-weighted average price of $5.76 per share (as of December 10, 2024),” ReNew said in a statement.
+The company received the revised offer on 10 October.
+ReNew’s board of directors has formed a special committee led by lead independent director Manoj Singh and consisting of six independent non-executive directors to consider the proposals received from the consortium. The special committee is in the process of evaluating the revised proposal alongside its independent financial adviser Rothschild & Co. and independent legal counsel Linklaters Llp.
+“Active discussions with the consortium remain ongoing and the special committee will provide a conclusive update as soon as reasonably practicable,” the statement said.
+It, however, added that no assurance can be given regarding the likelihood, terms or details of a potential transaction resulting from the revised proposal received from the consortium or any other potential transaction.
+“Further decisions or disclosures by the special committee will be made as appropriate or required,” it added.
+In December last year, the promoters’ consortium including the Canada Pension Plan Investment Board (CPPIB), the Abu Dhabi Investment Authority (ADIA) and founder Sumant Sinha, along with new investor Masdar, proposed to buy out the listed shares to take the company private.
+CPPIB, ADIA and Sinha together own 64% of the company. Masdar, the new investor, is a UAE government-backed renewable energy company.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+
+Title   : LT Foods to acquire Hungary-based Global Green Europe Kft
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:32:41
+Fetched : 2025-10-15T03:23:04.440041
+URL     : https://www.thehindubusinessline.com/companies/lt-foods-to-acquire-hungary-based-global-green-europe-kft/article70163208.ece
+--------------------------------------------------------------------------------
+Packaged food company LT Foods, on Tuesday, said it has signed a definitive agreement to acquire Hungary-based Global Green Europe Kft. for an enterprise value of about €25 million. It said this is in line with the long-term strategy to further strenthen its position in packaged food segment and enabling it to diversify into the high-value processed canned food segment. The company said the acquisition is synergistic to its existing business in Europe, while enabling it to make further inroads in Central and Southern Europe.
+“The acquisition will be executed through LT Foods Europe Holdings, a wholly-owned step-down subsidiary of LT Foods. Under the agreement, LT Foods will pay €6 million at closing for 100 per cent equity shareholding, with the remaining €1.8 million payable over the next two years through earn-out mechanism besides taking over the borrowings,” the company said in a statement. The deal includes the acquisition of Global Green International (UK) and Greenhouse Agrár Kft., which serve as support and distribution entities. The deal is subject to FDI approval in Hungary.
+V K Arora, Executive Chairman, LT Foods, said this acquisition marks an important step forward in expanding the company’s product portfolio and global footprint. “The acquisition of Global Green Europe Kft. enables us to enter the processed canned food market, leveraging synergies with our existing business in Europe. This acquisition also reinforces our commitment to building a globally-diversified food portfolio while maintaining leadership in rice-based products. We see this as an opportunity to further strengthen our relationship with customers and consumers by offering them a wider range of high-quality, ambient packaged food products.”
+Consolidate position
+The Hungarian operations of Global Green were established in 2006 following the acquisition of the erstwhile Intergarden N.V. and sells its products in 30 countries across Europe. It is key player in the production of Sweet Corn in Cans, and Gherkins, Silver Skin Onions, Peas and Sour Cherries in Jars. It has two manufacturing sites in Hungary. With an annual turnover of €40 million and a workforce of over 170 employees, Global Green Europe Kft. enables LT Foods to consolidate its strong position in the European market, the statement added. This category is estimated at €15 billion across Europe.
+Vikas Magoon at LT Foods Europe said, “We already have a strong presence in Europe through our manufacturing operations in the Netherlands and the UK. Addition of Global Green Europe Kft., Hungary, will enable LT Foods to establish a third manufacturing hub in Europe, strengthening its foothold in Central and Southern Europe. A manufacturing base in Hungary also offers a relative cost advantage vis-à-vis our existing facilities, enhancing LT Foods’ competitiveness in the region.”
+Published on October 14, 2025
+
+Title   : ‘Global spice industry projected to reach $41.9 billion by 2033’ 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:11:32
+Fetched : 2025-10-15T03:23:04.440148
+URL     : https://www.thehindubusinessline.com/economy/agri-business/global-spice-industry-projected-to-reach-419-billion-by-2033/article70162708.ece
+--------------------------------------------------------------------------------
+India reaffirmed its leadership in the global spice sector as the 8th Session of the Codex Committee on Spices and Culinary Herbs (CCSCH) began in Guwahati.
+Organised by the Spices Board, the event has drawn around 81 delegates from 27 countries to deliberate on developing harmonised international standards for spices and culinary herbs.
+Rajit Punhani, CEO, Food Safety and Standards Authority of India (FSSAI), noted that the global spice industry, valued at $28.5 billion in 2024, is projected to reach $41.9 billion by 2033. He emphasized the need for harmonized, science-based food standards to ensure consumer safety and promote equitable global trade.
+P. Hemalatha, Secretary, Spices Board highlighted that Codex standards play a crucial role in maintaining fairness and safety in global food trade. These frameworks ensure that producers, traders, and consumers all benefit, promoting transparency, efficiency, and sustainability in the spice industry, she said.
+With rapid advances in food science and technology, the global spice trade requires unified and science-based quality standards.
+“Harmonised quality standards are essential not only to ensure safety and fairness in trade but also to strengthen consumer trust and market access,” she said, stressing the need for greater multilateral cooperation in production, processing, and value addition.
+The Codex Committee on Spices and Culinary Herbs, established in 2013 at India’s initiative, functions under the Codex Alimentarius Commission of the FAO and WHO. India, through the Spices Board, serves as the Secretariat of the Committee.
+So far, Codex has finalised standards for 16 spices, including pepper, turmeric, cumin, nutmeg, cardamom, and saffron. The ongoing session will discuss new standards for large cardamom, sweet marjoram, cinnamon, and dried coriander seeds.
+Published on October 14, 2025
+
+Title   : LG Electronics to deepen roots in India: William Cho, Global CEO
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:03:17
+Fetched : 2025-10-15T03:23:04.440376
+URL     : https://www.thehindubusinessline.com/info-tech/lg-electronics-to-deepen-roots-in-india-william-cho-global-ceo/article70162870.ece
+--------------------------------------------------------------------------------
+To coincide with its blockbuster listing in India, LG Electronics launched its Essential Series, a range of products designed in India for India, and Global CEO William Cho promising to ‘deepen’ its roots in the country.
+“Today, we have opened a new chapter in India with a successful IPO in the country,” said Cho, adding, “We believe that customers and employees have made this possible.“
+“The company will deepen its roots in the country,” said Cho. “The company is also taking another important step and launching the energy essential series, which is important.” LG Electronics has 777 brand stores in India.
+Essential series
+The Essential Series range starts at ₹18,000 and includes white goods from refrigerators to microwave ovens.
+The home appliances launched under the series is for value-conscious customers in the country, providing white goods at affordable prices.
+In India, LG Electronics has a 27.5 per cent market share in televisions, 29.9 per cent in refrigerators, 33.5 per cent in washing machines, 18.2 per cent in room AC and 48.0 per cent in microwave ovens.
+India is the only country where LG Electronics is listed outside South Korea and the plan is to make it into a global manufacturing hub. The company’s third manufacturing facility is coming up in SriCity, Andhra Pradesh, with an investment of $600 million, will be operational in November 2026 and is part of its strategy to make India a global hub.
+“LG Electronics has been a part of India’s growth, with our journey starting in 1997 from our first plant in Noida. Today, we have around 35,000 touch points and dominate all segments of business including offline and online. Our leadership with volume and premium products also indicate that LG is the right choice across all price segments,” said Sanjay Chitkara, Chief Sales Officer, LG Electronics India.
+LG Electronics also plans to increase its focus on B2B business that is based on HVAC systems, including commercial ACs, information display panels and eBlackboards.
+Published on October 14, 2025
+
+Full Article Fetch Test - GODAVARIB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GODHA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GOENKA
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -2253000.00
+
+Title   : FICCI names Anant Goenka as President-Elect for 2025-26
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T13:47:10
+Fetched : 2025-10-15T03:23:17.192747
+URL     : https://www.thehindubusinessline.com/news/ficci-names-anant-goenka-as-president-elect-for-2025-26/article70163074.ece
+--------------------------------------------------------------------------------
+The Federation of Indian Chambers of Commerce and Industry (FICCI) on Tuesday named Anant Goenka, Vice Chairman of the RPG Group, as its President-Elect for 2025-26 during FICCI National Executive Committee Meeting (NECM).
+Goenka, currently FICCI’s Senior Vice President, will succeed Harsha Vardhan Agarwal as President of the apex business chamber at the conclusion of its 98th annual general meeting, scheduled for November 28-29 in New Delhi, FICCI said in a statement.
+Goenka is Vice-Chairman of the $5-billion RPG Group, which has interests in tyre, infrastructure, pharmaceutical, IT and specialty sectors. He previously served as Chairman of the Automotive Tyre Manufacturers’ Association (ATMA).
+From 2012 to 2023, Goenka was Managing Director and Chief Executive Officer of CEAT Ltd, overseeing a decade of growth during which the company’s market capitalisation rose 25-fold. Under his leadership, CEAT received the World Economic Forum’s Lighthouse recognition and became the first tyre company globally to win the Deming Grand Prize in 2023.
+Before joining CEAT, Goenka worked with Unilever and KEC International. He holds an MBA from the Kellogg School of Management and a bachelor’s degree in economics from the Wharton School, University of Pennsylvania.
+He was awarded the Kabiller Science of Empathy Prize by Kellogg in 2023, named “Next Generation Business Leader of the Year” by Forbes in 2017, and featured in Economic Times–Spencer Stuart’s “40 under 40 Business Leaders.”
+Published on October 14, 2025
+
+Full Article Fetch Test - GOLDENTOBC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GOLDKART
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GOLDSTAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GPECO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GRAPHISAD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GRETEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GSMFOILS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GSTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GTECJAINX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GUJAPOLLO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - GVT&D
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HAVISHA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HBSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HCC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HCL-INSYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HDIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HECPROJECT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HGM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HILTON
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 1.48M
+
+Title   : Hilton signs new 195 room hotel in Chennai with MGM Group 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T11:19:07
+Fetched : 2025-10-15T03:24:01.955226
+URL     : https://www.thehindubusinessline.com/companies/hilton-signs-new-195-room-hotel-in-chennai-with-mgm-group/article70162054.ece
+--------------------------------------------------------------------------------
+Hospitality major Hilton has expanded its presence in Chennai with the signing of Hilton Chennai Egmore.
+The new 195-room hotel will be developed in partnership with MKR Estate Developers, part of the MGM Healthcare Group.
+The hotel, expected to open in January 2029, will be part of a larger mixed-use development that also includes a commercial office complex, the company said in a release. The new hotel will expand the presence of Hilton’s flagship brand, Hilton Hotels & Resorts, in the city, joining Hilton Chennai.
+With nearly 17,000 sq. ft. of event space, including two ballrooms, a meeting room and a boardroom, Hilton Chennai Egmore will serve as a premium venue for corporate gatherings, conferences, and social celebrations in the city, the company added in the release.
+Hilton had earlier announced plans to double its brand footprint over the next five years. As part of this strategy, they have announced the debut of their first LXR Hotels and Resorts property in India, slated to open in Bengaluru in 2026.
+Published on October 14, 2025
+
+Full Article Fetch Test - HINDMOTORS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HIRECT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HITECHGEAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HMT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HOACFOODS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HOLMARC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HOMESFY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HRHNEXT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HTMEDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - HVAX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IBLFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ICDSLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IDEALTECHO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IFBAGRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IL&FSENGG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IL&FSTRANS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IMPEXFERRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDIFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDOBORAX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDORAMA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDOTECH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDOTHAI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INDSWFTLAB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFINIUM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFLUX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INFOMEDIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INNOMET
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INNOVANA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INOXGREEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INSPIRISYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - INTERARCH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IRIS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IRISDOREME
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ISHANCH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IWARE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - IZMO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JAINAM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JAINIK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JAKHARIA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JALAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JAYBARMARU
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JETKNIT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JFLLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JPASSOCIAT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JPPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JSWHL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - JUBLCPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - K2INFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KALYANI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KANDARP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KARMAENG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KAUSHALYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KAVDEFENCE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KAYA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KCEIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KEEPLEARN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KERNEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KESORAMIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KHAITANLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KINGFA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KITEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KKVAPOW
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KORE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KOTYARK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KREBSBIO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KRIDHANINF
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KRITI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - KTL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LAKPRE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LCCINFOTEC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LGHL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LINC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LIQUIDBEES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LORDSCHLO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LOTUSEYE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LOYALTEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LRRPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - LYPSAGEMS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MAANALU
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MADHAVBAUG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MADHUCON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MAGSON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MAL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANAKSTEEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANAV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANDEEP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MANORG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARINE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARINETRAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MARSHALL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MASON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MASTER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MCON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MEDIORG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MEGAFLEX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MEGASOFT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MHHL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MIEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MILTON
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MINDPOOL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MINDTECK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MIRCELECTR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MKPL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MODTHREAD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MONOLITH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MORARJEE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MOXSH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MPTODAY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - MTEDUCARE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NACLIND
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NAHARCAP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NAHARINDUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NATHBIOGEN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NAVKARURB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NDLVENTURE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NDTV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NECLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NEELAM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NEPHROCARE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NEWJAISA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NIBE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NIRAJISPAT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NIRMAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NOIDATOLL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - NRAIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OBSCP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OCCLLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ODIGMA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OILCOUNTUB
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OLAELEC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OMAXAUTO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OMKARCHEM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ONELIFECAP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ONEPOINT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ONWARDTEC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OPTIVALUE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORBTEXP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORCHASP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORIANA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ORTEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OSIAHYPER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - OSWALSEEDS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PALREDTEC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PANSARI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 33.28M
+
+Title   : Technical charts favour Blue Star: Positive momentum building, says Kkunal Parar 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T01:30:00
+Fetched : 2025-10-15T03:28:46.534897
+URL     : https://economictimes.indiatimes.com/markets/stocks/technical-charts-favour-blue-star-positive-momentum-building-says-kkunal-parar/videoshow/124547387.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Technical charts favour Blue Star: Positive momentum building, says Kkunal Parar
+Technical charts favour Blue Star: Positive momentum building, says Kkunal Parar
+“Blue Start stock has recently broken out of the neckline of a Cup and Handle formation, suggesting the potential for a strong upward move. Traders can buy for a target of Rs 2030 in the next few weeks,” Kkunal V. Parar, Vice-President of Technical Research and Algo, Choice Broking, said.
+Show moreRead more on
+- 02:02
+- 02:13
+- 03:01
+- 04:01
+- 03:07
+- 02:31
+- 02:33
+- 02:49
+- 03:28
+- 02:36
+- 01:26
+- 02:08
+- 01:45
+- 02:06
+- 01:24
+- 02:53
+- 02:01
+- 02:14
+- 02:05
+- 02:12
+- 01:40
+- 03:14
+- 02:02
+- 03:57
+- 01:42
+- 02:32
+- 02:32
+- 01:35
+- 01:58
+- 02:09
+- 01:30
+- 02:35
+- 01:46
+- 08:46
+- 02:50
+- 03:17
+- 01:48
+- 01:34
+- 01:59
+- 02:18
+
+Full Article Fetch Test - PARIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PARSVNATH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PARTH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PERFECT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PFOCUS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PHANTOMFX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PIGL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PKTEA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PLADAINFO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PPSL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRAENG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRAMARA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRECISION
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRECOT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PREMIER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PRIZOR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PROLIFE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PURPLEUTED
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PURVFLEXI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - PVP
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - QFIL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - QUADPRO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - QUINTEGRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - QVCEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RADAAN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAJOOENG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAJTV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAJVIR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAMAPHO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RAMCOSYS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RBMINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RCOM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - READYMIX
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - REFRACTORY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - REGENCERAM
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RELIABLE
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RELINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RELTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - REXPIPES
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RHFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RICHA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RISHABH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ROLLT
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ROLTA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - ROML
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RUCHINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - RVTH
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - S&SPOWER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SAAKSHI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SABAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SABEVENTS
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SABTNL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SADBHAV
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SADBHIN
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SAHAJ
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SAIFL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SAKAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SALSTEEL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SANCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SANGANI
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SAROJA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SATIPOLY
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SATKARTAR
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SATTVAENGG
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SCHNEIDER
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SECL
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SECMARK
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SEJALLTD
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SELMC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SEMAC
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SETCO
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SETUINFRA
+================================================================================
+
+(no fresh items in last 48h)
+
+Full Article Fetch Test - SEYAIND
+================================================================================
+
+(no fresh items in last 48h)
+

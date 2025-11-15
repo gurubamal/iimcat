@@ -1,0 +1,526 @@
+{
+  "execution_plan": {
+    "title": "ROG Strix 16 to Android Phone VR Movie Streaming Setup",
+    "overview": "Stream movies from ROG Strix 16 laptop to Android phone for VR goggle viewing in a virtual theater environment",
+    "total_estimated_time": "45-60 minutes",
+    "prerequisites": {
+      "devices": [
+        "ROG Strix 16 laptop (Windows OS)",
+        "Android phone with VR goggle compatibility",
+        "Phone-holder VR goggle (Google Cardboard-style)"
+      ],
+      "network": "Both devices on same WiFi network (5GHz recommended for best performance)",
+      "storage": "Movies stored on laptop hard drive"
+    },
+    "steps": [
+      {
+        "step_number": 1,
+        "title": "Prepare Laptop Environment",
+        "description": "Set up the ROG Strix 16 laptop for optimal streaming performance",
+        "estimated_time": "5-10 minutes",
+        "actions": [
+          {
+            "action": "Verify WiFi connection on laptop",
+            "details": "Ensure laptop is connected to 5GHz WiFi band if available for better streaming performance",
+            "command": "Check Network & Internet settings > WiFi properties"
+          },
+          {
+            "action": "Disable power saving mode",
+            "details": "Set power plan to 'High Performance' or 'Balanced' to prevent throttling during streaming",
+            "command": "Control Panel > Power Options > Select High Performance plan"
+          },
+          {
+            "action": "Organize movie files",
+            "details": "Ensure movies are in a known location and in compatible formats (MP4, MKV, AVI)",
+            "command": "Create/verify folder path for movies (e.g., C:\\Movies)"
+          },
+          {
+            "action": "Check firewall settings",
+            "details": "Ensure Windows Firewall allows local network connections",
+            "command": "Settings > Windows Security > Firewall & network protection"
+          }
+        ],
+        "validation_criteria": [
+          "Laptop connected to WiFi (preferably 5GHz)",
+          "Power plan set to prevent sleep during streaming",
+          "Movie files accessible and in supported formats",
+          "Firewall not blocking local network traffic"
+        ],
+        "dependencies": [],
+        "risks": [
+          {
+            "risk": "WiFi interference or weak signal",
+            "mitigation": "Move closer to router or use WiFi extender"
+          }
+        ]
+      },
+      {
+        "step_number": 2,
+        "title": "Install Streaming Software on Laptop",
+        "description": "Install and configure server software for screen/media streaming",
+        "estimated_time": "10-15 minutes",
+        "recommended_solutions": [
+          {
+            "option": "A",
+            "name": "Plex Media Server + Plex VR",
+            "pros": "Dedicated VR theater app, best quality, media organization",
+            "cons": "Requires account creation, larger download"
+          },
+          {
+            "option": "B",
+            "name": "VLC + Screen Mirroring (Miracast/DLNA)",
+            "pros": "Free, simple, lightweight",
+            "cons": "Basic VR experience, may need additional apps"
+          },
+          {
+            "option": "C",
+            "name": "Skybox VR + SMB/DLNA Server",
+            "pros": "Excellent VR video player, supports network streaming",
+            "cons": "Phone app is paid (free version limited)"
+          }
+        ],
+        "recommended_approach": "Option A (Plex) for best VR theater experience",
+        "actions": [
+          {
+            "action": "Download Plex Media Server",
+            "details": "Visit plex.tv/downloads and download Windows version",
+            "url": "https://www.plex.tv/media-server-downloads/"
+          },
+          {
+            "action": "Install Plex Media Server",
+            "details": "Run installer with default settings, create free Plex account if needed",
+            "command": "Run PlexMediaServer-installer.exe"
+          },
+          {
+            "action": "Configure Plex library",
+            "details": "Add movie folder as a library in Plex",
+            "steps": [
+              "Open Plex Web App (http://localhost:32400/web)",
+              "Click 'Add Library' > Movies",
+              "Browse to movie folder location",
+              "Click 'Add' to scan and organize movies"
+            ]
+          },
+          {
+            "action": "Enable remote access (optional)",
+            "details": "Allow access from phone on local network",
+            "command": "Plex Settings > Network > Enable 'Enable server support for insecure connections on localhost'"
+          }
+        ],
+        "validation_criteria": [
+          "Plex Media Server installed and running",
+          "Movie library added and scanned successfully",
+          "Can access Plex web interface at localhost:32400",
+          "Movies visible in Plex library"
+        ],
+        "dependencies": [
+          "Step 1 completed"
+        ],
+        "risks": [
+          {
+            "risk": "Port conflicts if other media servers installed",
+            "mitigation": "Close other media server applications or change Plex port"
+          }
+        ],
+        "rollback": "Uninstall Plex Media Server from Control Panel > Programs and Features"
+      },
+      {
+        "step_number": 3,
+        "title": "Set Up Android Phone",
+        "description": "Install VR apps and streaming client on Android phone",
+        "estimated_time": "10-15 minutes",
+        "actions": [
+          {
+            "action": "Check phone storage and battery",
+            "details": "Ensure at least 500MB free space and 50%+ battery (or charger available)",
+            "validation": "Settings > Storage & Battery"
+          },
+          {
+            "action": "Verify WiFi connection",
+            "details": "Connect phone to same WiFi network as laptop",
+            "command": "Settings > WiFi > Connect to same network"
+          },
+          {
+            "action": "Install Plex app",
+            "details": "Download official Plex app from Google Play Store",
+            "command": "Play Store > Search 'Plex' > Install"
+          },
+          {
+            "action": "Install Plex VR app (ALTERNATIVE)",
+            "details": "Install dedicated VR version for better theater experience",
+            "command": "Play Store > Search 'Plex VR' > Install",
+            "note": "Plex VR may not be available - use regular Plex app + VR video player as alternative"
+          },
+          {
+            "action": "Install VR video player (BACKUP OPTION)",
+            "details": "Install Skybox VR Player or VaR's VR Video Player as backup",
+            "options": [
+              "Skybox VR Player (recommended, has free version)",
+              "VaR's VR Video Player (free)",
+              "Cardboard Theater (free, simple)"
+            ],
+            "command": "Play Store > Search app name > Install"
+          },
+          {
+            "action": "Configure screen settings",
+            "details": "Disable auto-brightness and set brightness to comfortable level for VR",
+            "command": "Settings > Display > Brightness (50-70%), Disable adaptive brightness"
+          },
+          {
+            "action": "Enable Developer Options and USB Debugging (optional)",
+            "details": "For troubleshooting if needed",
+            "command": "Settings > About Phone > Tap Build Number 7 times"
+          }
+        ],
+        "validation_criteria": [
+          "Phone connected to same WiFi as laptop",
+          "Plex app installed and can sign in",
+          "VR video player app installed",
+          "Screen brightness set appropriately",
+          "Phone has sufficient battery/charging"
+        ],
+        "dependencies": [
+          "Step 2 completed (Plex server running)"
+        ],
+        "risks": [
+          {
+            "risk": "Phone overheating during extended VR use",
+            "mitigation": "Take breaks, ensure phone ventilation, reduce brightness"
+          },
+          {
+            "risk": "Apps not compatible with phone model",
+            "mitigation": "Try alternative VR apps from Play Store"
+          }
+        ]
+      },
+      {
+        "step_number": 4,
+        "title": "Connect Phone to Laptop Media Server",
+        "description": "Establish connection between Plex app and laptop server",
+        "estimated_time": "5-10 minutes",
+        "actions": [
+          {
+            "action": "Launch Plex app on phone",
+            "details": "Open Plex app and sign in with same account used on laptop",
+            "command": "Tap Plex app icon"
+          },
+          {
+            "action": "Locate laptop server",
+            "details": "Plex should auto-discover server on local network",
+            "steps": [
+              "Tap menu icon (≡) in Plex app",
+              "Look for server name under 'Servers'",
+              "Should show laptop's Plex server name"
+            ]
+          },
+          {
+            "action": "Manual server connection (if auto-discovery fails)",
+            "details": "Add server manually using laptop's IP address",
+            "steps": [
+              "Find laptop IP: Open Command Prompt > type 'ipconfig' > note IPv4 Address",
+              "In Plex app: Settings > Server > Manual Connection",
+              "Enter: http://[LAPTOP_IP]:32400",
+              "Example: http://192.168.1.100:32400"
+            ]
+          },
+          {
+            "action": "Browse movie library",
+            "details": "Verify movies are accessible from phone",
+            "validation": "Navigate to Movies library and see movie list"
+          },
+          {
+            "action": "Test playback (non-VR)",
+            "details": "Play a movie normally to verify streaming works",
+            "command": "Select a movie > Play"
+          }
+        ],
+        "validation_criteria": [
+          "Phone Plex app connected to laptop server",
+          "Movie library visible on phone",
+          "Test movie plays without buffering issues",
+          "Streaming quality is smooth (adjust if needed)"
+        ],
+        "dependencies": [
+          "Step 2 completed (server running)",
+          "Step 3 completed (apps installed)"
+        ],
+        "risks": [
+          {
+            "risk": "Server not discovered on network",
+            "mitigation": "Use manual IP connection method, check firewall settings"
+          },
+          {
+            "risk": "Poor streaming quality/buffering",
+            "mitigation": "Move closer to router, reduce video quality in Plex settings, use 5GHz WiFi"
+          }
+        ],
+        "rollback": "Disconnect from server in Plex app settings"
+      },
+      {
+        "step_number": 5,
+        "title": "Configure VR Viewing Mode",
+        "description": "Set up VR theater mode for movie watching",
+        "estimated_time": "10-15 minutes",
+        "actions": [
+          {
+            "action": "Launch VR video player",
+            "details": "Open Skybox VR or chosen VR app on phone",
+            "command": "Tap VR app icon"
+          },
+          {
+            "action": "Configure network streaming in VR app",
+            "details": "Add laptop as network source",
+            "steps_for_skybox": [
+              "In Skybox: Tap 'Network' tab",
+              "Tap '+' to add server",
+              "Select 'SMB' or 'DLNA'",
+              "Enter laptop IP and shared folder credentials",
+              "OR use Plex plugin if available"
+            ],
+            "steps_for_plex_native": [
+              "Use Plex app's VR mode if available",
+              "Some versions have built-in VR theater view",
+              "Look for VR icon or 360° video options"
+            ]
+          },
+          {
+            "action": "Alternative: Use screen mirroring to VR browser",
+            "details": "If direct VR playback not working, use web browser in VR",
+            "steps": [
+              "Install 'Firefox Reality' or 'Oculus Browser' equivalent for Cardboard",
+              "Open Plex web interface in VR browser: http://[LAPTOP_IP]:32400/web",
+              "Play movie in browser VR mode"
+            ]
+          },
+          {
+            "action": "Adjust VR display settings",
+            "details": "Configure theater size, screen distance, and environment",
+            "settings": [
+              "Screen size: Medium to Large",
+              "Viewing distance: Comfortable (adjust in app)",
+              "Theater environment: Choose preferred ambiance",
+              "Void mode or theater mode based on preference"
+            ]
+          },
+          {
+            "action": "Test VR viewing",
+            "details": "Play a short movie clip to verify VR theater works",
+            "validation": "Put phone in VR goggle and check comfort and visibility"
+          }
+        ],
+        "validation_criteria": [
+          "VR app can access movie files from laptop",
+          "Movies play in VR theater mode",
+          "Screen is centered and comfortable to view",
+          "No significant lag or stuttering",
+          "Audio and video are synchronized"
+        ],
+        "dependencies": [
+          "Step 4 completed (connection established)"
+        ],
+        "risks": [
+          {
+            "risk": "VR mode causes motion sickness",
+            "mitigation": "Start with short sessions, adjust screen distance, ensure smooth framerate"
+          },
+          {
+            "risk": "Phone doesn't fit properly in VR goggle",
+            "mitigation": "Adjust goggle straps, use phone without case if too thick"
+          }
+        ]
+      },
+      {
+        "step_number": 6,
+        "title": "Optimize and Test Full Experience",
+        "description": "Fine-tune settings for best VR movie watching experience",
+        "estimated_time": "5-10 minutes",
+        "actions": [
+          {
+            "action": "Optimize video quality settings",
+            "details": "Balance quality vs. performance based on WiFi speed",
+            "recommendations": [
+              "For strong WiFi: Original quality or 1080p",
+              "For moderate WiFi: 720p (recommended for most VR)",
+              "For weak WiFi: 480p",
+              "Adjust in Plex app: Settings > Quality > Maximum"
+            ]
+          },
+          {
+            "action": "Configure audio output",
+            "details": "Set up audio for VR experience",
+            "options": [
+              "Use phone's built-in speakers (basic)",
+              "Connect Bluetooth headphones (recommended)",
+              "Connect wired headphones to phone (best quality/no lag)"
+            ]
+          },
+          {
+            "action": "Test full movie session",
+            "details": "Watch 10-15 minutes to verify stable streaming",
+            "validation": [
+              "No buffering or stuttering",
+              "Battery drain is acceptable",
+              "Phone temperature stays reasonable",
+              "Comfortable viewing position maintained"
+            ]
+          },
+          {
+            "action": "Create comfort setup checklist",
+            "details": "Document optimal settings for future sessions",
+            "items_to_note": [
+              "Best video quality setting",
+              "Preferred VR app and theater configuration",
+              "Headphone/audio setup",
+              "Phone brightness level",
+              "Comfortable viewing duration before breaks"
+            ]
+          }
+        ],
+        "validation_criteria": [
+          "Complete 15+ minute test viewing without issues",
+          "Audio and video quality are satisfactory",
+          "Setup is reproducible for future sessions",
+          "No overheating or battery concerns"
+        ],
+        "dependencies": [
+          "All previous steps completed"
+        ],
+        "risks": [
+          {
+            "risk": "Extended VR use causes discomfort",
+            "mitigation": "Take 10-15 minute breaks every hour, adjust goggle fit"
+          }
+        ]
+      }
+    ],
+    "alternative_solutions": {
+      "wired_connection": {
+        "description": "Use USB-C to HDMI adapter + capture card (more complex, lower latency)",
+        "when_to_use": "If WiFi streaming is too laggy or unreliable",
+        "estimated_cost": "$30-50 for adapters"
+      },
+      "direct_file_transfer": {
+        "description": "Copy movie files directly to phone storage",
+        "when_to_use": "If streaming performance is poor and phone has sufficient storage",
+        "steps": [
+          "Connect phone to laptop via USB",
+          "Copy movie files to phone's Movies folder",
+          "Play locally using VR video player app"
+        ],
+        "pros": "No network dependency, best quality",
+        "cons": "Limited by phone storage, manual file management"
+      },
+      "cloud_streaming": {
+        "description": "Upload movies to cloud service and stream to phone",
+        "when_to_use": "For mobile VR viewing away from home",
+        "services": ["Google Drive", "OneDrive", "Plex Cloud"],
+        "cons": "Requires upload time, internet bandwidth, may have costs"
+      }
+    },
+    "troubleshooting_guide": {
+      "issue_1": {
+        "problem": "Phone cannot find laptop server",
+        "solutions": [
+          "Verify both devices on same WiFi network and subnet",
+          "Disable VPN on laptop or phone",
+          "Temporarily disable Windows Firewall to test",
+          "Use manual IP connection method",
+          "Restart Plex Media Server service",
+          "Check router settings for AP isolation (disable if enabled)"
+        ]
+      },
+      "issue_2": {
+        "problem": "Streaming is laggy or buffering frequently",
+        "solutions": [
+          "Move closer to WiFi router",
+          "Switch to 5GHz WiFi band",
+          "Lower video quality in Plex settings",
+          "Close other applications on laptop",
+          "Restart router",
+          "Check for background downloads/uploads",
+          "Use direct file transfer method instead"
+        ]
+      },
+      "issue_3": {
+        "problem": "Phone overheats in VR goggle",
+        "solutions": [
+          "Take regular breaks",
+          "Lower screen brightness",
+          "Close background apps on phone",
+          "Remove phone case for better ventilation",
+          "Use a VR goggle with better ventilation",
+          "Avoid charging phone while in VR use"
+        ]
+      },
+      "issue_4": {
+        "problem": "VR mode not available or not working",
+        "solutions": [
+          "Try alternative VR video player apps",
+          "Use web browser in VR mode",
+          "Check app permissions (storage, network)",
+          "Update VR apps to latest version",
+          "Verify phone supports VR features"
+        ]
+      },
+      "issue_5": {
+        "problem": "Audio out of sync with video",
+        "solutions": [
+          "Use wired headphones instead of Bluetooth",
+          "Adjust audio delay in VR app settings if available",
+          "Try different video player",
+          "Convert video file to different format",
+          "Reduce video quality to improve processing"
+        ]
+      }
+    },
+    "rollback_strategy": {
+      "description": "How to revert changes if setup doesn't work",
+      "steps": [
+        "Uninstall Plex Media Server from laptop: Control Panel > Programs > Uninstall",
+        "Uninstall VR apps from phone: Long-press app > Uninstall",
+        "Remove Plex account if created and not needed",
+        "Restore laptop power settings to previous state",
+        "Delete copied movie files from phone if using direct transfer method"
+      ],
+      "data_preservation": "No user data is modified, movies remain in original location"
+    },
+    "success_criteria": {
+      "primary": [
+        "Can browse and select movies from phone while connected to laptop server",
+        "Movies stream smoothly with minimal buffering",
+        "VR theater mode provides comfortable viewing experience",
+        "Setup can be repeated for future viewing sessions"
+      ],
+      "secondary": [
+        "Video quality is 720p or higher",
+        "Latency is under 2 seconds",
+        "Can watch full-length movie (90+ minutes) without issues",
+        "Phone battery lasts for movie duration or can charge during use"
+      ]
+    },
+    "post_setup_recommendations": [
+      "Create bookmark/shortcut for Plex web interface on laptop",
+      "Keep VR apps updated for bug fixes and improvements",
+      "Organize movies in Plex with proper metadata for easy browsing",
+      "Consider upgrading to Plex Pass for additional features (offline sync, etc.)",
+      "Experiment with different VR theater environments for variety",
+      "Invest in better VR headset if enjoying the experience (Google Daydream, Samsung Gear VR, etc.)"
+    ],
+    "estimated_costs": {
+      "free_option": {
+        "software": "$0 (Plex free tier, free VR apps)",
+        "total": "$0"
+      },
+      "recommended_option": {
+        "software": "$0-5 (Skybox VR Pro optional)",
+        "accessories": "$10-30 (better VR headset, Bluetooth headphones if needed)",
+        "total": "$10-35"
+      },
+      "premium_option": {
+        "software": "$5-40 (Plex Pass, Premium VR apps)",
+        "accessories": "$30-100 (high-quality VR headset, good headphones)",
+        "total": "$35-140"
+      }
+    }
+  }
+}

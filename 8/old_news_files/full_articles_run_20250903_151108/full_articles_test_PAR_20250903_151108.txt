@@ -1,0 +1,51 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-03): 141.50M INR
+
+Title   : Apple’s Lead AI Researcher for Robotics Heads to Meta as Part of Latest Exits
+Source  : www.livemint.com
+Published: 2025-09-02T19:24:31
+Fetched : 2025-09-03T15:57:57.652001
+URL     : https://www.livemint.com/companies/news/apples-lead-ai-researcher-for-robotics-heads-to-meta-as-part-of-latest-exits-11756841072168.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Apple Inc.’s lead artificial intelligence researcher for robotics has departed the company to join Meta Platforms Inc.’s competing effort, part of an exodus of AI talent from the iPhone maker.
+The employee, Jian Zhang, joined the Meta Robotics Studio, the social media company confirmed on Tuesday. Separately, three more AI researchers are leaving Apple’s in-house large language models team, adding to upheaval in that group, according to people with knowledge of the matter.
+The latest string of departures — all taking place over the last week — includes John Peebles, Nan Du and Zhao Meng, said the people, who asked not to be identified because the moves haven’t been announced.
+They were all part of an Apple Foundation Models team that has lost roughly 10 members, including its chief, in recent weeks. The group was central to the creation of the Apple Intelligence platform, launched last year as part of the company’s bid to catch up in AI.
+Apple is now discussing internally whether to rely more on outside technology, rather than just homegrown models, Bloomberg News has reported.
+Peebles and Du are heading to OpenAI, while Zhao is joining Anthropic PBC. Many of their colleagues previously defected to Meta, which has enticed workers with staggering pay increases. Ruoming Pang, who ran Apple’s models team, left for a multiyear, $200 million package.
+It hasn’t been entirely smooth sailing for Meta, though. Several of the recently hired AI researchers have already quit, according to Wired.
+Spokespeople for Apple and OpenAI declined to comment on the personnel changes. Anthropic didn’t immediately respond to a request for comment.
+Zhang, the robotics researcher, led a small team of academics focused on automation technology and the role of AI in such products. That team has already suffered some turnover, with one of Zhang’s reports, Mario Srouji, leaving to run AI products at Archer Aviation Inc. in April.
+The robotics research group is located within Apple’s artificial intelligence and machine learning division. It’s separate from the company’s robotics product development organization, which was moved to Apple’s hardware engineering department earlier this year.
+Robotics has become a critical piece of Apple’s future pipeline, with the company planning a slew of devices. That includes a tabletop machine with a moving screen, as well as a robotic arm for use in retail stores and manufacturing, Bloomberg has reported.
+Meta, meanwhile, is moving ahead with its own products. In addition to offering smart glasses and AI features, the company is investing heavily in an operating system and underlying hardware components for humanoid robots, Bloomberg reported in February.
+Zhang will be developing products at the Robotics Studio, which is part of Meta’s Reality Labs division.
+Apple’s AI staff departures are expected to continue, with several more employees actively interviewing for jobs at other companies, according to the people. The poor response to Apple Intelligence and the company’s potential shift toward using third-party models have contributed to worsening morale, they said.
+--With assistance from Shirin Ghaffary.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNewsApple’s Lead AI Researcher for Robotics Heads to Meta as Part of Latest Exits
+
+Title   : Blackstone buys $819 million trophy Paris office 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-03T10:26:01
+Fetched : 2025-09-03T15:57:57.652001
+URL     : https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/blackstone-buys-819-million-trophy-paris-office/articleshow/123675897.cms
+--------------------------------------------------------------------------------
+The private equity giant said it had agreed to buy the more than a century-old Centre d'Affaires building in Paris' Trocadero district from German investor Union Investments, which had previously bought it for 284 million euros in 2003.
+Reuters previously reported Blackstone bid for the asset, which also attracted interest from multiple bidders including U.S. property investor Hines.
+Global office prices tumbled after the COVID-19 pandemic, upended working patterns, and while return-to-office mandates have improved the picture, major office sales remain rare as investors scan for signs of improved activity.
+"This acquisition underscores our confidence in the European office market and belief that the right assets in prime locations ... continue to offer compelling opportunities," said James Seppala, head of real estate in Europe for Blackstone.
+The 41,000 square metre Paris building also contains 57 luxury apartments, catering and cafes. The transaction is expected to close in the fourth quarter of 2025.
+($1 = 0.8542 euros)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

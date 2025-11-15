@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+RELIANCE,RELIANCE INDUSTRIES LIMITED,40.4,30,2,Certainty 30% below threshold (40%),Reliance Chairman Mukesh Ambani donates  ₹15 crore to Guruvayur Devaswom for new,"Claude CLI bridge error: Claude CLI failed: Command '['claude', '--print', '--output-format', 'text', '--model', 'sonnet', '--system-prompt', 'You are"
+TRENT,TRENT LIMITED,36.6,30,1,Certainty 30% below threshold (40%),"Jefferies, other brokerage firms lower Trent target price up to Rs 4,300 amid gr","Claude CLI bridge error: Claude CLI failed: Command '['claude', '--print', '--output-format', 'text', '--model', 'sonnet', '--system-prompt', 'You are"

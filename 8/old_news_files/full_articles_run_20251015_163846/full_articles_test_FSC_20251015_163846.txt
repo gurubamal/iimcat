@@ -1,0 +1,20 @@
+Full Article Fetch Test - FSC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -6979065000.00
+
+Title   : Standard Chartered and BoI extend $215-million term loan to AI Fleet Services IFSC to finance 6 Boeing 777-300 ER aircraft
+Source  : www.thehindubusinessline.com
+Published: 2025-10-15T10:39:49
+Fetched : 2025-10-15T16:44:34.901167
+URL     : https://www.thehindubusinessline.com/money-and-banking/standard-chartered-and-boi-extend-215-million-term-loan-to-ai-fleet-services-ifcs-to-finance-6-boeing-777-300-er-aircraft/article70166653.ece
+--------------------------------------------------------------------------------
+Standard Chartered and Bank of India (BoI) on Wednesday announced a $215-million term loan facility to AI Fleet Services IFSC Ltd (AIFS) to finance six Boeing 777-300 ER aircraft, which it will lease to Air India..
+AIFS is a leasing subsidiary of Air-India, based in the Gujarat International Finance Tec-City (GIFT City).
+This landmark transaction is the first commercial aircraft finance transaction to be structured with a GIFT City borrower, positioning it as an emerging aviation finance centre, Standard Chartered and Bank of India (BoI) said in a joint statement.
+Sanjay Sharma, Chairman, AIFS & Chief Financial Officer, Air India said, “Air India has embarked on a five-year transformation journey, placing an order for 570 aircraft, and GIFT City will be important for financing these aircraft. With this commercial aircraft finance transaction via Standard Chartered and Bank of India, we are glad to see GIFT City maturing further and emerging as an aircraft leasing and financing option for airlines.”
+P.D. Singh, CEO, India and South Asia at Standard Chartered, said the term loan facility to AIFS will provide a fillip to growing the aviation finance segment in India
+The statement noted that Air-India is undergoing a fleet renewal and expansion programme to support its transformation into a world-class global airline. Air-India currently serves 55 domestic and 45 international destinations.
+Standard Chartered played a lead role as a structuring bank. Both BoI and Standard Chartered also jointly underwrote the transaction as Mandated Lead Arranger and Bookrunner.
+Published on October 15, 2025
+

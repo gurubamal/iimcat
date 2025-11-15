@@ -1,0 +1,123 @@
+{
+  "ticker": "ONGC",
+  "fetch_time": "2025-11-11T12:51:29.481200",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 1.25 Per Share",
+      "ex_date": "04-Sep-2025",
+      "ex_date_parsed": "2025-09-04T00:00:00",
+      "amount": 1.25
+    },
+    {
+      "description": "Interim Dividend - Rs 5 Per Share",
+      "ex_date": "07-Feb-2025",
+      "ex_date_parsed": "2025-02-07T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Interim Dividend - Rs 6 Per Share",
+      "ex_date": "19-Nov-2024",
+      "ex_date_parsed": "2024-11-19T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": "Dividend - Rs 2.50 Per Share",
+      "ex_date": "23-Aug-2024",
+      "ex_date_parsed": "2024-08-23T00:00:00",
+      "amount": 2.5
+    },
+    {
+      "description": "Interim Dividend - Rs 4 Per Share",
+      "ex_date": "16-Feb-2024",
+      "ex_date_parsed": "2024-02-16T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": "Interim Dividend - Rs 5.75 Per Share",
+      "ex_date": "21-Nov-2023",
+      "ex_date_parsed": "2023-11-21T00:00:00",
+      "amount": 5.75
+    },
+    {
+      "description": "Dividend - Re 0.50 Per Share",
+      "ex_date": "18-Aug-2023",
+      "ex_date_parsed": "2023-08-18T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Interim Dividend - Rs 4 Per Share",
+      "ex_date": "24-Feb-2023",
+      "ex_date_parsed": "2023-02-24T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": "Interim Dividend - Rs 6.75 Per Share",
+      "ex_date": "21-Nov-2022",
+      "ex_date_parsed": "2022-11-21T00:00:00",
+      "amount": 6.75
+    },
+    {
+      "description": "Dividend - Rs 3.25 Per Share",
+      "ex_date": "18-Aug-2022",
+      "ex_date_parsed": "2022-08-18T00:00:00",
+      "amount": 3.25
+    },
+    {
+      "description": "Interim Dividend - Rs 1.75 Per Share",
+      "ex_date": "21-Feb-2022",
+      "ex_date_parsed": "2022-02-21T00:00:00",
+      "amount": 1.75
+    },
+    {
+      "description": " Interim Dividend - Rs 5.50 Per Share",
+      "ex_date": "22-Nov-2021",
+      "ex_date_parsed": "2021-11-22T00:00:00",
+      "amount": 5.5
+    },
+    {
+      "description": " Dividend - Rs 1.85 Per Share",
+      "ex_date": "08-Sep-2021",
+      "ex_date_parsed": "2021-09-08T00:00:00",
+      "amount": 1.85
+    },
+    {
+      "description": " Interim Dividend - Rs 1.75 Per Share",
+      "ex_date": "17-Feb-2021",
+      "ex_date_parsed": "2021-02-17T00:00:00",
+      "amount": 1.75
+    },
+    {
+      "description": " Interim Dividend - Rs 5 Per Share",
+      "ex_date": "23-Mar-2020",
+      "ex_date_parsed": "2020-03-23T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 0.75 Per Share",
+      "ex_date": "22-Aug-2019",
+      "ex_date_parsed": "2019-08-22T00:00:00",
+      "amount": 0.75
+    },
+    {
+      "description": " Interim Dividend - Re 1 Per Sh",
+      "ex_date": "26-Mar-2019",
+      "ex_date_parsed": "2019-03-26T00:00:00",
+      "amount": null
+    },
+    {
+      "description": " Interim Dividend - Rs 5.25 Per Sh",
+      "ex_date": "28-Feb-2019",
+      "ex_date_parsed": "2019-02-28T00:00:00",
+      "amount": 5.25
+    },
+    {
+      "description": " Dividend Rs 1.35 Per Share",
+      "ex_date": "19-Sep-2018",
+      "ex_date_parsed": "2018-09-19T00:00:00",
+      "amount": 1.35
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

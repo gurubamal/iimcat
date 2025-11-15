@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+BETA,BETA DRUGS LIMITED,38.7,25,1,Certainty 25% below threshold (40%),"High beta stocks hit higher peaks and deeper troughs. Laurus Labs, Paytm shine w","The article analyzes high-beta stocks broadly (Laurus Labs, Paytm, Trent, IRFC) but contains NO specific information about BETA itself. While BETA fal"
+NUVAMA,NUVAMA WEALTH MANAGEMENT LIMITED,36.8,25,1,Certainty 25% below threshold (40%),CDSL shares in focus after Nuvama raises target price despite weak Q2 show ,"This article discusses NUVAMA raising CDSL's target price to ₹1,840, but provides NO direct business catalyst for NUVAMA stock itself. The news is abo"

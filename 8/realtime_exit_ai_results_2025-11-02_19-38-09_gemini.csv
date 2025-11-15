@@ -1,0 +1,26 @@
+rank,ticker,company_name,exit_urgency_score,sentiment,exit_recommendation,exit_catalysts,hold_reasons,risks_of_holding,certainty,articles_analyzed,technical_score,headline,reasoning,stop,trail,alert
+1,KEC,KEC,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 801.91 (swing_low - 1.0*ATR),23.76 (1.5×ATR),20DMA
+2,PETRONET,PETRONET,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 271.01 (swing_low - 1.0*ATR),6.88 (1.5×ATR),20DMA
+3,DEEPAKNTR,DEEPAKNTR,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 1703.29 (swing_low - 1.0*ATR),37.67 (1.5×ATR),20DMA
+4,AURIGROW,AURIGROW,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,,0.03 (1.5×ATR),
+5,SAGILITY,SAGILITY,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 41.17 (swing_low - 1.0*ATR),3.40 (1.5×ATR),20DMA
+6,CIPLA,CIPLA,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 1458.95 (swing_low - 1.0*ATR),53.48 (1.5×ATR),20DMA
+7,UPL,UPL,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 655.90 (swing_low - 1.0*ATR),21.07 (1.5×ATR),20DMA
+8,BANARBEADS,BANARBEADS,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 131.98 (swing_low - 1.0*ATR),12.48 (1.5×ATR),20DMA
+9,ALPA,ALPA,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 84.45 (swing_low - 1.0*ATR),3.48 (1.5×ATR),20DMA
+10,DBCORP,DBCORP,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 227.37 (swing_low - 1.0*ATR),18.05 (1.5×ATR),20DMA
+11,BFUTILITIE,BFUTILITIE,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 707.76 (swing_low - 1.0*ATR),34.79 (1.5×ATR),20DMA
+12,VIKRAMAR,VIKRAMAR,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 73.13 (swing_low - 1.0*ATR),7.61 (1.5×ATR),20DMA
+13,BHEL,BHEL,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 224.73 (swing_low - 1.0*ATR),9.32 (1.5×ATR),20DMA
+14,CAPACITE,CAPACITE,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 263.61 (swing_low - 1.0*ATR),11.09 (1.5×ATR),20DMA
+15,CROMPTON,CROMPTON,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 274.38 (swing_low - 1.0*ATR),8.58 (1.5×ATR),20DMA
+16,DATAPATTNS,DATAPATTNS,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 2621.56 (swing_low - 1.0*ATR),113.46 (1.5×ATR),20DMA
+17,EASEMYTRIP,EASEMYTRIP,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 7.70 (swing_low - 1.0*ATR),0.23 (1.5×ATR),20DMA
+18,GATECHDVR,GATECHDVR,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 0.48 (swing_low - 1.0*ATR),0.04 (1.5×ATR),20DMA
+19,HUDCO,HUDCO,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 219.09 (swing_low - 1.0*ATR),8.20 (1.5×ATR),20DMA
+20,IDBI,IDBI,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 87.77 (swing_low - 1.0*ATR),5.22 (1.5×ATR),20DMA
+21,MGL,MGL,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 1249.11 (swing_low - 1.0*ATR),33.89 (1.5×ATR),20DMA
+22,NBCC,NBCC,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 106.85 (swing_low - 1.0*ATR),4.48 (1.5×ATR),20DMA
+23,RBLBANK,RBLBANK,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 262.74 (swing_low - 1.0*ATR),16.21 (1.5×ATR),20DMA
+24,GLENMARK,GLENMARK,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 1771.01 (swing_low - 1.0*ATR),62.53 (1.5×ATR),20DMA
+25,INDINFO,INDINFO,13.0,neutral,HOLD,,,,50.0,1,0,Technical-only assessment (no recent news),,close< 0.69 (swing_low - 1.0*ATR),0.06 (1.5×ATR),20DMA

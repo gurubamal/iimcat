@@ -1,0 +1,11 @@
+{
+  "name_factor_missing": 0.7,
+  "ticker_penalty": {
+    "RETAIL": -0.05,
+    "HINDALCO": -0.05,
+    "APOLLO": -0.05,
+    "WEL": -0.05,
+    "BEL": -0.05,
+    "EXCEL": -0.05
+  }
+}

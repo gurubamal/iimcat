@@ -1,0 +1,7 @@
+Full Article Fetch Test - GNA
+================================================================================
+
+(skipped: outside allowed sources) Title: {{CorpannData.Table[0].SLONGNAME }}
+URL     : https://www.bseindia.com/corporates/{{CorpannData.Table[0].NSURL}}
+
+No full-length articles saved (all items too short or blocked).

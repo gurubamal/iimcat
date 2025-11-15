@@ -1,0 +1,71 @@
+🎯 TOP 25 MIT (MOST INTELLIGENT TRADES) STOCKS
+===============================================
+Generated: October 10, 2025
+Intelligence Level: MAXIMUM
+Data Source: AI Learning Database
+
+RANKING (Based on AI Score, Reliability & Historical Performance):
+
+1.  RELIANCE (1.020) - 6 mentions | Blue-chip conglomerate, retail IPO plans
+2.  ITC (1.000) - 23 mentions | FMCG leader, Nepal expansion
+3.  RAYMOND (0.860) - 7 mentions | M&A activity, real estate growth
+4.  GAIL (0.765) - 7 mentions | City gas IPO plans, energy sector
+5.  GLOBAL (0.669) - 11 mentions | Healthcare, ₹550 Cr deal activity
+6.  SWIGGY (0.628) - 5 mentions | Food delivery, $500M fundraise
+7.  SUPREME (0.601) - 5 mentions | Housing platform, ₹1000 Cr project
+8.  ACC (0.538) - 10 mentions | Cement sector play
+9.  TCS (0.524) - 12 mentions | IT services leader
+10. IT (0.510) - 7 mentions | Contract activity
+11. STAR (0.473) - 9 mentions | General positive coverage
+12. UPL (0.469) - 7 mentions | Agrochemicals
+13. GRASIM (0.468) - 7 mentions | Diversified conglomerate
+14. WIPRO (0.468) - 15 mentions | IT services
+15. GLENMARK (0.461) - 2 mentions | Pharma, contract activity
+16. BIL (0.431) - 9 mentions | Consistent coverage
+17. SUMIT (0.386) - 7 mentions | Order/contract focus
+18. TI (0.362) - 7 mentions | Industrial sector
+19. COROMANDEL (0.332) - 2 mentions | Fertilizers
+20. BSE (0.330) - 7 mentions | Stock exchange
+21. CIPLA (0.319) - 7 mentions | Pharma leader
+22. MARUTI (0.319) - 7 mentions | Auto sector leader
+23. TRU (0.319) - 7 mentions | Consistent mentions
+24. POLYCAB (0.301) - 4 mentions | Cables, order activity
+25. PAR (0.298) - 9 mentions | Regular coverage
+
+KEY INSIGHTS:
+-------------
+• All stocks have neutral/positive reliability (0.00 score)
+• No black-listed stocks included (avoided RETAIL, HINDALCO, APOLLO, WEL, BEL)
+• Focus on stocks with multiple mentions and news catalysts
+• Mix of large-caps (RELIANCE, ITC, TCS) and growth plays
+• Event-driven opportunities: IPOs, M&A, large orders
+
+INVESTMENT STRATEGY:
+-------------------
+1. High Confidence: RELIANCE, ITC, RAYMOND, GAIL, GLOBAL (Top 5)
+2. Growth Plays: SWIGGY, SUPREME (New economy/Real estate)
+3. Defensive: TCS, WIPRO, CIPLA (IT & Pharma stability)
+4. Value: ACC, GRASIM, UPL (Traditional sectors with catalysts)
+5. Speculative: Stocks with 2-4 mentions (higher risk, monitor closely)
+
+RISK WARNINGS:
+--------------
+⚠️  All stocks are untested in current learning database (0 successes/failures)
+⚠️  Verify current market conditions and technicals before trading
+⚠️  Use proper position sizing and stop-losses
+⚠️  Monitor news flow for updates on listed catalysts
+⚠️  Past coverage does not guarantee future performance
+
+NEXT STEPS:
+-----------
+1. Run technical analysis on shortlisted stocks
+2. Check current market sentiment and trend
+3. Verify news catalysts are still active
+4. Set entry/exit points based on your risk tolerance
+5. Monitor learning database for success/failure updates
+
+📊 System Status: Intelligence Learning Active
+🧠 Auto-blacklist: Enabled (5 stocks filtered)
+📈 Performance Tracking: Continuous
+🎯 Confidence Level: MODERATE (untested positions)
+

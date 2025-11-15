@@ -1,0 +1,51 @@
+{
+  "ticker": "HUBTOWN",
+  "fetch_time": "2025-11-13T22:40:05.576957",
+  "dividends": [
+    {
+      "description": "Annual General Meeting/Dividend Re 1/- Per Share",
+      "ex_date": "17-Sep-2014",
+      "ex_date_parsed": "2014-09-17T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend Re 1/- Per Share",
+      "ex_date": "19-Sep-2013",
+      "ex_date_parsed": "2013-09-19T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend Re 1 Per Share",
+      "ex_date": "12-Sep-2012",
+      "ex_date_parsed": "2012-09-12T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.2.50 Per Share",
+      "ex_date": "28-Jul-2011",
+      "ex_date_parsed": "2011-07-28T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.5/- Per Share",
+      "ex_date": "16-Sep-2010",
+      "ex_date_parsed": "2010-09-16T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend - 7%",
+      "ex_date": "13-Aug-2008",
+      "ex_date_parsed": "2008-08-13T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend-15%",
+      "ex_date": "27-Aug-2007",
+      "ex_date_parsed": "2007-08-27T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

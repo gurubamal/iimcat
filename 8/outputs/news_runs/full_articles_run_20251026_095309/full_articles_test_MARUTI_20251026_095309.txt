@@ -1,0 +1,24 @@
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-26): 37.92B
+
+Title   : Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment
+Source  : www.thehindubusinessline.com
+Published: 2025-10-26T04:48:02
+Fetched : 2025-10-26T09:54:17.149036
+URL     : https://www.thehindubusinessline.com/news/passenger-vehicle-exports-rise-18-in-apr-sep-maruti-suzuki-leads-segment/article70204178.ece
+--------------------------------------------------------------------------------
+Passenger vehicle exports from India rose by 18 per cent year-on-year in the April-September period with Maruti Suzuki leading the segment with shipment of over 2 lakh units, according to the SIAM data.
+Total passenger vehicle exports in the first half of the current fiscal year rose to 4,45,884 units as compared with 3,76,679 units in the year-ago period, an increase of 18.4 per cent.
+Passenger car shipments rose to 2,29,281 units in the period under review, an increase of 12 per cent as against 2,05,091 units in the April-September period of 2024-25.
+Similarly, utility vehicle exports to overseas markets rose 26 per cent year on year to 2,11,373 units in the April-September period of the current fiscal.
+Van shipments rose 36.5 per cent year on year to 5,230 units in the first half of the current financial year.
+Maruti Suzuki’s exports rose to 2,05,763 units in the period under review, an increase of 40 per cent as compared with 1,47,063 units in the same period a year ago. Hyundai Motor India shipped 99,540 units in the April-September period, up 17 per cent from 84,900 units in the year-ago period.
+Nissan Motor India exported 37,605 units in the period under review as against 33,059 units in the year-ago period.
+It was followed by Volkswagen India with shipment of 28,011 units; Toyota Kirloskar Motor with 18,880 units; Kia India with 13,666 units and Honda Cars India with 13,243 units.
+The Society of Indian Automobile Manufacturers (SIAM) has attributed the growth in passenger vehicle exports to stable demand across global markets, particularly robust performance in the Middle East and Latin America.
+Reflecting a clear trend of market diversification, Indian exporters have registered a positive growth in 24 countries during the first half of the current fiscal year, even as shipments to the US declined due to high tariffs in September.
+These 24 countries include Korea, UAE, Germany, Togo, Egypt, Vietnam, Iraq, Mexico, Russia, Kenya, Nigeria, Canada, Poland, Sri Lanka, Oman, Thailand, Bangladesh, Brazil, Belgium, Italy and Tanzania.
+Published on October 26, 2025
+

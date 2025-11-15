@@ -1,0 +1,21 @@
+Full Article Fetch Test - SBC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 34.68M
+
+Title   : Canara HSBC Life Insurance IPO oversubscribed on closing day; QIBs lead demand
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T07:01:36
+Fetched : 2025-10-14T14:33:20.104094
+URL     : https://www.thehindubusinessline.com/markets/canara-hsbc-life-insurance-ipo-subscribed-31-so-far-on-closing-day/article70161614.ece
+--------------------------------------------------------------------------------
+Canara HSBC Life Insurance Company’s initial public offering (IPO) garnered strong interest on the last day of bidding, fetching 2.29 times overall subscription so far.
+By 5.12 pm, qualified institutional buyers led the demand with 7.05 times subscription, while non-institutional investors (NIIs) and retail investors bid 0.33 times and 0.42 times, respectively.
+The IPO received bids for 38.21 crore equity shares against 16.67 crore shares of offer.
+The ₹2,517-crore IPO, which opened on October 10 and concludes today, is entirely an offer for sale (OFS) of 23.75 crore equity shares and carries a price band of ₹100 to ₹106 per share. The minimum application lot is 140 shares.
+Ahead of the IPO, the company mobilised little over ₹750 crore from anchor investors by allotting 7.08 crore shares to 33 funds, including ICICI Prudential Mutual Fund (MF), HDFC MF, DSP MF, WhiteOak Capital, Mirae Asset MF, Allianz Global Investors Fund and Amundi Funds.
+Selling shareholders include Canara Bank, HSBC Insurance (Asia-Pacific) and Punjab National Bank.
+Investor sentiment appears cautious. While analysts generally view the company’s fundamentals and promoter backing favourably, the weak demand at this stage signals investors are taking a wait-and-watch approach.
+The allotment will happen on October 15, 2025, and the listing will likely happen on October 16.
+Published on October 14, 2025
+

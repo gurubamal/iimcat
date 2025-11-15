@@ -1,0 +1,33 @@
+Full Article Fetch Test - WEL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Well-distributed monsoon so far across time and space: Swadhin Behera 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-10T03:30:00
+Fetched : 2025-09-10T04:27:56.801283
+URL     : https://www.thehindubusinessline.com/economy/agri-business/well-distributed-monsoon-so-far-across-time-and-space-swadhin-behera/article70023673.ece
+--------------------------------------------------------------------------------
+The monsoon this year in India has been particularly well-distributed than usual, both in time and space, says Dr Swadhin Behera, Director, Application Research Laboratory, at the Japan Agency for Marine-Earth Science and Technology (Jamstec), and a visiting professor at The University of Tokyo.
+Rainfall covered most parts of the country with relatively few and shorter break periods, ensuring a more sustained supply of moisture, Behera remarked in an email interview with businessline. The only notable exception, as in recent past few years, has been the north-eastern region, that received comparatively less rainfall.
+Dr Behera is currently a Union Fellow of the American Geophysical Union and has been recently awarded the VAIBHAV Fellowship by the Department of Science and Technology, Government of India. Excerpts:
+What does the future hold in terms of monsoonal rainfall for India?
+Projections by the Sixth Coupled Inter-comparison Project (CMIP6) of the World Climate Research Programer suggest that future monsoons may actually bring more rainfall and greater variability to North-East India and the Himalayan foothills. What seems more likely is a future of erratic rainfall with fewer rainy days but more intense downpours, rather than a permanent drying trend over North-East India, for instance.
+What do you think has been driving the surplus rainfall this year for country as a whole, even without a full-fledged La Niña?
+Although a mature La Niña did not develop, the background state resembled a developing La Niña or La Niña Modoki, with warmer-than-normal conditions over the western Pacific. Associated large-scale circulation anomalies were generally favorable for enhanced monsoon rainfall over India.
+At the same time, the Indian Ocean exhibited a negative IOD–like state that typically supports above-normal rainfall over North-West India, consistent with what we have observed this year. A persistent local cyclonic circulation over the region further amplified the rainfall in that region.
+Another contributing factor could be the below-normal snow cover over Eurasia and the broader Northern Hemisphere in early 2025, which likely strengthened the monsoon circulation and helped sustain record rainfall, especially across northern India.
+Finally, the warmer Bay of Bengal - particularly the head Bay region - could have favored the genesis of multiple monsoon low-pressure areas, which acted as efficient rain-bearing systems and transported moisture deep into the Indian subcontinent.
+Do you visualise a situation in which rains could spill even into October, as in 2019?
+Yes. The emerging La Niña/La Niña Modoki–like conditions in the Pacific, combined with the development of a negative IOD–like state in the Indian Ocean, are expected to persist into the coming months. This configuration tends to prolong monsoon activity and could indeed allow rainfall to spill into October, much like what we observed in 2019.
+Why has North-West India been battered by record rainfall excess?
+The negative IOD–like state in the Indian Ocean, combined with a persistent cyclonic circulation over the region, created favorable conditions for enhanced moisture transport and convergence. On top of this background, sub-seasonal drivers such as the MJO wave and Monsoon Intra-seasonal Oscillations were active during late August and early September.
+Further, land-use changes - especially the expansion of irrigation - have modified local land–atmosphere feedback in recent decades. By enhancing evapotranspiration and surface moisture availability, irrigation can strengthen convection and monsoon rainfall, adding another layer of support for the record-breaking rainfall excess in the region.
+Is it now a given that parts of East and North-East would remain perpetually rain-deficient for years to come?
+Not necessarily. While the North-East has seen persistent rainfall deficits in recent decades, with below-average monsoon rains in most years since 2001, this does not mean the region will stay perpetually dry. The decline has been linked to shifts in large-scale circulation patterns under global warming, as well as regional drivers like the Pacific Decadal Oscillation.
+How should we prepare ourselves for a persisting deficit in the North-East even as parts of West and North-West are witnessing normal to above-normal rainfall?
+The region’s (North-East India) high mean rainfall is a positive point and could deter the persistent deficits seen in anomalies. But building resilience is essential as rainfall patterns shift. Scaling up rainwater harvesting, spring rejuvenation, and catchment conservation, combined with climate-resilient agriculture and diversified livelihoods, can buffer communities against variability.
+The key is to adapt dynamically as rainfall changes in the future, using both traditional wisdom and modern policy support to ensure long-term water and food security.
+Published on September 10, 2025
+

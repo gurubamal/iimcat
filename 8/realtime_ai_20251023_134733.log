@@ -1,0 +1,60 @@
+2025-10-23 13:47:33,291 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 13:47:33,291 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 13:47:33,291 - INFO - 🚀 Starting real-time collection + analysis for 5 tickers
+2025-10-23 13:47:33,291 - INFO -    Time window: 24 hours
+2025-10-23 13:47:33,291 - INFO -    Max articles per ticker: 10
+2025-10-23 13:47:33,291 - INFO - 
+[1/5] Processing 20MICRONS...
+2025-10-23 13:47:33,291 - INFO - 📰 Fetching news for 20MICRONS (last 24h)
+2025-10-23 13:47:33,291 - ERROR - ❌ Error fetching articles for 20MICRONS: module 'enhanced_india_finance_collector' has no attribute 'collect_for_ticker'
+2025-10-23 13:47:33,291 - INFO - 
+[2/5] Processing 21STCENMGM...
+2025-10-23 13:47:33,291 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 13:47:33,291 - ERROR - ❌ Error fetching articles for 21STCENMGM: module 'enhanced_india_finance_collector' has no attribute 'collect_for_ticker'
+2025-10-23 13:47:33,291 - INFO - 
+[3/5] Processing 360ONE...
+2025-10-23 13:47:33,291 - INFO - 📰 Fetching news for 360ONE (last 24h)
+2025-10-23 13:47:33,291 - ERROR - ❌ Error fetching articles for 360ONE: module 'enhanced_india_finance_collector' has no attribute 'collect_for_ticker'
+2025-10-23 13:47:33,291 - INFO - 
+[4/5] Processing 3IINFOLTD...
+2025-10-23 13:47:33,291 - INFO - 📰 Fetching news for 3IINFOLTD (last 24h)
+2025-10-23 13:47:33,291 - ERROR - ❌ Error fetching articles for 3IINFOLTD: module 'enhanced_india_finance_collector' has no attribute 'collect_for_ticker'
+2025-10-23 13:47:33,291 - INFO - 
+[5/5] Processing 3MINDIA...
+2025-10-23 13:47:33,291 - INFO - 📰 Fetching news for 3MINDIA (last 24h)
+2025-10-23 13:47:33,293 - ERROR - ❌ Error fetching articles for 3MINDIA: module 'enhanced_india_finance_collector' has no attribute 'collect_for_ticker'
+2025-10-23 13:47:33,293 - INFO - 
+✅ Collection complete!
+2025-10-23 13:47:33,293 - INFO -    Total articles: 0
+2025-10-23 13:47:33,293 - INFO -    Successfully analyzed: 0
+2025-10-23 13:47:33,293 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_134733.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 0
+   Results saved: realtime_ai_analysis_20251023_134733.csv

@@ -1,0 +1,18 @@
+Full Article Fetch Test - SAMHI
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-05): 1.00B INR
+
+Title   : Broker’s call: Samhi Hotels (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-09-04T12:40:32
+Fetched : 2025-09-05T03:34:35.926427
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-samhi-hotels-buy/article70011976.ece
+--------------------------------------------------------------------------------
+Target: ₹305
+CMP: ₹217.60
+We initiate coverage on Samhi Hotels with a Buy rating and expect it to be the key beneficiary of industry upcycle. We believe Samhi has promising growth prospects based on following factors: Presence in key metro markets with incremental capacity addition; proven track record of asset turnaround; GIC Investment opens up more avenues for growth in upscale and above segment; Large investible surplus to be generated via robust FCF, which will accelerate growth; Strong re-rating potential due to significant valuation discount to peers.
+Samhi currently trades at FY26/FY27/FY28E EV/EBITDA of about 12x/10x/8x. Company has traded at a sharp discount to peers over past few years, owing to myriad of factors such as higher debt, pending turnaround of key assets etc. However, company has taken right steps over past 2 years, with net debt reduction, turnaround of many of its key assets, keys addition in right locations and robust future pipeline.
+Hence, we believe company has promising growth prospects and pencil in Revenue/EBITDA/PAT CAGR of 14/19/57 per cent over FY25-28, supported by robust ADR growth at around 10 per cent CAGR and +160 bps occupancy expansion. We value Samhi hotels at Jun’27 EV/EBITDA multiple of 15x and arrive at TP of ₹305. Initiate coverage with Buy.
+Published on September 4, 2025
+

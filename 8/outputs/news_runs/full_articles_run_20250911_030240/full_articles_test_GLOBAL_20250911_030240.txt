@@ -1,0 +1,30 @@
+Full Article Fetch Test - GLOBAL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-11
+
+Title   : CVC Capital to exit Healthcare Global via  ₹550 crore block deal
+Source  : www.livemint.com
+Published: 2025-09-10T09:43:49
+Fetched : 2025-09-11T03:33:54.583281
+URL     : https://www.livemint.com/companies/news/cvc-capital-to-exit-healthcare-global-via-rs-550-crore-block-deal-11757496240367.html
+--------------------------------------------------------------------------------
+CVC Capital to exit Healthcare Global via ₹550 crore block deal
+CVC initially acquired a 31% stake in HCG in 2020 for ₹1,049 crore, followed by an open offer for an additional 26%.
+MUMBAI : MUMBAI: Nine months after selling a controlling stake in cancer care hospital chain Healthcare Global (HCG) to private equity giant Kohlberg Kravis Roberts (KKR), CVC Capital is planning to exit its remaining stake via a block deal, three people familiar with the development said. The so-called clean-up trade will allow CVC to fully exit the company, they said.
+Ambit Capital is acting as the sole advisor for the transaction, these people added.
+In February, CVC sold its 54% stake in HCG to KKR for $400 million, or ₹445 a share. On Wednesday, HCG shares traded at ₹694.50 apiece on the National Stock Exchange, giving the company a total market capitalization of ₹9,682.4 crore.
+“It is a ₹550 crore block deal with marquee investors buying out the stake," one of the persons cited above said on conditions of anonymity as the talks are private.
+The block deal, likely to be launched after market hours on Wednesday, 10 September, is expected to close on 11 September.
+CVC initially acquired a 31% stake in HCG in 2020 for ₹1,049 crore, followed by an open offer for an additional 26%. Exchange filings show that promoters BS Ajaikumar and family held roughly 11% of the company as of June.
+Emails sent to CVC, HCG, and Ambit remained unanswered at the time of publishing.
+In a February newsbreak, Mint reported that CVC, which earlier held a 60% stake in the entity, will initially sell 51% to KKR and retain the balance stake. Founder Ajaikumar will retain 10%. Once the transaction is completed, KKR is expected to hold an equity stake of between 54% and 77%.
+Founded in 1989, HCG is one of India’s largest oncology hospital chains, operating 25 medical care centres across 19 cities. Its facilities include 2,500 beds, nearly 100 operating theatres, and 40 linear accelerator machines.
+Indian hospital chains have become investor favourites in recent years, drawing a steady stream of mergers, acquisitions (M&A) and private equity (PE) deals. Over the past 10 quarters, hospitals have consistently ranked as institutional favourites, according to Grant Thornton Bharat’s Q2 2025 pharma and healthcare deals tracker.
+In July, Temasek-backed Manipal Hospitals acquired Pune-based Sahyadri Hospitals from Ontario Teacher’s Pension Plan for around ₹6,000 crore. In December, Aster DM Healthcare merged with Blackstone-backed Quality Care India Ltd.
+In July 2024, KKR acquired a controlling stake in Kerala based Baby Memorial Hospital for an estimated ₹2000 crore.
+Overall, India’s healthcare and pharma sector saw 594 M&A and PE deals worth more than $30 billion between 2022 and 2024, with hospitals accounting for nearly 40% of the total, according to a report by Grant Thornton Bharat and the Association of Healthcare Providers of India.
+
+(skipped: outside allowed sources) Title: Launch of Securities Market Hackathon at Global Fintech Fest 2025 (GFF ’25)
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/launch-of-securities-market-hackathon-at-global-fintech-fest-2025-gff-25-_95410.html
+

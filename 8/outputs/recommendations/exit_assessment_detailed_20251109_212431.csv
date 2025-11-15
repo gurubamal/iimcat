@@ -1,0 +1,2 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+RELIANCE,HOLD,HOLD,43,75,8,NONE,45,50,20,0,45,Low volume on downtrend (weak support),"HOLD: Low volume on downtrend (weak support), proposed stop close< 1351.29 (swing_low - 1.0*ATR), trail 34.51 (1.5×ATR)"

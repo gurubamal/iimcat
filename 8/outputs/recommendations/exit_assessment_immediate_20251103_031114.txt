@@ -1,0 +1,6 @@
+# IMMEDIATE EXIT RECOMMENDATIONS
+# Generated: 2025-11-03 03:11:14
+# Total stocks requiring immediate exit: 2
+
+VIKRAMAR
+INDINFO

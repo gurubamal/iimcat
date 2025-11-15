@@ -1,0 +1,287 @@
+{
+  "workflow_id": "2b5b91c4",
+  "state": "COMPLETE",
+  "plan": {
+    "task_summary": "Patch run_without_api.sh to align output filenames and provider messaging with RUN_WITHOUT_API.md, including syntax validation and comprehensive verification.",
+    "approach": "Read RUN_WITHOUT_API.md and run_without_api.sh, count all occurrences of 'realtime_ai_rankings.csv', decide exact wording for output message (with timestamped CSV explanation), apply decision criteria for provider accuracy ranges (prefer docs phrasing when script uses point estimate), apply Edit tool calls with automatic retry on failure, validate bash syntax, and provide before/after summary. Ignore swing_screener_extraction_guide.md per user instruction.",
+    "assumptions": [
+      "RUN_WITHOUT_API.md is the single source of truth for correct behavior",
+      "swing_screener_extraction_guide.md is unrelated and will be ignored (no validation needed)",
+      "The analyzer writes 'realtime_ai_results.csv' as the convenience copy (not 'realtime_ai_rankings.csv')",
+      "AI_STRICT_CONTEXT, NEWS_STRICT_CONTEXT, EXIT_STRICT_CONTEXT are the complete set of strict-context env vars",
+      "Provider accuracy decision rule: if script uses exact percentage (95%) but docs use range (~90%+), prefer docs phrasing to maintain flexibility",
+      "Output filename change takes priority over provider description updates",
+      "Output message will explicitly mention timestamped CSV as primary output and convenience copy",
+      "The Edit tool requires exact old_string/new_string blocks; we will provide only changed sections",
+      "Bash syntax validation (bash -n) will catch shell errors before user review",
+      "If Edit fails, automatic re-read and retry once before escalating to user"
+    ],
+    "steps": [
+      {
+        "id": "S1",
+        "description": "Read RUN_WITHOUT_API.md to extract canonical output filename, strict-context vars, and provider accuracy ranges",
+        "rationale": "Establish authoritative behavior: 'realtime_ai_results.csv' as convenience copy, timestamped CSV as primary, three strict-context vars, provider accuracy ranges for comparison.",
+        "dependencies": [],
+        "estimated_duration": "3 minutes",
+        "validation_criteria": [
+          "RUN_WITHOUT_API.md content loaded and parsed",
+          "Confirmed output filename: 'realtime_ai_results.csv' (convenience copy)",
+          "Confirmed timestamped CSV is primary output per analyzer",
+          "Confirmed strict-context vars: AI_STRICT_CONTEXT=1, NEWS_STRICT_CONTEXT=1, EXIT_STRICT_CONTEXT=1",
+          "Noted provider accuracy ranges: codex 60-70%, claude ~90%+, gemini ~80%",
+          "Documented decision rule: prefer docs phrasing when script uses exact percentage outside or at edge of range"
+        ],
+        "risks": [
+          "RUN_WITHOUT_API.md may be ambiguous or incomplete"
+        ],
+        "rollback_strategy": "If ambiguous, prioritize output filename change and strict-context vars; defer provider descriptions to user clarification"
+      },
+      {
+        "id": "S2",
+        "description": "Read run_without_api.sh and count all occurrences of 'realtime_ai_rankings.csv' with exact locations",
+        "rationale": "Locate every instance of incorrect output filename (expect 1-3: final echo, codex suggestion, possible comments) to ensure comprehensive patch. Manual scan of full file content to avoid missing occurrences.",
+        "dependencies": [
+          "S1"
+        ],
+        "estimated_duration": "4 minutes",
+        "validation_criteria": [
+          "run_without_api.sh content loaded",
+          "Count of 'realtime_ai_rankings.csv' occurrences documented (expect 1-3)",
+          "Line numbers and surrounding context noted for each occurrence",
+          "Provider description blocks located: codex section (Accuracy line), claude section (Accuracy line), gemini section (Accuracy line)",
+          "Confirmed three strict-context vars already present: AI_STRICT_CONTEXT=1, NEWS_STRICT_CONTEXT=1, EXIT_STRICT_CONTEXT=1",
+          "Exact values noted: codex accuracy, claude accuracy, gemini accuracy"
+        ],
+        "risks": [
+          "Output filename may appear in multiple locations (echo, comments, suggestions, examples)",
+          "Provider descriptions may vary slightly in wording across sections",
+          "May find more occurrences than expected requiring additional edits"
+        ],
+        "rollback_strategy": "No changes made yet; document all occurrences for comprehensive patch in S4"
+      },
+      {
+        "id": "S3",
+        "description": "Decide exact wording for output filename message and apply decision criteria for provider descriptions",
+        "rationale": "Commit to specific new_string text: 'realtime_ai_results.csv' with explanation that timestamped CSV is primary. Apply rule: update provider accuracy if script uses exact percentage but docs use range (codex 60% is within 60-70% → no change; claude 95% vs ~90%+ → change to '~90%+' per docs; gemini 80% matches → no change). Eliminates 'optional' ambiguity.",
+        "dependencies": [
+          "S2"
+        ],
+        "estimated_duration": "5 minutes",
+        "validation_criteria": [
+          "Output message wording decided: 'Results written to realtime_ai_results.csv (convenience copy) and timestamped CSV' or similar clear phrasing",
+          "Decision for each output filename occurrence: all change to 'realtime_ai_results.csv' with same wording",
+          "Provider decision: codex (no change, within range), claude (change '~95%' → '~90%+' to match docs phrasing), gemini (no change, matches docs)",
+          "Decision rule documented: prefer docs phrasing to maintain consistency",
+          "Strict-context vars confirmed correct: no change needed",
+          "Priority confirmed: output filename > provider descriptions",
+          "Estimated Edit call count: 1-3 for output filename + 1 for claude provider (total 2-4)"
+        ],
+        "risks": [
+          "Output filename wording may be too verbose or inconsistent with script style",
+          "Multiple output filename occurrences increase Edit complexity"
+        ],
+        "rollback_strategy": "Draft is in memory; can revise wording if user provides feedback after S8"
+      },
+      {
+        "id": "S4",
+        "description": "Draft Edit tool invocations with exact old_string and new_string blocks for all output filename occurrences and claude provider description",
+        "rationale": "Prepare atomic Edit calls for each change: (1) Output filename in final echo (most critical), (2) Output filename in codex suggestion if present, (3) Claude provider accuracy update (95% → '~90%+'). Use sufficient context (3-5 lines) to ensure unique old_string. Preserve whitespace exactly.",
+        "dependencies": [
+          "S3"
+        ],
+        "estimated_duration": "8 minutes",
+        "validation_criteria": [
+          "Edit #1: Output filename in final echo - old_string includes 'Results: realtime_ai_rankings.csv' line with context, new_string changes to 'Results: realtime_ai_results.csv (convenience copy; timestamped CSV also generated)' or similar per S3 decision",
+          "Edit #2 (if needed): Output filename in codex suggestion block - old_string includes suggestion context, new_string updates filename",
+          "Edit #3: Claude provider description - old_string includes 'Accuracy: ~95%' line with surrounding context (Method, Cost, Speed), new_string changes to 'Accuracy: ~90%+' preserving rest of description",
+          "Each old_string verified unique via manual scan of S2 content",
+          "Whitespace and indentation preserved exactly (tabs/spaces matched)",
+          "All Edit calls numbered and prioritized: output filename first, then provider"
+        ],
+        "risks": [
+          "Old_string may not be unique if similar text appears elsewhere (mitigated by 3-5 line context)",
+          "Whitespace mismatches could cause Edit to fail (mitigated by careful copy from Read output)",
+          "Multiple sequential edits may shift line positions (mitigated by re-read after failure in S5)"
+        ],
+        "rollback_strategy": "If old_string not unique, widen context block to include more surrounding lines (up to 10 lines); if still ambiguous, use entire function or section as context"
+      },
+      {
+        "id": "S5",
+        "description": "Apply Edit tool calls sequentially with automatic retry on failure",
+        "rationale": "Execute patch with priority order: output filename edits first (critical), then provider description (nice-to-have). If any Edit fails, re-read file immediately to get updated content, adjust old_string if needed, and retry once automatically. Only escalate to user if retry also fails.",
+        "dependencies": [
+          "S4"
+        ],
+        "estimated_duration": "5 minutes",
+        "validation_criteria": [
+          "All output filename Edit calls succeed (1-2 edits expected)",
+          "Claude provider accuracy Edit succeeds",
+          "No Edit tool errors reported, or errors resolved via automatic retry",
+          "File writes completed",
+          "If retry needed: re-read performed, old_string adjusted for new context, retry succeeded"
+        ],
+        "risks": [
+          "Edit tool may fail if old_string whitespace differs (mitigated by automatic re-read and retry)",
+          "Second edit may fail if first edit changed nearby context (mitigated by re-read between critical edits)",
+          "Multiple edits in sequence may conflict (mitigated by priority ordering and retry logic)",
+          "Automatic retry may fail if context changed significantly (escalate to user with partial success report)"
+        ],
+        "rollback_strategy": "If all retries fail, document which edits succeeded (output filename is priority), present partial success to user, and ask if provider description update is critical enough to warrant manual intervention"
+      },
+      {
+        "id": "S6",
+        "description": "Run 'bash -n run_without_api.sh' to validate shell syntax",
+        "rationale": "Catch any syntax errors introduced by Edit tool (e.g., mismatched quotes, broken heredocs, line continuation issues) before presenting to user. Syntax validation is fast and prevents silent failures.",
+        "dependencies": [
+          "S5"
+        ],
+        "estimated_duration": "1 minute",
+        "validation_criteria": [
+          "bash -n command exits with status 0",
+          "No syntax errors reported",
+          "Script is syntactically valid"
+        ],
+        "risks": [
+          "Syntax errors may indicate Edit tool introduced formatting issues (quote mismatch, line continuation)",
+          "bash -n only checks syntax, not runtime correctness (acceptable for this task)"
+        ],
+        "rollback_strategy": "If syntax errors found, re-read original script content from S2, identify introduced error (likely quote mismatch or line continuation in echo), compare with patched version, and reapply Edit with corrected new_string; if error is in unrelated section, escalate to user"
+      },
+      {
+        "id": "S7",
+        "description": "Re-read patched run_without_api.sh and verify all changes are correct and complete",
+        "rationale": "Confirm output filename updated in all locations, claude provider accuracy updated (if applicable), strict-context vars unchanged, no extraneous changes, and script passes syntax check. Thorough validation before presenting to user.",
+        "dependencies": [
+          "S6"
+        ],
+        "estimated_duration": "4 minutes",
+        "validation_criteria": [
+          "Final echo message references 'realtime_ai_results.csv' with explanation of convenience copy and timestamped CSV",
+          "No occurrences of 'realtime_ai_rankings.csv' remain in entire script",
+          "Claude provider description shows '~90%+' or similar (not '~95%')",
+          "Codex provider description unchanged (~60% or similar, within range)",
+          "Gemini provider description unchanged (~80%, matches docs)",
+          "Three strict-context vars present: AI_STRICT_CONTEXT=1, NEWS_STRICT_CONTEXT=1, EXIT_STRICT_CONTEXT=1",
+          "No formatting issues or broken indentation",
+          "Script passed bash -n syntax check in S6",
+          "Changes are minimal and targeted (no unintended modifications)"
+        ],
+        "risks": [
+          "Edits may have inadvertently changed nearby lines (mitigated by re-read verification)",
+          "Output filename may still appear in unexpected location like comments (mitigated by comprehensive scan in S2)"
+        ],
+        "rollback_strategy": "If issues found, restore original content from user-provided text in S2, analyze failure (likely old_string mismatch or context shift), and re-plan edits with corrected blocks; present findings to user if restoration needed"
+      },
+      {
+        "id": "S8",
+        "description": "Summarize patch with before/after snippets, validation checklist, and suggested test command",
+        "rationale": "Provide clear documentation of changes: output filename update (critical), claude provider accuracy update (alignment), syntax validation passed. Include actionable next step: suggest './run_without_api.sh codex all.txt 48 10' test command to verify output filename matches docs. Give user confidence the patch is correct and executable.",
+        "dependencies": [
+          "S7"
+        ],
+        "estimated_duration": "5 minutes",
+        "validation_criteria": [
+          "Summary lists all changes: output filename (realtime_ai_rankings.csv → realtime_ai_results.csv in N locations), claude provider accuracy (95% → ~90%+)",
+          "Before/after snippets show exact old vs new text for each change (code blocks for clarity)",
+          "Checklist confirms: output filename updated in all locations, provider descriptions aligned, strict-context vars unchanged, syntax validated (bash -n passed)",
+          "Suggested test: './run_without_api.sh codex all.txt 48 10' and verify output filename is 'realtime_ai_results.csv'",
+          "User can verify patch meets requirements",
+          "Confidence statement: patch is executable, aligned with RUN_WITHOUT_API.md, and ready for testing"
+        ],
+        "risks": [
+          "User may request further refinements or identify additional discrepancies (acceptable, out of scope for initial plan)"
+        ],
+        "rollback_strategy": "User can request revert or additional changes; original content preserved in conversation context from S2"
+      }
+    ],
+    "success_criteria": [
+      "run_without_api.sh final echo references 'realtime_ai_results.csv' with clear explanation of convenience copy and timestamped CSV",
+      "No occurrences of 'realtime_ai_rankings.csv' remain in the entire script",
+      "Claude provider description updated to match RUN_WITHOUT_API.md (~90%+ instead of ~95%)",
+      "Codex and gemini provider descriptions preserved (within documented ranges)",
+      "Three strict-context env vars (AI_STRICT_CONTEXT, NEWS_STRICT_CONTEXT, EXIT_STRICT_CONTEXT) present and unchanged",
+      "Script passes bash -n syntax validation with no errors",
+      "Edit tool succeeded for all changes (or automatic retry succeeded) with no formatting or whitespace issues",
+      "All changes are minimal, targeted, and aligned with RUN_WITHOUT_API.md",
+      "Before/after summary provided to user with validation checklist and test command",
+      "User can immediately test the patch with suggested command and verify correct output filename"
+    ],
+    "risks": [
+      "Output filename may appear in 2-3 locations (echo, codex suggestion, comments) requiring multiple Edit calls with different contexts",
+      "Edit tool may fail due to whitespace mismatches or non-unique old_string, requiring automatic re-read and retry (built into S5)",
+      "Automatic retry may fail if context changed significantly, requiring escalation to user with partial success report (acceptable, user retains control)",
+      "Bash syntax validation only catches syntax errors, not runtime logic issues (acceptable for a patch task focused on messaging alignment)",
+      "Multiple sequential edits may conflict if contexts overlap; mitigation is to apply critical change first, use automatic retry with re-read",
+      "User may discover additional discrepancies after review, requiring follow-up patches (acceptable risk, out of scope for initial plan but can iterate)"
+    ],
+    "estimated_total_duration": "35 minutes",
+    "confidence": 92
+  },
+  "analysis": {
+    "task_clarity_score": 45,
+    "technical_completeness_score": 50,
+    "should_ask_questions": true,
+    "identified_gaps": [
+      "Current run_without_api.sh mentions 'realtime_ai_rankings.csv' but docs say analyzer outputs 'realtime_ai_results.csv' - which is correct?",
+      "Unclear if swing_screener_extraction_guide.md content should be integrated into run_without_api.sh or just influence its design",
+      "No clear mapping between swing screener components and run_without_api.sh behavior - are these related or separate concerns?",
+      "Docs mention 'strict-context env vars' but unclear which specific variables need alignment beyond AI_STRICT_CONTEXT, NEWS_STRICT_CONTEXT, EXIT_STRICT_CONTEXT",
+      "Uncertain whether 'propose a precise patch' means show a diff or rewrite the entire script",
+      "Provider messaging alignment requirements not specified - what exactly needs to change?",
+      "Result filename alignment ambiguous - timestamped vs convenience copy handling unclear"
+    ],
+    "assumptions_made": [
+      "RUN_WITHOUT_API.md is the authoritative source for correct behavior",
+      "swing_screener_extraction_guide.md may be tangentially related or mistakenly included in context",
+      "The script should output 'realtime_ai_results.csv' not 'realtime_ai_rankings.csv' based on docs",
+      "All three strict-context env vars mentioned are the complete set",
+      "Patch should be presented as old vs new content blocks suitable for Edit tool"
+    ],
+    "next_state": "QUESTIONING",
+    "reasoning": "The task mentions updating run_without_api.sh using 'full content of RUN_WITHOUT_API.md AND swing_screener_extraction_guide.md', but the swing screener guide appears unrelated to the API-less runner script (it's about extracting trading signal components). This disconnect needs clarification. Additionally, the exact output filename discrepancy and patch format requirements should be confirmed before proceeding."
+  },
+  "critic_feedback": {
+    "approved": true,
+    "confidence": 88,
+    "concerns": [
+      "S2: Manual scan of file content may miss occurrences in dynamically constructed strings or heredocs; consider using Grep tool for 'realtime_ai_rankings.csv' as a validation step after manual scan",
+      "S3: Decision criteria for provider descriptions prioritizes docs phrasing ('~90%+') over script exactness ('95%'), but rationale assumes docs are more authoritative without explicit confirmation from user that this is desired behavior",
+      "S4: Old_string uniqueness validation is manual; if file has similar blocks (e.g., multiple provider sections with similar structure), 3-5 lines may not be sufficient - consider wider context (7-10 lines) from the start",
+      "S5: Automatic retry logic is well-intended but may mask underlying issues; if Edit fails twice, the partial success report should clearly document which specific changes succeeded vs failed (not just 'output filename succeeded')",
+      "S6: Bash syntax validation (bash -n) is good but insufficient for runtime correctness; the script uses variables like $PROVIDER that won't be validated - consider adding a note that syntax check is limited",
+      "S7: Verification step re-reads entire script but doesn't specify how to handle edge cases like output filename in comments or documentation blocks within the script - should these be updated too?",
+      "S8: Test command suggestion './run_without_api.sh codex all.txt 48 10' is reasonable but doesn't account for missing dependencies (codex_bridge.py, all.txt) - should include prerequisite check or caveat"
+    ],
+    "suggestions": [
+      "S2: Add Grep tool call after manual Read to validate count: 'grep -n \"realtime_ai_rankings.csv\" run_without_api.sh' - this catches any occurrences missed by manual scan and provides exact line numbers",
+      "S3: Explicitly ask user to confirm provider description update priority before S5 execution, or make provider updates optional/skippable if output filename is the critical change",
+      "S4: Use 7-10 lines of context for old_string by default (not 3-5) to reduce uniqueness risk, especially for provider description blocks that may have similar structure",
+      "S5: Add explicit rollback step: if any Edit fails after retry, offer user a choice to (a) proceed with partial patch, (b) abort and report findings, or (c) manually review failed Edit blocks",
+      "S6: Add runtime smoke test after syntax check: 'bash -c \"source run_without_api.sh --help || true\"' to catch basic runtime issues like missing variable expansions (non-blocking, informational only)",
+      "S7: Clarify verification scope: should output filename in comments/docs be updated? If yes, add to S2 scan; if no, document as intentional exclusion",
+      "S8: Include prerequisite validation in summary: 'Note: test assumes codex_bridge.py and all.txt exist; verify these files are present before running test command'",
+      "General: Add S1.5 to read swing_screener_extraction_guide.md and explicitly document why it's being ignored (user said it's unrelated, but plan should show this was validated)"
+    ],
+    "missing_steps": [
+      "Validation step between S1 and S2: Explicitly confirm swing_screener_extraction_guide.md is unrelated by scanning its content for any references to run_without_api.sh, realtime_ai_rankings.csv, or output filename conventions - this ensures the ignore decision is data-driven",
+      "Fallback step in S5: If automatic retry fails for provider description update but output filename succeeded, prompt user whether to proceed with partial patch or require full success",
+      "Documentation step in S8: Generate a one-line diff summary (e.g., '2 occurrences of realtime_ai_rankings.csv → realtime_ai_results.csv, 1 provider accuracy update') for quick user review"
+    ],
+    "unnecessary_steps": [],
+    "risk_assessment": "MEDIUM",
+    "recommendation": "APPROVE - Plan is well-structured, thorough, and includes good error handling. The automatic retry logic and comprehensive verification steps demonstrate strong risk awareness. Main concerns are around edge cases (comments/docs, partial success handling) and validation completeness (Grep backup, swing_screener_extraction_guide.md confirmation). These are minor issues that can be addressed during execution. The priority on output filename over provider descriptions is correct, and the syntax validation + re-read verification provide good safety nets. Approve with suggestions for incremental improvements during execution."
+  },
+  "auto_approved": false,
+  "message": "Plan ready for execution",
+  "provider": "claude-cli (sonnet)",
+  "revisions": 2,
+  "metrics": {
+    "state_durations": {
+      "INIT": 0.002,
+      "ANALYZING": 21.703,
+      "QUESTIONING": 38.541,
+      "PLANNING": 179.14,
+      "VALIDATING": 133.807
+    }
+  }
+}

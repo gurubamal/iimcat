@@ -1,0 +1,33 @@
+{
+  "ticker": "IDEA",
+  "fetch_time": "2025-11-13T08:42:52.968499",
+  "dividends": [
+    {
+      "description": " Annual General Meeting/Dividend - Re 0.60 Per Share",
+      "ex_date": "22-Sep-2016",
+      "ex_date_parsed": "2016-09-22T00:00:00",
+      "amount": null
+    },
+    {
+      "description": " Annual General Meeting/ Dividend -  Re 0.60/- Per Share",
+      "ex_date": "18-Sep-2015",
+      "ex_date_parsed": "2015-09-18T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting / Final Dividend - Re 0.40/- Per Share",
+      "ex_date": "18-Sep-2014",
+      "ex_date_parsed": "2014-09-18T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Re.0.30/- Per Share",
+      "ex_date": "05-Sep-2013",
+      "ex_date_parsed": "2013-09-05T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

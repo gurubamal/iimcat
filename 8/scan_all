@@ -1,0 +1,5 @@
+#!/bin/bash
+# Quick scan all stocks with Codex AI
+# Usage: ./scan_all
+
+./ai_scan codex all.txt

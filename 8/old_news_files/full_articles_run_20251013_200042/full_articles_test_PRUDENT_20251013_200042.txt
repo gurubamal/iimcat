@@ -1,0 +1,22 @@
+Full Article Fetch Test - PRUDENT
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-13): 517.78M
+
+Title   : Curie Money, ICICI Prudential AMC partner for instant redemption with UPI
+Source  : www.thehindubusinessline.com
+Published: 2025-10-13T11:53:56
+Fetched : 2025-10-13T21:09:10.042877
+URL     : https://www.thehindubusinessline.com/money-and-banking/curie-money-icici-prudential-amc-partner-for-instant-redemption-with-upi/article70158133.ece
+--------------------------------------------------------------------------------
+Curie Money, in partnership with ICICI Prudential AMC, has introduced a first-of-its-kind experience that brings together liquid funds, instant redemption, and UPI in one seamless solution.
+The collaboration empowers retail investors to grow their money steadily while maintaining instant access—without any lock-ins or penalties.
+Liquid Mutual Funds are fast emerging as the preferred option for investors seeking steady returns.
+The debt funds category primarily invest in government bonds, securities and treasury bills, providing low-risk and stable growth opportunities.
+The feature of instant redemption allows investors to withdraw funds directly into their bank account within seconds, unlike regular redemptions that take one or two business days.
+Currently, investors can instantly redeem up to 90 per cent of their invested amount, capped at ₹50,000 per day.
+Through the new partnership, Curie Money has integrated ICICI Prudential AMC’s liquid fund with instant redemption and UPI functionality, creating a seamless experience for users.
+Investors can now steadily grow their money in ICICI Prudential’s Liquid Fund and instantly use it for UPI payments.
+The collaboration between Curie Money and ICICI Prudential AMC, which bridges the gap between savings and spending in real time, marks a significant step forward in digital money management landscape.
+Published on October 13, 2025
+

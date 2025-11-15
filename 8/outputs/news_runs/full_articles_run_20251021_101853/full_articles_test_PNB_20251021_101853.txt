@@ -1,0 +1,48 @@
+Full Article Fetch Test - PNB
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 21.20B
+
+Title   : PNB expects $1 billion hit in transition to new credit rules, CEO says
+Source  : www.thehindubusinessline.com
+Published: 2025-10-20T11:14:29
+Fetched : 2025-10-21T11:58:19.557380
+URL     : https://www.thehindubusinessline.com/money-and-banking/pnb-expects-1-billion-hit-in-transition-to-new-credit-rules-ceo-says/article70184753.ece
+--------------------------------------------------------------------------------
+Punjab National Bank (PNB) will face an estimated 90 billion-rupee ($1.03 billion) impact as the lender transitions to a central bank-mandated credit loss framework by 2031, its chief executive said on Monday.
+The country's third-largest state-owned lender by market capitalisation is one of the first to disclose an estimate on the likely effect of the rules, issued by the Reserve Bank of India earlier this month, to its balance sheet.
+"The impact comes to around 90 billion rupees," said Ashok Chandra, PNB's managing director and CEO in an interview with Reuters. "The bank has done a rough estimate as this (new credit rules) was already in the pipeline ... I don't see any further deviation."
+The RBI's draft guidelines require banks to transition to an expected credit loss (ECL) framework, wherein funds are set aside to cover likely risk of default, over a five-year period starting April 1, 2027. At present, provisions for bad loans are made when a loan becomes overdue.
+Top Indian banks, including the State Bank of India , are in the process of evaluating the impact from the transition.
+As per internal estimates, Chandra said, the New Delhi-based bank will face an impact of around 0.85 percentage points to its capital to risk assets ratio (CRAR), a metric that measures bank's capital adequacy.
+PNB's CRAR was at 17.19%, as on September 30, according to the company's presentation. As per RBI's latest financial stability report, Indian commercial banks had a CRAR of 17.3% at March-end.
+The impact will be offset by the profit generated from the bank's operations in the normal course, said Chandra.
+"I think we will be able to manage with our internal accrual itself. Bank is well poised to take care of all requirements which is going to come in future."
+For PNB, a majority of these provisions will be for stage-two assets in its retail, agriculture and small and medium enterprises portfolios, Chandra said.
+Stage-two assets refer to high-risk loans where the borrower has missed a repayment deadline but has not turned into a non-performing asset.
+The lender on Saturday reported a net profit of 49.04 billion rupees for the second quarter, up 14% from a year earlier. Chandra projects the bank to post a net profit of over 150 billion rupees for the 2026 financial year.
+Published on October 20, 2025
+
+Title   : Muhurat Trading: PNB shares in focus after company flags Rs 9,000 crore hit from RBI credit loss rules 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-21T06:07:26
+Fetched : 2025-10-21T11:58:19.557413
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-pnb-shares-in-focus-after-company-flags-rs-9000-crore-hit-from-rbi-credit-loss-rules/articleshow/124715139.cms
+--------------------------------------------------------------------------------
+The disclosure makes PNB one of the first major public-sector banks to quantify the potential impact of the RBI’s proposed guidelines, which require lenders to make provisions for likely loan losses before defaults occur, rather than after. The new norms mark a significant shift from the current incurred-loss model and are aimed at strengthening India’s banking system against future credit shocks.
+“The impact comes to around Rs 9,000 crore,” said Ashok Chandra, managing director and CEO of PNB, in an interview with Reuters. “The bank has done a rough estimate as this new credit rule was already in the pipeline. I don’t see any further deviation.”
+Under the RBI’s draft framework, banks must move to an ECL-based provisioning system over a five-year transition period starting April 1, 2027, giving lenders time to adjust their balance sheets and capital buffers. The new system will require lenders to set aside provisions for potential defaults based on forward-looking models rather than waiting for loans to turn non-performing.
+According to Chandra, the estimated Rs 9,000 crore impact translates to about 0.85 percentage points of PNB’s capital-to-risk weighted assets ratio (CRAR) — a key metric that measures a bank’s financial strength. The bank’s CRAR stood at 17.19% as of September 30, comfortably above the regulatory minimum.
+The CEO emphasised that the hit would be manageable and could be absorbed through regular business profits rather than through fresh capital infusion. “We will be able to manage with our internal accruals itself,” he said. “The bank is well poised to take care of all requirements that are going to come in the future.”
+For PNB, the majority of additional provisions under the new framework will apply to stage-two assets — loans that have shown early signs of stress but are not yet classified as non-performing. These are largely concentrated in the retail, agriculture, and SME segments, which account for a significant share of the bank’s loan book.
+Stage-two assets represent exposures where borrowers have missed repayments but remain within regulatory limits. Under the ECL model, banks will need to assign higher risk weights and maintain adequate provisions even before such accounts slip into default.
+PNB reported a 14% year-on-year rise in net profit to Rs 4,904 crore for the September quarter, aided by higher interest income and improved asset quality. Chandra said the lender is on track to deliver a net profit of over Rs 15,000 crore for FY26, driven by growth in retail and corporate credit as well as cost controls.
+The RBI’s shift to the ECL regime is expected to make provisioning across India’s banking sector more transparent and forward-looking. However, analysts say public-sector banks with large retail and agricultural exposure may see higher initial provisioning costs.
+While the stock has corrected in recent weeks after a strong run-up, PNB’s early disclosure of the ECL impact and management confidence in offsetting the costs through profits could help stabilise investor sentiment in the near term.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

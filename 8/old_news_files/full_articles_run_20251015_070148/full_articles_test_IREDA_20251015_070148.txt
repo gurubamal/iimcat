@@ -1,0 +1,29 @@
+Full Article Fetch Test - IREDA
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): 2.47B
+
+Title   : IREDA shares slip nearly 3% a day after Q2 results as investors book profits 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-15T04:58:59
+Fetched : 2025-10-15T08:37:36.263072
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/ireda-shares-slip-nearly-3-a-day-after-q2-results-as-investors-book-profits/articleshow/124568089.cms
+--------------------------------------------------------------------------------
+The stock had surged 4% on Tuesday, touching a high of Rs 155.85 following the earnings announcement, but Wednesday’s decline erased all those gains.
+IREDA’s market capitalization, around 10 am, stood at Rs 43,262 crore.
+IREDA posted a consolidated net profit of Rs 549.33 crore for Q2 FY26, marking a 41.5% year-on-year (YoY) jump from Rs 388 crore in the same quarter last year. Revenue from operations also climbed 26.2% YoY to Rs 2,057 crore compared to Rs 1,629.55 crore in Q2 FY25.
+On a sequential basis, the performance was even more striking. Net profit more than doubled, rising 122% from Rs 247 crore in Q1 FY26, while revenue rose 5% from Rs 1,960 crore.
+Despite the upbeat financials, investors appeared to lock in gains, leading to a price correction. A total of 4.54 lakh shares were traded on the BSE during the day, reflecting heightened activity.
+Operational metrics:
+- Gross NPAs improved to 3.97% from 4.13% in Q1.
+- Net NPAs improved to 1.97% from 2.06%.
+- Loans sanctioned surged 86% YoY to Rs 33,148 crore as of September 30, 2025.
+- Disbursements rose 54% YoY to Rs 15,043 crore.
+- Loan book outstanding stood at Rs 84,445 crore, up 31% YoY.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

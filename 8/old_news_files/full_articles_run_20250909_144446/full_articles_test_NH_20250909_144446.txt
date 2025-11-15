@@ -1,0 +1,30 @@
+Full Article Fetch Test - NH
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-09
+
+Title   : NHEV & Transvolt to deploy 1000 electric trucks
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T14:36:58
+Fetched : 2025-09-09T15:25:21.330005
+URL     : https://www.thehindubusinessline.com/companies/nhev-transvolt-to-deploy-1000-electric-trucks/article70030296.ece
+--------------------------------------------------------------------------------
+A technical trial focused on commercialisation of e-trucks, which was started on the World EV Day last year from Chennai, reached its rollout milestone on Tuesday with an impressive outcome of deploying 1000 e-trucks at various freight routes across India.
+Technology piloting agency Ease of Doing Business had initiated the commercial prototyping of e-trucks in participation along with electric truck fleet operator Transvolt Mobility.
+On the World EV Day last year, they brought together stakeholders to accelerate deployment, including incentivising, accelerating and overall financing for e-trucks.
+NHEV and Transvolt Mobility signed a MoU on Tuesday to deploy these 1,000 e-trucks in New Delhi.
+PM E-DRIVE has brought electric trucks under its incentive coverage. The scale and speed of private capital deployment in NHEV confirm that the policy trajectory is headed in the right direction. The overwhelming response from various Zero Emission Trucking (ZET) stakeholders is encouraging, underscored Sudhendu J Sinha, Advisor at NITI Aayog.
+Recent Public-Private Partnership (PPP) deployments, such as the $7 million Viability Gap Funding (VGF) in NHEV and the $20 million equity investment from IFC in Transvolt Mobility, are expected to further accelerate nationwide adoption of electric Heavy Duty Vehicles (HDVs) and the transition of surface transport to clean, cutting-edge, zero-emission solutions, he added.
+Ease of Doing Business has already concluded the commercial prototyping of electric cars and buses on the Delhi-Agra (2020) and Delhi-Jaipur (2022) electric highways under the government’s e-mobility initiative—National Highways for Electric Vehicles (NHEV).
+e-Trucks
+On August 1, 2025, the final piece was introduced as a financing instrument worth ₹500 crore, which was opened to collect expression of interest (EoI) from stakeholders seeking blended climate financing for e-truck deployment.
+Last month, Ease of Doing Business had said that ₹500 crore is projected to finance the deployment of a maximum of 720-810 e-trucks under a credit outlay to meet Viability Gap Funding (VGF).
+“This deployment, coming out of a comprehensive technical and commercial exercise, is extending Ease of Doing Business on both technical interoperability and climate financing fronts, emphasised Abhijeet Sinha, National Program Director at Ease of Doing Business.
+“E-truck manufacturers, and infra & fleet operators are determined to reduce electric truck costs from ₹1.25 crore to ₹90 lakh to offer around 10 per cent lesser logistics cost in comparison to diesel fleet operators,” he added.
+This batch of 1,000 e-trucks, to be owned and operated by Transvolt Mobility, will also be deployed in construction projects, mines, shipyards and both dry/ wet ports, said Siddesh Rai, Vice President at Transvolt Mobility.
+They will also connect multimodal logistics Gati Shakti Cargo Terminals (GCTs) and road freight routes across India, which currently transport cement, automobiles, containers, coal, iron and steel, foodgrains, fertilisers, furniture and petroleum products, he added.
+“Now, with NHEV, we are getting the opportunity to offer quick trials and deployments to potential public PSUs, corporations, mines & ports interested in leasing heavy-duty electric trucks, dumpers & tippers,” noted Rai.
+The announcement to deploy 1,000 e-trucks’ comes after the auto sector witnessed almost double digit e-truck sales in August 2025, following Centre’s ₹500 crore incentive scheme, which was introduced in July 2025.
+The Ministry of Heavy Industries’ had notified guidelines for claiming e-truck incentives under the PM Electric Drive Revolution in Innovative Vehicle Enhancement (PM E-DRIVE) scheme to incentivise e-truck adoption with an upfront capital subsidy of ₹2.7-9.3 lakhs for the purchase of each truck.
+Published on September 9, 2025
+

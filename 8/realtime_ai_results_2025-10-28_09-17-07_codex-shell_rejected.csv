@@ -1,0 +1,9 @@
+ticker,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+WORTH,42.2,30,2,Certainty 30% below threshold (40%),"Govt clears 7 projects worth ₹5,532 crore under electronics manufacturing scheme",Detected 0 catalyst(s). Score: 55/100. Certainty: 30%. NEUTRAL sentiment.
+NUVOCO,37.4,30,1,Certainty 30% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,Detected 0 catalyst(s). Score: 50/100. Certainty: 30%. BULLISH sentiment.
+PREMIUM,37.4,30,1,Certainty 30% below threshold (40%),Nuvoco Vistas targets ₹25–50 per tonne price-rise for premium cement offerings,Detected 0 catalyst(s). Score: 50/100. Certainty: 30%. BULLISH sentiment.
+SUNDARAM,31.1,35,1,Certainty 35% below threshold (40%),Sundaram Home Finance Q2 net up 69% at ₹75 crore,Detected 0 catalyst(s). Score: 41/100. Certainty: 35%. NEUTRAL sentiment.
+MITTAL,29.7,30,1,Certainty 30% below threshold (40%),Shark Tank judge Anupam Mittal sparks debate on 35% hike demand while changing j,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+VIKRAN,29.7,30,1,Certainty 30% below threshold (40%),Vikran Engineering wins ₹354-crore solar EPC contract in Maharashtra,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+OIL,29.7,30,1,Certainty 30% below threshold (40%),Stock to buy today: Kirloskar Oil Engines (₹939.90) – BUY,Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.
+FOCUS,28.8,30,2,Certainty 30% below threshold (40%),"PNB Housing Finance shares in focus as Q2 PAT shoots up 24% YoY. Should you buy,",Detected 0 catalyst(s). Score: 40/100. Certainty: 30%. NEUTRAL sentiment.

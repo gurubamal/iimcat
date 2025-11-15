@@ -1,0 +1,72 @@
+{
+  "RELIANCE": [
+    {
+      "title": "Reliance Q1 profit rises 15% on stronger energy margins",
+      "text": "Reliance Industries reported a 15% year-over-year rise in consolidated net profit to \u20b921,342 crore for the June quarter while revenue grew 8%. Retail EBITDA expanded 24% and Jio added 9 million subscribers. Management reiterated capex guidance, debt-to-equity at 0.44 and positive free cash flow, signalling healthy balance-sheet momentum.",
+      "url": "offline://reliance/q1-profit",
+      "published": "2025-07-25T06:30:00Z",
+      "source": "offline-cache"
+    },
+    {
+      "title": "Reliance retail arm posts record margins as festive demand kicks in",
+      "text": "Reliance Retail clocked all-time high quarterly revenue with same-store sales up 12% and digital commerce contributing 19% of turnover. Management guided for continued double-digit earnings growth aided by mix improvement and operating leverage.",
+      "url": "offline://reliance/retail-margins",
+      "published": "2025-08-15T05:45:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "CDSL": [
+    {
+      "title": "CDSL adds 1.2 million demat accounts in quarter, profit steady",
+      "text": "Central Depository Services added 1.2 million accounts during the quarter while net profit came in at \u20b9113 crore, broadly in line. Revenue rose 5% sequentially and annual earnings remain up 26%. Management highlighted debt-free balance sheet and strong cash to fund new technology projects.",
+      "url": "offline://cdsl/account-additions",
+      "published": "2025-07-28T04:15:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "CANBK": [
+    {
+      "title": "Canara Bank reports robust loan growth and lower slippages",
+      "text": "Canara Bank posted 18% year-on-year loan growth with retail credit expanding 24%. Net profit improved to \u20b92350 crore as credit costs declined and the gross NPA ratio eased 32 bps sequentially. Management guided for NIMs above 3% and return on assets crossing 1% for FY26.",
+      "url": "offline://canbk/q1-results",
+      "published": "2025-08-01T03:20:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "IOC": [
+    {
+      "title": "IOC posts marketing margin rebound; refining spreads hold",
+      "text": "Indian Oil Corporation delivered \u20b913,200 crore EBITDA with refining throughput of 18.1 MTPA. Marketing margins normalised as retail pricing hikes caught up with crude costs. Management expects capex of \u20b922,000 crore focused on petrochemicals and green energy.",
+      "url": "offline://ioc/margins",
+      "published": "2025-08-10T07:00:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "MARUTI": [
+    {
+      "title": "Maruti Suzuki wholesale volumes climb on SUV mix",
+      "text": "Maruti Suzuki reported wholesale shipments of 198,000 units in July with SUVs forming 39% of the mix. Management noted demand resilience despite monsoon variability and reiterated margin guidance as commodity costs soften.",
+      "url": "offline://maruti/volumes",
+      "published": "2025-08-02T09:30:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "ACC": [
+    {
+      "title": "ACC cement dispatches rise 11%, pricing stays firm",
+      "text": "ACC recorded 11% year-on-year volume growth aided by infrastructure demand while blended realizations improved 3%. Operating EBITDA per tonne crossed \u20b9950 with cost savings from alternative fuels. Management targets capacity of 45 MTPA by FY27.",
+      "url": "offline://acc/dispatch",
+      "published": "2025-08-05T06:05:00Z",
+      "source": "offline-cache"
+    }
+  ],
+  "HYUNDAI": [
+    {
+      "title": "Hyundai Motor India eyes 20% EV sales contribution by FY27",
+      "text": "Hyundai Motor India plans to launch five new EV models by FY27 and is investing \u20b935,000 crore in manufacturing and charging infrastructure. Export volumes remain resilient, supporting utilisation at the Chennai and upcoming Talegaon plants.",
+      "url": "offline://hyundai/ev-plan",
+      "published": "2025-07-30T05:10:00Z",
+      "source": "offline-cache"
+    }
+  ]
+}

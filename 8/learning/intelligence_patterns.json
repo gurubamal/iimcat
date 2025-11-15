@@ -1,0 +1,58 @@
+{
+  "success_patterns": {
+    "POLYCAB": 1,
+    "EPACK": 1,
+    "LT": 1,
+    "BIL": 1,
+    "GLENMARK": 1
+  },
+  "failure_patterns": {
+    "ARABIAN": 1,
+    "KEL": 1,
+    "MOS": 1,
+    "TRUST": 1,
+    "MCX": 1,
+    "LODHA": 1,
+    "ATUL": 1,
+    "GLOBAL": 1,
+    "SBC": 1,
+    "TRU": 1,
+    "DRONE": 1,
+    "COROMANDEL": 1,
+    "CRISIL": 1,
+    "RICHA": 1,
+    "MIDCAP": 1,
+    "METAL": 1
+  },
+  "sector_performance": {
+    "strategic_action": {
+      "success": 3,
+      "total": 3
+    },
+    "mega_deal": {
+      "success": 1,
+      "total": 1
+    },
+    "ipo_event": {
+      "success": 1,
+      "total": 1
+    },
+    "sector_boost": {
+      "success": 3,
+      "total": 3
+    },
+    "mega_action": {
+      "success": 2,
+      "total": 2
+    },
+    "regulatory_approval": {
+      "success": 1,
+      "total": 1
+    },
+    "billion_mention": {
+      "success": 1,
+      "total": 1
+    }
+  },
+  "timing_analysis": {}
+}

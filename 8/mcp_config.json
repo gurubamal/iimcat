@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "financial-analysis-agent": {
+      "command": "python",
+      "args": ["mcp_financial_agent.py"],
+      "cwd": "C:\\important\\CAT\\intelligent_scripts\\essentials",
+      "env": {
+        "PYTHONPATH": "C:\\important\\CAT\\intelligent_scripts\\essentials"
+      }
+    }
+  }
+}

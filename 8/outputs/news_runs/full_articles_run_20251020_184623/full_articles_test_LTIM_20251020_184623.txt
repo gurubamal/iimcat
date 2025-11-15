@@ -1,0 +1,29 @@
+Full Article Fetch Test - LTIM
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-20): 12.54B
+
+Title   : Infosys, Wipro, LTIMindtree deliver steady Q2 growth, but Goldman warns AI shift may cap valuations 
+Source  : economictimes.indiatimes.com
+Published: 2025-10-20T11:18:49
+Fetched : 2025-10-20T20:17:16.783354
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/infosys-wipro-ltimindtree-deliver-steady-q2-growth-but-goldman-warns-ai-shift-may-cap-valuations/articleshow/124704335.cms
+--------------------------------------------------------------------------------
+“While there are early signs of demand stabilisation, visibility into CY26 remains poor, and company commentary suggests AI-related productivity pass-throughs may be becoming more mainstream, which may keep multiples depressed,” Goldman analysts said in a report.
+The brokerage’s latest report highlights that all three firms managed sequential revenue growth in the second quarter of FY26, suggesting some stability is returning to technology budgets among global clients.
+Infosys led the group with a 2.2% rise in quarterly revenues, including inorganic contributions, matched by an 8% year-on-year increase in underlying earnings before interest and tax.
+Although the company sealed a multi-year, large-scale outsourcing deal, management chose to raise only the lower end of full-year growth guidance, now at 2–3%, a revision rooted in concerns that several ongoing contracts are still ramping down and the uncertain demand recovery across key geographies.
+The company’s workforce has expanded by roughly 2.5% as it gears up for new projects, even as discretionary IT spending remains unpredictable.
+LTIMindtree posted a slightly higher 2.4% growth rate for quarterly revenues, though this fell a touch short of analyst expectations. Nevertheless, the Bengaluru-based firm delivered robust margin expansion, with EBIT surging 13% over the past year and sequential operational margins up by 160 basis points, a sign of efficient cost management. LTIMindtree’s optimistic outlook stands out: it expects to reach USD revenue growth near 10% this fiscal year, a pace that outstrips most Indian peers. Yet, the company acknowledged revenue declines among top accounts, directly attributing this to productivity gains from advanced AI tools.
+Wipro, for its part, saw more subdued momentum, with quarterly revenue growth of just 0.3%, flat EBIT performance, and guidance for the next quarter that sits marginally below market consensus. Management flagged continued margin pressure, likely as new deals take time to scale up and become profitable.
+Despite broad sequential growth, the sector continues to show vertical divergence, with retail IT spending lagging while most other industry segments remain resilient. Currency movements and operational efficiencies helped all three companies boost margins during the quarter. Investor sentiment, however, remains cautious. Goldman Sachs notes that while LTIMindtree and Tech Mahindra currently command higher earnings multiples, Wipro trades at the bottom end of sector valuation, reflecting ongoing growth and margin concerns.
+Also read: Gold, silver or Nifty this Diwali? 35 years of data reveals the clear winner
+According to the report, upside risks exist if global IT budgets rebound faster than expected or if improvements in efficiency continue to drive margin expansion. Yet, the long-term trajectory will depend on how quickly discretionary technology spending returns and how deeply AI-led transformation changes the revenue and cost structure for Indian tech majors. For now, investors are advised to watch for sustained signals of a broad-based recovery, as the sector continues to navigate a delicate balance between cost discipline and competitive growth aspirations.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

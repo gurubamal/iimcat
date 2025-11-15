@@ -1,0 +1,660 @@
+2025-10-23 13:52:33,983 - WARNING - ⚠️  Frontier components not available: cannot import name 'NewsScorer' from 'frontier_ai_quant_alpha_core' (/home/vagrant/R/essentials/frontier_ai_quant_alpha_core.py)
+2025-10-23 13:52:33,983 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 13:52:33,983 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-23 13:52:33,983 - INFO -    Time window: 24 hours
+2025-10-23 13:52:33,984 - INFO -    Max articles per ticker: 10
+2025-10-23 13:52:33,984 - INFO - 
+[1/50] Processing 21STCENMGM...
+2025-10-23 13:52:33,986 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 13:52:38,303 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 13:52:38,305 - INFO - 
+[2/50] Processing A2ZINFRA...
+2025-10-23 13:52:38,306 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-23 13:52:42,970 - INFO - ✅ Found 0 recent articles for A2ZINFRA
+2025-10-23 13:52:42,970 - INFO - 
+[3/50] Processing ACL...
+2025-10-23 13:52:42,970 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-23 13:52:44,355 - INFO - ✅ Found 1 recent articles for ACL
+2025-10-23 13:52:44,355 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 13:52:44,355 - INFO -    Headline: Chelsea vs Ajax: Who will win Champions League clash? AI predictions, confirmed ...
+2025-10-23 13:52:44,357 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:44,357 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:44,357 - INFO - 
+[4/50] Processing AGSTRA...
+2025-10-23 13:52:44,357 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-23 13:52:45,945 - INFO - ✅ Found 0 recent articles for AGSTRA
+2025-10-23 13:52:45,947 - INFO - 
+[5/50] Processing ANSALAPI...
+2025-10-23 13:52:45,947 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-23 13:52:47,418 - INFO - ✅ Found 0 recent articles for ANSALAPI
+2025-10-23 13:52:47,420 - INFO - 
+[6/50] Processing BLUECHIP...
+2025-10-23 13:52:47,420 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-23 13:52:49,128 - INFO - ✅ Found 4 recent articles for BLUECHIP
+2025-10-23 13:52:49,129 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 13:52:49,129 - INFO -    Headline: China and Hong Kong stocks slip as gold shares drag, lingering trade woes, plenu...
+2025-10-23 13:52:49,130 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:49,130 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:49,130 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 13:52:49,131 - INFO -    Headline: Sterlite back in Thoothukudi with green copper. Will it get the red carpet? - Th...
+2025-10-23 13:52:49,134 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:49,134 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:49,136 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 13:52:49,136 - INFO -    Headline: Barrels to bytes & gigawatts: Inside RIL’s carefully scripted green ambition - T...
+2025-10-23 13:52:49,138 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:49,138 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:49,138 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 13:52:49,138 - INFO -    Headline: Supply chain, e-waste issues can hit critical mineral plan - The Economic Times...
+2025-10-23 13:52:49,139 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:49,139 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:49,139 - INFO - 
+[7/50] Processing DHARAN...
+2025-10-23 13:52:49,140 - INFO - 📰 Fetching news for DHARAN (last 24h)
+2025-10-23 13:52:51,128 - INFO - ✅ Found 0 recent articles for DHARAN
+2025-10-23 13:52:51,131 - INFO - 
+[8/50] Processing EXCEL...
+2025-10-23 13:52:51,131 - INFO - 📰 Fetching news for EXCEL (last 24h)
+2025-10-23 13:52:54,519 - INFO - ✅ Found 6 recent articles for EXCEL
+2025-10-23 13:52:54,519 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,519 - INFO -    Headline: LTTS earns second consecutive Caterpillar Supplier Excellence award...
+2025-10-23 13:52:54,522 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:54,523 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,523 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,525 - INFO -    Headline: >X - bsmedia.business-standard.com...
+2025-10-23 13:52:54,529 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:54,530 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,530 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,531 - INFO -    Headline: Man with 150+ Degrees: Prof. Parthiban spends 90% of his salary on studies — all...
+2025-10-23 13:52:54,533 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:54,533 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,533 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,534 - INFO -    Headline: Building the backbone of India’s EV revolution: Why manufacturing matters more t...
+2025-10-23 13:52:54,538 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:54,540 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,540 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,543 - INFO -    Headline: ChatGPT down: Thousands of users unable to access AI chatbot, OpenAI says it is ...
+2025-10-23 13:52:54,559 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:52:54,559 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,561 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 13:52:54,565 - INFO -    Headline: Jindal Steel Profit & Loss account, Jindal Steel Financial Statement & Accounts ...
+2025-10-23 13:52:54,614 - INFO -    ✅ Score: 100.0 | Sentiment: neutral
+2025-10-23 13:52:54,616 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:52:54,637 - INFO - 
+[9/50] Processing FEL...
+2025-10-23 13:52:54,664 - INFO - 📰 Fetching news for FEL (last 24h)
+2025-10-23 13:52:57,173 - INFO - ✅ Found 0 recent articles for FEL
+2025-10-23 13:52:57,173 - INFO - 
+[10/50] Processing GVKPIL...
+2025-10-23 13:52:57,173 - INFO - 📰 Fetching news for GVKPIL (last 24h)
+2025-10-23 13:52:59,287 - INFO - ✅ Found 0 recent articles for GVKPIL
+2025-10-23 13:52:59,287 - INFO - 
+[11/50] Processing IEL...
+2025-10-23 13:52:59,288 - INFO - 📰 Fetching news for IEL (last 24h)
+2025-10-23 13:53:02,188 - INFO - ✅ Found 2 recent articles for IEL
+2025-10-23 13:53:02,190 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 13:53:02,191 - INFO -    Headline: IEL - Moneycontrol - Moneycontrol...
+2025-10-23 13:53:02,195 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:02,195 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:02,195 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 13:53:02,195 - INFO -    Headline: IndiGo Kolkata-Srinagar flight makes emergency landing at Varanasi airport after...
+2025-10-23 13:53:02,196 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:02,196 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:02,196 - INFO - 
+[12/50] Processing ITTL...
+2025-10-23 13:53:02,196 - INFO - 📰 Fetching news for ITTL (last 24h)
+2025-10-23 13:53:03,927 - INFO - ✅ Found 0 recent articles for ITTL
+2025-10-23 13:53:03,927 - INFO - 
+[13/50] Processing KRISHIVAL...
+2025-10-23 13:53:03,927 - INFO - 📰 Fetching news for KRISHIVAL (last 24h)
+2025-10-23 13:53:05,914 - INFO - ✅ Found 0 recent articles for KRISHIVAL
+2025-10-23 13:53:05,915 - INFO - 
+[14/50] Processing MANUGRAPH...
+2025-10-23 13:53:05,915 - INFO - 📰 Fetching news for MANUGRAPH (last 24h)
+2025-10-23 13:53:08,788 - INFO - ✅ Found 0 recent articles for MANUGRAPH
+2025-10-23 13:53:08,793 - INFO - 
+[15/50] Processing MEP...
+2025-10-23 13:53:08,795 - INFO - 📰 Fetching news for MEP (last 24h)
+2025-10-23 13:53:12,268 - INFO - ✅ Found 1 recent articles for MEP
+2025-10-23 13:53:12,268 - INFO - 🔍 INSTANT ANALYSIS: MEP
+2025-10-23 13:53:12,269 - INFO -    Headline: Why did Garuda Construction share price zoom 9% in trade today? Find here - Busi...
+2025-10-23 13:53:12,271 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:12,272 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:12,272 - INFO - 
+[16/50] Processing MVKAGRO...
+2025-10-23 13:53:12,274 - INFO - 📰 Fetching news for MVKAGRO (last 24h)
+2025-10-23 13:53:14,494 - INFO - ✅ Found 0 recent articles for MVKAGRO
+2025-10-23 13:53:14,494 - INFO - 
+[17/50] Processing NORBTEAEXP...
+2025-10-23 13:53:14,494 - INFO - 📰 Fetching news for NORBTEAEXP (last 24h)
+2025-10-23 13:53:15,673 - INFO - ✅ Found 0 recent articles for NORBTEAEXP
+2025-10-23 13:53:15,674 - INFO - 
+[18/50] Processing ORTINGLOBE...
+2025-10-23 13:53:15,675 - INFO - 📰 Fetching news for ORTINGLOBE (last 24h)
+2025-10-23 13:53:17,088 - INFO - ✅ Found 0 recent articles for ORTINGLOBE
+2025-10-23 13:53:17,089 - INFO - 
+[19/50] Processing OSELDEVICE...
+2025-10-23 13:53:17,089 - INFO - 📰 Fetching news for OSELDEVICE (last 24h)
+2025-10-23 13:53:19,136 - INFO - ✅ Found 0 recent articles for OSELDEVICE
+2025-10-23 13:53:19,138 - INFO - 
+[20/50] Processing PATTECH...
+2025-10-23 13:53:19,139 - INFO - 📰 Fetching news for PATTECH (last 24h)
+2025-10-23 13:53:21,124 - INFO - ✅ Found 0 recent articles for PATTECH
+2025-10-23 13:53:21,125 - INFO - 
+[21/50] Processing POLYSIL...
+2025-10-23 13:53:21,125 - INFO - 📰 Fetching news for POLYSIL (last 24h)
+2025-10-23 13:53:22,927 - INFO - ✅ Found 0 recent articles for POLYSIL
+2025-10-23 13:53:22,927 - INFO - 
+[22/50] Processing PPAP...
+2025-10-23 13:53:22,927 - INFO - 📰 Fetching news for PPAP (last 24h)
+2025-10-23 13:53:25,060 - INFO - ✅ Found 0 recent articles for PPAP
+2025-10-23 13:53:25,060 - INFO - 
+[23/50] Processing PRAXIS...
+2025-10-23 13:53:25,060 - INFO - 📰 Fetching news for PRAXIS (last 24h)
+2025-10-23 13:53:26,389 - INFO - ✅ Found 0 recent articles for PRAXIS
+2025-10-23 13:53:26,391 - INFO - 
+[24/50] Processing RAJRILTD...
+2025-10-23 13:53:26,392 - INFO - 📰 Fetching news for RAJRILTD (last 24h)
+2025-10-23 13:53:27,439 - INFO - ✅ Found 0 recent articles for RAJRILTD
+2025-10-23 13:53:27,439 - INFO - 
+[25/50] Processing RSSOFTWARE...
+2025-10-23 13:53:27,439 - INFO - 📰 Fetching news for RSSOFTWARE (last 24h)
+2025-10-23 13:53:29,362 - INFO - ✅ Found 0 recent articles for RSSOFTWARE
+2025-10-23 13:53:29,362 - INFO - 
+[26/50] Processing SADHNANIQ...
+2025-10-23 13:53:29,363 - INFO - 📰 Fetching news for SADHNANIQ (last 24h)
+2025-10-23 13:53:30,702 - INFO - ✅ Found 0 recent articles for SADHNANIQ
+2025-10-23 13:53:30,703 - INFO - 
+[27/50] Processing SANWARIA...
+2025-10-23 13:53:30,704 - INFO - 📰 Fetching news for SANWARIA (last 24h)
+2025-10-23 13:53:32,227 - INFO - ✅ Found 0 recent articles for SANWARIA
+2025-10-23 13:53:32,227 - INFO - 
+[28/50] Processing SITINET...
+2025-10-23 13:53:32,227 - INFO - 📰 Fetching news for SITINET (last 24h)
+2025-10-23 13:53:33,614 - INFO - ✅ Found 0 recent articles for SITINET
+2025-10-23 13:53:33,615 - INFO - 
+[29/50] Processing SRPL...
+2025-10-23 13:53:33,618 - INFO - 📰 Fetching news for SRPL (last 24h)
+2025-10-23 13:53:35,217 - INFO - ✅ Found 0 recent articles for SRPL
+2025-10-23 13:53:35,217 - INFO - 
+[30/50] Processing TANKUP...
+2025-10-23 13:53:35,217 - INFO - 📰 Fetching news for TANKUP (last 24h)
+2025-10-23 13:53:37,136 - INFO - ✅ Found 0 recent articles for TANKUP
+2025-10-23 13:53:37,137 - INFO - 
+[31/50] Processing UMAEXPORTS...
+2025-10-23 13:53:37,137 - INFO - 📰 Fetching news for UMAEXPORTS (last 24h)
+2025-10-23 13:53:38,695 - INFO - ✅ Found 1 recent articles for UMAEXPORTS
+2025-10-23 13:53:38,701 - INFO - 🔍 INSTANT ANALYSIS: UMAEXPORTS
+2025-10-23 13:53:38,715 - INFO -    Headline: Advance Chart - Moneycontrol - Moneycontrol...
+2025-10-23 13:53:38,728 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:38,730 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:38,735 - INFO - 
+[32/50] Processing UNITEDPOLY...
+2025-10-23 13:53:38,735 - INFO - 📰 Fetching news for UNITEDPOLY (last 24h)
+2025-10-23 13:53:39,916 - INFO - ✅ Found 0 recent articles for UNITEDPOLY
+2025-10-23 13:53:39,916 - INFO - 
+[33/50] Processing VOLERCAR...
+2025-10-23 13:53:39,916 - INFO - 📰 Fetching news for VOLERCAR (last 24h)
+2025-10-23 13:53:41,919 - INFO - ✅ Found 0 recent articles for VOLERCAR
+2025-10-23 13:53:41,923 - INFO - 
+[34/50] Processing WELINV...
+2025-10-23 13:53:41,923 - INFO - 📰 Fetching news for WELINV (last 24h)
+2025-10-23 13:53:42,953 - INFO - ✅ Found 0 recent articles for WELINV
+2025-10-23 13:53:42,954 - INFO - 
+[35/50] Processing WINSOME...
+2025-10-23 13:53:42,954 - INFO - 📰 Fetching news for WINSOME (last 24h)
+2025-10-23 13:53:44,486 - INFO - ✅ Found 0 recent articles for WINSOME
+2025-10-23 13:53:44,488 - INFO - 
+[36/50] Processing AAKASH...
+2025-10-23 13:53:44,488 - INFO - 📰 Fetching news for AAKASH (last 24h)
+2025-10-23 13:53:46,185 - INFO - ✅ Found 1 recent articles for AAKASH
+2025-10-23 13:53:46,186 - INFO - 🔍 INSTANT ANALYSIS: AAKASH
+2025-10-23 13:53:46,186 - INFO -    Headline: FC Goa vs Al Nassr AFC Champions League 2 live match time and streaming - Busine...
+2025-10-23 13:53:46,192 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:46,199 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:46,203 - INFO - 
+[37/50] Processing AAREYDRUGS...
+2025-10-23 13:53:46,203 - INFO - 📰 Fetching news for AAREYDRUGS (last 24h)
+2025-10-23 13:53:47,598 - INFO - ✅ Found 0 recent articles for AAREYDRUGS
+2025-10-23 13:53:47,600 - INFO - 
+[38/50] Processing AARTECH...
+2025-10-23 13:53:47,601 - INFO - 📰 Fetching news for AARTECH (last 24h)
+2025-10-23 13:53:49,652 - INFO - ✅ Found 0 recent articles for AARTECH
+2025-10-23 13:53:49,652 - INFO - 
+[39/50] Processing AARTISURF...
+2025-10-23 13:53:49,653 - INFO - 📰 Fetching news for AARTISURF (last 24h)
+2025-10-23 13:53:51,299 - INFO - ✅ Found 0 recent articles for AARTISURF
+2025-10-23 13:53:51,306 - INFO - 
+[40/50] Processing AARVEEDEN...
+2025-10-23 13:53:51,306 - INFO - 📰 Fetching news for AARVEEDEN (last 24h)
+2025-10-23 13:53:52,981 - INFO - ✅ Found 0 recent articles for AARVEEDEN
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Copilot AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+
+====================================================================================================
+
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+5. MEP - Score: 95.0/100
+2025-10-23 13:53:52,982 - INFO - 
+[41/50] Processing ABAN...
+2025-10-23 13:53:52,984 - INFO - 📰 Fetching news for ABAN (last 24h)
+2025-10-23 13:53:55,398 - INFO - ✅ Found 2 recent articles for ABAN
+2025-10-23 13:53:55,399 - INFO - 🔍 INSTANT ANALYSIS: ABAN
+2025-10-23 13:53:55,399 - INFO -    Headline: Israel Tourism reaffirms Asian market focus post-ceasefire at ITB Asia 2025 - ET...
+2025-10-23 13:53:55,400 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:55,400 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:55,401 - INFO - 🔍 INSTANT ANALYSIS: ABAN
+2025-10-23 13:53:55,401 - INFO -    Headline: Si Reporter - Read all News, Stories, Videos and Photos from Si Reporter - Busin...
+2025-10-23 13:53:55,404 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:53:55,405 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:53:55,406 - INFO - 
+[42/50] Processing ABHAPOWER...
+2025-10-23 13:53:55,409 - INFO - 📰 Fetching news for ABHAPOWER (last 24h)
+2025-10-23 13:53:57,123 - INFO - ✅ Found 0 recent articles for ABHAPOWER
+2025-10-23 13:53:57,125 - INFO - 
+[43/50] Processing ABINFRA...
+2025-10-23 13:53:57,125 - INFO - 📰 Fetching news for ABINFRA (last 24h)
+2025-10-23 13:53:59,293 - INFO - ✅ Found 0 recent articles for ABINFRA
+2025-10-23 13:53:59,295 - INFO - 
+[44/50] Processing ABMINTLLTD...
+2025-10-23 13:53:59,295 - INFO - 📰 Fetching news for ABMINTLLTD (last 24h)
+2025-10-23 13:54:00,529 - INFO - ✅ Found 0 recent articles for ABMINTLLTD
+2025-10-23 13:54:00,532 - INFO - 
+[45/50] Processing ACCENTMIC...
+2025-10-23 13:54:00,532 - INFO - 📰 Fetching news for ACCENTMIC (last 24h)
+2025-10-23 13:54:01,716 - INFO - ✅ Found 0 recent articles for ACCENTMIC
+2025-10-23 13:54:01,716 - INFO - 
+[46/50] Processing ACCORD...
+2025-10-23 13:54:01,716 - INFO - 📰 Fetching news for ACCORD (last 24h)
+2025-10-23 13:54:03,581 - INFO - ✅ Found 5 recent articles for ACCORD
+2025-10-23 13:54:03,582 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 13:54:03,582 - INFO -    Headline: University of Virginia signs deal with Trump admin, secures federal funding - Bu...
+2025-10-23 13:54:03,585 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:03,586 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:03,586 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 13:54:03,586 - INFO -    Headline: Bandh called by civil society on October 23: All Tripura govt offices to remain ...
+2025-10-23 13:54:03,586 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:03,587 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:03,587 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 13:54:03,588 - INFO -    Headline: Russia's Sergey Lavrov slams West, says ‘should've never trusted’ them, pins hop...
+2025-10-23 13:54:03,589 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:03,592 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:03,593 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 13:54:03,596 - INFO -    Headline: Afghanistan calls out Pakistan’s ‘classified’ claim on ceasefire, says no secret...
+2025-10-23 13:54:03,597 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:03,597 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:03,598 - INFO - 🔍 INSTANT ANALYSIS: ACCORD
+2025-10-23 13:54:03,598 - INFO -    Headline: Israel's parliament gives initial nod to occupied West Bank annexation - Moneyco...
+2025-10-23 13:54:03,600 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:03,600 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:03,600 - INFO - 
+[47/50] Processing AESTHETIK...
+2025-10-23 13:54:03,603 - INFO - 📰 Fetching news for AESTHETIK (last 24h)
+2025-10-23 13:54:05,972 - INFO - ✅ Found 1 recent articles for AESTHETIK
+2025-10-23 13:54:05,974 - INFO - 🔍 INSTANT ANALYSIS: AESTHETIK
+2025-10-23 13:54:05,975 - INFO -    Headline: aesthetik - Moneycontrol - Moneycontrol...
+2025-10-23 13:54:05,976 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 13:54:05,977 - INFO -    Recommendation: STRONG BUY
+2025-10-23 13:54:05,977 - INFO - 
+[48/50] Processing AGARWALFT...
+2025-10-23 13:54:05,977 - INFO - 📰 Fetching news for AGARWALFT (last 24h)
+2025-10-23 13:54:07,158 - INFO - ✅ Found 0 recent articles for AGARWALFT
+2025-10-23 13:54:07,159 - INFO - 
+[49/50] Processing AGNI...
+2025-10-23 13:54:07,160 - INFO - 📰 Fetching news for AGNI (last 24h)
+2025-10-23 13:54:11,190 - INFO - ✅ Found 0 recent articles for AGNI
+2025-10-23 13:54:11,191 - INFO - 
+[50/50] Processing AGROPHOS...
+2025-10-23 13:54:11,191 - INFO - 📰 Fetching news for AGROPHOS (last 24h)
+2025-10-23 13:54:12,696 - INFO - ✅ Found 0 recent articles for AGROPHOS
+2025-10-23 13:54:12,696 - INFO - 
+✅ Collection complete!
+2025-10-23 13:54:12,697 - INFO -    Total articles: 24
+2025-10-23 13:54:12,697 - INFO -    Successfully analyzed: 24
+2025-10-23 13:54:12,699 - INFO - ✅ Results saved to: realtime_ai_analysis_20251023_135232.csv
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+3. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+4. ABAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. ACCORD - Score: 99.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 5
+
+3. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+4. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. ABAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+====================================================================================================
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. EXCEL - Score: 99.2/100
+   Sentiment: NEUTRAL | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 6
+
+2. ACCORD - Score: 99.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 5
+
+3. BLUECHIP - Score: 98.8/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 4
+
+4. IEL - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+5. ABAN - Score: 97.5/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 2
+
+6. ACL - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+7. MEP - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+8. UMAEXPORTS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+9. AAKASH - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+10. AESTHETIK - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 24
+   Results saved: realtime_ai_analysis_20251023_135232.csv

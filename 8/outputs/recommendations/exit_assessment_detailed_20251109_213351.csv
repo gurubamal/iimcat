@@ -1,0 +1,4 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+RELIANCE,HOLD,STRONG HOLD,1,75,8,NONE,0,0,20,0,25.0,,"STRONG HOLD. All key technical indicators remain constructive: price above both moving averages, golden cross intact, RSI in healthy zone, and price near recent highs. Minor volume weakness and short-"
+TCS,HOLD,STRONG HOLD,1,75,8,NONE,0,0,20,0,38.0,,"HOLD recommendation based on purely technical assessment. While price shows short-term weakness (below 20/50 DMAs, negative 10-day momentum), there are no critical breakdown signals. RSI neutral, long"
+INFY,HOLD,STRONG HOLD,1,75,0,NONE,0,0,20,0,25.0,,"STRONG HOLD. Price firmly above key moving averages with healthy volume and intact multi-timeframe uptrend. Minor 10-day momentum pullback (-1.84%) is normal consolidation, not breakdown. No technical"

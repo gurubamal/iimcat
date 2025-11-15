@@ -1,0 +1,28 @@
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : TVS Motor, Maruti among 5 auto stocks that hit 52-week highs & rallied up to 22% in a month 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-09T12:37:41
+Fetched : 2025-09-10T01:25:13.311561
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-maruti-among-5-auto-stocks-that-hit-52-week-highs-amp-rallied-up-to-22-in-a-month/slideshow/123787231.cms
+--------------------------------------------------------------------------------
+On Tuesday, the benchmark Sensex surged by about 314 points, closing at 81,101. Fueled by a broad-based market rally, five stocks from the BSE Auto index surged to their 52-week highs — marking their highest levels in a year. These breakouts are often viewed by traders and investors as bullish signals, indicating strong upward momentum and the potential for further upside.
+TIL Creatives
+2/6
+Maruti Suzuki India | New 52-week high: Rs 15380| CMP: Rs 15326.4. In the last one month stock has gained about 22%.
+ETMarkets.com
+3/6
+Eicher Motors | New 52-week high: Rs 6938.45| CMP: Rs 6895. In the last one month stock has gained about 22%.
+Agencies
+4/6
+TVS Motor Company | New 52-week high: Rs 3605.55| CMP: Rs 3571.1. In the last one month stock has gained about 20%.
+ANI
+5/6
+Mahindra & Mahindra | New 52-week high: Rs 3723| CMP: Rs 3696.4. In the last one month stock has gained about 17%.
+ANI
+6/6
+Bosch | New 52-week high: Rs 41798.45| CMP: Rs 41440.05. In the last one month stock has gained about 8%.
+

@@ -1,0 +1,356 @@
+{
+  "generated_at": "2025-10-14T09:30:55.247515",
+  "qualified_stocks": [
+    {
+      "ticker": "RETAIL",
+      "status": "QUALIFIED",
+      "certainty_score": 95.0,
+      "certainty_reasons": "SPECIFIC_AMOUNT,VERY_RECENT,HIGH_COVERAGE,MULTI_SOURCE,SPECIFIC_PERIOD,SPECIFIC_PERCENTAGE",
+      "sentiment_score": 0,
+      "magnitude_cr": 1000,
+      "market_cap_cr": 27.0,
+      "expected_rise_conservative": 50,
+      "expected_rise_aggressive": 100,
+      "rise_confidence": "LOW",
+      "current_price": 32.51,
+      "price_change_today": -2.72,
+      "articles_count": 3,
+      "headlines": [
+        "Apparel maker Cantabil Retail eyes reveues of \u20b91000 crore by FY27",
+        "Retail inflation slows to eight-year low\u00a0of 1.54% in September 2025",
+        "Retail inflation cools to 99-month low at 1.5% in September"
+      ]
+    },
+    {
+      "ticker": "PAR",
+      "status": "QUALIFIED",
+      "certainty_score": 85.0,
+      "certainty_reasons": "HIGH_COVERAGE,MULTI_SOURCE,SPECIFIC_AMOUNT,VERY_RECENT",
+      "sentiment_score": 8,
+      "magnitude_cr": 165,
+      "market_cap_cr": 128.0,
+      "expected_rise_conservative": 46.3,
+      "expected_rise_aggressive": 92.5,
+      "rise_confidence": "LOW",
+      "current_price": 103.0,
+      "price_change_today": 0.84,
+      "articles_count": 5,
+      "headlines": [
+        "Ranjan Pai-backed Esencia Partners buys \u20b9165 crore Lavelle Road property",
+        "AI-powered fintech platform GoodScore raises $13 million in Series A funding led",
+        "EQT scraps Zelestra India sale, brings in O2's Parag Sharma to lead $600 mn push"
+      ]
+    },
+    {
+      "ticker": "CANTABIL",
+      "status": "QUALIFIED",
+      "certainty_score": 48.0,
+      "certainty_reasons": "SPECIFIC_AMOUNT,SPECIFIC_PERIOD,VERY_RECENT",
+      "sentiment_score": 0,
+      "magnitude_cr": 1000,
+      "market_cap_cr": 2061.0,
+      "expected_rise_conservative": 17.5,
+      "expected_rise_aggressive": 34.9,
+      "rise_confidence": "LOW",
+      "current_price": 241.5,
+      "price_change_today": 0.15,
+      "articles_count": 1,
+      "headlines": [
+        "Apparel maker Cantabil Retail eyes reveues of \u20b91000 crore by FY27"
+      ]
+    },
+    {
+      "ticker": "CHANDAN",
+      "status": "QUALIFIED",
+      "certainty_score": 47.0,
+      "certainty_reasons": "NAMED_AUTHORITY,SPECIFIC_AMOUNT,VERY_RECENT",
+      "sentiment_score": 8,
+      "magnitude_cr": 104,
+      "market_cap_cr": 0,
+      "expected_rise_conservative": 0,
+      "expected_rise_aggressive": 0,
+      "rise_confidence": "UNKNOWN",
+      "current_price": 0,
+      "price_change_today": 0,
+      "articles_count": 1,
+      "headlines": [
+        "Chandan Healthcare board approves \u20b9104 crore fund raise via preferential issue"
+      ]
+    },
+    {
+      "ticker": "TRU",
+      "status": "QUALIFIED",
+      "certainty_score": 75.0,
+      "certainty_reasons": "SPECIFIC_PERCENTAGE,MULTI_SOURCE,VERY_RECENT,HIGH_COVERAGE",
+      "sentiment_score": 8,
+      "magnitude_cr": 0,
+      "market_cap_cr": 125.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 10.0,
+      "price_change_today": 0.6,
+      "articles_count": 3,
+      "headlines": [
+        "Dow Jones soars 500 points, Nasdaq, S&P 500 up 1% after Trump cools rhetoric on ",
+        "Divisions aside, Tata Trusts keen to keep Tata Sons private",
+        "Bitcoin recovers 12% from weekend lows, Ethereum reclaims over $4,100 level post"
+      ]
+    },
+    {
+      "ticker": "ITI",
+      "status": "QUALIFIED",
+      "certainty_score": 47.0,
+      "certainty_reasons": "DUAL_COVERAGE,MULTI_SOURCE,VERY_RECENT",
+      "sentiment_score": 0,
+      "magnitude_cr": 0,
+      "market_cap_cr": 32593.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 338.2,
+      "price_change_today": -0.66,
+      "articles_count": 2,
+      "headlines": [
+        "NITI Aayog releases report on deep-sea fisheries, asks govt to have dedicated sc",
+        "US tariffs severely hit India's textile exporters; industry seeks moratorium, ra"
+      ]
+    },
+    {
+      "ticker": "CONS",
+      "status": "QUALIFIED",
+      "certainty_score": 80.0,
+      "certainty_reasons": "SPECIFIC_AMOUNT,DUAL_COVERAGE,VERY_RECENT,MULTI_SOURCE,SPECIFIC_PERIOD,SPECIFIC_PERCENTAGE",
+      "sentiment_score": 10,
+      "magnitude_cr": 4235,
+      "market_cap_cr": 0,
+      "expected_rise_conservative": 0,
+      "expected_rise_aggressive": 0,
+      "rise_confidence": "UNKNOWN",
+      "current_price": 125.81,
+      "price_change_today": 0,
+      "articles_count": 2,
+      "headlines": [
+        "HCL Technologies Q2 Results: Cons PAT flat at Rs 4,235 crore, revenue up 11% YoY",
+        "India-Japan work pact to send 50,000 skilled professionals to Japan: Consul-Gene"
+      ]
+    },
+    {
+      "ticker": "IT",
+      "status": "QUALIFIED",
+      "certainty_score": 65.0,
+      "certainty_reasons": "SPECIFIC_PERCENTAGE,MULTI_SOURCE,VERY_RECENT,HIGH_COVERAGE",
+      "sentiment_score": 14,
+      "magnitude_cr": 0,
+      "market_cap_cr": 0,
+      "expected_rise_conservative": 0,
+      "expected_rise_aggressive": 0,
+      "rise_confidence": "UNKNOWN",
+      "current_price": 38.76,
+      "price_change_today": 0.83,
+      "articles_count": 7,
+      "headlines": [
+        "US tariffs severely hit India's textile exporters; industry seeks moratorium, ra",
+        "NITI Aayog releases report on deep-sea fisheries, asks govt to have dedicated sc",
+        "Italian asset managers net inflows up 70% y/y in September"
+      ]
+    },
+    {
+      "ticker": "PEL",
+      "status": "QUALIFIED",
+      "certainty_score": 47.0,
+      "certainty_reasons": "DUAL_COVERAGE,MULTI_SOURCE,VERY_RECENT",
+      "sentiment_score": 0,
+      "magnitude_cr": 0,
+      "market_cap_cr": 25528.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 1124.2,
+      "price_change_today": 0,
+      "articles_count": 2,
+      "headlines": [
+        "Hero MotoCorp enters Italian market with Pelpi International",
+        "Hero MotoCorp enters Italy; ties up with Pelpi International for sales support"
+      ]
+    },
+    {
+      "ticker": "SUPREME",
+      "status": "QUALIFIED",
+      "certainty_score": 65.0,
+      "certainty_reasons": "SPECIFIC_PERCENTAGE,MULTI_SOURCE,VERY_RECENT,HIGH_COVERAGE",
+      "sentiment_score": -13,
+      "magnitude_cr": 0,
+      "market_cap_cr": 375.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 95.0,
+      "price_change_today": 0.22,
+      "articles_count": 3,
+      "headlines": [
+        "Karur stampede: Supreme Court's order for CBI probe can be cancelled, says DMK",
+        "Vodafone Idea shares slide 2% after Supreme Court defers AGR plea hearing",
+        "Supreme Court refuses to hear Asian Paints\u2019 plea against competition commission "
+      ]
+    },
+    {
+      "ticker": "TECH",
+      "status": "QUALIFIED",
+      "certainty_score": 95.0,
+      "certainty_reasons": "SPECIFIC_AMOUNT,VERY_RECENT,HIGH_COVERAGE,MULTI_SOURCE,SPECIFIC_PERIOD,SPECIFIC_PERCENTAGE",
+      "sentiment_score": 34,
+      "magnitude_cr": 4235,
+      "market_cap_cr": 0,
+      "expected_rise_conservative": 0,
+      "expected_rise_aggressive": 0,
+      "rise_confidence": "UNKNOWN",
+      "current_price": 37.98,
+      "price_change_today": 1.06,
+      "articles_count": 7,
+      "headlines": [
+        "HCL Technologies Q2 Results: Cons PAT flat at Rs 4,235 crore, revenue up 11% YoY",
+        "HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first",
+        "HCLTech reports steady Q2 performance amid auto sector slowdown; AI, new booking"
+      ]
+    },
+    {
+      "ticker": "TI",
+      "status": "QUALIFIED",
+      "certainty_score": 47.0,
+      "certainty_reasons": "DUAL_COVERAGE,MULTI_SOURCE,VERY_RECENT",
+      "sentiment_score": 0,
+      "magnitude_cr": 0,
+      "market_cap_cr": 9531.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 457.4,
+      "price_change_today": 0.95,
+      "articles_count": 2,
+      "headlines": [
+        "NITI Aayog releases report on deep-sea fisheries, asks govt to have dedicated sc",
+        "US tariffs severely hit India's textile exporters; industry seeks moratorium, ra"
+      ]
+    },
+    {
+      "ticker": "WEALTH",
+      "status": "QUALIFIED",
+      "certainty_score": 43.0,
+      "certainty_reasons": "SPECIFIC_PERCENTAGE,SPECIFIC_PERIOD,VERY_RECENT",
+      "sentiment_score": 8,
+      "magnitude_cr": 0,
+      "market_cap_cr": 1286.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 1206.5,
+      "price_change_today": 1.09,
+      "articles_count": 1,
+      "headlines": [
+        "Anand Rathi Wealth\u00a0Q2 profit surges 31%"
+      ]
+    },
+    {
+      "ticker": "IDEA",
+      "status": "QUALIFIED",
+      "certainty_score": 65.0,
+      "certainty_reasons": "SPECIFIC_PERCENTAGE,MULTI_SOURCE,VERY_RECENT,HIGH_COVERAGE",
+      "sentiment_score": -8,
+      "magnitude_cr": 0,
+      "market_cap_cr": 96932.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 8.64,
+      "price_change_today": -1.03,
+      "articles_count": 3,
+      "headlines": [
+        "Vodafone Idea shares slide 2% after Supreme Court defers AGR plea hearing",
+        "Vodafone Idea case deferred a fourth time\u2014to be taken up after Diwali. Shares fa",
+        "SC defers till Oct 27 hearing on plea of Vodafone Idea for quashing additional A"
+      ]
+    },
+    {
+      "ticker": "LT",
+      "status": "QUALIFIED",
+      "certainty_score": 63.0,
+      "certainty_reasons": "DUAL_COVERAGE,MULTI_SOURCE,SPECIFIC_PERIOD,VERY_RECENT",
+      "sentiment_score": 6,
+      "magnitude_cr": 0,
+      "market_cap_cr": 521402.0,
+      "expected_rise_conservative": 0.0,
+      "expected_rise_aggressive": 0.0,
+      "rise_confidence": "LOW",
+      "current_price": 3776.5,
+      "price_change_today": 0.19,
+      "articles_count": 2,
+      "headlines": [
+        "HCLTech reports fastest Q2 growth in five years, calls AI revenue in a first",
+        "HCLTech reports steady Q2 performance amid auto sector slowdown; AI, new booking"
+      ]
+    }
+  ],
+  "rejected_stocks": [
+    {
+      "ticker": "BIL",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: GENERIC_NO_NUMBERS",
+      "articles": 2
+    },
+    {
+      "ticker": "ACC",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 1
+    },
+    {
+      "ticker": "ATL",
+      "status": "REJECTED",
+      "reason": "LOW_MAGNITUDE: 10cr < 50cr",
+      "articles": 1
+    },
+    {
+      "ticker": "SCI",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 1
+    },
+    {
+      "ticker": "SIL",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 5
+    },
+    {
+      "ticker": "SILVER",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 5
+    },
+    {
+      "ticker": "ONGC",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 2
+    },
+    {
+      "ticker": "RELIANCE",
+      "status": "REJECTED",
+      "reason": "LOW_MAGNITUDE: 1cr < 50cr",
+      "articles": 3
+    },
+    {
+      "ticker": "TCS",
+      "status": "REJECTED",
+      "reason": "FAKE_RALLY: SPECULATION_LOW_MAGNITUDE",
+      "articles": 2
+    }
+  ],
+  "statistics": {
+    "total_qualified": 15,
+    "total_rejected": 9,
+    "avg_certainty": 64.5,
+    "avg_expected_rise": 7.6
+  }
+}

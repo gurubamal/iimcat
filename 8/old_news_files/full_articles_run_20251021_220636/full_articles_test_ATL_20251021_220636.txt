@@ -1,0 +1,15 @@
+Full Article Fetch Test - ATL
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-21): 91.05M
+
+Title   : OpenAI launches ChatGPT Atlas browser for Mac, to rival Google Chrome soon
+Source  : www.thehindubusinessline.com
+Published: 2025-10-21T17:41:21
+Fetched : 2025-10-21T22:34:20.303741
+URL     : https://www.thehindubusinessline.com/info-tech/openai-launches-chatgpt-atlas-browser-for-mac-to-rival-google-chrome-soon/article70187692.ece
+--------------------------------------------------------------------------------
+OpenAI launches ChatGPT Atlas browser for Mac, to rival Google Chrome soon The browser is now available globally on macOS , with Windows, iOS, and Android versions coming soon By  Reuters Updated - October 21, 2025  at 11:17 PM. × Share WhatsApp X Facebook LinkedIn Messenger Reddit Mail https://www.thehindubusinessline.com/info-tech/openai-launches-chatgpt-atlas-browser-for-mac-to-rival-google-chrome-soon/article70187692.ece Copy Backed by Microsoft, OpenAI’s move positions Atlas as a direct challenger to Google Chrome, the current market leader
+																															| Photo Credit:
+											Dado Ruvic OpenAI on Tuesday launched ChatGPT Atlas, an AI-powered web browser built around its chatbot. The browser is now available globally on Apple’s macOS. It will soon be made available on Windows, iOS and Android. Reuters had in July reported the AI startup, backed by Microsoft, was close to releasing an AI-powered web browser that will challenge Alphabet’s market-dominating Google Chrome. Meet our new browser—ChatGPT Atlas. Available today on macOS: https://t.co/UFKSQXvwHT pic.twitter.com/AakZyUk2BV — OpenAI (@OpenAI) October 21, 2025 Comments Published on  October 21, 2025 READ MORE THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS. THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS. THIS AD SUPPORTS OUR JOURNALISM. SUBSCRIBE FOR MINIMAL ADS.
+

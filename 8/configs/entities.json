@@ -1,0 +1,22 @@
+{
+  "APOLLO": {
+    "exclude_phrases": ["apollo fund", "apollo funds", "apollo global management"],
+    "remap_when": {
+      "apollo hospitals|hospitals?": "APOLLOHOSP",
+      "apollo tyres|tyres?": "APOLLOTYRE"
+    }
+  },
+  "ACC": {
+    "exclude_phrases": ["dev accelerator", "accelerator ipo", "devx accelerator", "devx"],
+    "require_any": ["acc ltd", "acc limited", "acc cement"]
+  },
+  "GLOBAL": {
+    "remap_to": "HCG",
+    "require_any": ["healthcare global", "hcg"]
+  },
+  "STAR": {
+    "require_any": ["strides", "strides pharma", "strides pharma science"],
+    "remap_to": "STAR"
+  }
+  
+}

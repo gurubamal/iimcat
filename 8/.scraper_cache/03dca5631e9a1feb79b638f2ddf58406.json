@@ -1,0 +1,46 @@
+{
+  "ticker": "SUNDARAM",
+  "fetch_time": "2025-11-13T08:32:19.809051",
+  "dividends": [
+    {
+      "description": "Annual General Meeting / Dividend - Re 0.01/- Per Share",
+      "ex_date": "23-Sep-2014",
+      "ex_date_parsed": "2014-09-23T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Re 0.10/- Per Share",
+      "ex_date": "19-Sep-2013",
+      "ex_date_parsed": "2013-09-19T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend Re 0.20 Per Share",
+      "ex_date": "20-Sep-2012",
+      "ex_date_parsed": "2012-09-20T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Re.0.20 Per Share",
+      "ex_date": "22-Sep-2011",
+      "ex_date_parsed": "2011-09-22T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Re.0.20 Per Share",
+      "ex_date": "26-Aug-2010",
+      "ex_date_parsed": "2010-08-26T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [
+    {
+      "description": "Bonus 2:1",
+      "ex_date": "13-Apr-2012",
+      "ex_date_parsed": "2012-04-13T00:00:00",
+      "ratio": "2:1"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

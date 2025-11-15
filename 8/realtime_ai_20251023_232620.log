@@ -1,0 +1,114 @@
+2025-10-23 23:26:25,139 - INFO - ✅ Frontier AI components loaded
+2025-10-23 23:26:25,145 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-23 23:26:25,149 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-23 23:26:25,149 - INFO -    Time window: 24 hours
+2025-10-23 23:26:25,150 - INFO -    Max articles per ticker: 10
+2025-10-23 23:26:25,151 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-23 23:26:25,157 - INFO - 📰 Fetching news for 21STCENMGM (last 24h)
+2025-10-23 23:26:32,818 - INFO - ✅ Found 0 recent articles for 21STCENMGM
+2025-10-23 23:26:32,839 - INFO - [2/50] Processing A2ZINFRA...
+2025-10-23 23:26:32,860 - INFO - 📰 Fetching news for A2ZINFRA (last 24h)
+2025-10-23 23:26:35,401 - INFO - ✅ Found 1 recent articles for A2ZINFRA
+2025-10-23 23:26:35,402 - INFO - 🔍 INSTANT ANALYSIS: A2ZINFRA
+2025-10-23 23:26:35,402 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:26:35,448 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:35,450 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:35,450 - INFO - [3/50] Processing ACL...
+2025-10-23 23:26:35,450 - INFO - 📰 Fetching news for ACL (last 24h)
+2025-10-23 23:26:37,557 - INFO - ✅ Found 2 recent articles for ACL
+2025-10-23 23:26:37,560 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:26:37,561 - INFO -    Headline: �f� ANDHRA CEMENTS LIMITED - bsmedia.business-standard.com...
+2025-10-23 23:26:37,586 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:37,589 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:37,589 - INFO - 🔍 INSTANT ANALYSIS: ACL
+2025-10-23 23:26:37,589 - INFO -    Headline: Chelsea vs Ajax: Who will win Champions League clash? AI predictions, confirmed ...
+2025-10-23 23:26:37,623 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:37,643 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:37,658 - INFO - [4/50] Processing AGSTRA...
+2025-10-23 23:26:37,660 - INFO - 📰 Fetching news for AGSTRA (last 24h)
+2025-10-23 23:26:39,690 - INFO - ✅ Found 0 recent articles for AGSTRA
+2025-10-23 23:26:39,694 - INFO - [5/50] Processing ANSALAPI...
+2025-10-23 23:26:39,694 - INFO - 📰 Fetching news for ANSALAPI (last 24h)
+2025-10-23 23:26:40,320 - INFO - ✅ Found 0 recent articles for ANSALAPI
+2025-10-23 23:26:40,322 - INFO - [6/50] Processing BLUECHIP...
+2025-10-23 23:26:40,322 - INFO - 📰 Fetching news for BLUECHIP (last 24h)
+2025-10-23 23:26:42,090 - INFO - ✅ Found 1 recent articles for BLUECHIP
+2025-10-23 23:26:42,090 - INFO - 🔍 INSTANT ANALYSIS: BLUECHIP
+2025-10-23 23:26:42,090 - INFO -    Headline: Microsoft Azure, Galleri5 partner to drive AI leap in filmmaking - The Economic ...
+2025-10-23 23:26:42,091 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:42,091 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:42,091 - INFO - [7/50] Processing DHARAN...
+2025-10-23 23:26:42,091 - INFO - 📰 Fetching news for DHARAN (last 24h)
+2025-10-23 23:26:43,705 - INFO - ✅ Found 2 recent articles for DHARAN
+2025-10-23 23:26:43,705 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:26:43,705 - INFO -    Headline: Advance Chart - Moneycontrol - Moneycontrol...
+2025-10-23 23:26:43,706 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:43,706 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:43,706 - INFO - 🔍 INSTANT ANALYSIS: DHARAN
+2025-10-23 23:26:43,706 - INFO -    Headline: India-UN Development Partnership Fund empowers 10 Pacific nations through solar ...
+2025-10-23 23:26:43,710 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:43,710 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:43,710 - INFO - [8/50] Processing EXCEL...
+2025-10-23 23:26:43,710 - INFO - 📰 Fetching news for EXCEL (last 24h)
+2025-10-23 23:26:45,125 - INFO - ✅ Found 3 recent articles for EXCEL
+2025-10-23 23:26:45,128 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:26:45,130 - INFO -    Headline: Unilever's India arm posts profit rise on strong beauty products demand - ET CFO...
+2025-10-23 23:26:45,136 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:45,136 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:45,142 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:26:45,144 - INFO -    Headline: Man with 150+ Degrees: Prof. Parthiban spends 90% of his salary on studies — all...
+2025-10-23 23:26:45,151 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:45,153 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:45,153 - INFO - 🔍 INSTANT ANALYSIS: EXCEL
+2025-10-23 23:26:45,153 - INFO -    Headline: Horoscope Today, October 23, 2025: Job, Business and Money Predictions for Every...
+2025-10-23 23:26:45,159 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:45,159 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:45,160 - INFO - [9/50] Processing FEL...
+2025-10-23 23:26:45,160 - INFO - 📰 Fetching news for FEL (last 24h)
+2025-10-23 23:26:47,774 - INFO - ✅ Found 1 recent articles for FEL
+2025-10-23 23:26:47,775 - INFO - 🔍 INSTANT ANALYSIS: FEL
+2025-10-23 23:26:47,776 - INFO -    Headline: Trump’s Russian oil sanctions gambit will test his tolerance for pain - Reuters...
+2025-10-23 23:26:47,784 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:47,791 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:47,807 - INFO - [10/50] Processing GVKPIL...
+2025-10-23 23:26:47,808 - INFO - 📰 Fetching news for GVKPIL (last 24h)
+2025-10-23 23:26:50,817 - INFO - ✅ Found 0 recent articles for GVKPIL
+2025-10-23 23:26:50,819 - INFO - [11/50] Processing IEL...
+2025-10-23 23:26:50,819 - INFO - 📰 Fetching news for IEL (last 24h)
+2025-10-23 23:26:52,697 - INFO - ✅ Found 2 recent articles for IEL
+2025-10-23 23:26:52,698 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 23:26:52,699 - INFO -    Headline: IEL - Moneycontrol - Moneycontrol...
+2025-10-23 23:26:52,701 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:52,702 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:52,703 - INFO - 🔍 INSTANT ANALYSIS: IEL
+2025-10-23 23:26:52,704 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:26:52,705 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:52,706 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:52,707 - INFO - [12/50] Processing ITTL...
+2025-10-23 23:26:52,708 - INFO - 📰 Fetching news for ITTL (last 24h)
+2025-10-23 23:26:55,519 - INFO - ✅ Found 0 recent articles for ITTL
+2025-10-23 23:26:55,530 - INFO - [13/50] Processing KRISHIVAL...
+2025-10-23 23:26:55,534 - INFO - 📰 Fetching news for KRISHIVAL (last 24h)
+2025-10-23 23:26:57,709 - INFO - ✅ Found 1 recent articles for KRISHIVAL
+2025-10-23 23:26:57,713 - INFO - 🔍 INSTANT ANALYSIS: KRISHIVAL
+2025-10-23 23:26:57,714 - INFO -    Headline: Reliance Industries Mutual Fund Share Holding | RELIANCE Mutual Fund Exposure - ...
+2025-10-23 23:26:57,755 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:26:57,801 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:26:57,812 - INFO - [14/50] Processing MANUGRAPH...
+2025-10-23 23:26:57,819 - INFO - 📰 Fetching news for MANUGRAPH (last 24h)
+2025-10-23 23:27:01,718 - INFO - ✅ Found 0 recent articles for MANUGRAPH
+2025-10-23 23:27:01,719 - INFO - [15/50] Processing MEP...
+2025-10-23 23:27:01,720 - INFO - 📰 Fetching news for MEP (last 24h)
+2025-10-23 23:27:04,913 - INFO - ✅ Found 1 recent articles for MEP
+2025-10-23 23:27:04,933 - INFO - 🔍 INSTANT ANALYSIS: MEP
+2025-10-23 23:27:04,950 - INFO -    Headline: Why did Garuda Construction share price zoom 9% in trade today? Find here - Busi...
+2025-10-23 23:27:04,952 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-23 23:27:04,953 - INFO -    Recommendation: STRONG BUY
+2025-10-23 23:27:04,954 - INFO - [16/50] Processing MVKAGRO...
+2025-10-23 23:27:04,954 - INFO - 📰 Fetching news for MVKAGRO (last 24h)
+2025-10-23 23:27:06,848 - INFO - ✅ Found 0 recent articles for MVKAGRO
+2025-10-23 23:27:06,849 - INFO - [17/50] Processing NORBTEAEXP...
+2025-10-23 23:27:06,850 - INFO - 📰 Fetching news for NORBTEAEXP (last 24h)
+2025-10-23 23:27:07,629 - INFO - ✅ Found 0 recent articles for NORBTEAEXP
+2025-10-23 23:27:07,630 - INFO - [18/50] Processing ORTINGLOBE...
+2025-10-23 23:27:07,630 - INFO - 📰 Fetching news for ORTINGLOBE (last 24h)

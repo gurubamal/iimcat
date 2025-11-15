@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+WORTH,WORTH PERIPHERALS LIMITED,25.8,15,1,Certainty 15% below threshold (40%),Projects worth ₹1.78 lakh crore to be launched by Dec: Assam CM,"This news article discusses Assam state government infrastructure projects worth ₹1.78 lakh crore, with specific mentions of Medanta Hospital, Cocoon "

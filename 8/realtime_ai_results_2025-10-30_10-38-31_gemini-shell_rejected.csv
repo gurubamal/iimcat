@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+MARUTI,MARUTI SUZUKI INDIA LIMITED,33.6,30,1,Certainty 30% below threshold (40%),"Maruti Suzuki Q2 results preview: Profit seen rising 18% YoY on higher exports, ",No relevant information found from Google Search.

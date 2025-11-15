@@ -1,0 +1,15 @@
+{
+  "ticker": "SAGILITY",
+  "fetch_time": "2025-11-13T23:01:18.652178",
+  "dividends": [
+    {
+      "description": "Interim Dividend - Re 0.05 Per Share",
+      "ex_date": "12-Nov-2025",
+      "ex_date_parsed": "2025-11-12T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

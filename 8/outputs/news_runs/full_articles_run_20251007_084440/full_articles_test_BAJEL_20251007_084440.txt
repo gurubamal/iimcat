@@ -1,0 +1,19 @@
+Full Article Fetch Test - BAJEL
+================================================================================
+
+(skipped: outside allowed sources) Title: Si Reporter/undefined - Read all News, Stories, Videos and Photos from Si Reporter/undefined - Business Standard
+URL     : https://news.google.com/rss/articles/CBMiekFVX3lxTE5fbVVfX0RWRTVsb2l1WmFvN19hWExTTGwweHBoVWh6VDlYM0RFMEdJM0NZTU1EbVlyT0QwbDNEZkhrcXd1QjZfMWxBSkhwcXBhVjVJTV9uOFhkSnQ0S3YwVjJ3d21xQ1pTalNzZmxGNmlmbGhZXzd6VWFn?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Si Reporter/undefined - Read all News, Stories, Videos and Photos from Si Reporter/undefined - Business Standard
+URL     : https://news.google.com/rss/articles/CBMiekFVX3lxTE1qMmpCNkhfbmtFSU80RndaOTN2OGZCLTNPWnRubHowem9BM0REWGg0WXZSZUl1VXhWWUZodzNGcWxUUXJPSjlWZU5zbXBGd0VOQk1MLW82M1VFOFhVMnhEVFJ5eE83VWJZM0NFOXJqanFDelROWldNMF9n?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Si Reporter/undefined - Read all News, Stories, Videos and Photos from Si Reporter/undefined - Business Standard
+URL     : https://news.google.com/rss/articles/CBMiekFVX3lxTE51QUU4QUpmcnJGVXVPeFJfbnlYOWR3Q3M5WW5xTUZpa184UjhUb1FCZFl5c1VMS2N3T3l4MUc2ZVZHUHVRSkxYSnpDRHZRQjZPcFh0amJkR0RBWklLZFlXZ0JWX1FvSW5MOTFUajZFdGhwX2hUQkg5SnNR?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Share Market Today | Latest Stock Market News, Sensex Today and Nifty Live Updates - Business Standard
+URL     : https://news.google.com/rss/articles/CBMitAFBVV95cUxOZEZ3TWlRczFDaTVqMkR1YWI3clRUN041eEE5akdYaHdSUFhyX3cyQmZvN09sUWVPdGJnVXk0dFVBYlU2RnRsbVUzZzBEZ04yM2pHYTdUWFJDTXgxeTFxUllITnhjTW1RbF9YNTE2ZDU3dW14ZEtoM2ZESVRfdFdqNU1QSHlZSFNFMVJSX2RQN1o0Sms0TXhTWFZZSERCSGNvYWljcGVXd3dmNWI2M1NaMVdoSlI?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+(skipped: outside allowed sources) Title: Dynamatic Technology Mutual Fund Share Holding | DYNAMATECH Mutual Fund Exposure - Mint
+URL     : https://news.google.com/rss/articles/CBMikwFBVV95cUxNYU5WRXFqNlA3M1lXREl4azl6X1puVTU2VHBJWndlWnJ1cE0tLS10a1JTZnpXUzdCVXZsMWx1TjhLMFRrZl81SmRqN1l5Q3pSNFlPQ2lXb0tUUmk5WDlDUFJDMTh2OFd6RXNRb1o1R3doZ3dEZHhMNXdhVGdjeG53X0JYMjNBdUtyTlJfelN1bjkxbjg?oc=5&hl=en-IN&gl=IN&ceid=IN:en
+
+No full-length articles saved (all items too short or blocked).

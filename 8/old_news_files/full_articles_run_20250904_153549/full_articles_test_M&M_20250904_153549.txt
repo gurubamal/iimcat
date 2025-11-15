@@ -1,0 +1,21 @@
+Full Article Fetch Test - M&M
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-04
+
+Title   : M&M surges 6% as GST rate cuts boost auto sector sentiment 
+Source  : www.thehindubusinessline.com
+Published: 2025-09-04T09:47:08
+Fetched : 2025-09-04T16:05:37.802635
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/mm-surges-6-as-gst-rate-cuts-boost-auto-sector-sentiment/article70011525.ece
+--------------------------------------------------------------------------------
+Mahindra & Mahindra emerged as the top gainer in the Nifty 50 during afternoon trading on Thursday, surging 6 per cent to ₹3,483.30, as the government’s GST rate rationalisation announcement triggered a broad rally in consumption-linked stocks.
+The auto major led a pack of gainers that included Bajaj Finance (4.01 per cent at ₹932.25), Apollo Hospitals (2.17 per cent at ₹7,904), Bajaj Finserv (2.02 per cent at ₹2,005.80), and Nestle India (1.48 per cent at ₹1,212.50). The rally came after the GST Council approved a simplified two-tier structure with rates at 5 per cent and 18 per cent, effective September 22.
+Industry executives welcomed the move as transformative for consumption. Nilesh Shah of Kotak Mahindra AMC called the ₹48,000 crore revenue sacrifice “fiscally manageable” and a “Diwali gift.” Dr. Anish Shah, CEO of Mahindra Group, termed it a “defining moment” that would simplify compliance and boost affordability across sectors including automobiles, healthcare, and MSMEs.
+The reforms are expected to particularly benefit the auto sector by making tractors and farm machinery more affordable for farmers while reducing costs for commercial vehicles. Rajesh Jejurikar, Executive Director of Mahindra’s Auto and Farm Sector, highlighted that the measures would stimulate demand across the entire automotive ecosystem.
+However, not all stocks participated in the rally. Tata Consumer Products declined 2.71 per cent to ₹1,074.50, while HDFC Life dropped 2.15 per cent to ₹759.75. Power Grid fell 1.70 per cent to ₹281.20, Maruti Suzuki slipped 1.58 per cent to ₹14,691, and BEL declined 1.54 per cent to ₹372.85.
+Analysts from UBS, Goldman Sachs, and CLSA highlighted that the GST cuts would boost consumption across FMCG, durables, cement, and insurance sectors. CLSA estimated the consumption boost would equal 30 basis points of GDP, while Citi projected the reforms could lower inflation by 1.1 percentage points assuming full pass-through to consumers.
+The mixed market performance reflected sector-specific impacts, with consumption-oriented stocks gaining while some defensive and infrastructure plays faced selling pressure during the afternoon session.
+More Like This
+Published on September 4, 2025
+

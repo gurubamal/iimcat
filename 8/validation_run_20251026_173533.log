@@ -1,0 +1,225 @@
+
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║       🤖 COMPLETE AI ANALYSIS: News + Quant                        ║
+║                                                                    ║
+║       AI analyzes: News • Volume • Momentum • Impact Ratio        ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+
+✅ Cursor CLI: /home/vagrant/.local/bin/cursor
+✅ Enhanced bridge: cursor_cli_bridge_enhanced.py
+
+📋 Configuration:
+   AI Provider:     Cursor Agent (Enhanced)
+   Bridge:          cursor_cli_bridge_enhanced.py
+   Batch Size:      5 stocks at a time
+   Max AI Calls:    60
+   Tickers:         top10_nifty.txt
+   Time Window:     48h
+
+📊 What AI Analyzes:
+   ✅ News impact (headline, content, deal size)
+   ✅ Volume deviations (spike = confirmation)
+   ✅ Momentum (3d, 20d, 60d trends)
+   ✅ Technical indicators (RSI, ATR)
+   ✅ Impact ratio (deal size vs market cap)
+
+🎯 Scoring Logic:
+   • Base score from news quality
+   • +20 points if volume spike confirms news
+   • +15 points if positive momentum
+   • +10 points if deal > 5% of market cap
+   • +5 points if technical setup supports move
+
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║       🤖 REAL-TIME AI NEWS ANALYZER                                        ║
+║                                                                            ║
+║       Instant analysis • Claude/Codex AI • Live ranking                    ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📋 Configuration:
+   Tickers file:      top10_nifty.txt
+   Hours back:        48
+   Stage1 articles:   10
+   Stage2 articles:   3
+   Refine top:        15 (legacy)
+   AI provider:       codex
+   AI max calls:      60
+   Sources:           reuters.com livemint.com economictimes.indiatimes.com business-standard.com moneycontrol.com thehindubusinessline.com financialexpress.com cnbctv18.com zeebiz.com
+   Final output:      realtime_ai_analysis_20251026_173534.csv
+
+🤖 AI Bridge Status:
+   ✅ AI shell bridge configured
+      CODEX_SHELL_CMD: python3 cursor_cli_bridge_enhanced.py
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 Verifying Prerequisites
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Python 3.10.12
+✅ All prerequisites satisfied
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 Stage 1: Heuristic scan for all tickers
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏱️  Started at: Sunday 26 October 2025 05:35:34 PM IST
+
+2025-10-26 17:35:34,534 - INFO - AI provider configured: Heuristic
+2025-10-26 17:35:35,066 - INFO - ✅ Frontier AI components loaded
+2025-10-26 17:35:35,066 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 17:35:40,100 - INFO - 🚀 Starting real-time collection + analysis for 10 tickers
+2025-10-26 17:35:40,100 - INFO -    Time window: 48 hours
+2025-10-26 17:35:40,100 - INFO -    Max articles per ticker: 10
+2025-10-26 17:35:40,100 - INFO - [1/10] Processing RELIANCE...
+2025-10-26 17:35:40,100 - INFO - 📰 Fetching news for RELIANCE (last 48h)
+2025-10-26 17:35:45,475 - INFO - ✅ Found 7 recent articles for RELIANCE
+2025-10-26 17:35:45,476 - INFO - ⏭️  SKIPPED RELIANCE: Market-wide ranking news (not company-specific)
+2025-10-26 17:35:45,476 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s
+2025-10-26 17:35:45,477 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 17:35:45,477 - INFO -    Headline: FIIs pull back, LIC and retail step in: Reliance Q2 shareholding pattern reveals
+2025-10-26 17:35:45,477 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 17:35:45,477 - INFO -    Headline:  Reliance snaps up Mideast oil after Russia sanctions
+2025-10-26 17:35:45,477 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 17:35:45,477 - INFO -    Headline: Facebook to hold 30% in Reliance’s AI venture; both companies to jointly invest ...
+2025-10-26 17:35:45,478 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 17:35:45,482 - INFO -    ✅ Score: 49.3 | Sentiment: bullish
+2025-10-26 17:35:45,483 - INFO -    Recommendation: ACCUMULATE
+2025-10-26 17:35:45,483 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 17:35:45,483 - INFO -    Headline: Reliance partners with Meta's Facebook to develop AI services, plans to set up 7
+2025-10-26 17:35:45,483 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 17:35:45,483 - INFO -    Headline: Jury is out on how big a hole will Russian oil leave in Reliance's margins
+2025-10-26 17:35:45,483 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 17:35:45,483 - INFO -    Headline: Reliance Industries says assessing implications of EU, UK, and US curbs on Russi
+2025-10-26 17:35:45,483 - INFO - [2/10] Processing TCS...
+2025-10-26 17:35:45,483 - INFO - 📰 Fetching news for TCS (last 48h)
+2025-10-26 17:35:46,317 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 17:35:46,317 - INFO - ⏭️  SKIPPED TCS: Market-wide ranking news (not company-specific)
+2025-10-26 17:35:46,317 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s
+2025-10-26 17:35:46,317 - INFO - [3/10] Processing HDFCBANK...
+2025-10-26 17:35:46,317 - INFO - 📰 Fetching news for HDFCBANK (last 48h)
+2025-10-26 17:35:47,764 - INFO - ℹ️  No recent news for HDFCBANK
+2025-10-26 17:35:47,764 - INFO - [4/10] Processing ICICIBANK...
+2025-10-26 17:35:47,764 - INFO - 📰 Fetching news for ICICIBANK (last 48h)
+2025-10-26 17:35:49,258 - INFO - ℹ️  No recent news for ICICIBANK
+2025-10-26 17:35:49,258 - INFO - [5/10] Processing INFY...
+2025-10-26 17:35:49,258 - INFO - 📰 Fetching news for INFY (last 48h)
+2025-10-26 17:35:50,571 - INFO - ℹ️  No recent news for INFY
+2025-10-26 17:35:50,572 - INFO - [6/10] Processing ITC...
+2025-10-26 17:35:50,572 - INFO - 📰 Fetching news for ITC (last 48h)
+2025-10-26 17:35:52,097 - INFO - ✅ Found 1 recent articles for ITC
+2025-10-26 17:35:52,098 - INFO - ⏭️  SKIPPED ITC: Upcoming event (not confirmed news)
+2025-10-26 17:35:52,098 - INFO -    Headline: Q2 results this week: Swiggy, Adani Green, ITC, L&T among 300-plus firms set to 
+2025-10-26 17:35:52,098 - INFO - [7/10] Processing SBIN...
+2025-10-26 17:35:52,098 - INFO - 📰 Fetching news for SBIN (last 48h)
+2025-10-26 17:35:53,544 - INFO - ℹ️  No recent news for SBIN
+2025-10-26 17:35:53,545 - INFO - [8/10] Processing BHARTIARTL...
+2025-10-26 17:35:53,545 - INFO - 📰 Fetching news for BHARTIARTL (last 48h)
+2025-10-26 17:35:55,125 - INFO - ℹ️  No recent news for BHARTIARTL
+2025-10-26 17:35:55,125 - INFO - [9/10] Processing MARUTI...
+2025-10-26 17:35:55,125 - INFO - 📰 Fetching news for MARUTI (last 48h)
+2025-10-26 17:35:56,478 - INFO - ✅ Found 3 recent articles for MARUTI
+2025-10-26 17:35:56,478 - INFO - ⏭️  SKIPPED MARUTI: Upcoming event (not confirmed news)
+2025-10-26 17:35:56,478 - INFO -    Headline: Q2 results this week: Swiggy, Adani Green, ITC, L&T among 300-plus firms set to 
+2025-10-26 17:35:56,478 - INFO - ⏭️  SKIPPED MARUTI: No specific numbers or confirmed actions
+2025-10-26 17:35:56,478 - INFO -    Headline: Motilal Oswal sees Maruti Suzuki, Endurance Technologies as top bets in post-GST
+2025-10-26 17:35:56,478 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 17:35:56,478 - INFO -    Headline: Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment...
+2025-10-26 17:35:56,478 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 17:35:56,479 - INFO -    ✅ Score: 41.5 | Sentiment: bullish
+2025-10-26 17:35:56,479 - INFO -    Recommendation: HOLD
+2025-10-26 17:35:56,479 - INFO - [10/10] Processing WIPRO...
+2025-10-26 17:35:56,479 - INFO - 📰 Fetching news for WIPRO (last 48h)
+2025-10-26 17:35:58,025 - INFO - ℹ️  No recent news for WIPRO
+2025-10-26 17:35:58,025 - INFO - 
+✅ Collection complete!
+2025-10-26 17:35:58,025 - INFO -    Total articles: 12
+2025-10-26 17:35:58,025 - INFO -    Successfully analyzed: 2
+2025-10-26 17:35:58,025 - INFO - ✅ 0 qualified stocks saved to realtime_ai_stage1_20251026_173534.csv
+2025-10-26 17:35:58,026 - INFO - ⚠️  2 stocks rejected (saved to realtime_ai_stage1_20251026_173534_rejected.csv)
+2025-10-26 17:35:58,026 - INFO -    Rejection reason: Certainty below 40% threshold
+2025-10-26 17:35:58,026 - INFO - ✅ Results saved to: realtime_ai_stage1_20251026_173534.csv
+2025-10-26 17:35:58,026 - INFO - 📊 AI usage: 0/60 calls used
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/10] Processing RELIANCE...
+   📰 Analyzing 7 article(s)...
+
+[2/10] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+[3/10] Processing HDFCBANK...
+   ℹ️  No recent articles found
+
+[4/10] Processing ICICIBANK...
+   ℹ️  No recent articles found
+
+[5/10] Processing INFY...
+   ℹ️  No recent articles found
+
+[6/10] Processing ITC...
+   📰 Analyzing 1 article(s)...
+
+[7/10] Processing SBIN...
+   ℹ️  No recent articles found
+
+[8/10] Processing BHARTIARTL...
+   ℹ️  No recent articles found
+
+[9/10] Processing MARUTI...
+   📰 Analyzing 3 article(s)...
+
+[10/10] Processing WIPRO...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 44.4/100
+   Sentiment: BULLISH | Rec: ACCUMULATE
+   Catalysts: None
+   Certainty: 35% | Articles: 1
+
+2. MARUTI - Score: 37.4/100
+   Sentiment: BULLISH | Rec: HOLD
+   Catalysts: None
+   Certainty: 30% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 2
+   Results saved: realtime_ai_stage1_20251026_173534.csv
+
+📈 Selecting ALL tickers with news for Stage 2 (external AI)
+⚠️  No tickers with news derived from Stage 1; skipping Stage 2
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🤖 Stage 2: External AI on top selections
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⏱️  Started at: Sunday 26 October 2025 05:35:58 PM IST
+
+
+⏱️  Completed at: Sunday 26 October 2025 05:35:58 PM IST
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Verifying Results
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+❌ Output file not created

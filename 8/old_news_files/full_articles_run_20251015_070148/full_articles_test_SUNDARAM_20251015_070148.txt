@@ -1,0 +1,19 @@
+Full Article Fetch Test - SUNDARAM
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-15): -4438000.00
+
+Title   : Broker’s call: Sundaram Finance (Add) 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T13:33:24
+Fetched : 2025-10-15T08:24:19.055815
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-sundaram-finance-add/article70163092.ece
+--------------------------------------------------------------------------------
+Target: ₹4,620
+CMP: ₹4,442
+Sundaram Finance’s (SUF) revamped strategy of product (retail CV, commercial lending) and geographic diversification (non-South) under the current MD has delivered improved AUM CAGR of 20 per cent during FY23-FY25 (vs. 9 per cent CAGR during FY16-FY22). The strong growth has been achieved despite the subdued CV industry volumes during FY24-FY25 (around 2 per cent CAGR).
+Strong festive period, particularly in PVs and Tractors on the back of reduction in GST rates is likely to augment the loan growth going ahead. Further, the core profitability remains intact (RoE of about 17-18 per cent) with steady NIMs on the back of exercising of pricing power and liabilities optimisation. While credit costs were elevated in Q1FY26, we expect normalisation going ahead, although FY26 credit costs may remain marginally high.
+The diversification strategy has been pivotal in enabling the franchise deliver higher loan growth.
+With muted shareholder returns over the past few quarters, current valuations (3.3x Mar-27 ABVPS) are turning risk-reward favorable at the margin. We upgrade SUF from Reduce to Add with a revised SOTP-based TP of ₹4,620 (standalone entity at implied 3.3x Sep-27 ABVPS).
+Published on October 14, 2025
+

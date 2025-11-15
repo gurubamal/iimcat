@@ -1,0 +1,123 @@
+{
+  "ticker": "VOLTAS",
+  "fetch_time": "2025-11-13T23:20:14.061405",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 7 Per Share",
+      "ex_date": "20-Jun-2025",
+      "ex_date_parsed": "2025-06-20T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 5.50 Per Share",
+      "ex_date": "25-Jun-2024",
+      "ex_date_parsed": "2024-06-25T00:00:00",
+      "amount": 5.5
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 4.25 Per Share",
+      "ex_date": "09-Jun-2023",
+      "ex_date_parsed": "2023-06-09T00:00:00",
+      "amount": 4.25
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 5.50 Per Share",
+      "ex_date": "09-Jun-2022",
+      "ex_date_parsed": "2022-06-09T00:00:00",
+      "amount": 5.5
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 5 Per Share",
+      "ex_date": "11-Aug-2021",
+      "ex_date_parsed": "2021-08-11T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 4 Per Share",
+      "ex_date": "05-Aug-2020",
+      "ex_date_parsed": "2020-08-05T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend - Rs 4 Per Share",
+      "ex_date": "17-Jul-2019",
+      "ex_date_parsed": "2019-07-17T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": " Annual General Meeting / Dividend- Rs 4 Per Share",
+      "ex_date": "03-Aug-2018",
+      "ex_date_parsed": "2018-08-03T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 3.50 Per Share",
+      "ex_date": "04-Aug-2017",
+      "ex_date_parsed": "2017-08-04T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": " Annual General Meeting And Dividend Rs.2.60 Per Share",
+      "ex_date": "05-Aug-2016",
+      "ex_date_parsed": "2016-08-05T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 2.25/- Per Share",
+      "ex_date": "10-Jul-2015",
+      "ex_date_parsed": "2015-07-10T00:00:00",
+      "amount": 2.25
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 1.60/- Per Share & Special Diamond Jubilee Dividend - Re 0.25/- Per Share",
+      "ex_date": "08-Aug-2014",
+      "ex_date_parsed": "2014-08-08T00:00:00",
+      "amount": 1.6
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 1.60/- Per Share",
+      "ex_date": "02-Aug-2013",
+      "ex_date_parsed": "2013-08-02T00:00:00",
+      "amount": 1.6
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.1.60 Per Share",
+      "ex_date": "01-Aug-2012",
+      "ex_date_parsed": "2012-08-01T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.2/- Per Share",
+      "ex_date": "22-Jul-2011",
+      "ex_date_parsed": "2011-07-22T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.2/- Per Share",
+      "ex_date": "16-Jul-2010",
+      "ex_date_parsed": "2010-07-16T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend-135%",
+      "ex_date": "27-Jun-2008",
+      "ex_date_parsed": "2008-06-27T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend-100%",
+      "ex_date": "06-Jul-2007",
+      "ex_date_parsed": "2007-07-06T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Fv Split Rs.10/- To Re.1/",
+      "ex_date": "22-Sep-2006",
+      "ex_date_parsed": "2006-09-22T00:00:00"
+    }
+  ],
+  "data_available": true
+}

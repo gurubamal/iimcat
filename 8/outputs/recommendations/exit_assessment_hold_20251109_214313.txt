@@ -1,0 +1,13 @@
+# HOLD / MONITOR RECOMMENDATIONS
+# Generated: 2025-11-09 21:43:13
+# Stocks safe to hold: 5
+# Stocks to monitor: 0
+
+# HOLD:
+KEC
+PETRONET
+DEEPAKNTR
+AURIGROW
+SAGILITY
+
+# MONITOR (watch closely):

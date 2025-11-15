@@ -1,0 +1,50 @@
+Full Article Fetch Test - STAR
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-04
+
+Title   : HPE Says It’s Weathering Profit Squeeze at Start of New AI Era
+Source  : www.livemint.com
+Published: 2025-09-03T23:41:32
+Fetched : 2025-09-04T16:23:26.258056
+URL     : https://www.livemint.com/companies/news/hpe-says-it-s-weathering-profit-squeeze-at-start-of-new-ai-era-11756942892697.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Hewlett Packard Enterprise Co. Chief Executive Officer Antonio Neri said the company expects to weather a slimming of profit margins as it enters a new era of artificial intelligence-driven demand.
+Though the operating margin in HPE’s server unit narrowed to 6.4% last quarter, compared with 10.8% a year earlier, Neri predicted that the figure would return to roughly 10% by the end of the current period.
+Neri also talked up the potential of HPE’s recently completed Juniper Networks acquisition, which will vault the company further into the networking industry. The remarks helped soothe the concerns of investors, who sent the shares higher after an initial slide when HPE delivered its third-quarter earnings report.
+“I am excited for HPE’s next chapter,” Neri said on a conference call with analysts. “The completion of our Juniper acquisition positions us to win in networking as the market enters a new era of IT and business transformation where AI, cloud and networking converge.”
+HPE shares rose 1.5% in late trading. They had been up 6.9% to $22.82 this year at the close in New York.
+Even as some margins narrowed in the third quarter, HPE’s sales and profit topped predictions. Revenue increased 18% to $9.14 billion in the period, which ended July 31. Profit was 44 cents per share, excluding some items. Analysts had estimated sales of $8.65 billion and earnings of 43 cents.
+Profit will be 56 cents to 60 cents a share in the October quarter, excluding some items, the company said. Analysts projected 59 cents. HPE predicted sales of $9.7 billion to $10.1 billion, compared with an estimate at the top end of that range.
+Last week, HPE rival Dell Technologies Inc. delivered an underwhelming quarterly report. That company suffered a stock rout after saying that profit margins on AI servers were lower than Wall Street expected.
+HPE and Dell have been benefiting from demand for server computers that can help handle a flood of AI software and services. But pricey chips from Nvidia Corp. and others have made the equipment less profitable.
+On the plus side, the impact of trade turbulence is easing, Neri said. Tariffs are expected to negatively affect adjusted profit by 4 cents per share this year, down from the previous expectation of 7 cents a share, he said.
+HPE closed the Juniper acquisition last quarter and expects to see at least $600 million in cost savings from combining operations over the next three years.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+
+Title   : Scale AI Sues Rival Startup Mercor, Alleging Trade Secret Theft
+Source  : www.livemint.com
+Published: 2025-09-03T18:43:38
+Fetched : 2025-09-04T16:23:26.258056
+URL     : https://www.livemint.com/companies/news/scale-ai-sues-rival-startup-mercor-alleging-trade-secret-theft-11756925019428.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Scale AI Inc. sued rival data-labeling startup Mercor, accusing the firm and a former Scale employee of stealing trade secrets to attract new business.
+The suit, filed in San Francisco federal court Wednesday, alleges that Scale’s former head of engagement management, Eugene Ling, downloaded more than 100 customer strategy documents and other proprietary documents to a personal Google Drive while in communication with Mercor.
+Ling allegedly met with Mercor Chief Executive Officer Brendan Foody while working at Scale, and other Mercor employees discussed Scale’s business strategies and products with Ling, according to the lawsuit.
+Surya Midha, a Mercor co-founder, said the company is investigating.
+“While Mercor has hired many people who departed Scale, we have no interest in any of Scale’s trade secrets and in fact are intentionally running our business in a different way,” Midha said in a statement. “Eugene informed us that he had old documents in a personal Google Drive, which we have never accessed and are now investigating. We reached out to Scale six days ago offering to have Eugene destroy the files or reach a different resolution, and we are now awaiting their response.”
+The suit highlights the fierce competition in a key part of the AI industry. Founded in 2016, Scale has long been the best-known name in the market for helping tech firms label and annotate the data needed to build artificial intelligence models. But it has faced growing pressure from rivals in recent months.
+“Scale has become the industry leader on the strength of our ideas, innovation, and execution,” Joe Osborne, a Scale spokesperson, said in a statement. “We won’t allow anyone to take unlawful shortcuts at the expense of our business.”
+In June, Meta Platforms Inc. finalized a $14.3 billion investment in Scale, taking a 49% stake in the company. Following the deal with Meta, some of Scale’s most prominent customers have phased out work with the startup — including OpenAI and Alphabet Inc.’s Google — according to reports by Bloomberg News and others. OpenAI, in particular, has turned to Mercor to meet its needs for more and increasingly specialized data, Bloomberg has reported.
+The suit alleges that Mercor recruited Ling in order to expand its relationship with one of Scale’s large customers, claiming that a significant portion of the documents Ling stole pertained to that unidentified customer.
+Ling allegedly contacted the customer on behalf of Mercor while still employed at Scale, according to the suit. Mercor still uses Ling on the customer’s account, according to the complaint.
+The case is Scale AI Inc. v. Mercor.io Corporation, 25-cv-07402, US District Court, Northern District of California (San Francisco).
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+More
+

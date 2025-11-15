@@ -1,0 +1,251 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-16T03:29:27.105248
+Hours back: 24
+Sources: reuters.com, livemint.com, economictimes.indiatimes.com, business-standard.com, moneycontrol.com, thehindubusinessline.com, financialexpress.com, cnbctv18.com, zeebiz.com, sebi.gov.in, nseindia.com, bseindia.com
+Tickers planned: 21
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 815.47B INR
+
+Title   : Mukesh Ambani working on listing of Reliance Retail with $200-billion valuation
+Source  : www.thehindubusinessline.com
+Published: 2025-09-15T16:07:19
+Fetched : 2025-09-16T03:30:13.181569
+URL     : https://www.thehindubusinessline.com/companies/mukesh-ambani-working-on-listing-of-reliance-retail-with-200-billion-valuation/article70053923.ece
+--------------------------------------------------------------------------------
+Mukesh Ambani, who announced the launch of the initial public offer (IPO) of Reliance Industries’ telecom arm Reliance Jio next year, is also parallelly working on a listing of Reliance Retail, with a potential valuation of close to $200 billion, sources with knowledge of developments said.
+The process of tightening and streamlining Reliance Retail, the country’s largest retailer, has already started with the demerger of the fast-moving consumer goods (FMCG) business, Reliance Consumer Products, that will now be a direct subsidiary of Reliance Industries.
+Sources indicated that the FMCG demerger and the rationalisation of Reliance Retail’s store network, by closing down under-performing stores, is being done to boost the margins of Reliance Retail, the target being to fetch it a good valuation, so that it can go to the market.
+While it is early days as yet, indications are that an imminent public listing can be expected in 2027, a year after the listing of Reliance Jio.
+The listing will give exit opportunities to its investors such as Singapore’s GIC, Abu Dhabi Investment Authority, Qatar Investment Authority, KKR, TPG, Silver Lake and others.
+After the carve out of Reliance Consumer, Reliance Retail will be left with formats such as Reliance Smart, Freshpik, Reliance Digital, JioMart, Reliance Trends, 7-Eleven, Reliance Trends, Reliance Jewels and others.
+The demerger of Reliance Consumer is expected to be completed by this month-end, with all regulatory approvals coming through.
+Consolidation talks
+Sources said that there may even be a consolidation of the formats, though the talks are still preliminary.
+RIL did not respond to an email request for comments on its future plans.
+Over the past several quarters, Reliance Retail has been rationalising its store network by closing down under-performing outlets. The aim is to take it to a double-digit operating margin.
+In FY25, Reliance Retail reported operating profit of $2.9 billion on revenue of $38.7 billion. Its EBITDA margin in FY25 was at 8.6 per cent, which improved marginally to 8.7 per cent in the June quarter.
+Published on September 15, 2025
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - HDFCBANK
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ICICIBANK
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ITC
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - SBIN
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - BHARTIARTL
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - MARUTI
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 145.42B INR
+
+Title   : Stocks in news: Maruti, Adani Enterprises, Sanghvi Movers, Vodafone Idea, NTPC Green 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T00:41:00
+Fetched : 2025-09-16T03:30:35.638914
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-maruti-adani-enterprises-sanghvi-movers-vodafone-idea-ntpc-green/articleshow/123904753.cms
+--------------------------------------------------------------------------------
+NCC
+NCC has received the order for the construction of the Barnar reservoir, dam structures, irrigation channels, and other associated works in Jamui district of Bihar.
+Maruti Suzuki
+Maruti Suzuki announced introductory prices for the new model Victoris, starting at Rs 10 Lakh
+Adani Enterprises
+Adani Enterprises received LoA for Kedarnath Ropeway Project worth Rs 4,081 crore. The project between Sonprayag and Kedarnath is scheduled to be completed in 6 years.
+Sanghvi Movers
+Sanghvi Movers secured work orders worth Rs 292 crore from various independent power producers.
+Vodafone Idea
+The Supreme Court is likely hear on Friday cash-strapped Vodafone Idea's petition seeking quashing of the Department of Telecommunications' move to raise an additional demand of Rs 9,450 crore toward Adjusted gross Revenue (AGR) related dues until FY19.
+NTPC Green
+NTPC Green Energy (NGEL) said it has started commercial production of 25 MW solar capacity in Gujarat.
+Asahi India
+Asahi India Glass has opened its qualified institutional placement (QIP) to raise funds, setting the floor price at Rs 845 per share in accordance with SEBI’s pricing formula.
+Zydus Life
+Zydus Life launched its first generic treatment for canine urinary incontinence.
+John Cockerill
+John Cockerill received an order worth Rs 80 crore from Tata Steel.
+Tata Motors
+Tata Motors said it is partnering with 13 charging point operators to install and operate 25,000 additional public chargers for electric small commercial vehicles over the next 12 months.
+Ola Electric
+Ola Electric has filed a claim of around Rs 400 crore incentive under the government's production-linked incentive (PLI) scheme, reinforcing its compliance with rigorous localisation and regulatory requirements.
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : Stocks to buy in 2025 for long term: Maruti Suzuki, United Spirits among 5 stocks that could give 10-25% return 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T02:43:52
+Fetched : 2025-09-16T03:30:35.638914
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-in-2025-for-long-term-maruti-suzuki-united-spirits-among-5-stocks-that-could-give-10-25-return/slideshow/123912081.cms
+--------------------------------------------------------------------------------
+HSBC has a Buy rating on Maruti Suzuki with a revised target price of Rs 17,000 (earlier Rs 14,000), implying an upside of 10% from the last traded price of Rs 15,324.
+Agencies
+3/6
+HSBC on TVS Motor
+HSBC on TVS Motor Company: Buy| Target Rs 4000 (vs Rs 3500| LTP Rs 3494| Upside 14%
+For TVS Motor Company, HSBC has also maintained a Buy call, raising its target price to Rs 4,000 (earlier Rs 3,500), suggesting a potential upside of 14% from the last traded price of Rs 3,494.
+ANI
+4/6
+Jefferies on United Spirits
+Jefferies on United Spirits: Initiate Coverage| Buy| Target Rs 1570| LTP Rs 1309| Upside 19%
+Jefferies has initiated coverage on United Spirits with a Buy recommendation and a target price of Rs 1,570, indicating an upside of 19% from the last traded price of Rs 1,309.
+Jefferies has initiated coverage on Radico Khaitan with a Buy rating and a target price of Rs 3,590, which implies a 25% upside from the last traded price of Rs 2,870.
+Jefferies has also started coverage on Allied Blenders with a Buy call, setting a target price of Rs620, representing a 13% upside from the last traded price of Rs 545.
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times)
+
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 134.25B INR
+
+Title   : Wipro shares in focus after AI-powered security partnership with CrowdStrike 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T03:04:24
+Fetched : 2025-09-16T03:30:44.161435
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-in-focus-after-ai-powered-security-partnership-with-crowdstrike/articleshow/123912243.cms
+--------------------------------------------------------------------------------
+Announced on September 15, the collaboration leverages CrowdStrike Falcon Next-Gen SIEM to simplify threat detection, enhance visibility, and automate responses through a modern SOC (Security Operations Center) that uses artificial intelligence to streamline decision-making and improve efficiency.
+The new offering, which comes amid rising global concerns around cyber threats and data breaches, is expected to bolster Wipro’s position in the high-growth cybersecurity services market. Organisations increasingly face fragmented security architectures, rising costs, and alert fatigue. CyberShield MDR aims to address these pain points through AI-driven threat detection, proactive breach protection, and continuous monitoring.
+The platform integrates capabilities from Wipro Ventures' portfolio companies, including Simbian and Tuskria, to deliver next-gen response systems. Wipro’s global network of eight Cyber Defense Centers (CDCs) will support the delivery and management of these services.
+"Wipro’s CyberShield platform, powered by CrowdStrike’s AI-native product suites and strengthened by our security ecosystem, will help enterprises contain threats swiftly and ensure continuity of digital operations," said Tony Buffomante, Senior Vice President & Global Head – Cybersecurity & Risk Services, Wipro Limited. "This integrated platform approach enables AI automated workflows, prevents lateral threat movement, and eliminates potential security gaps that fragmented solutions often miss."
+Also read: SEBI’s curb on weekly F&O expiry: Feroze Azeez explains what it could mean for investors
+Shares of Wirpo closed flat at Rs 251.20 on the BSE in the previous session.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Full Article Fetch Test - GRASIM
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - HINDALCO
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - UPL
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - CIPLA
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 54.79B INR
+
+Title   : Cipla Share Price Live Updates: Cipla's beta indicates consistent market behavior 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T02:43:13
+Fetched : 2025-09-16T03:30:58.032035
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-today-live-16-sep-2025/liveblog/123911988.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Cipla Share Price Live Updates: Cipla's beta indicates consistent market behavior
+LIVE BLOG
+Cipla share price live updates
+Welcome to the Cipla Stock Liveblog, your ultimate source for real-time updates and analysis of one of the most prominent stocks in the market. Stay on top of the game with our comprehensive coverage, featuring the latest details on Cipla stock, including: Last traded price 1548.3, Market capitalization: 125070.84, Volume: 758979, Price-to-earnings ratio 23.19, Earnings per share 66.76. Get a holistic view of Cipla with our expert insights into both fundamental and technical indicators. Stay ahead of the curve as we bring you breaking news that can impact the stock's performance. Whether you're a seasoned investor or a curious market enthusiast, rely on us to provide you with valuable information and informed recommendations. Join us on this journey as Cipla thrives in the ever-changing market landscape. The data points are updated as on 08:42:47 AM IST, 16 Sep 2025
+Show more1 New Update
+Cipla's six-month beta stands at 0.551, suggesting consistent behavior in the financial markets over the past half-year.
+With a return of 2.86% in the last three months, Cipla continues to demonstrate its market potential.
+Cipla's stock finished at Rs 1,574.60 yesterday.
+Cipla has achieved a return of 0.46% in the past week, reflecting a positive development in its stock performance.
+Cipla closed at Rs 1,574.60 on the previous trading day, reflecting a decline of 1.67%, with a trading volume of 785,508 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - TITAN
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-16): 37.47B INR
+
+Title   : Titan Company Share Price Live Updates: Titan Company’s six-month beta stands at 0.746, indicating stability. 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-16T02:43:31
+Fetched : 2025-09-16T03:31:04.972107
+URL     : https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/titan-company-share-price-live-updates-16-sep-2025/liveblog/123911996.cms
+--------------------------------------------------------------------------------
+Business News›Markets›Stocks›Stock Live Blog›Titan Company Share Price Live Updates: Titan Company’s six-month beta stands at 0.746, indicating stability.
+LIVE BLOG
+Titan Company share price live updates
+Stay informed with the Titan Company Stock Liveblog, your comprehensive resource for real-time updates and in-depth analysis of a leading stock. Get the latest details on Titan Company, including: Last traded price 3534.1, Market capitalization: 313752.51, Volume: 362285, Price-to-earnings ratio 84.5, Earnings per share 41.82. Our liveblog combines fundamental and technical insights to provide a holistic view of Titan Company's performance. Stay ahead of the market with breaking news that can influence Titan Company's trajectory. Our expert analysis and stock recommendations empower you to make well-informed financial decisions. Trust the Titan Company Stock Liveblog for up-to-date information and expert insights. The data points are updated as on 08:43:03 AM IST, 16 Sep 2025
+Show more1 New Update
+The six-month beta of 0.746 for Titan Company suggests a stable position in the financial market.
+Titan Company has delivered a solid return of 3.28% over the past three months, showcasing its strong market position.
+The previous day, Titan Company closed at Rs 3571.90.
+In the past week, Titan Company has seen a return of -3.39%, suggesting a decline in investor confidence.
+Titan Company ended the previous trading day at Rs 3571.9, reflecting a decline of 1.06% and a trading volume of 275,049 shares.
+1
+Have something to say? Post your comment
+Comments are moderated and will be allowed if they are about the topic and not abusive.
+Characters remaining (1500)
+
+Full Article Fetch Test - HDFCLIFE
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - SBILIFE
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ICICIGI
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - ICICIPRULI
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - SBICARD
+================================================================================
+
+(no fresh items in last 24h)
+
+Full Article Fetch Test - HDFCAMC
+================================================================================
+
+(no fresh items in last 24h)
+

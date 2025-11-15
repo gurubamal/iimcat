@@ -1,0 +1,63 @@
+Full Article Fetch Test - WIPRO
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-09
+
+Title   : Sensex, Nifty rise on IT rally; Infosys, Wipro top gainers
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T12:27:43
+Fetched : 2025-09-09T15:49:53.271321
+URL     : https://www.thehindubusinessline.com/markets/stock-markets/top-gainers-losers-today-9th-sep-2025-sensex-nifty-edge-higher-on-it-stocks-rally-infosys-wipro-lead-gainers-of-nifty-50/article70029346.ece
+--------------------------------------------------------------------------------
+Equity benchmark indices edged higher on Tuesday, led by IT stocks, buoyed by positive global cues and US interest rate cut prospects.
+Sensex settled 314.02 pts or 0.39 per cent higher at 81,101.32. Nifty 50 closed higher for a fifth consecutive with 95.45 pts or 0.39 per cent increase at 24,868.60.
+According to Vinod Nair, Head of Research, Geojit Investments, the market sentiment is likely to remain range-bound amid lingering uncertainties over global trade negotiations.
+Siddhartha Khemka - Head of Research, Wealth Management, Motilal Oswal Financial Services, also stressed that markets will remain range-bound, tracking developments around trade agreements and the outcome of the US Fed rate decision.
+Ajit Mishra, SVP, Research, Religare Broking, maintained a positive yet cautious outlook on the Nifty and suggested closely tracking the performance of banking and IT majors for further cues.
+The broader indices, midcap and smallcap rose marginally by 0.2 per cent and 0.3 per cent, respectively, in a narrow range for the second consecutive session.
+On the sectoral front, Nifty IT rose nearly 3 per cent, aided by expectations of a potential US Fed rate cut, likely to benefit Indian IT exporters. Pharma, FMCG and metals also traded with modest gains. Market experts cite that auto stocks came under pressure due to profit booking after recent gains on GST rationalisation. Bank Nifty witnessed a lacklustre session.
+Top gainers & losers today
+Among the Sensex firms, Infosys climbed 5 per cent on the back of buyback proposal at its board meeting on September 11. Dr Reddy’s Laboratories, Wipro, Adani Ports, Tech Mahindra, HCL Tech, TCS and Bajaj Finserv also emerged as major gainers.
+On the flip side, Trent, Eternal, UltraTech Cement, Jio Financial, Titan and NTPC were among the laggards.
+Meanwhile, Sudeep Shah, Head - Technical Research and Derivatives at SBI Securities, said that the advance-decline ratio remained flat, highlighting the lack of broad-based participation. Notably, 250 stocks from the Nifty 500 universe ended unchanged, underscoring the overall market indecisiveness.
+A total of 3,106 stocks were traded on the National Stock Exchange, of which 1,486 stocks advanced, 1,514 declined, and 106 remained unchanged. About 108 stocks scaled to their 52-week high, while 43 stocks touched their 52-week low. About 93 stocks hit the upper circuit and 68 hit the lower circuit.
+Mishra advised traders to continue with a “buy on dips” approach in the leading sectors while ensuring a favourable risk-reward balance.
+Midcap & smallcap movers
+Tata Communications, Glenmark, Tube Investments, Waaree Energies and Aditya Birla Fashion soared 2-4 per cent among the midcap index, while Supreme Industries, Paytm, Nykaa and IGL declined 2-3 per cent.
+Under the smallcap segment, Affle 3i, ACE, RailTel, Titagarh and Amber surged 5-7 per cent, while Delhivery, Chambal Fertilizers, CreditAccess, Shyam Metalics and Anant Raj dropped close to 2 per cent.
+Global markets
+Asian markets, except Japan’s Nikkei 225 index and Shanghai’s SSE Composite index, settled in positive territory. Wall Street ended higher on Monday.
+FIIs offloaded equities worth ₹2,170.35 crore on Monday, while DIIs bought stocks worth ₹3,014.30 crore, as per exchange data.
+Brent crude rose 0.80 per cent to $66.55 a barrel.
+On Monday, Sensex rose by 76.54 pts or 0.09 per cent to 80,787.30, and the Nifty 50 inched up by 32.15 pts or 0.13 per cent to 24,773.15.
+Published on September 9, 2025
+
+Title   : Out of favour! Wipro, Asian Paints among 5 stocks with highest ‘sell’ calls in Nifty 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-09T06:58:04
+Fetched : 2025-09-09T15:49:53.271321
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/out-of-favour-wipro-asian-paints-among-5-stocks-with-highest-sell-calls-in-nifty/slideshow/123780610.cms
+--------------------------------------------------------------------------------
+Some of India's top stocks are facing the wrath of analysts with highest sell calls, according to data collated from Trendlyne. However, they present bearish opportunities for investors willing to hunt stocks in Nifty. Here's the list.
+TIL Creatives
+2/6
+IndusInd Bank
+Bearish sentiment dominates with strong sell calls outpacing buys. 12 strong sell and 10 sell calls weigh heavy on the stock.
+IANS
+3/6
+Wipro
+The IT major has 7 strong sell and 12 sell calls. But a pocket of analysts believe in modest upside if execution improves.
+Reuters
+4/6
+Dr Reddy’s Labs
+Bearishness is clear with 7 strong sell and 9 sell ratings. But 12 analysts recommend buying, with up to 9% upside in 12 months.
+ETMarkets.com
+5/6
+Tech Mahindra
+8 strong sell and 7 sell calls show caution. Still, 18 buy/strong buy calls make it the standout, with 13% forecast upside.
+Reuters
+6/6
+Asian Paints
+The paint giant has 8 strong sell and 7 sell calls. But 10 analysts back it with buys, and expect up to 5% forward upside.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+

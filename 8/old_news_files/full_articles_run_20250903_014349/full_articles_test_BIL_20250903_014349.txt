@@ -1,0 +1,27 @@
+Full Article Fetch Test - BIL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-03
+
+Title   : Jane Street’s $10.1 Billion Trading Haul Sets Wall Street Record
+Source  : www.livemint.com
+Published: 2025-09-02T16:20:26
+Fetched : 2025-09-03T01:56:02.491344
+URL     : https://www.livemint.com/companies/company-results/jane-street-s-10-1-billion-trading-haul-sets-wall-street-record-11756830026704.html
+--------------------------------------------------------------------------------
+(Bloomberg) -- Jane Street Group pulled in a record $10.1 billion in net trading revenue in the second quarter, beating out all of Wall Street’s biggest banks as the market-making giant reaped the benefit of trade war volatility.
+The revenue figure more than doubled from a year earlier, according to people with knowledge of the matter, pushing Jane Street’s first-half trading revenue to an all-time high of $17.3 billion, the people said, asking not to be identified discussing non-public information.
+Volume has remained elevated since President Donald Trump imposed a raft of tariffs on countries around the world at the beginning of this year. The upheaval sparked demand for trading services as investors repositioned themselves for the new economic landscape, a boon for banks and market makers who help clients buy and sell assets.
+Jane Street’s windfall preceded a crackdown in India over the firm’s trading strategy in that market. Details on how the trading revenue broke down geographically or by market sectors weren’t immediately available.
+A representative for New York-based Jane Street declined to comment on the firm’s results.
+Among Jane Street’s rivals, Hudson River Trading’s results showed trading revenue more than doubling in the second quarter to $2.62 billion. Citadel Securities reported a slump in second-quarter net trading revenue, but the firm still generated an all-time high for the first half of $5.77 billion.
+Jane Street previously reported to its debt investors record first-quarter net trading revenue of $7.2 billion, up from around $4.4 billion in the first three months of 2024, the people said. The firm posted $6.9 billion in net income during the second quarter, compared to $2.4 billion in the same period a year ago, according to the people.
+The company operates behind the scenes, in a lucrative universe of market making that combines technology and risk-management skills. Firms like Jane Street face fewer regulatory strictures than banks in managing their own capital.
+Jane Street was thrust into the spotlight in July, when regulators cracked down on its trading business in the Indian options market. A 105-page order from the Securities and Exchange Board of India gave market participants a unique peak into the firm’s trades, in what was once referred to as Jane Street’s most profitable strategy.
+Founded in 2000, Jane Street got its start trading American depository receipts, and then expanded to exchange-traded funds on the floor of the American Stock Exchange. The firm continued to grow, alongside the electronification of asset classes such as corporate bonds, which it can more rapidly buy and sell to help facilitate trading.
+Last year, Jane Street generated a record $20.5 billion in net trading revenue, vaulting it past the total for that business at Bank of America Corp. and Citigroup Inc. Jane Street’s 2024 total was almost double the $10.6 billion posted a year earlier. Its closest competitor, Citadel Securities, brought in $9.7 billion in total trading revenue last year.
+More stories like this are available on bloomberg.com
+©2025 Bloomberg L.P.
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesCompany ResultsJane Street’s $10.1 Billion Trading Haul Sets Wall Street Record
+

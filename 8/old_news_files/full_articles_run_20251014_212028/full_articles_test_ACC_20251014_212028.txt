@@ -1,0 +1,20 @@
+Full Article Fetch Test - ACC
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-14): 3.75B
+
+Title   : HouseEazy raises ₹150 crore in Series B funding round led by Accel 
+Source  : www.thehindubusinessline.com
+Published: 2025-10-14T14:50:40
+Fetched : 2025-10-14T21:43:44.782035
+URL     : https://www.thehindubusinessline.com/companies/houseeazy-raises-150-crore-in-series-b-funding-round-led-by-accel/article70162804.ece
+--------------------------------------------------------------------------------
+HouseEazy, a full-stack marketplace for resale homes, has raised ₹150 crore in its Series B funding round led by Accel, with participation from existing investors Chiratae Ventures, Antler and leading venture debt funds.
+The capital infusion will fuel technology advancements, geographic expansion, and brand growth, while strengthening HouseEazy’s basket of services. This fresh round of funding follows HouseEazy’s Series A raise in August 2024.
+The move comes as India’s $100 billion secondary real estate market—largely fragmented and offline—continues to demand end-to-end, trustworthy, tech-first solutions.
+Founded by Tarun Sainani and Deepak Bhatia, HouseEazy offer a faster resale process, completing transactions within weeks compared to the industry average of five to six months. Its AI-powered pricing engine, built on over 2 million data points, provides real-time, transparent valuations for sellers, while AR/VR tools allow buyers to virtually explore refurbished homes.
+Deepak Bhatia, Co-Founder, HouseEazy, said: “Indian consumers have long awaited a safe, one-stop solution for buying and selling homes. HouseEazy was founded with the vision of transforming the entire home ownership journey—built on the pillars of trust, speed, and convenience. Our platform today delivers on this promise by enabling 100 per cent secure transactions powered by cutting-edge technology. We are on a mission to create India’s most trusted and loved real estate platform.”
+Currently active in Noida, Ghaziabad, and Gurgaon, HouseEazy has built a strong network of 4,000+ channel partners and now plans to expand into other Tier-1 markets like Pune, Mumbai and Bengaluru.
+Pratik Agarwal, Partner, Accel, said: “India’s housing market is enormous but lacks trustworthy and structured solutions for the consumers. HouseEazy’s tech-led, consumer-first model solves some of the biggest pain points and delivers a 10X experience. We’re excited to partner with Tarun, Deepak, and their team as they redefine the entire Indian home sale ecosystem.”
+Published on October 14, 2025
+

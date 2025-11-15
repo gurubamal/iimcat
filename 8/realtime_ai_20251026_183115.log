@@ -1,0 +1,120 @@
+2025-10-26 18:31:15,831 - INFO - AI provider configured: Heuristic
+2025-10-26 18:31:16,223 - INFO - ✅ Frontier AI components loaded
+2025-10-26 18:31:16,223 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 18:31:20,677 - INFO - 🚀 Starting real-time collection + analysis for 10 tickers
+2025-10-26 18:31:20,678 - INFO -    Time window: 12 hours
+2025-10-26 18:31:20,678 - INFO -    Max articles per ticker: 10
+2025-10-26 18:31:20,678 - INFO - [1/10] Processing RELIANCE...
+2025-10-26 18:31:20,678 - INFO - 📰 Fetching news for RELIANCE (last 12h)
+2025-10-26 18:31:25,300 - INFO - ✅ Found 2 recent articles for RELIANCE
+2025-10-26 18:31:25,300 - INFO - ⏭️  SKIPPED RELIANCE: Market-wide ranking news (not company-specific)
+2025-10-26 18:31:25,300 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s
+2025-10-26 18:31:25,301 - INFO - ⏭️  SKIPPED RELIANCE: No specific numbers or confirmed actions
+2025-10-26 18:31:25,302 - INFO -    Headline:  Reliance snaps up Mideast oil after Russia sanctions
+2025-10-26 18:31:25,305 - INFO - [2/10] Processing TCS...
+2025-10-26 18:31:25,305 - INFO - 📰 Fetching news for TCS (last 12h)
+2025-10-26 18:31:26,168 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 18:31:26,168 - INFO - ⏭️  SKIPPED TCS: Market-wide ranking news (not company-specific)
+2025-10-26 18:31:26,168 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s
+2025-10-26 18:31:26,168 - INFO - [3/10] Processing HDFCBANK...
+2025-10-26 18:31:26,169 - INFO - 📰 Fetching news for HDFCBANK (last 12h)
+2025-10-26 18:31:27,606 - INFO - ℹ️  No recent news for HDFCBANK
+2025-10-26 18:31:27,606 - INFO - [4/10] Processing ICICIBANK...
+2025-10-26 18:31:27,607 - INFO - 📰 Fetching news for ICICIBANK (last 12h)
+2025-10-26 18:31:29,018 - INFO - ℹ️  No recent news for ICICIBANK
+2025-10-26 18:31:29,019 - INFO - [5/10] Processing INFY...
+2025-10-26 18:31:29,019 - INFO - 📰 Fetching news for INFY (last 12h)
+2025-10-26 18:31:30,334 - INFO - ℹ️  No recent news for INFY
+2025-10-26 18:31:30,334 - INFO - [6/10] Processing ITC...
+2025-10-26 18:31:30,334 - INFO - 📰 Fetching news for ITC (last 12h)
+2025-10-26 18:31:31,874 - INFO - ✅ Found 1 recent articles for ITC
+2025-10-26 18:31:31,874 - INFO - ⏭️  SKIPPED ITC: Upcoming event (not confirmed news)
+2025-10-26 18:31:31,875 - INFO -    Headline: Q2 results this week: Swiggy, Adani Green, ITC, L&T among 300-plus firms set to 
+2025-10-26 18:31:31,875 - INFO - [7/10] Processing SBIN...
+2025-10-26 18:31:31,875 - INFO - 📰 Fetching news for SBIN (last 12h)
+2025-10-26 18:31:33,323 - INFO - ℹ️  No recent news for SBIN
+2025-10-26 18:31:33,323 - INFO - [8/10] Processing BHARTIARTL...
+2025-10-26 18:31:33,323 - INFO - 📰 Fetching news for BHARTIARTL (last 12h)
+2025-10-26 18:31:34,648 - INFO - ℹ️  No recent news for BHARTIARTL
+2025-10-26 18:31:34,648 - INFO - [9/10] Processing MARUTI...
+2025-10-26 18:31:34,649 - INFO - 📰 Fetching news for MARUTI (last 12h)
+2025-10-26 18:31:35,958 - INFO - ✅ Found 2 recent articles for MARUTI
+2025-10-26 18:31:35,958 - INFO - ⏭️  SKIPPED MARUTI: Upcoming event (not confirmed news)
+2025-10-26 18:31:35,958 - INFO -    Headline: Q2 results this week: Swiggy, Adani Green, ITC, L&T among 300-plus firms set to 
+2025-10-26 18:31:35,959 - INFO - 🔍 INSTANT ANALYSIS: MARUTI
+2025-10-26 18:31:35,959 - INFO -    Headline: Passenger vehicle exports rise 18% in Apr-Sep; Maruti Suzuki leads segment...
+2025-10-26 18:31:35,961 - INFO - Using heuristic analyzer for MARUTI (no external AI configured).
+2025-10-26 18:31:35,967 - INFO -    ✅ Score: 41.5 | Sentiment: bullish
+2025-10-26 18:31:35,967 - INFO -    Recommendation: HOLD
+2025-10-26 18:31:35,967 - INFO - [10/10] Processing WIPRO...
+2025-10-26 18:31:35,967 - INFO - 📰 Fetching news for WIPRO (last 12h)
+2025-10-26 18:31:37,489 - INFO - ℹ️  No recent news for WIPRO
+2025-10-26 18:31:37,489 - INFO - 
+✅ Collection complete!
+2025-10-26 18:31:37,490 - INFO -    Total articles: 6
+2025-10-26 18:31:37,490 - INFO -    Successfully analyzed: 1
+2025-10-26 18:31:37,490 - INFO - ✅ 0 qualified stocks saved to realtime_ai_stage1_20251026_183115.csv
+2025-10-26 18:31:37,491 - INFO - ⚠️  1 stocks rejected (saved to realtime_ai_stage1_20251026_183115_rejected.csv)
+2025-10-26 18:31:37,491 - INFO -    Rejection reason: Certainty below 40% threshold
+2025-10-26 18:31:37,492 - INFO - ✅ Results saved to: realtime_ai_stage1_20251026_183115.csv
+2025-10-26 18:31:37,492 - INFO - 📊 AI usage: 0/60 calls used
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/10] Processing RELIANCE...
+   📰 Analyzing 2 article(s)...
+
+[2/10] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+[3/10] Processing HDFCBANK...
+   ℹ️  No recent articles found
+
+[4/10] Processing ICICIBANK...
+   ℹ️  No recent articles found
+
+[5/10] Processing INFY...
+   ℹ️  No recent articles found
+
+[6/10] Processing ITC...
+   📰 Analyzing 1 article(s)...
+
+[7/10] Processing SBIN...
+   ℹ️  No recent articles found
+
+[8/10] Processing BHARTIARTL...
+   ℹ️  No recent articles found
+
+[9/10] Processing MARUTI...
+   📰 Analyzing 2 article(s)...
+
+[10/10] Processing WIPRO...
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. MARUTI - Score: 37.4/100
+   Sentiment: BULLISH | Rec: HOLD
+   Catalysts: None
+   Certainty: 30% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 1
+   Results saved: realtime_ai_stage1_20251026_183115.csv

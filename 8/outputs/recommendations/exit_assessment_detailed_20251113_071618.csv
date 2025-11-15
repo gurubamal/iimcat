@@ -1,0 +1,4 @@
+ticker,recommendation,decision_band,exit_score,confidence,technical_score,technical_severity,fundamental_risk,sentiment_risk,liquidity_risk,index_tailwind,urgency_score,primary_reasons,summary
+RELIANCE,HOLD,STRONG HOLD,1,75,0,NONE,0,0,20,0,25.0,,"Strong HOLD recommendation based on robust technical structure with price above both key moving averages, positive momentum across multiple timeframes, and no fundamental or sentiment deterioration. L"
+TCS,HOLD,STRONG HOLD,1,75,0,NONE,0,0,20,0,25.0,,"TCS shows strong technical health with price above key moving averages, healthy RSI, and confirmed uptrend. No news-driven catalysts present, and technical structure remains intact with no support bre"
+INFY,HOLD,STRONG HOLD,1,75,0,NONE,0,0,20,0,25.0,,"Strong HOLD with no exit signals. Price exhibits robust uptrend above both moving averages with volume confirmation. Technical structure is constructive (no support breaks, healthy RSI, upward momentu"

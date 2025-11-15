@@ -1,0 +1,29 @@
+Full Article Fetch Test - PAR
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Altmin secures India’s first project listed under US-led Mineral Security Partnership
+Source  : www.thehindubusinessline.com
+Published: 2025-09-09T08:32:30
+Fetched : 2025-09-10T01:32:02.151426
+URL     : https://www.thehindubusinessline.com/economy/altmin-secures-indias-first-project-listed-under-us-led-mineral-security-partnership/article70028951.ece
+--------------------------------------------------------------------------------
+Altmin said on Tuesday that it has secured the first project from India to be listed with the US-led Mineral Security Partnership (MSF), which endeavours to create diverse, secure, and sustainable supply chains for critical minerals, countering China’s dominance.
+The development comes after the Mines Ministry, in 2023, proposed Altmin’s project to refine lithium as India’s first project under the US-led 14-nation alliance. The project was officially listed in August 2025.
+“Making its way to the history books, the official listing enables Altmin to take a significant leap forward with its ambitious project of refining Lithium and making India supply chain independent,” Altmin said.
+The Hyderabad-based company manufactures cathode active material for Lithium-Ion batteries in India. It specializes in cathode materials, including Lithium Iron Phosphate (LFP), and develops its own lithium-ion cell chemistries.
+The MSP aims to accelerate the development of diverse critical minerals supply chains in cooperation with industry and other governments to support strategic projects and encourage investment throughout the value chain by reputable mining companies.
+The project will also mark the first major transaction between Brazil and India in the critical minerals sector solidifying the BRICS proposition. While the upstream integration will solidify the Make in India status of Lithium-Ion Batteries which are to see a steep demand rise at a competitive price.
+The listing under the MSP enhances India’s global positioning as it actively participates in collaborative frameworks aimed at ensuring secure, diversified and sustainable supply chains for critical minerals.
+China’s dominance
+Anjani Sri Mourya Sunkavalli, Founder & MD of Altmin, said, “Altmin’s inclusion in the MSP marks a milestone for India’s clean energy journey. Gaining access to advanced Lithium refining technology and resources puts us on the right path to building a strong, self-reliant critical minerals ecosystem and moving faster towards a sustainable, green future.
+We want to thank all ministries and nodal agencies representing India on this World Stage for opening the right doors to build a robust Lithium supply chain right from the mines to the end user”.
+Empowered with the MSP listing, Altmin makes a strategic acquisition of a Lithium Refinery and refining technology in Brazil and now eyes refineries closer to home.
+The Lithium refining technology being acquired in addition to the existing refinery is the only one of its kind outside China. The refinery’s supply-chain integrated operations convert Spodumene Ore to Lithium Carbonate Equivalent (Li2CO3 and LiOH) of Technical, Pharmaceutical, Battery and Nuclear Grades.
+This is a major step in breaking the Chinese monopoly over Lithium refining- a resource critical for clean energy, electric mobility, and sustainable technologies.
+Published on September 9, 2025
+
+(skipped: outside allowed sources) Title: Common Contract Note with Single Volume Weighted Average Price (VWAP) – Enhancing Ease of Doing Business for Market Participants
+URL     : https://www.sebi.gov.in/media-and-notifications/press-releases/jul-2025/common-contract-note-with-single-volume-weighted-average-price-vwap-enhancing-ease-of-doing-business-for-market-participants_94976.html
+

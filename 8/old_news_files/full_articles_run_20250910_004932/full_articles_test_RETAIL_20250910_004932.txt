@@ -1,0 +1,27 @@
+Full Article Fetch Test - RETAIL
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-10
+
+Title   : Retail investors hit hard: 8 of top 10 most held stocks in red 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-09T10:46:38
+Fetched : 2025-09-10T01:37:09.253523
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-hit-hard-8-of-top-10-most-held-stocks-in-red/articleshow/123784904.cms
+--------------------------------------------------------------------------------
+Bucking the trend, leading the pack in retail shareholder count is Tata Motors, one of only two stocks among the top ten that have posted modest gains. Tata Motors recorded a 4.5% rise in just over two months of trading so far in Q2FY26. The other Tata Group stock in the green is Tata Steel, which grew by 5.7% during the same period.
+The list of top stocks by retail holders, drawn from the BSE 500 index, includes well-known names such as Reliance Industries, Yes Bank, and Suzlon Energy, many of which disappointed investors by reporting negative returns despite robust retail interest.
+Key Insights from the Data:
+Retail Flock vs. Share Price Performance: Tata Motors leads with over 66 lakh retail shareholders and holds around 65 crore shares. The stock showed resilience with a 4.55% gain. Interestingly, Yes Bank, with the second-highest retail holder count of 62.6 lakh and the largest shares held by retail investors (706 crore), recorded only a marginal decline of 0.84%. This shows that even large retail participation doesn’t guarantee strong price movement.Steep Losses for High Retail Stocks: Suzlon Energy and Indian Railway Finance Corporation stand out for their steep declines of 15.26% and 12.10%, respectively. Both have over 54 lakh retail shareholders, reflecting a significant investor base facing losses, highlighting the risks involved in following popular stocks blindly.
+Tata Group’s Strong Showing: Three Tata Group companies — Tata Motors, Tata Steel, and Tata Power — dominate the retail investor list. While Tata Motors and Tata Steel posted gains, Tata Power dipped 5.49%, showing mixed performance within the group.
+Energy Sector Pressure: Apart from Suzlon Energy and Tata Power, two more energy sector companies, NTPC and NHPC, also saw declines of 2.48% and 8.39%, respectively, indicating sector-wide challenges impacting retail investors.
+Reliance Industries’ Surprising Dip: Reliance Industries, often considered a blue-chip and relatively stable investment, fell 8.12% during the quarter. This underperformance despite having over 42 lakh retail holders reflects broader market volatility and profit-taking.
+Also Read: Urban Company IPO GMP rises to 28% ahead of launch. Should You Apply?
+What This Means for Retail Investors
+This trend is a cautionary signal for retail investors who may be attracted to stocks solely based on popularity or the sheer number of retail holders. High retail ownership does not automatically translate to strong price performance or guaranteed profits. Experts advise retail investors to look beyond popularity and conduct in-depth research focusing on company fundamentals, sector outlooks, and macroeconomic factors. In volatile markets, relying on crowd behaviour without analysis can lead to unexpected losses.(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

@@ -1,0 +1,7 @@
+2025-10-24 00:40:59,390 - INFO - ✅ Frontier AI components loaded
+2025-10-24 00:40:59,401 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-24 00:40:59,408 - INFO - 🚀 Starting real-time collection + analysis for 50 tickers
+2025-10-24 00:40:59,412 - INFO -    Time window: 48 hours
+2025-10-24 00:40:59,415 - INFO -    Max articles per ticker: 10
+2025-10-24 00:40:59,417 - INFO - [1/50] Processing 21STCENMGM...
+2025-10-24 00:40:59,432 - INFO - 📰 Fetching news for 21STCENMGM (last 48h)

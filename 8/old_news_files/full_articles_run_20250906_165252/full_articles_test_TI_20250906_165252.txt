@@ -1,0 +1,61 @@
+Full Article Fetch Test - TI
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-06
+
+Title   : AI in agriculture: Time to move from demos to decisions
+Source  : www.thehindubusinessline.com
+Published: 2025-09-06T05:30:00
+Fetched : 2025-09-06T18:08:17.393488
+URL     : https://www.thehindubusinessline.com/economy/agri-business/ai-in-agriculture-time-to-move-from-demos-to-decisions/article70017168.ece
+--------------------------------------------------------------------------------
+There has been a growing hype in the agtech sector that: “AI will transform agriculture”. From advisories like NPSS (National Pest Surveillance System) to intelligent governance dashboard, AI is perceived as the game-changer from our policymakers to farmers. While this is a compelling vision, it is also dangerously oversimplified.
+It’s time we ask ourselves the tougher question – are we building for impact or are we doing it for the optics?
+Over the past year, while companies like Farmitopia, Plantix have explored computer vision for pest and disease management, companies like Sarvam.ai have displayed potential in terms of reasoning for crop advisories and data-driven policy making. The Ministry of Agriculture and Farmers’ Welfare (MoA&FW) also seems to be a forerunner in adopting AI — from building grievance redressal chatbots like e-Mitra to coming up with a centre of excellence like IIT Ropar. The momentum is real, but so is the fragmentation.
+There are too many disconnected pilots, too many overlapping proofs of concept, and too few initiatives that scale beyond a single district or demo day. We’re spending a lot of time proving that AI can do things when we should be focusing on what it should do, and how it will be used in the field.
+The problem isn’t technology—it’s direction
+The core issue isn’t whether the AI works. It’s whether we’re deploying it to solve the right problems, rather than force fitting it into something which we perceive to be the problem.
+Take crop advisory for example. A multilingual chatbot that tells a farmer when to sow seeds sounds impressive — until you realise it doesn’t understand local soil moisture or regional agro-climatic dynamics. Or governance dashboards: they look sleek at conferences but often lack the granularity that district officers need to make field-level decisions.
+We are still treating AI as an upgrade, not a redesign. But agriculture — more than almost any sector — demands systems that are deeply local, painfully specific, and built for high-stakes variability. Most LLMs (large language models) and reasoning engines aren’t trained for that.
+A roadmap is not a strategy
+Talks are underway for linking efforts from IndiaAI, Sarvam.ai, IITs, and various funders. That’s a welcome move. But a roadmap shouldn’t just be a list of tech integrations. It needs to answer real-world questions: Who owns the data? Who audits the models? What happens when a recommendation goes wrong?
+We’ve seen interest in using reasoning modules for policy, AI assistants for scheme delivery, even WhatsApp bots funded by Meta. But we’re yet to see a single unified infrastructure layer that ties these together.
+The future we’re aiming for — real-time advisories, adaptive governance, field feedback loops — will only work if the tools are designed for context, not just capability. That means co-building with farmer organizations, district administrations, and local extension workers — not just deploying a model trained in a lab.
+The risk of techno-solutionism
+Let’s not repeat the mistakes of earlier tech waves, where digital tools were rolled out without ground truthing. In agri-tech, false precision is dangerous. A wrong sowing date or pesticide recommendation isn’t a UX bug — it can mean crop loss and financial distress.
+And let’s be honest: many of these AI initiatives are still in their early stages. Some of the reasoning engines (AI systems designed not just to process data but to analyse, infer, and make informed decisions) under development haven’t been field-tested. The data sets remain patchy. Integration with government systems like Agristack is still on paper. Without a serious, long-term commitment to feedback-driven development, we risk building shiny systems that don’t stick.
+What needs to change
+Here’s what we should push for now:
+· Mission-first design: Build tools based on real agricultural pain points, not just model capabilities.
+· Cross-ministry alignment: If the same reasoning module can serve agriculture, health, and education, let’s build shared infrastructure — but define domain-specific layers clearly.
+· Accountability loops: Funders and ministries must demand longitudinal metrics — not just pilot success.
+· Field partnership: The best AI won’t come from Bengaluru or Delhi alone. It’ll come from co-designing with those in Mandla, Baramati, and Nalgonda.
+We’re at a pivotal movement. India has the potential to lead in creating an inclusive, context-aware agriculture AI systems. But we need to move beyond bubble created buzzwords and short-term projects. This isn’t just about “transforming” agriculture through AI; it is about understanding agriculture deeply enough that AI helps.
+The potential is huge. But potential remains merely on paper if not appended with execution.
+(The author is Chief AI and Digital Consultant, Wadhwani Foundation)
+Published on September 6, 2025
+
+Title   : Gold prices surge by Rs 6,500 in last 1 month to hit record high of Rs 1,07,807/10g. Time to book profit? 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-06T06:46:51
+Fetched : 2025-09-06T18:08:17.393488
+URL     : https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-surge-by-rs-6500-in-last-1-month-to-hit-record-high-of-rs-107807/10g-time-to-book-profit/articleshow/123731591.cms
+--------------------------------------------------------------------------------
+The surge comes despite recent profit-taking ahead of key U.S. employment data, as global uncertainties and central bank demand continue to lend strong support to the yellow metal.
+Gold and silver witnessed profit booking from record levels ahead of the U.S. employment report. Investors locked gains in both metals before the release of the non-farm payroll data.
+While the dollar index continues to hover above the 98 mark, global uncertainties arising from U.S. trade tariffs and sustained central bank buying are lending support to precious metals.
+The Federal Reserve’s expected rate cuts at its upcoming meeting have also added to bullish sentiment, as lower interest rates tend to make non-yielding assets like gold more attractive.
+Jateen Trivedi, VP Research Analyst- Commodity and Currency, LKP Securities, said, “Investors remain focused on the Fed’s September meeting where rate cuts are anticipated, while ongoing tariff uncertainties are fueling safe-haven demand. Together, these factors continue to keep bullion in a bullish structure.”
+He believes that the broader setup for gold still remains positive as long as prices sustain above Rs 1,06,450, with strength expected to extend towards resistance near Rs 1,07,260.
+“A decisive break above this could open the path for further gains, while only a fall below Rs 1,06,150 would signal weakness,” he added.
+Analysts remain cautiously optimistic as gold trades near its lifetime high. Strong central bank demand, expectations of a U.S. Federal Reserve rate cut, and geopolitical uncertainties are underpinning the rally.
+Domestically, momentum on the Multi Commodity Exchange has been driven by investor flows into gold futures, with technical levels providing further support to prices.
+As long as prices sustain above crucial thresholds, analysts believe the broader structure remains bullish, with resistance levels in sight that, if broken, could pave the way for fresh record highs.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of The Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+

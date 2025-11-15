@@ -1,0 +1,89 @@
+{
+  "ANALYZER": [
+    {
+      "task_clarity_score": 95,
+      "technical_completeness_score": 90,
+      "should_ask_questions": false,
+      "identified_gaps": [],
+      "assumptions_made": [],
+      "next_state": "PLANNING",
+      "reasoning": "Task fully specified"
+    }
+  ],
+  "PLANNING": [
+    {
+      "task_summary": "Initial rollout",
+      "approach": "Ship quickly",
+      "assumptions": [],
+      "steps": [
+        {
+          "id": "S1",
+          "description": "Implement feature",
+          "rationale": "Core",
+          "dependencies": [],
+          "estimated_duration": "15 minutes",
+          "validation_criteria": ["Tests pass"],
+          "risks": ["Flaky tests"],
+          "rollback_strategy": "Revert"
+        }
+      ],
+      "success_criteria": ["Feature enabled"],
+      "risks": ["Regression"],
+      "estimated_total_duration": "15 minutes",
+      "confidence": 70
+    },
+    {
+      "task_summary": "Revised rollout",
+      "approach": "Incorporate critic feedback",
+      "assumptions": [],
+      "steps": [
+        {
+          "id": "S1",
+          "description": "Implement feature",
+          "rationale": "Core",
+          "dependencies": [],
+          "estimated_duration": "15 minutes",
+          "validation_criteria": ["Tests pass"],
+          "risks": ["Flaky tests"],
+          "rollback_strategy": "Revert"
+        },
+        {
+          "id": "S2",
+          "description": "Add regression tests",
+          "rationale": "Cover paths",
+          "dependencies": ["S1"],
+          "estimated_duration": "10 minutes",
+          "validation_criteria": ["New tests pass"],
+          "risks": ["CI failures"],
+          "rollback_strategy": "Remove tests"
+        }
+      ],
+      "success_criteria": ["Feature enabled", "Tests updated"],
+      "risks": ["Regression"],
+      "estimated_total_duration": "25 minutes",
+      "confidence": 80
+    }
+  ],
+  "CRITIC": [
+    {
+      "approved": false,
+      "confidence": 60,
+      "concerns": ["Missing test plan"],
+      "suggestions": ["Add regression tests"],
+      "missing_steps": ["Document tests"],
+      "unnecessary_steps": [],
+      "risk_assessment": "MEDIUM",
+      "recommendation": "REVISE: add tests"
+    },
+    {
+      "approved": true,
+      "confidence": 85,
+      "concerns": [],
+      "suggestions": [],
+      "missing_steps": [],
+      "unnecessary_steps": [],
+      "risk_assessment": "LOW",
+      "recommendation": "APPROVE"
+    }
+  ]
+}

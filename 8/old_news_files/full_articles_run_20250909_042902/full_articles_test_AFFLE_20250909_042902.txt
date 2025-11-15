@@ -1,0 +1,19 @@
+Full Article Fetch Test - AFFLE
+================================================================================
+
+Net Profit (TTM/latest) (2025-09-09): 4.01B INR
+
+Title   : Broker’s call: Affle India (Buy)
+Source  : www.thehindubusinessline.com
+Published: 2025-09-08T13:10:08
+Fetched : 2025-09-09T04:40:21.949280
+URL     : https://www.thehindubusinessline.com/markets/brokers-call-affle-india-buy/article70025995.ece
+--------------------------------------------------------------------------------
+Target: ₹2,280
+CMP: ₹1,939.70
+We view Affle 3i (Affle) as a play on the structural shift of ad spend towards digital in India and other emerging markets, where digital penetration is still low versus global benchmarks. Its differentiated CPCU (cost per converted user) model directly aligns revenues with advertiser ROI, offering resilience versus impression-led peers.
+Over the medium term, we believe Affle could sustain about 20 per cent revenue CAGR, supported by rising CPCU realisations, international expansion and scaling of new verticals such as CTV. We estimate EBITDA margins to be resilient in the 22-24 per cent range. Conversely, downside is limited by its strong operating cash flows, providing a balanced risk-reward profile.
+At present, Affle trades at about 33x FY28E EPS (refer exhibit 19), implying only a modest re-rating embedded in our estimates. We believe this premium is justified given Affle’s high-growth EM exposure, where digital ad penetration remains underindexed, conversion-led CPCU model that aligns revenues with advertiser ROI and consistent FCF generation.
+We initiate coverage on Affle with a Buy rating and a target price of ₹2,280. We see Affle’s stock trading at ₹2,400 in our bull-case scenario and ₹1,700 in our bear case, implying a risk-reward skew of 2:1 to the upside.
+Published on September 8, 2025
+

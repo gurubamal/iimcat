@@ -1,0 +1,121 @@
+Full Article Fetch - Aggregated Run
+====================================================================================================
+Run UTC: 2025-09-14T18:32:23.021181
+Hours back: 72
+Sources: economictimes.indiatimes.com, livemint.com, thehindubusinessline.com
+Tickers planned: 5
+====================================================================================================
+
+Full Article Fetch Test - RELIANCE
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-14
+
+Title   : How Sebi's new IPO rules could be a game changer for Reliance Jio and NSE 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-13T06:20:45
+Fetched : 2025-09-14T18:32:33.173496
+URL     : https://economictimes.indiatimes.com/markets/ipos/fpos/how-sebis-new-ipo-rules-could-be-a-game-changer-for-reliance-jio-and-nse/articleshow/123865004.cms
+--------------------------------------------------------------------------------
+Until now, firms with a market value above Rs 5 lakh crore were required to sell at least 5% of their equity through an IPO. For Reliance Jio, valued at more than Rs 13.5 lakh crore by Goldman Sachs in a bull case, this would have meant raising over Rs 58,000-67,500 crore in one go — a supply size analysts say Indian markets would struggle to absorb.
+Sebi’s new proposal halves this requirement to 2.5%, which would translate into an IPO size of just above Rs 30,000 crore for Jio. Reliance chief Mukesh Ambani said the digital behemoth would come to public markets in the first half of 2026, aiming to create unprecedented value for investors, similar to that of global peers.
+Brokerage Citi said that the change not only eases the immediate supply burden but also reduces concerns about a "holding company discount" for Reliance Industries, Jio’s parent.
+The revised framework also extends the timeline for companies to meet the 25% MBPS requirement, allowing them to dilute stakes gradually over up to 10 years. This ensures liquidity is not drained from the secondary market by large one-time issues.
+Also Read: Will Sebi end weekly expiry? Here's what Chairman Tuhin Kanta Pandey said after board meeting
+Boost for NSE listing
+The NSE, expected to list next year with a valuation of more than Rs 5 lakh crore, is also another major beneficiary. Bankers said reduced float requirements will help avoid an IPO glut that could dry out investor appetite at a time when several big-ticket offerings are in the pipeline.
+In the past, Sebi has made exceptions for mega listings, most notably for LIC in 2022, when it allowed the insurer to float just 3.5% of its equity to raise Rs 21,000 crore. But the new norms bring consistency and predictability to how very large companies can approach the market.
+The shift comes as the IPO market in India braces for a massive pipeline of Rs 2.8 lakh crore. According to data from Primedatabase, Sebi has given green light to issues worth about Rs 1.14 lakh crore, and Rs 1.64 lakh crore worth of offers are pending approval.
+With Reliance Jio’s much-anticipated listing — which could value the company as high as Rs 13.5 lakh crore — India is preparing for what may be its largest IPO in history. Analysts say Sebi’s relaxation is a “game-changer” that ensures such large issues are both feasible and less disruptive to market liquidity.
+(Disclaimer: Recommendations, suggestions, views and opinions given by the experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Full Article Fetch Test - INFY
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - TCS
+================================================================================
+
+(no fresh items in last 72h)
+
+Full Article Fetch Test - HDFC
+================================================================================
+
+Financial metrics temporarily unavailable (rate limited) - 2025-09-14
+
+Title   : GST 2.0 to enhance persistency in life insurance plans; HDFC Life, Niva Bupa top buys: Siddhartha Khemka 
+Source  : economictimes.indiatimes.com
+Published: 2025-09-13T07:33:51
+Fetched : 2025-09-14T18:32:41.495233
+URL     : https://economictimes.indiatimes.com/markets/stocks/news/gst-2-0-to-enhance-persistency-in-life-insurance-plans-hdfc-life-niva-bupa-top-buys-siddhartha-khemka/articleshow/123866042.cms
+--------------------------------------------------------------------------------
+Effective September 22, the move is expected to lower policy premiums, improve affordability, and accelerate penetration in a market where protection and health coverage remain significantly underpenetrated.
+For consumers, the relief is immediate. A policy with a base premium of ₹100, which earlier cost ₹118 under the old regime, would now be priced closer to ₹104–105, even after insurers factor in the loss of input tax credit (ITC).
+This translates into notable savings for customers and could spur demand across health and protection categories. Insurers may also recalibrate commission structures to offset ITC losses, thereby streamlining costs while continuing to pass on benefits.
+The exemption is also likely to enhance persistency in life insurance and improve retention in health plans. Even partial savings passed on to customers can improve the internal rate of return (IRR) for savings-linked life products, while demand for protection plans—typically offering higher margins—may accelerate further.
+In the near term, however, a transition period up to September 22 could lead to policy cancellations, delayed purchases, and renewal deferrals, creating short-term liquidity pressures.
+General insurers, too, stand to gain indirectly. Reduced GST on automobiles is expected to support vehicle sales, in turn expanding motor insurance volumes.
+Additionally, a cut in GST on motor third-party premiums for goods carriers will ease cost pressures, though it may also limit the likelihood of price hikes in that segment this year.
+Structurally, these reforms position the sector for stronger growth in the second half of FY26, aided by both a low base in FY25 and a healthier product mix.
+As affordability improves and protection products gain traction, profitability is expected to strengthen, particularly in non-participating categories.
+Over the medium term, GST 2.0 is likely to make essential insurance products more accessible, lower cost barriers, and drive penetration across retail health, protection, and motor segments.
+While short-term disruptions are inevitable, the reform reflects a clear policy intent to expand household financial security and build a more resilient, consumer-centric insurance landscape.
+HDFC Life: Buy| Target Rs 910
+HDFC Life continues to demonstrate steady growth, supported by a strong product mix, robust distribution partnerships, and expanding agency channels.
+The GST 2.0 reforms, which have exempted retail life insurance from the earlier 18% GST, are expected to materially improve affordability and drive higher penetration of protection products, directly benefitting the company.
+With consistent premium growth, rising AUM, resilient margins, and strong solvency, HDFC Life is well-positioned to capture incremental demand from GST-led consumption tailwinds while sustaining healthy RoEV over the medium term.
+Niva Bupa: Buy| Target Rs 101
+Niva Bupa is well-placed for sustained growth, supported by a strong partner base, diversified distribution channels, and continued focus on cost efficiency.
+The GST 2.0 reforms, which have exempted retail health insurance from the earlier 18% GST, are expected to materially improve affordability and enhance penetration of health insurance products, strengthening demand visibility.
+With disciplined expense management, expected claims normalization, and high-single-digit price hikes already implemented, Niva Bupa is positioned to capture incremental demand while driving profitability improvement over the medium term.
+(The author is Head – Research, Wealth Management, Motilal Oswal Financial Services Ltd)
+(Disclaimer: Recommendations, suggestions, views, and opinions given by experts are their own. These do not represent the views of the Economic Times)
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+(What's moving Sensex and Nifty Track latest market news, stock tips, Budget 2025, Share Market on Budget 2025 and expert advice, on ETMarkets. Also, ETMarkets.com is now on Telegram. For fastest news alerts on financial markets, investment strategies and stocks alerts, subscribe to our Telegram feeds .)
+Subscribe to ET Prime and read the Economic Times ePaper Online.and Sensex Today.
+Top Trending Stocks: SBI Share Price, Axis Bank Share Price, HDFC Bank Share Price, Infosys Share Price, Wipro Share Price, NTPC Share Price
+
+Title   : We are in the best position to guide customers to invest responsibly: HDFC Securities' Puneeth Bekal
+Source  : www.livemint.com
+Published: 2025-09-14T10:43:31
+Fetched : 2025-09-14T18:32:41.495233
+URL     : https://www.livemint.com/companies/hdfc-securities-customers-invest-puneeth-bekal-marketing-advertising-sebi-markets-youtube-instagram-11757836605732.html
+--------------------------------------------------------------------------------
+We are in the best position to guide customers to invest responsibly: HDFC Securities' Puneeth Bekal
+CMO Puneeth Bekal explains how HDFC Securities is leveraging research, snackable content, and social media to build trust and authenticity.
+Marketing is hard for stockbroking apps, as they worry about Securities and Exchange Board of India (Sebi) rules while chasing an increasingly younger investor with a seemingly endless risk appetite. Add to it the responsibility of a legacy brand name, and HDFC Securities has its task cut out for it. How does it juggle its many marketing goals in an increasingly complicated media landscape? Puneeth Bekal, executive vice president and chief marketing officer of HDFC Securities, tells Mint in this conversation.
+HDFC is a legacy brand name. How do you balance that when addressing an increasingly younger consumer base?
+The audience investing in any asset has now come down to 18-35 as compared to the previous cohort of 25-44 in the last five-six years, especially after covid. The risk appetite of Millennials and Gen Zs is much higher. Most of the platforms these audiences go to do not guide investors. HDFC Securities has been around for 25 years, and Invest Right is our legacy app. The average age here is above 35+ and has among the industry’s highest Arpus [average revenue per user].
+These are loyal users who have stuck with us for years. They have access to all our research. So guiding investors to invest responsibly is something we have done for the last 25 years. Now, in our discount broking app HDFC Sky, we have a research dashboard where a research team in the backend gives you stock calls for the short-term, medium-term, and year-long calls across asset classes. This builds credibility and authenticity with the entire audience. We don’t just shoot in the dark.
+This is why we wanted to get on channels like Reddit and Telegram so we can focus on guiding investors to invest responsibly. Our aim for a marketing campaign is not solely to convince people to download the app. If there is a conversation on a particular industry, I think we are in the best position to have the conversation on Reddit on how that industry is shaping up.
+Do you think this is a marketing plank that other broking companies don't adequately address?
+No. These platforms do not have the wherewithal or expertise to guide an investor on what stocks to invest in and which ones to stay away from. For MTF [margin trading facility], we also have a list of stocks we recommend that you can pick and choose from. It is that layer of communication that we do to the audience. This is what we do on the app.
+So how does this value proposition play out on social media?
+So, for instance, we have eight-nine research reports coming out every week, such as Pick of the Week and Mutual Fund Mojo. These are incredibly detailed, dense reports, but they can be incredibly boring, even for me, to consume. So now, we are converting these reports into snackable formats. Say a 12-page PDF into a 1-page infographic. We turn the insights from these reports into a Reel which can go on Instagram or on YouTube. The same insights from the report are converted into articles that we send to relevant publishers and host on the HDFC Sky website.
+Since we started doing this, the traffic on our website has increased at least 176 times over the last three months. Now that people are landing on the website for information, we guide them to buy and lead them into the journey on the Sky app. These are novel ways we are looking at to build authentic, credible, research-backed information, give back to the consumers information in a format they can consume on channels which are always on, such as social media, WhatsApp, and Telegram.
+Social media marketing can be vast and confusing. How do you plan your experiments on platforms like Instagram and YouTube?
+We now do one-two Reels a day, produced in-house. We obviously have an agency, but most of my team members are the face of the brand. Our head of social, Nitesh, is the face of Daily News (reels on HDFC Securities). All the team members are influencers in their own right.
+To be honest, we have realized that the agency ecosystem is also up for discussion. Perhaps not for a small brand like ours, but even for bigger brands, the way we engage with agencies needs to change.
+Can you give me an example?
+Let’s look at media agencies. We did a pitch with all the big ones for performance and paid media. We realized that all these estimates are based on some assumptions they have taken, which may not work for a brand like ours. I don’t know how to solve for them, but as a client, we realized we should take a step back and understand the landscape.
+If you take the paid media ecosystem also, the machine learning insights and growth in acquisitions can only come from more signals you send for the machine to learn and give us the same lookalikes [audiences to show ads to]. Now, the signals to be sent are an exercise where the tech team, product team, and performance team all have to be in line. For example, we want to acquire more MTF customers. For the machine to know that these are the set of people who will buy into an MTF, there needs to be a threshold number of signals that needs to go into it. Who determines this threshold?
+Because of the changing modalities of marketing today, most of it is coming in-house. The client is in the best position to understand their own data. Understanding my own data on an hourly basis cannot be done by an agency sitting outside.
+Do you see inspiration in the stockbroking business, companies that are doing communication very well?
+My go-to brands globally are Charles Schwab, Robinhood, and Public.com. I prefer Public.com over the two, because they are very pointed, there is a quirk in the communication they do, and it sticks.
+Is quirky harder to do in India, and with the HDFC brand name?
+No. Just look at our ad campaigns coming soon. It’s completely out of the family, if I may say so. We are about to launch four campaigns for HDFC Sky, HDFC Invest Right, TRU, the private wealth management arm for high-net worth families, and for our CSR (corporate social responsibility) initiatives that will focus on protecting customers from digital financial fraud.
+
+Full Article Fetch Test - ICICI
+================================================================================
+
+(no fresh items in last 72h)
+

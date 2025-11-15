@@ -1,0 +1,96 @@
+2025-10-26 13:00:15,158 - INFO - AI provider configured: Heuristic
+2025-10-26 13:00:15,965 - INFO - ✅ Frontier AI components loaded
+2025-10-26 13:00:15,966 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 13:00:14,352 - INFO - 🚀 Starting real-time collection + analysis for 2 tickers
+2025-10-26 13:00:14,352 - INFO -    Time window: 6 hours
+2025-10-26 13:00:14,352 - INFO -    Max articles per ticker: 1
+2025-10-26 13:00:14,352 - INFO - [1/2] Processing RELIANCE...
+2025-10-26 13:00:14,352 - INFO - 📰 Fetching news for RELIANCE (last 6h)
+2025-10-26 13:00:19,710 - INFO - ✅ Found 1 recent articles for RELIANCE
+2025-10-26 13:00:19,711 - INFO - 🔍 INSTANT ANALYSIS: RELIANCE
+2025-10-26 13:00:19,711 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:00:19,711 - INFO - Using heuristic analyzer for RELIANCE (no external AI configured).
+2025-10-26 13:00:19,718 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:00:19,719 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:00:19,719 - INFO - [2/2] Processing TCS...
+2025-10-26 13:00:19,719 - INFO - 📰 Fetching news for TCS (last 6h)
+2025-10-26 13:00:21,099 - INFO - ✅ Found 1 recent articles for TCS
+2025-10-26 13:00:21,101 - INFO - 🔍 INSTANT ANALYSIS: TCS
+2025-10-26 13:00:21,101 - INFO -    Headline: M-cap of 7 of top-10 most valued firms jumps by Rs 1.55 lakh cr; Reliance, TCS s...
+2025-10-26 13:00:21,101 - INFO - Using heuristic analyzer for TCS (no external AI configured).
+2025-10-26 13:00:21,103 - INFO -    ✅ Score: 100.0 | Sentiment: bullish
+2025-10-26 13:00:21,103 - INFO -    Recommendation: STRONG BUY
+2025-10-26 13:00:21,103 - INFO - 
+✅ Collection complete!
+2025-10-26 13:00:21,104 - INFO -    Total articles: 2
+2025-10-26 13:00:21,104 - INFO -    Successfully analyzed: 2
+2025-10-26 13:00:21,119 - INFO - ✅ Results saved to: realtime_ai_stage1_20251026_130014.csv
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/2] Processing RELIANCE...
+   📰 Analyzing 1 article(s)...
+
+[2/2] Processing TCS...
+   📰 Analyzing 1 article(s)...
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+1. RELIANCE - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+2. TCS - Score: 95.0/100
+   Sentiment: BULLISH | Rec: STRONG BUY
+   Catalysts: earnings, M&A, investment, contract
+   Certainty: 95% | Articles: 1
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 2
+   Results saved: realtime_ai_stage1_20251026_130014.csv
+2025-10-26 13:00:22,411 - INFO - Using Codex shell bridge (no API key).
+2025-10-26 13:00:22,412 - INFO - AI provider configured: Codex-shell
+2025-10-26 13:00:22,991 - INFO - ✅ Frontier AI components loaded
+2025-10-26 13:00:22,994 - INFO - 🤖 Real-time AI Analyzer initialized
+2025-10-26 13:00:26,209 - INFO - 🌐 Internet check: OK | Remote AI: NO | AI endpoint reachable: N/A
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+Traceback (most recent call last):
+  File "/home/vagrant/R/essentials/realtime_ai_news_analyzer.py", line 1066, in <module>
+    main()
+  File "/home/vagrant/R/essentials/realtime_ai_news_analyzer.py", line 1038, in main
+    analyzer = RealtimeAIAnalyzer(
+  File "/home/vagrant/R/essentials/realtime_ai_news_analyzer.py", line 397, in __init__
+    raise RuntimeError('Require-Internet-AI enabled but selected provider is not a remote AI (claude/codex). Set OPENAI_API_KEY or ANTHROPIC_API_KEY to enable remote AI, or unset REQUIRE_INTERNET_AI.')
+RuntimeError: Require-Internet-AI enabled but selected provider is not a remote AI (claude/codex). Set OPENAI_API_KEY or ANTHROPIC_API_KEY to enable remote AI, or unset REQUIRE_INTERNET_AI.

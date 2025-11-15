@@ -1,0 +1,25 @@
+Full Article Fetch Test - MOS
+================================================================================
+
+Net Profit (TTM/latest) (2025-10-22): 125.06M
+
+Title   : 'Most economically damaging cyber event': Jaguar Land Rover hack costs UK economy $2.5 billion, says report
+Source  : www.livemint.com
+Published: 2025-10-22T12:08:20
+Fetched : 2025-10-22T13:20:04.798680
+URL     : https://www.livemint.com/companies/news/most-economically-damaging-cyber-event-jaguar-land-rover-hack-costs-uk-economy-2-5-billion-says-report-11761129528402.html
+--------------------------------------------------------------------------------
+The cyberattack on Jaguar Land Rover (JLR), owned by India's Tata Motors, has cost the British economy an estimated 1.9 billion pounds ($2.55 billion), said an independent cybersecurity body in a report published on Wednesday.
+The hack, which occurred in August, had a ripple effect, impacting over 5,000 organisations across the United Kingdom, including dealerships and suppliers.
+The report was produced by the Cyber Monitoring Centre, an independent, not-for-profit organisation made up of industry specialists, including the former head of Britain's National Cyber Security Centre.
+It also suggested that losses could be higher if the vehicle manufacturer's operational technology has been significantly impacted or there are unexpected delays in bringing production back to pre-event levels.
+“This incident appears to be the most economically damaging cyber event to hit the UK, with the vast majority of the financial impact being due to the loss of manufacturing output at JLR and its suppliers,” the report said.
+JLR was forced to shut down its manufacturing for almost six weeks following the hack. The luxury carmaker, which typically produces about 1,000 cars per day across its three British factories, only began to resume manufacturing earlier this month.
+In response to severe disruption, the British government provided JLR with a 1.5 billion pound loan guarantee in late September to help support the company's struggling suppliers. According to a Bloomberg report, the carmaker employs 34,000 people in the UK, with a further 120,000 jobs in the country tied to its supply chain.
+The incident was one of several high-profile hacks to hit major British companies this year. Retailer Marks & Spencer lost about 300 million pounds (about $400 million) after a cyberattack in April forced the company to shut down its online services for two months, Reuters reported.
+The CMC report ranked JLR hack as a Category 3 systemic event, out of a scale of five and anticipates that a full recovery to pre-hack production levels may not occur until January 2026. “It is expected that the return to full production will be challenging, with unforeseen issues likely to arise and require resolution. For modelling purposes, we have assumed a straight-line recovery from 8 October when the return to limited production was announced, to early January 2026,” the report said.
+This report comes just weeks before JLR is set to announce its financial results in November, according to the company's website.
+Get Latest real-time updates
+Catch all the Business News , Corporate news , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.
+Business NewsCompaniesNews'Most economically damaging cyber event': Jaguar Land Rover hack costs UK economy $2.5 billion, says report
+
