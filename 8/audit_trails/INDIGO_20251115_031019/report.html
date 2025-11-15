@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Audit Report - INDIGO</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background-color: #f0f0f0; padding: 20px; border-radius: 5px; }
+        .section { margin: 20px 0; padding: 15px; border-left: 4px solid #0066cc; }
+        .critical { border-left-color: #cc0000; background-color: #ffe6e6; }
+        .warning { border-left-color: #ff9900; background-color: #fff3e6; }
+        .verified { color: #00aa00; }
+        .unverified { color: #ff6600; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f9f9f9; font-weight: bold; }
+        .metric { display: inline-block; margin: 10px 20px 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Audit Report - INDIGO</h1>
+        <p>Generated: 2025-11-15T03:10:19.200162</p>
+    </div>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <div class="metric">
+            <strong>Initial Score:</strong> 54.2/100
+        </div>
+        <div class="metric">
+            <strong>Final Score:</strong> 50/100
+        </div>
+        <div class="metric">
+            <strong>Recommendation:</strong> HOLD
+        </div>
+        <div class="metric">
+            <strong>Data Quality:</strong> 0%
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Verification Summary</h2>
+        <div class="metric verified">
+            ✅ Verified: 0/1
+        </div>
+        <div class="metric unverified">
+            ⚠️ Unverified: 1/1
+        </div>
+        <div class="metric critical" style="margin: 0;">
+            🚨 Conflicting: 0/1
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Points</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Field</th>
+                    <th>Claimed</th>
+                    <th>Verified</th>
+                    <th>Status</th>
+                    <th>Confidence</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>earnings_yoy_growth</td>
+                    <td>-20.25</td>
+                    <td>-</td>
+                    <td><span class="unverified">UNVERIFIED</span></td>
+                    <td>10%</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="section warning">
+        <h2>⚠️ Warnings (1)</h2>
+        <ul>
+<li>⚠️  LOW CONFIDENCE: earnings_yoy_growth (confidence: 10%)</li>
+</ul>
+</div>
+
+</body>
+</html>

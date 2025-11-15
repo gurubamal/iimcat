@@ -1,0 +1,124 @@
+{
+  "ticker": "SIEMENS",
+  "fetch_time": "2025-11-15T08:27:33.110064",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 12 Per Share",
+      "ex_date": "30-Jan-2025",
+      "ex_date_parsed": "2025-01-30T00:00:00",
+      "amount": 12.0
+    },
+    {
+      "description": "Dividend - Rs 10 Per Share",
+      "ex_date": "30-Jan-2024",
+      "ex_date_parsed": "2024-01-30T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": "Dividend - Rs 10 Per Share",
+      "ex_date": "31-Jan-2023",
+      "ex_date_parsed": "2023-01-31T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": "Dividend - Rs 8 Per Share",
+      "ex_date": "20-Jan-2022",
+      "ex_date_parsed": "2022-01-20T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": " Dividend - Rs 7 Per Share",
+      "ex_date": "27-Jan-2021",
+      "ex_date_parsed": "2021-01-27T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Dividend - Rs 7 Per Share",
+      "ex_date": "03-Feb-2020",
+      "ex_date_parsed": "2020-02-03T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Dividend- Rs 7/- Per Share",
+      "ex_date": "28-Jan-2019",
+      "ex_date_parsed": "2019-01-28T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Dividend- Rs 7/- Per Share",
+      "ex_date": "25-Jan-2018",
+      "ex_date_parsed": "2018-01-25T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Dividend - Rs 6/- Per Share",
+      "ex_date": "31-Jan-2017",
+      "ex_date_parsed": "2017-01-31T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": " Interim Dividend - Rs 27.50/- Per Share",
+      "ex_date": "12-Aug-2016",
+      "ex_date_parsed": "2016-08-12T00:00:00",
+      "amount": 27.5
+    },
+    {
+      "description": " Final Dividend Rs 6/- Plus Special Dividend Rs 4/- Per Share",
+      "ex_date": "21-Jan-2016",
+      "ex_date_parsed": "2016-01-21T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": "Annual General Meeting/Final Dividend - Rs 6/- Per Share",
+      "ex_date": "14-Jan-2015",
+      "ex_date_parsed": "2015-01-14T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 5/- Per Share",
+      "ex_date": "15-Jan-2014",
+      "ex_date_parsed": "2014-01-15T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend Rs. 6/- Per Share",
+      "ex_date": "16-Jan-2013",
+      "ex_date_parsed": "2013-01-16T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend - Rs.6/- Per Share",
+      "ex_date": "16-Jan-2012",
+      "ex_date_parsed": "2012-01-16T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.5/- Per Share",
+      "ex_date": "18-Jan-2011",
+      "ex_date_parsed": "2011-01-18T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.5/- Per Share",
+      "ex_date": "19-Jan-2010",
+      "ex_date_parsed": "2010-01-19T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend - 150%",
+      "ex_date": "14-Jan-2009",
+      "ex_date_parsed": "2009-01-14T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [
+    {
+      "description": "Bonus 1:1",
+      "ex_date": "29-Feb-2008",
+      "ex_date_parsed": "2008-02-29T00:00:00",
+      "ratio": "1:1"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

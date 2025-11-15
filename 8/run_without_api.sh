@@ -136,16 +136,53 @@ python3 realtime_ai_news_analyzer.py \
 
 echo ""
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo "✅ Analysis Complete!"
+echo "✅ Original Analysis Complete!"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""
-echo "Results: realtime_ai_results.csv (convenience copy; timestamped CSV also generated)"
+
+# Find the timestamped CSV file (most recent one)
+LATEST_CSV=$(ls -t realtime_ai_results_*.csv 2>/dev/null | head -1)
+if [ -f "$LATEST_CSV" ]; then
+    echo "📊 Quick View of Top 10 Results:"
+    echo ""
+    head -11 "$LATEST_CSV" | tail -10 | awk -F',' '{printf "  %-10s | Score: %-8s | Articles: %-4s\n", $1, $3, $7}'
+    echo ""
+    echo "💾 Full file: $LATEST_CSV"
+    echo ""
+fi
+
+# Run enhanced pipeline integration automatically
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "🚀 Starting Enhanced Pipeline Integration..."
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo ""
+
+if [ -f "run_enhanced_pipeline_integration.py" ]; then
+    # Optional safety check: ensure enhanced pipeline script has no syntax errors
+    if ! python3 -m py_compile run_enhanced_pipeline_integration.py 2>/dev/null; then
+        echo "❌ Enhanced pipeline script failed syntax check (py_compile). Skipping enhancement."
+    else
+        python3 run_enhanced_pipeline_integration.py --input realtime_ai_results.csv --skip-temporal
+
+        echo ""
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo "✅ COMPLETE! Enhanced Analysis Ready"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo ""
+        echo "📊 Results:"
+        echo "  Original:  realtime_ai_results.csv"
+        echo "  Enhanced:  enhanced_results/enhanced_results.json"
+        echo "  Audits:    audit_trails/*/"
+        echo ""
+    fi
+
+else
+    echo "⚠️  Enhanced pipeline script not found - skipping enhancement"
+    echo "To enable: ensure run_enhanced_pipeline_integration.py is in this directory"
+fi
+
 echo ""
 if [ "$PROVIDER" = "codex" ]; then
-    echo "To try Claude CLI:"
+    echo "💡 Try Claude for better accuracy:"
     echo "  $0 claude $TICKERS_FILE $HOURS_BACK $MAX_ARTICLES"
-    echo ""
-    echo "Or use API mode (requires API key):"
-    echo "  export ANTHROPIC_API_KEY='sk-ant-xxxxx'"
-    echo "  ./run_with_claude.sh"
 fi

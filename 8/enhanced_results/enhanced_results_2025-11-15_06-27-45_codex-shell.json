@@ -1,0 +1,268 @@
+[
+  {
+    "ticker": "SBIN",
+    "timestamp": "2025-11-15T06:27:35.471718",
+    "initial_analysis": {
+      "score": 77.7,
+      "sentiment": "bullish",
+      "recommendation": "ACCUMULATE",
+      "catalysts": [
+        "earnings",
+        "investment",
+        "expansion"
+      ]
+    },
+    "verification": {
+      "status": "UNRELIABLE",
+      "verified_count": 0,
+      "unverified_count": 0,
+      "conflicting_count": 1,
+      "confidence": "55%",
+      "details": [
+        {
+          "ticker": "SBIN",
+          "field_name": "earnings_yoy_growth",
+          "claimed_value": 9.71,
+          "verified_value": 3.0,
+          "verification_status": "CONFLICTING",
+          "confidence": 0.55,
+          "sources": [
+            "https://html.duckduckgo.com/html/?q=SBIN+earnings+growth+YoY+2025"
+          ],
+          "publication_dates": [],
+          "discrepancy": "Claimed: 9.71, Verified: 3.0 (69.1% variance)",
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "UNCHECKED",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 77.7,
+      "sentiment": "bullish",
+      "recommendation": "ACCUMULATE",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.753,
+      "data_basis": [],
+      "unverified_claims": [],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "0%",
+        "verified_fields": 0,
+        "total_fields": 1,
+        "critical_issues": 1,
+        "warnings": 0
+      },
+      "sources_consulted": [
+        "https://html.duckduckgo.com/html/?q=SBIN+earnings+growth+YoY+2025"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\ud83d\udea8 CONFLICT in earnings_yoy_growth: Claimed: 9.71, Verified: 3.0 (69.1% variance)",
+      "Response parsing failed - conservative approach taken"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T06:27:35.471724"
+    }
+  },
+  {
+    "ticker": "BLACKBUCK",
+    "timestamp": "2025-11-15T06:27:40.657057",
+    "initial_analysis": {
+      "score": 66.8,
+      "sentiment": "bullish",
+      "recommendation": "WATCH",
+      "catalysts": [
+        "earnings",
+        "investment",
+        "expansion"
+      ]
+    },
+    "verification": {
+      "status": "UNRELIABLE",
+      "verified_count": 0,
+      "unverified_count": 0,
+      "conflicting_count": 1,
+      "confidence": "55%",
+      "details": [
+        {
+          "ticker": "BLACKBUCK",
+          "field_name": "earnings_yoy_growth",
+          "claimed_value": 110.83,
+          "verified_value": 15.0,
+          "verification_status": "CONFLICTING",
+          "confidence": 0.55,
+          "sources": [
+            "https://html.duckduckgo.com/html/?q=BLACKBUCK+earnings+growth+YoY+2025"
+          ],
+          "publication_dates": [],
+          "discrepancy": "Claimed: 110.83, Verified: 15.0 (86.5% variance)",
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "UNCHECKED",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 66.8,
+      "sentiment": "bullish",
+      "recommendation": "WATCH",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.564,
+      "data_basis": [],
+      "unverified_claims": [],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "0%",
+        "verified_fields": 0,
+        "total_fields": 1,
+        "critical_issues": 1,
+        "warnings": 0
+      },
+      "sources_consulted": [
+        "https://html.duckduckgo.com/html/?q=BLACKBUCK+earnings+growth+YoY+2025"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\ud83d\udea8 CONFLICT in earnings_yoy_growth: Claimed: 110.83, Verified: 15.0 (86.5% variance)",
+      "Response parsing failed - conservative approach taken"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T06:27:40.657063"
+    }
+  },
+  {
+    "ticker": "IDEAFORGE",
+    "timestamp": "2025-11-15T06:27:45.108846",
+    "initial_analysis": {
+      "score": 51.6,
+      "sentiment": "bullish",
+      "recommendation": "BUY",
+      "catalysts": [
+        "investment",
+        "contract"
+      ]
+    },
+    "verification": {
+      "status": "UNRELIABLE",
+      "verified_count": 0,
+      "unverified_count": 0,
+      "conflicting_count": 1,
+      "confidence": "55%",
+      "details": [
+        {
+          "ticker": "IDEAFORGE",
+          "field_name": "earnings_yoy_growth",
+          "claimed_value": -2106.47,
+          "verified_value": 2025.0,
+          "verification_status": "CONFLICTING",
+          "confidence": 0.55,
+          "sources": [
+            "https://html.duckduckgo.com/html/?q=IDEAFORGE+earnings+growth+YoY+2025"
+          ],
+          "publication_dates": [],
+          "discrepancy": "Claimed: -2106.47, Verified: 2025.0 (-196.1% variance)",
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "UNCHECKED",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 51.6,
+      "sentiment": "bullish",
+      "recommendation": "BUY",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.627,
+      "data_basis": [],
+      "unverified_claims": [],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "0%",
+        "verified_fields": 0,
+        "total_fields": 1,
+        "critical_issues": 1,
+        "warnings": 0
+      },
+      "sources_consulted": [
+        "https://html.duckduckgo.com/html/?q=IDEAFORGE+earnings+growth+YoY+2025"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\ud83d\udea8 CONFLICT in earnings_yoy_growth: Claimed: -2106.47, Verified: 2025.0 (-196.1% variance)",
+      "Response parsing failed - conservative approach taken"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T06:27:45.108851"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "ticker": "SBIN",
+  "analysis_timestamp": "2025-11-15T05:53:51.476872",
+  "initial_score": 77.0,
+  "final_score": 77.0,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "ACCUMULATE",
+  "final_recommendation": "ACCUMULATE",
+  "total_data_points": 0,
+  "verified_count": 0,
+  "unverified_count": 0,
+  "conflicting_count": 0,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [],
+  "critical_issues": [],
+  "warnings": [],
+  "overall_confidence": 0.0,
+  "data_quality_score": 0.0,
+  "recommendation_confidence": 0.0,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [],
+  "final_verdict_summary": "ACCUMULATE - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

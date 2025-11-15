@@ -1,0 +1,81 @@
+{
+  "ticker": "BANKINDIA",
+  "fetch_time": "2025-11-15T08:17:27.662989",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 4.05 Per Share",
+      "ex_date": "20-Jun-2025",
+      "ex_date_parsed": "2025-06-20T00:00:00",
+      "amount": 4.05
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 2.80 Per Share",
+      "ex_date": "18-Jun-2024",
+      "ex_date_parsed": "2024-06-18T00:00:00",
+      "amount": 2.8
+    },
+    {
+      "description": "Dividend - Rs 2 Per Share",
+      "ex_date": "20-Jun-2023",
+      "ex_date_parsed": "2023-06-20T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 2 Per Share",
+      "ex_date": "07-Jul-2022",
+      "ex_date_parsed": "2022-07-07T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend Rs 5/- Per Share",
+      "ex_date": "10-Jul-2015",
+      "ex_date_parsed": "2015-07-10T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Interim Dividend - Rs 5/- Per Share (Purpose Revised)",
+      "ex_date": "23-Jan-2014",
+      "ex_date_parsed": "2014-01-23T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs.10/- Per Equity Share",
+      "ex_date": "20-Jun-2013",
+      "ex_date_parsed": "2013-06-20T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend Rs 7 Per Share",
+      "ex_date": "21-Jun-2012",
+      "ex_date_parsed": "2012-06-21T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.7/- Per Share",
+      "ex_date": "07-Jul-2011",
+      "ex_date_parsed": "2011-07-07T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.7/- Per Share",
+      "ex_date": "08-Jul-2010",
+      "ex_date_parsed": "2010-07-08T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Interim Dividend - 30%   Purpose Revised",
+      "ex_date": "13-Mar-2009",
+      "ex_date_parsed": "2009-03-13T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend - 40%",
+      "ex_date": "03-Jul-2008",
+      "ex_date_parsed": "2008-07-03T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

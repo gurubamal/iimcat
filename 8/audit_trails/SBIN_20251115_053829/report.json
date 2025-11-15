@@ -1,0 +1,49 @@
+{
+  "ticker": "SBIN",
+  "analysis_timestamp": "2025-11-15T05:38:29.172240",
+  "initial_score": 77.7,
+  "final_score": 50,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "neutral",
+  "initial_recommendation": "ACCUMULATE",
+  "final_recommendation": "HOLD",
+  "total_data_points": 1,
+  "verified_count": 0,
+  "unverified_count": 0,
+  "conflicting_count": 1,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "earnings_yoy_growth",
+      "claimed_value": 9.71,
+      "verified_value": 6.0,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "https://html.duckduckgo.com/html/?q=SBIN+earnings+growth+YoY+2025"
+      ],
+      "publication_dates": [],
+      "confidence": 0.55,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rates extracted from company results and analyst reports"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in earnings_yoy_growth: Growth rates extracted from company results and analyst reports"
+  ],
+  "warnings": [],
+  "overall_confidence": 0.55,
+  "data_quality_score": 0.0,
+  "recommendation_confidence": 0.0,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "https://html.duckduckgo.com/html/?q=SBIN+earnings+growth+YoY+2025"
+  ],
+  "final_verdict_summary": "HOLD - Insufficient verified data for confident verdict"
+}

@@ -1,5 +1,5 @@
-./run_without_api.sh claude test.txt 8 10
+./run_without_api.sh codex test.txt 8 10
 
-./run_exit_assessment.sh claude exit.check.txt 72
+./run_exit_assessment.sh codex exit.check.txt 72
 
 EXIT_USE_INTRADAY=0 ./run_exit_assessment.sh gemini exit.check.txt 256

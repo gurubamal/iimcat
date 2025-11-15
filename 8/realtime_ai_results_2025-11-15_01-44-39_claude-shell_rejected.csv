@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+ETERNAL,ETERNAL LIMITED,41.7,35,1,Certainty 35% below threshold (40%),Food delivery set for 20–22% GOV growth; Eternal & Swiggy top bets ,"Article from Economic Times (tier-1 source) discusses food delivery sector growth (20-22% GOV growth) but primarily focuses on Swiggy and Blinkit, not"
+BANKINDIA,BANK OF INDIA,31.5,5,1,Certainty 5% below threshold (40%),FIIs and DIIs place big bets on State Bank of India — Analysts see about 20% ral,"CRITICAL MISMATCH: Article exclusively covers State Bank of India (SBI) with FII/DII stake increases and analyst targets of ₹1,150 (~20% upside for SB"

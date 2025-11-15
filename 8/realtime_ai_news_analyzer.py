@@ -52,6 +52,16 @@ except ImportError as e:
     logger.warning("Correction boost modules not available: %s", e)
     CORRECTION_BOOST_AVAILABLE = False
 
+# Import health data integration modules
+try:
+    from claude_health_ai_client import create_client as create_health_client
+    from health_data_integration import integrate_with_analyzer
+    HEALTH_DATA_INTEGRATION_AVAILABLE = True
+except ImportError as e:
+    logger = logging.getLogger(__name__)
+    logger.warning("Health data integration modules not available: %s", e)
+    HEALTH_DATA_INTEGRATION_AVAILABLE = False
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -131,6 +141,8 @@ class InstantAIAnalysis:
     net_worth_positive: Optional[bool] = None
     financial_health_status: Optional[str] = None
     fundamental_adjustment: Optional[float] = None
+    # AI Web Search Health Data (verified, fresh data)
+    health_data: Optional[dict] = None
     # Corporate actions catalyst data (fetched from NSE, NOT training data)
     catalyst_score: Optional[int] = None
     has_dividend: Optional[bool] = None
@@ -409,7 +421,9 @@ class AIModelClient:
         if not api_key:
             raise RuntimeError('OPENAI_API_KEY not set')
 
-        model = os.getenv('OPENAI_MODEL', 'gpt-4o')  # Upgraded from invalid 'gpt-4.1-mini' to best model
+        # Default to latest GPT-4.1 model which supports advanced capabilities
+        # (including OpenAI-managed tools/internet where available).
+        model = os.getenv('OPENAI_MODEL', 'gpt-4.1')
         temperature = float(os.getenv('OPENAI_TEMPERATURE', '0.2'))
         max_tokens = int(os.getenv('OPENAI_MAX_TOKENS', '1200'))
 
@@ -779,6 +793,19 @@ class RealtimeAIAnalyzer:
             self.correction_supervisor = None
             logger.warning("⚠️  Correction Boost System not available")
 
+        # Initialize AI-Driven Health Data Integration
+        if HEALTH_DATA_INTEGRATION_AVAILABLE:
+            try:
+                health_ai_client = create_health_client(use_cli=True)  # Prefer CLI if available
+                self.health_integration = integrate_with_analyzer(self, health_ai_client)
+                logger.info("✅ AI Health Data Integration initialized")
+            except Exception as e:
+                logger.warning(f"⚠️  Health Data Integration failed: {e}")
+                self.health_integration = None
+        else:
+            self.health_integration = None
+            logger.warning("⚠️  Health Data Integration not available")
+
         logger.info("🤖 Real-time AI Analyzer initialized")
 
         # Optional internet connectivity and AI endpoint checks
@@ -1030,6 +1057,11 @@ class RealtimeAIAnalyzer:
         frontier_score = self._apply_frontier_scoring(ticker, headline, full_text, ai_analysis)
 
         # Step 3: Combine scores for final ranking
+        # HYBRID SCORE NOTE:
+        # The base hybrid score blends AI news score with Frontier Quant features,
+        # preserving the 60/40 weighting philosophy (AI 60%, Quant 40%).
+        # This is an enhancement over a pure AI+technical approach, leveraging
+        # a richer quant model while maintaining the same intent.
         base_score = self._combine_scores(ai_analysis, frontier_score)
         final_score = self._apply_fundamental_adjustment(base_score, fundamental_data)
         fundamental_adjustment = final_score - base_score
@@ -1134,7 +1166,29 @@ class RealtimeAIAnalyzer:
                 f"{result.quarterly_earnings_growth_yoy:.2f}%" if result.quarterly_earnings_growth_yoy is not None else 'n/a',
                 f"{result.annual_earnings_growth_yoy:.2f}%" if result.annual_earnings_growth_yoy is not None else 'n/a'
             )
-        
+
+        # OPTIONAL: Get AI web search verified health data (non-blocking, cached)
+        # This overrides yfinance data with fresh web search data for better accuracy
+        if self.health_integration:
+            try:
+                health_report = self.health_integration.get_health_data(ticker, self._company_name_map.get(ticker.upper().replace('.NS', '')))
+                if health_report:
+                    # Override profit/loss status with verified web search data
+                    result.is_profitable = health_report.is_profitable
+                    # Store health data for CSV output
+                    result.health_data = {
+                        'is_profitable': health_report.is_profitable,
+                        'latest_profit_loss': health_report.latest_profit_loss,
+                        'profit_loss_period': health_report.profit_loss_period,
+                        'health_status': health_report.health_status,
+                        'consecutive_loss_quarters': health_report.consecutive_loss_quarters,
+                        'warning_flags': health_report.warning_flags,
+                        'ai_analysis': health_report.ai_analysis
+                    }
+                    logger.info(f"   🔍 Health verified: {health_report.health_status} | Profitable: {health_report.is_profitable}")
+            except Exception as e:
+                logger.debug(f"Health data collection skipped for {ticker}: {e}")
+
         # Store result and update ranking (thread-safe)
         with self._lock:
             if ticker not in self.live_results:
@@ -2343,7 +2397,8 @@ Ticker to validate: {ticker}
                 ai_score=ai_score,
                 certainty=certainty,
                 fundamental_data=fundamental_data,
-                market_context=market_context
+                market_context=market_context,
+                base_hybrid_score=hybrid_score
             )
 
             # STEP 2: Get AI supervision verdict
@@ -2360,7 +2415,8 @@ Ticker to validate: {ticker}
                     hybrid_score=hybrid_score,
                     correction_confidence=analysis.get('correction_confidence', 0),
                     market_context=market_context,
-                    safe_to_boost=True
+                    safe_to_boost=True,
+                    context_adjustment=analysis.get('confidence_adjustment')
                 )
                 final_boost = boost_result.get('boost_applied', 0)
                 final_score = boost_result.get('final_score', hybrid_score)
@@ -2680,6 +2736,9 @@ Ticker to validate: {ticker}
                 'quarterly_earnings_growth_yoy', 'annual_earnings_growth_yoy',
                 'profit_margin_pct', 'debt_to_equity',
                 'is_profitable', 'net_worth_positive', 'financial_health_status',
+                # AI Web Search Health Data (verified, non-stale data)
+                'health_is_profitable', 'health_profit_loss', 'health_profit_loss_period',
+                'health_status', 'health_consecutive_losses', 'health_warning_flags',
                 # Corporate actions catalyst fields (from NSE, NOT training data)
                 'catalyst_score', 'has_dividend', 'dividend_amount', 'has_bonus', 'bonus_ratio',
                 # AI-Supervised Correction Boost fields (15 new columns)
@@ -2721,6 +2780,16 @@ Ticker to validate: {ticker}
                     ('TRUE' if latest.is_profitable is True else ('FALSE' if latest.is_profitable is False else '')),
                     ('TRUE' if latest.net_worth_positive is True else ('FALSE' if latest.net_worth_positive is False else '')),
                     (latest.financial_health_status or ''),
+                    # AI Web Search Health Data
+                    (
+                        'TRUE' if hasattr(latest, 'health_data') and latest.health_data and latest.health_data.get('is_profitable') is True
+                        else ('FALSE' if hasattr(latest, 'health_data') and latest.health_data and latest.health_data.get('is_profitable') is False else '')
+                    ),
+                    (latest.health_data['latest_profit_loss'] if hasattr(latest, 'health_data') and latest.health_data and 'latest_profit_loss' in latest.health_data else ''),
+                    (latest.health_data['profit_loss_period'] if hasattr(latest, 'health_data') and latest.health_data and 'profit_loss_period' in latest.health_data else ''),
+                    (latest.health_data['health_status'] if hasattr(latest, 'health_data') and latest.health_data and 'health_status' in latest.health_data else ''),
+                    (str(latest.health_data['consecutive_loss_quarters']) if hasattr(latest, 'health_data') and latest.health_data and 'consecutive_loss_quarters' in latest.health_data else ''),
+                    ('; '.join(latest.health_data['warning_flags']) if hasattr(latest, 'health_data') and latest.health_data and 'warning_flags' in latest.health_data and latest.health_data['warning_flags'] else ''),
                     # Corporate actions catalyst data
                     (str(latest.catalyst_score) if latest.catalyst_score else '0'),
                     ('TRUE' if latest.has_dividend else 'FALSE'),
@@ -3196,6 +3265,85 @@ def main():
     print(f"\n✅ Real-time analysis complete!")
     print(f"   Articles analyzed: {analyzed_count}")
     print(f"   Results saved: {timestamped_output}")
+
+    # Display final results table on screen
+    print("\n" + "="*160)
+    print("📊 FINAL RANKINGS - TOP STOCKS WITH PROFIT HEALTH")
+    print("="*160)
+    try:
+        import csv
+        with open(timestamped_output, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            rows = list(reader)
+
+            if rows:
+                # Print header with profit health metrics
+                print(f"\n{'Rank':<5} {'Ticker':<10} {'Score':<8} {'Sentiment':<10} {'Q-Growth':<10} {'A-Growth':<10} {'Health':<12} {'Profit':<8} {'NW':<6}")
+                print("-" * 160)
+
+                # Print top 25 rows with profit metrics
+                for idx, row in enumerate(rows[:25], 1):
+                    ticker = row.get('ticker', '').ljust(10)
+                    score = row.get('ai_score', '0').ljust(8)
+                    sentiment = row.get('sentiment', '').ljust(10)
+
+                    # Profit health metrics
+                    quarterly_growth = row.get('quarterly_earnings_growth_yoy', '').ljust(10)
+                    annual_growth = row.get('annual_earnings_growth_yoy', '').ljust(10)
+                    health = row.get('financial_health_status', 'unknown').ljust(12)
+                    profit = row.get('is_profitable', '').ljust(8)
+                    networth = row.get('net_worth_positive', '').ljust(6)
+
+                    # Format values
+                    if quarterly_growth.strip():
+                        quarterly_growth = f"{float(quarterly_growth.strip()):.1f}%".ljust(10)
+                    else:
+                        quarterly_growth = 'N/A'.ljust(10)
+
+                    if annual_growth.strip():
+                        annual_growth = f"{float(annual_growth.strip()):.1f}%".ljust(10)
+                    else:
+                        annual_growth = 'N/A'.ljust(10)
+
+                    line = f"{idx:<5} {ticker} {score} {sentiment} {quarterly_growth} {annual_growth} {health} {profit} {networth}"
+                    print(line)
+
+                print("-" * 160)
+
+                # Additional health metrics report
+                print(f"\n📊 PROFIT HEALTH ANALYSIS:")
+                print("-" * 160)
+
+                healthy = sum(1 for row in rows if row.get('financial_health_status', '').lower() == 'healthy')
+                warning = sum(1 for row in rows if row.get('financial_health_status', '').lower() == 'warning')
+                critical = sum(1 for row in rows if row.get('financial_health_status', '').lower() == 'critical')
+                profitable = sum(1 for row in rows if row.get('is_profitable', '').upper() == 'TRUE')
+                negative_nw = sum(1 for row in rows if row.get('net_worth_positive', '').upper() == 'FALSE')
+
+                positive_q_growth = sum(1 for row in rows if row.get('quarterly_earnings_growth_yoy', '') and float(row.get('quarterly_earnings_growth_yoy', 0)) > 0)
+                positive_a_growth = sum(1 for row in rows if row.get('annual_earnings_growth_yoy', '') and float(row.get('annual_earnings_growth_yoy', 0)) > 0)
+
+                total = len(rows)
+                print(f"Total stocks analyzed: {total}")
+                print(f"✅ Healthy: {healthy} ({healthy*100/total:.0f}%)")
+                print(f"⚠️  Warning: {warning} ({warning*100/total:.0f}%)")
+                print(f"🚨 Critical: {critical} ({critical*100/total:.0f}%)")
+                print(f"💰 Profitable: {profitable} ({profitable*100/total:.0f}%)")
+                print(f"📈 Positive Q-Growth: {positive_q_growth} ({positive_q_growth*100/total:.0f}%)")
+                print(f"📈 Positive A-Growth: {positive_a_growth} ({positive_a_growth*100/total:.0f}%)")
+                print(f"❌ Negative Networth: {negative_nw} ({negative_nw*100/total:.0f}%)")
+
+                print("\n" + "-" * 160)
+                print(f"\n✅ Displayed top 25 stocks out of {len(rows)} analyzed")
+                print(f"\n📁 Output Files:")
+                print(f"   💾 Full results: {timestamped_output}")
+                print(f"      (Contains 35+ columns: scores, sentiment, catalysts, risks, prices, profits, health, etc.)")
+                print(f"   📌 Quick copy:   {args.output}")
+            else:
+                print("⚠️  No results to display")
+    except Exception as e:
+        print(f"⚠️  Could not display results table: {e}")
+        print(f"   Error details: {str(e)}")
 
 
 if __name__ == "__main__":

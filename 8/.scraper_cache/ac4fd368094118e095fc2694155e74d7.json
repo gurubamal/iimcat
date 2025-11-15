@@ -1,0 +1,39 @@
+{
+  "ticker": "INDIGO",
+  "fetch_time": "2025-11-15T08:21:33.190471",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 10 Per Share",
+      "ex_date": "13-Aug-2025",
+      "ex_date_parsed": "2025-08-13T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 5 Per Share",
+      "ex_date": "19-Aug-2019",
+      "ex_date_parsed": "2019-08-19T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend- Rs 6 Per Share",
+      "ex_date": "02-Aug-2018",
+      "ex_date_parsed": "2018-08-02T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 34/- Per Share",
+      "ex_date": "18-Aug-2017",
+      "ex_date_parsed": "2017-08-18T00:00:00",
+      "amount": 34.0
+    },
+    {
+      "description": " Dividend - Rs 15/- Per Share",
+      "ex_date": "12-Sep-2016",
+      "ex_date_parsed": "2016-09-12T00:00:00",
+      "amount": 15.0
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

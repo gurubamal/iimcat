@@ -40,6 +40,13 @@ import subprocess
 from pathlib import Path
 import csv
 
+# Reuse shared exit normalization logic so Codex/Gemini/other bridges
+# map their generic news-style JSON into the unified exit schema.
+try:
+    from exit_intelligence_analyzer import _normalize_exit_response  # type: ignore
+except Exception:
+    _normalize_exit_response = None  # type: ignore
+
 # Import AI conversation logger for QA
 try:
     from ai_conversation_logger import log_ai_conversation
@@ -217,13 +224,104 @@ class ExitAIClient:
 
         return 'codex'  # Default
 
+    def _call_openai_exit(self, prompt: str) -> Dict:
+        """
+        Call OpenAI Chat Completions directly for exit analysis when using the
+        'codex' provider with an OpenAI API key configured.
+
+        Uses the latest GPT-4.1 model by default, which supports OpenAI-managed
+        tools/internet access where available.
+        """
+        api_key = os.getenv('OPENAI_API_KEY') or os.getenv('OPENAI_KEY')
+        if not api_key:
+            raise RuntimeError('OPENAI_API_KEY not set for OpenAI exit provider')
+
+        model = os.getenv('OPENAI_MODEL', 'gpt-4.1')
+        temperature = float(os.getenv('OPENAI_TEMPERATURE', '0.2'))
+        max_tokens = int(os.getenv('OPENAI_MAX_TOKENS', '1200'))
+
+        try:
+            import requests  # type: ignore
+        except ImportError as exc:
+            raise RuntimeError('requests package is required for OpenAI exit provider') from exc
+
+        system_prompt = (
+            "You are an expert portfolio manager specializing in EXIT/SELL decisions for equities. "
+            "Return ONLY valid JSON matching the exit assessment schema requested in the user prompt. "
+            "STRICT REAL-TIME CONTEXT: Base your decision ONLY on the technical data and news context "
+            "included in the prompt (both fetched now). Do NOT use training data, memorized prices, or "
+            "external facts not present in the prompt. Be decisive and explicit about exit_urgency_score, "
+            "exit_recommendation, and key risks of continuing to hold."
+        )
+
+        payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt},
+            ],
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+            "response_format": {"type": "json_object"},
+        }
+
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        }
+
+        raw_response = None
+        error_msg = None
+        result: Optional[Dict] = None
+
+        try:
+            response = requests.post(
+                "https://api.openai.com/v1/chat/completions",
+                json=payload,
+                headers=headers,
+                timeout=int(os.getenv('OPENAI_TIMEOUT', '90')),
+            )
+            response.raise_for_status()
+            raw_response = response.json()["choices"][0]["message"]["content"]
+            # Response is already constrained to JSON via response_format
+            result = json.loads(raw_response)
+            return result
+        except Exception as e:  # pragma: no cover - network/HTTP errors
+            error_msg = str(e)[:200]
+            logger.error(f"OpenAI exit call failed: {error_msg}")
+            # Fall back to heuristic analysis if OpenAI is unavailable
+            return self._heuristic_analysis(prompt)
+        finally:
+            try:
+                log_ai_conversation(
+                    provider='openai-exit',
+                    prompt=prompt,
+                    response=raw_response if raw_response else (json.dumps(result, indent=2) if result else ""),
+                    task='exit_analysis',
+                    metadata={
+                        'model': model,
+                        'temperature': temperature,
+                        'max_tokens': max_tokens,
+                        'api': 'openai',
+                    },
+                    error=error_msg,
+                )
+            except Exception:
+                # Logging is best-effort
+                pass
+
     def _call_ai_bridge(self, prompt: str) -> Dict:
         """Call AI bridge with prompt"""
         try:
+            # Claude: use enhanced exit-specific Claude bridge
             if self.provider == 'claude':
                 # Use enhanced exit-specific Claude bridge
                 cmd = ['python3', 'claude_exit_bridge.py']
+            # Codex: prefer direct OpenAI API if key is available; otherwise
+            # fall back to the local codex_bridge heuristic implementation.
             elif self.provider == 'codex':
+                if os.getenv('OPENAI_API_KEY') or os.getenv('OPENAI_KEY'):
+                    return self._call_openai_exit(prompt)
                 cmd = ['python3', 'codex_bridge.py']
             elif self.provider == 'gemini':
                 cmd = ['python3', 'gemini_agent_bridge.py']
@@ -369,6 +467,20 @@ Recent Trend: {technical_data.get('recent_trend', 'N/A')}
 
         # Call AI
         result = self._call_ai_bridge(prompt)
+
+        # Normalize non-heuristic, non-Claude providers via shared exit adapter so that
+        # Codex/Gemini/etc use the same exit schema and scoring strategy
+        # as the comprehensive EXIT INTELLIGENCE analyzer, while leaving
+        # Claude's dedicated exit bridge behavior untouched.
+        if self.provider not in ('heuristic', 'claude') and _normalize_exit_response is not None:  # type: ignore[truthy-function]
+            try:
+                result = _normalize_exit_response(  # type: ignore[misc]
+                    result or {},
+                    technical_data or {},
+                    self.provider,
+                )
+            except Exception as e:
+                logger.warning(f"Exit normalization adapter failed for {ticker} ({self.provider}): {e}")
 
         # Cache result
         self.cache[cache_key] = result
