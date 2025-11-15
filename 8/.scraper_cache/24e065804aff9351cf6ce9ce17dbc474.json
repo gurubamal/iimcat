@@ -1,0 +1,105 @@
+{
+  "ticker": "SBIN",
+  "fetch_time": "2025-11-15T01:43:06.898726",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 15.90 Per Share",
+      "ex_date": "16-May-2025",
+      "ex_date_parsed": "2025-05-16T00:00:00",
+      "amount": 15.9
+    },
+    {
+      "description": "Dividend - Rs 13.70 Per Share",
+      "ex_date": "22-May-2024",
+      "ex_date_parsed": "2024-05-22T00:00:00",
+      "amount": 13.7
+    },
+    {
+      "description": "Dividend - Rs 11.30 Per Share",
+      "ex_date": "31-May-2023",
+      "ex_date_parsed": "2023-05-31T00:00:00",
+      "amount": 11.3
+    },
+    {
+      "description": "Dividend - Rs 7.10 Per Share",
+      "ex_date": "25-May-2022",
+      "ex_date_parsed": "2022-05-25T00:00:00",
+      "amount": 7.1
+    },
+    {
+      "description": " Dividend - Rs 4 Per Share",
+      "ex_date": "03-Jun-2021",
+      "ex_date_parsed": "2021-06-03T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": " Dividend - Rs 2.60 Per Share (Purpose Revised)",
+      "ex_date": "26-May-2017",
+      "ex_date_parsed": "2017-05-26T00:00:00",
+      "amount": 2.6
+    },
+    {
+      "description": " Dividend - Rs 2.60/- Per Share",
+      "ex_date": "03-Jun-2016",
+      "ex_date_parsed": "2016-06-03T00:00:00",
+      "amount": 2.6
+    },
+    {
+      "description": "Dividend - Rs 3.50/- Per Share (Purpose Revised)",
+      "ex_date": "28-May-2015",
+      "ex_date_parsed": "2015-05-28T00:00:00",
+      "amount": 3.5
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs 15 Per Share (Purpose Revised)",
+      "ex_date": "29-May-2014",
+      "ex_date_parsed": "2014-05-29T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": "Interim Dividend Rs 15 Per Share",
+      "ex_date": "11-Mar-2014",
+      "ex_date_parsed": "2014-03-11T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": "Dividend Rs 41.50 Per Share (Purpose Revised)",
+      "ex_date": "28-May-2013",
+      "ex_date_parsed": "2013-05-28T00:00:00",
+      "amount": 41.5
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs 35 Per Share (Purpose Revised)",
+      "ex_date": "24-May-2012",
+      "ex_date_parsed": "2012-05-24T00:00:00",
+      "amount": 35.0
+    },
+    {
+      "description": "Dividend-Rs.30/- Per Share (Purpose Revised)",
+      "ex_date": "20-May-2011",
+      "ex_date_parsed": "2011-05-20T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Final Dividend-Rs.20/- Per Share (Purpose Revised)",
+      "ex_date": "09-Jun-2010",
+      "ex_date_parsed": "2010-06-09T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.29/ Per Share",
+      "ex_date": "10-Jun-2009",
+      "ex_date_parsed": "2009-06-10T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split Rs.10/- To Re.1/- Per Share",
+      "ex_date": "20-Nov-2014",
+      "ex_date_parsed": "2014-11-20T00:00:00"
+    }
+  ],
+  "data_available": true
+}

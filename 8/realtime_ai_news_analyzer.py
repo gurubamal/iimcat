@@ -1030,6 +1030,11 @@ class RealtimeAIAnalyzer:
         frontier_score = self._apply_frontier_scoring(ticker, headline, full_text, ai_analysis)
 
         # Step 3: Combine scores for final ranking
+        # HYBRID SCORE NOTE:
+        # The base hybrid score blends AI news score with Frontier Quant features,
+        # preserving the 60/40 weighting philosophy (AI 60%, Quant 40%).
+        # This is an enhancement over a pure AI+technical approach, leveraging
+        # a richer quant model while maintaining the same intent.
         base_score = self._combine_scores(ai_analysis, frontier_score)
         final_score = self._apply_fundamental_adjustment(base_score, fundamental_data)
         fundamental_adjustment = final_score - base_score
@@ -2343,7 +2348,8 @@ Ticker to validate: {ticker}
                 ai_score=ai_score,
                 certainty=certainty,
                 fundamental_data=fundamental_data,
-                market_context=market_context
+                market_context=market_context,
+                base_hybrid_score=hybrid_score
             )
 
             # STEP 2: Get AI supervision verdict
@@ -2360,7 +2366,8 @@ Ticker to validate: {ticker}
                     hybrid_score=hybrid_score,
                     correction_confidence=analysis.get('correction_confidence', 0),
                     market_context=market_context,
-                    safe_to_boost=True
+                    safe_to_boost=True,
+                    context_adjustment=analysis.get('confidence_adjustment')
                 )
                 final_boost = boost_result.get('boost_applied', 0)
                 final_score = boost_result.get('final_score', hybrid_score)
