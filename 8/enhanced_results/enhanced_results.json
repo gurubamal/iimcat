@@ -1,0 +1,91 @@
+[
+  {
+    "ticker": "BLACKBUCK",
+    "timestamp": "2025-11-15T03:38:54.280501",
+    "initial_analysis": {
+      "score": 82.6,
+      "sentiment": "bullish",
+      "recommendation": "BUY",
+      "catalysts": [
+        "analyst_upgrade",
+        "revenue_growth",
+        "margin_expansion",
+        "market_share_gains"
+      ]
+    },
+    "verification": {
+      "status": "UNRELIABLE",
+      "verified_count": 0,
+      "unverified_count": 1,
+      "conflicting_count": 0,
+      "confidence": "10%",
+      "details": [
+        {
+          "ticker": "BLACKBUCK",
+          "field_name": "earnings_yoy_growth",
+          "claimed_value": 110.83,
+          "verified_value": null,
+          "verification_status": "UNVERIFIED",
+          "confidence": 0.1,
+          "sources": [],
+          "publication_dates": [],
+          "discrepancy": "Could not verify claimed value in web search",
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "UNCHECKED",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 50,
+      "sentiment": "neutral",
+      "recommendation": "HOLD",
+      "summary": "Insufficient verified data for confident verdict",
+      "reasoning": "Could not verify enough data points to make a confident recommendation",
+      "confidence": 0.0,
+      "data_basis": [],
+      "unverified_claims": [
+        "earnings_yoy_growth"
+      ],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Verdict system unavailable - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "0%",
+        "verified_fields": 0,
+        "total_fields": 1,
+        "critical_issues": 0,
+        "warnings": 1
+      },
+      "sources_consulted": [],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "Verdict system unavailable - conservative approach taken",
+      "\u26a0\ufe0f Low confidence in 1 field(s) - Verify manually",
+      "\u26a0\ufe0f Could not verify: earnings_yoy_growth - Use with caution"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T03:38:54.280507"
+    }
+  }
+]

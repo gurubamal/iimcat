@@ -1,0 +1,2 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+INDIGO,earnings_yoy_growth,-20.25,,UNVERIFIED,10%,N/A,False,False,,,Growth rates extracted from company results and analyst reports

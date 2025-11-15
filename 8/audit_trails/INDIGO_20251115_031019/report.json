@@ -1,0 +1,45 @@
+{
+  "ticker": "INDIGO",
+  "analysis_timestamp": "2025-11-15T03:10:19.200162",
+  "initial_score": 54.2,
+  "final_score": 50,
+  "initial_sentiment": "neutral",
+  "final_sentiment": "neutral",
+  "initial_recommendation": "HOLD",
+  "final_recommendation": "HOLD",
+  "total_data_points": 1,
+  "verified_count": 0,
+  "unverified_count": 1,
+  "conflicting_count": 0,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "earnings_yoy_growth",
+      "claimed_value": -20.25,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [],
+      "publication_dates": [],
+      "confidence": 0.1,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Growth rates extracted from company results and analyst reports"
+    }
+  ],
+  "critical_issues": [],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: earnings_yoy_growth (confidence: 10%)"
+  ],
+  "overall_confidence": 0.1,
+  "data_quality_score": 0.0,
+  "recommendation_confidence": 0.0,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [],
+  "final_verdict_summary": "HOLD - Data verification incomplete"
+}

@@ -360,12 +360,94 @@ def try_profit_growth(ticker: str) -> float:
         return 0.0
 
 
+def check_negative_quarterly_growth(ticker: str) -> bool:
+    """Check if latest quarterly profit growth is negative.
+    Used for INFORMATION ONLY - does NOT affect ranking.
+    Returns True if negative growth detected, False otherwise (including unavailable data).
+    """
+    try:
+        import yfinance as yf
+        sym = _ensure_ns(ticker)
+        tk = yf.Ticker(sym)
+        qis = getattr(tk, 'quarterly_income_stmt', None)
+        if qis is None or qis.empty:
+            return False
+        # Prefer Net Income
+        label = None
+        for cand in ("Net Income", "NetIncome", "Net Income Applicable To Common Shares"):
+            if cand in qis.index:
+                label = cand
+                break
+        if not label:
+            return False
+        s = qis.loc[label].dropna()
+        if len(s) < 2:
+            return False
+        latest = float(s.iloc[0])
+        prev = float(s.iloc[1])
+        if prev == 0:
+            return False
+        growth_pct = (latest - prev) / abs(prev) * 100.0
+        # Return True if growth is negative
+        return growth_pct < 0.0
+    except Exception:
+        return False
+
+
+def check_negative_networth(ticker: str) -> bool:
+    """Check if company has negative networth (liabilities > assets).
+    Used for INFORMATION ONLY - does NOT affect ranking.
+    Returns True if negative networth detected, False otherwise (including unavailable data).
+    """
+    try:
+        import yfinance as yf
+        sym = _ensure_ns(ticker)
+        tk = yf.Ticker(sym)
+        bs = getattr(tk, 'quarterly_balance_sheet', None)
+        if bs is None or bs.empty:
+            return False
+
+        # Get latest quarter data
+        latest_col = bs.iloc[:, 0]
+
+        # Try multiple label variations for Total Assets
+        total_assets = None
+        for cand in ("Total Assets", "TotalAssets", "Assets"):
+            if cand in bs.index:
+                try:
+                    total_assets = float(bs.loc[cand, latest_col.name])
+                    break
+                except (ValueError, TypeError):
+                    continue
+
+        # Try multiple label variations for Total Liabilities
+        total_liabilities = None
+        for cand in ("Total Liabilities", "TotalLiabilities", "Liabilities"):
+            if cand in bs.index:
+                try:
+                    total_liabilities = float(bs.loc[cand, latest_col.name])
+                    break
+                except (ValueError, TypeError):
+                    continue
+
+        # Calculate networth: Assets - Liabilities
+        if total_assets is not None and total_liabilities is not None:
+            networth = total_assets - total_liabilities
+            return networth < 0
+
+        return False
+    except Exception:
+        return False
+
+
 def top_reasons(title: str, ticker: str, has_word: bool, dups: int, cr: float, source: str) -> str:
     reasons: List[str] = []
+
+    # Event type (first priority)
     ev = classify_event(title)
     if ev != "General":
         reasons.append(ev)
-    
+
     # Show relative impact if available
     relative_impact = calculate_relative_magnitude(title, ticker)
     if relative_impact > 0:
@@ -373,10 +455,23 @@ def top_reasons(title: str, ticker: str, has_word: bool, dups: int, cr: float, s
     elif cr > 0:
         cr_disp = f"{cr:.0f}" if cr >= 100 else f"{cr:.1f}"
         reasons.append(f"~₹{cr_disp} Cr")
-    
+
+    # Add financial health flags for INFORMATION (no scoring impact)
+    # These are just highlighted for user awareness
+    financial_notes = []
+    if check_negative_quarterly_growth(ticker):
+        financial_notes.append("⚠️ Q-Decline")
+    if check_negative_networth(ticker):
+        financial_notes.append("⚠️ NW-Negative")
+
+    if financial_notes:
+        reasons.append(" ".join(financial_notes))
+
     reasons.append("ticker in title" if has_word else "no exact ticker")
+
     if dups > 1:
         reasons.append(f"dedup x{dups}")
+
     dom = (source or "").lower()
     src_tag = None
     for key in ("reuters.com", "livemint.com", "economictimes.indiatimes.com", "business-standard.com", "thehindubusinessline.com"):
@@ -385,7 +480,7 @@ def top_reasons(title: str, ticker: str, has_word: bool, dups: int, cr: float, s
             break
     if src_tag:
         reasons.append(src_tag)
-    return "; ".join(reasons[:3]) or "news impact"
+    return "; ".join(reasons[:6]) or "news impact"
 
 
 def load_news_csv(csv_path: str) -> List[Dict[str, str]]:
