@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+SIEMENS,quarterly_earnings_yoy_growth,-26.8,-26.8,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate -26.8% is within expected range for Indian stocks (-50% to +100%)
+SIEMENS,annual_earnings_yoy_growth,38.54,38.54,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 38.54% is within expected range for Indian stocks (-50% to +100%)
+SIEMENS,profit_margin,9.73,9.73,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 9.73% is within expected range for Indian stocks (-50% to +50%)
+SIEMENS,financial_health,moderate,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Financial health status 'moderate' is not recognized
+SIEMENS,target_conservative,3207.57,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SIEMENS,target_aggressive,3330.94,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SIEMENS,sentiment,NEUTRAL,NEUTRAL,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification

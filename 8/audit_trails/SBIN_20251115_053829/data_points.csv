@@ -1,0 +1,2 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+SBIN,earnings_yoy_growth,9.71,6.0,CONFLICTING,55%,N/A,False,True,https://html.duckduckgo.com/html/?q=SBIN+earnings+growth+YoY+2025,,Growth rates extracted from company results and analyst reports

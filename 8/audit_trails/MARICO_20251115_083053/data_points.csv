@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+MARICO,quarterly_earnings_yoy_growth,8.62,8.62,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 8.62% is within expected range for Indian stocks (-50% to +100%)
+MARICO,annual_earnings_yoy_growth,9.99,9.99,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 9.99% is within expected range for Indian stocks (-50% to +100%)
+MARICO,profit_margin,15.46,15.46,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 15.46% is within expected range for Indian stocks (-50% to +50%)
+MARICO,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+MARICO,target_conservative,768.25,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+MARICO,target_aggressive,797.8,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+MARICO,sentiment,NEUTRAL,NEUTRAL,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification

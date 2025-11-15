@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+SWIGGY,quarterly_earnings_yoy_growth,-95.91,-95.91,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate -95.91% is outside expected range for Indian stocks
+SWIGGY,annual_earnings_yoy_growth,-32.62,-32.62,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate -32.62% is within expected range for Indian stocks (-50% to +100%)
+SWIGGY,profit_margin,-24.13,-24.13,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin -24.13% is within expected range for Indian stocks (-50% to +50%)
+SWIGGY,financial_health,concerning,concerning,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'concerning' is a valid status
+SWIGGY,target_conservative,408.82,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SWIGGY,target_aggressive,424.55,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SWIGGY,sentiment,NEUTRAL,NEUTRAL,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification

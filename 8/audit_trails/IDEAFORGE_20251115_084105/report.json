@@ -1,0 +1,147 @@
+{
+  "ticker": "IDEAFORGE",
+  "analysis_timestamp": "2025-11-15T08:41:05.570959",
+  "initial_score": 58.7,
+  "final_score": 58.7,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "BUY",
+  "final_recommendation": "BUY",
+  "total_data_points": 7,
+  "verified_count": 2,
+  "unverified_count": 2,
+  "conflicting_count": 3,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": -2106.47,
+      "verified_value": -2106.47,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rate -2106.47% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": -237.58,
+      "verified_value": -237.58,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rate -237.58% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": -184.32,
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Profit margin -184.32% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "concerning",
+      "verified_value": "concerning",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'concerning' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 476.27,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 487.88,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in quarterly_earnings_yoy_growth: Growth rate -2106.47% is outside expected range for Indian stocks",
+    "\ud83d\udea8 CONFLICT in annual_earnings_yoy_growth: Growth rate -237.58% is outside expected range for Indian stocks",
+    "\ud83d\udea8 CONFLICT in profit_margin: Profit margin -184.32% is outside expected range for Indian stocks"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: quarterly_earnings_yoy_growth (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: annual_earnings_yoy_growth (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: profit_margin (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.4142857142857143,
+  "data_quality_score": 28.57142857142857,
+  "recommendation_confidence": 0.11836734693877551,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "BUY - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

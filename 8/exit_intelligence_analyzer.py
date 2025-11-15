@@ -812,23 +812,89 @@ Provide a comprehensive EXIT assessment considering:
 - exit_urgency_score 50-75 = MONITOR (warning signs, consider exit)
 - exit_urgency_score < 50 = HOLD (no urgent exit signals)
 
-**IMPORTANT:**
-- Be decisive and clear
-- Assess even WITHOUT news (use technical + fundamental only if needed)
-- Consider if risk/reward justifies holding
-- Factor in opportunity cost (is capital better deployed elsewhere?)
+    **IMPORTANT:**
+    - Be decisive and clear
+    - Assess even WITHOUT news (use technical + fundamental only if needed)
+    - Consider if risk/reward justifies holding
+    - Factor in opportunity cost (is capital better deployed elsewhere?)
 
-Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
+    Respond with ONLY valid JSON, no markdown, no explanations outside JSON.
 
-STRICT CONTEXT: Use ONLY the TECHNICAL DATA and NEWS CONTEXT above (both fetched now). Do not rely on prior training knowledge. If NEWS CONTEXT is empty, perform a technical-only assessment and do not invent non-existent catalysts.
+    STRICT CONTEXT: Use ONLY the TECHNICAL DATA and NEWS CONTEXT above (both fetched now). Do not rely on prior training knowledge. If NEWS CONTEXT is empty, perform a technical-only assessment and do not invent non-existent catalysts.
 """
 
-    # Call AI bridge - use EXIT-SPECIFIC bridge for Claude
+    # Optional: direct OpenAI (Codex) path when API key is available.
+    # This uses the same prompt but calls OpenAI Chat Completions instead of
+    # the generic codex_bridge heuristic, giving Codex full LLM-based exit analysis.
+    def _call_openai_exit(prompt_text: str) -> Dict:
+        api_key = os.getenv('OPENAI_API_KEY') or os.getenv('OPENAI_KEY')
+        if not api_key:
+            raise RuntimeError('OPENAI_API_KEY not set for OpenAI exit provider')
+
+        model = os.getenv('OPENAI_MODEL', 'gpt-4.1')
+        temperature = float(os.getenv('OPENAI_TEMPERATURE', '0.2'))
+        max_tokens = int(os.getenv('OPENAI_MAX_TOKENS', '1200'))
+
+        try:
+            import requests  # type: ignore
+        except ImportError as exc:
+            raise RuntimeError('requests package is required for OpenAI exit provider') from exc
+
+        system_prompt = (
+            "You are an expert portfolio manager specializing in EXIT/SELL decisions for equities. "
+            "Return ONLY valid JSON matching the exit assessment schema requested in the user prompt. "
+            "STRICT REAL-TIME CONTEXT: Base your decision ONLY on the technical data and news context "
+            "included in the prompt (both fetched now). Do NOT use training data, memorized prices, or "
+            "external facts not present in the prompt. Be decisive and explicit about exit_urgency_score, "
+            "exit_recommendation, and key risks of continuing to hold."
+        )
+
+        payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": prompt_text},
+            ],
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+            "response_format": {"type": "json_object"},
+        }
+
+        headers = {
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        }
+
+        raw_response = None
+        result: Optional[Dict] = None
+
+        try:
+            response = requests.post(
+                "https://api.openai.com/v1/chat/completions",
+                json=payload,
+                headers=headers,
+                timeout=int(os.getenv('OPENAI_TIMEOUT', '90')),
+            )
+            response.raise_for_status()
+            raw_response = response.json()["choices"][0]["message"]["content"]
+            result = json.loads(raw_response)
+            return result
+        except Exception as e:  # pragma: no cover - network/HTTP errors
+            logger.error(f"OpenAI exit assessment call failed: {str(e)[:200]}")
+            # Let outer logic fall back to bridges/heuristics
+            raise
+
+    # Call AI bridge / provider-specific path
     try:
         if ai_provider == 'claude':
             # Use enhanced exit-specific Claude bridge
             cmd = ['python3', 'claude_exit_bridge.py']
         elif ai_provider == 'codex':
+            # Prefer direct OpenAI API when key is available; otherwise fall back
+            # to the existing codex_bridge heuristic implementation.
+            if os.getenv('OPENAI_API_KEY') or os.getenv('OPENAI_KEY'):
+                raw = _call_openai_exit(prompt)
+                return _normalize_exit_response(raw, technical_data, ai_provider)
             cmd = ['python3', 'codex_bridge.py']
         elif ai_provider == 'gemini':
             cmd = ['python3', 'gemini_agent_bridge.py']

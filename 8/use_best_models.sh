@@ -32,10 +32,10 @@ echo ""
 # OPENAI MODELS - Best Quality
 # ============================================================================
 
-# OpenAI: Use GPT-4o (latest and best)
-export OPENAI_MODEL="gpt-4o"  # Latest GPT-4 model - BEST
-# export OPENAI_MODEL="gpt-4-turbo"      # Alternative: Previous best
-# export OPENAI_MODEL="gpt-4o-mini"      # Alternative: Fast and cheap
+# OpenAI: Use GPT-4.1 (latest general model with advanced capabilities)
+export OPENAI_MODEL="gpt-4.1"  # Latest GPT-4.1 model - BEST
+# export OPENAI_MODEL="gpt-4o"         # Alternative: Optimized GPT-4
+# export OPENAI_MODEL="gpt-4o-mini"    # Alternative: Fast and cheap
 
 echo "✅ OpenAI Model: $OPENAI_MODEL"
 echo ""

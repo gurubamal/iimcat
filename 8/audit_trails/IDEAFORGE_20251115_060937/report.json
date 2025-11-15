@@ -1,0 +1,49 @@
+{
+  "ticker": "IDEAFORGE",
+  "analysis_timestamp": "2025-11-15T06:09:37.646745",
+  "initial_score": 58.7,
+  "final_score": 50,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "neutral",
+  "initial_recommendation": "BUY",
+  "final_recommendation": "HOLD",
+  "total_data_points": 1,
+  "verified_count": 0,
+  "unverified_count": 0,
+  "conflicting_count": 1,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "earnings_yoy_growth",
+      "claimed_value": -2106.47,
+      "verified_value": 5.0,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "https://html.duckduckgo.com/html/?q=IDEAFORGE+earnings+growth+YoY+2025"
+      ],
+      "publication_dates": [],
+      "confidence": 0.55,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rates extracted from company results and analyst reports"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in earnings_yoy_growth: Growth rates extracted from company results and analyst reports"
+  ],
+  "warnings": [],
+  "overall_confidence": 0.55,
+  "data_quality_score": 0.0,
+  "recommendation_confidence": 0.0,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "https://html.duckduckgo.com/html/?q=IDEAFORGE+earnings+growth+YoY+2025"
+  ],
+  "final_verdict_summary": "HOLD - Data verification incomplete"
+}

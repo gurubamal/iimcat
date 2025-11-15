@@ -77,24 +77,59 @@ class AIVerdictEngine:
         # Build the prompt for Claude
         prompt = self._build_verdict_prompt(ticker, analysis_data, verification_results)
 
-        # Get Claude's verdict
+        # Get Claude's verdict (or fallback if unavailable)
         verdict_response = self._call_claude(prompt)
 
         # Parse Claude's response
         parsed_verdict = self._parse_verdict_response(verdict_response, ticker)
 
-        # Create final decision object
+        # If Claude was unavailable and we fell back, preserve the original
+        # analyzer's ranking and recommendation (no extra penalty), while still
+        # surfacing verification/temporal context in the metadata. This avoids
+        # flattening scores to 50/HOLD when no AI verdict model is active.
+        if parsed_verdict.get("verdict_source") == "fallback":
+            final_score = analysis_data.get('ai_score', 50)
+            final_sentiment = analysis_data.get('sentiment', 'neutral')
+            final_recommendation = analysis_data.get('recommendation', 'HOLD')
+            verdict_summary = "AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+            reasoning = (
+                "Claude verdict system was not available for this run. "
+                "Final score and recommendation are taken from the original real-time analysis, "
+                "with web-search verification and temporal flags provided for context."
+            )
+        else:
+            final_score = parsed_verdict.get('score', analysis_data.get('ai_score', 50))
+            final_sentiment = parsed_verdict.get('sentiment', 'neutral')
+            final_recommendation = parsed_verdict.get('recommendation', 'HOLD')
+            verdict_summary = parsed_verdict.get('summary', 'Data verification in progress')
+            reasoning = parsed_verdict.get('reasoning', verdict_response)
+
+        # Confidence handling:
+        # - When Claude verdict is available, keep the original behavior
+        #   (confidence driven by verification quality).
+        # - When we are in fallback mode (no Claude verdict), blend the original
+        #   analyzer's certainty with verification confidence so confidence is
+        #   non-zero but still penalized when verification is weak.
+        if parsed_verdict.get("verdict_source") == "fallback":
+            base_conf = float(analysis_data.get('certainty', 50) or 50) / 100.0
+            ver_conf = float(verification_results.get('confidence_score', 0.0) or 0.0)
+            # Down-weight base confidence if verification is bad, but never drop below 0.1
+            combined_conf = 0.7 * base_conf + 0.3 * ver_conf
+            overall_conf = max(0.1, min(1.0, combined_conf))
+        else:
+            overall_conf = self._calculate_confidence(verification_results)
+
         decision = VerdictDecision(
             ticker=ticker,
             timestamp=timestamp,
-            final_score=parsed_verdict.get('score', analysis_data.get('ai_score', 50)),
-            final_sentiment=parsed_verdict.get('sentiment', 'neutral'),
-            final_recommendation=parsed_verdict.get('recommendation', 'HOLD'),
-            verdict_summary=parsed_verdict.get('summary', 'Data verification in progress'),
-            reasoning=parsed_verdict.get('reasoning', verdict_response),
+            final_score=final_score,
+            final_sentiment=final_sentiment,
+            final_recommendation=final_recommendation,
+            verdict_summary=verdict_summary,
+            reasoning=reasoning,
             data_basis=self._identify_verified_data(verification_results),
             unverified_claims=self._identify_unverified_data(verification_results),
-            confidence_level=self._calculate_confidence(verification_results),
+            confidence_level=overall_conf,
             temporal_currency=self._assess_temporal_currency(verification_results),
             audit_trail=json.dumps({
                 'input_analysis_score': analysis_data.get('ai_score'),
@@ -105,7 +140,11 @@ class AIVerdictEngine:
                     'conflicting': verification_results.get('conflicting_count', 0),
                     'overall_assessment': verification_results.get('overall_assessment')
                 },
-                'verdict_process': 'Claude AI analysis of verified facts only',
+                'verdict_process': (
+                    'Claude AI analysis of verified facts only'
+                    if parsed_verdict.get("verdict_source") != "fallback"
+                    else 'Fallback: original analysis used (Claude verdict engine unavailable)'
+                ),
                 'timestamp': timestamp
             }),
             flagged_issues=parsed_verdict.get('flags', [])
@@ -133,23 +172,39 @@ Ticker: {ticker}
 Current Date/Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 Analysis Timestamp: {analysis_data.get('timestamp', 'Unknown')}
 
-================================================================================
-INSTRUCTIONS FOR DECISION MAKING
-================================================================================
+🚨 CRITICAL INSTRUCTION 🚨
+You are an AI making a verdict for: {ticker}
+Your knowledge cutoff is BEFORE this analysis timestamp.
+Therefore: You MUST ignore ALL training data about this stock.
 
-⚠️  CRITICAL: Your verdict must be based EXCLUSIVELY on the VERIFIED DATA below.
-Do NOT use:
-- Training data or memorized stock information
-- Historical price predictions or patterns
-- Pre-existing analyst opinions from training data
-- Generic market knowledge
+⚠️  MANDATORY: Your verdict must be based EXCLUSIVELY on the VERIFIED DATA below.
 
-DO USE ONLY:
-- The VERIFIED data points listed below
-- Current prices from yfinance (shown below)
-- Recent news within last 48 hours (verified)
-- Real-time FII/DII data (verified)
-- Official company results (verified)
+❌ DO NOT USE:
+- Any memorized prices, targets, or historical data about {ticker}
+- Your training data knowledge about {ticker}'s past performance
+- Historical analyst predictions or historical ratings
+- Pattern matching from historical data
+- Your knowledge of what happened to this stock before your training cutoff
+- Any assumptions based on "what usually happens" in markets
+
+✅ DO USE ONLY:
+- The VERIFIED CURRENT DATA points explicitly listed below
+- Current prices from yfinance (with timestamps)
+- Recent news and catalysts (dated, within last 48 hours)
+- Verified fundamental metrics (earnings, margins, health)
+- Real-time institutional buying/selling data if verified
+- Technical setup from current data only
+- Logical analysis of ONLY the data provided
+
+================================================================================
+VERIFICATION QUALITY CHECK
+================================================================================
+Verification Status: {verification_results.get('overall_assessment', 'UNKNOWN')}
+Confidence in Verification: {verification_results.get('confidence_score', 0):.1%}
+
+⚠️  IF VERIFICATION CONFIDENCE < 50%: Be conservative in your verdict
+⚠️  IF MANY DATA POINTS UNVERIFIED: Consider HOLD or lower confidence recommendation
+✅ IF VERIFICATION CONFIDENCE > 80%: You can be more confident in your verdict
 
 ================================================================================
 PART 1: VERIFIED DATA (Based on Web Search Verification)
@@ -280,7 +335,7 @@ Better to be cautious than to be wrong.
 
         except Exception as e:
             logger.error(f"Error calling Claude: {e}")
-            # Return a safe default verdict
+            # Return a safe default verdict (will be handled as fallback)
             return self._default_verdict()
 
     def _call_claude_api(self, prompt: str) -> str:
@@ -321,7 +376,8 @@ Better to be cautious than to be wrong.
             "data_used": [],
             "ignored_unverified": ["Most claims could not be verified"],
             "temporal_notes": "Data verification failed",
-            "flags": ["Verdict system unavailable - conservative approach taken"]
+            "flags": ["Verdict system unavailable - conservative approach taken"],
+            "verdict_source": "fallback"
         })
 
     def _parse_verdict_response(self, response: str, ticker: str) -> Dict[str, Any]:
@@ -336,7 +392,7 @@ Better to be cautious than to be wrong.
         except json.JSONDecodeError:
             logger.warning(f"Failed to parse Claude response as JSON for {ticker}")
 
-        # Fallback to safe defaults
+        # Fallback to safe defaults (mark as fallback so blended confidence is used)
         return {
             'score': 50,
             'sentiment': 'neutral',
@@ -344,7 +400,8 @@ Better to be cautious than to be wrong.
             'summary': 'Data verification incomplete',
             'reasoning': response[:500],  # Use first 500 chars as reasoning
             'confidence': 0.4,
-            'flags': ['Response parsing failed - conservative approach taken']
+            'flags': ['Response parsing failed - conservative approach taken'],
+            'verdict_source': 'fallback'  # Mark as fallback to use blended confidence
         }
 
     def _extract_verified_data(self, verification_results: Dict) -> List[Dict]:
@@ -420,14 +477,37 @@ Better to be cautious than to be wrong.
         return [v.get('field_name', '') for v in unverified if v]
 
     def _calculate_confidence(self, verification_results: Dict) -> float:
-        """Calculate overall confidence based on verification quality"""
+        """
+        Calculate overall confidence based on verification quality.
+        Be HONEST about unverified data - don't artificially boost confidence.
+        """
         conf = verification_results.get('confidence_score', 0.5)
         verified_count = verification_results.get('verified_count', 0)
-        total_count = verification_results.get('verification_count', 1)
+        unverified_count = verification_results.get('unverified_count', 0)
+        no_data_count = verification_results.get('no_data_found', 0)
+        total_count = verification_results.get('verification_count', 0)
 
-        # Confidence = verification_score * (verified_ratio)
+        # If no verifications were performed, return conservative confidence
+        if total_count == 0:
+            logger.warning("⚠️  No verification data available - returning low confidence")
+            return 0.3  # Be honest: can't verify anything
+
+        # Calculate verification ratio
         verified_ratio = verified_count / max(total_count, 1)
-        return min(1.0, conf * verified_ratio)
+        unverified_ratio = (unverified_count + no_data_count) / max(total_count, 1)
+
+        # Penalize heavily for unverified data
+        # Formula: verified_ratio * base_conf, heavily penalized by unverified_ratio
+        base_result = conf * verified_ratio
+        penalty = 1.0 - (unverified_ratio * 0.5)  # Penalty proportional to unverified data
+        result = base_result * penalty
+
+        # Minimum: 0.2 (can make recommendations but with low confidence)
+        # Maximum: 0.9 (never 100% confident without complete verification)
+        final_confidence = min(0.9, max(0.2, result))
+
+        logger.info(f"   Confidence calculation: {verified_count}/{total_count} verified → {final_confidence:.0%}")
+        return final_confidence
 
     def _assess_temporal_currency(self, verification_results: Dict) -> str:
         """Assess how current the verified data is"""

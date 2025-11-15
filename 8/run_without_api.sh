@@ -158,18 +158,24 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo ""
 
 if [ -f "run_enhanced_pipeline_integration.py" ]; then
-    python3 run_enhanced_pipeline_integration.py --input realtime_ai_results.csv --skip-temporal
+    # Optional safety check: ensure enhanced pipeline script has no syntax errors
+    if ! python3 -m py_compile run_enhanced_pipeline_integration.py 2>/dev/null; then
+        echo "❌ Enhanced pipeline script failed syntax check (py_compile). Skipping enhancement."
+    else
+        python3 run_enhanced_pipeline_integration.py --input realtime_ai_results.csv --skip-temporal
 
-    echo ""
-    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    echo "✅ COMPLETE! Enhanced Analysis Ready"
-    echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-    echo ""
-    echo "📊 Results:"
-    echo "  Original:  realtime_ai_results.csv"
-    echo "  Enhanced:  enhanced_results/enhanced_results.json"
-    echo "  Audits:    audit_trails/*/"
-    echo ""
+        echo ""
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo "✅ COMPLETE! Enhanced Analysis Ready"
+        echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+        echo ""
+        echo "📊 Results:"
+        echo "  Original:  realtime_ai_results.csv"
+        echo "  Enhanced:  enhanced_results/enhanced_results.json"
+        echo "  Audits:    audit_trails/*/"
+        echo ""
+    fi
+
 else
     echo "⚠️  Enhanced pipeline script not found - skipping enhancement"
     echo "To enable: ensure run_enhanced_pipeline_integration.py is in this directory"

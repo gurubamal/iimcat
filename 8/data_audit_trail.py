@@ -126,12 +126,16 @@ class DataAuditTrail:
         is_stale = False
         if publication_dates:
             try:
-                latest_date = max(publication_dates)
-                pub_datetime = datetime.fromisoformat(latest_date)
-                age_hours = (datetime.now() - pub_datetime).total_seconds() / 3600
-                data_age = age_hours
-                is_stale = age_hours > 48  # More than 2 days old
-            except:
+                # Ensure publication_dates is a list of strings
+                dates_list = publication_dates if isinstance(publication_dates, (list, tuple)) else [publication_dates]
+                dates_list = [str(d) for d in dates_list if d]  # Filter out None/empty and convert to strings
+                if dates_list:
+                    latest_date = max(dates_list)
+                    pub_datetime = datetime.fromisoformat(latest_date)
+                    age_hours = (datetime.now() - pub_datetime).total_seconds() / 3600
+                    data_age = age_hours
+                    is_stale = age_hours > 48  # More than 2 days old
+            except Exception as e:
                 pass
 
         # Check for conflicts
@@ -206,7 +210,9 @@ class DataAuditTrail:
         # Gather sources
         all_sources = set()
         for dp in self.data_points.values():
-            all_sources.update(dp.source_urls)
+            # Ensure source_urls is iterable
+            sources = dp.source_urls if isinstance(dp.source_urls, (list, tuple, set)) else ([dp.source_urls] if dp.source_urls else [])
+            all_sources.update(sources)
 
         # Calculate final confidence
         overall_confidence = sum(dp.confidence for dp in self.data_points.values()) / max(total_points, 1)

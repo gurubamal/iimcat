@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+IRB,quarterly_earnings_yoy_growth,41.01,25.0,CONFLICTING,55%,N/A,False,True,https://html.duckduckgo.com/html/?q=IRB+quarterly_earnings+growth+YoY+2025,,Growth rates extracted from company results and analyst reports
+IRB,annual_earnings_yoy_growth,969.74,3.0,CONFLICTING,55%,N/A,False,True,https://html.duckduckgo.com/html/?q=IRB+annual_earnings+growth+YoY+2025,,Growth rates extracted from company results and analyst reports
+IRB,profit_margin,9.73,9.73,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 9.73% is within expected range for Indian stocks (-50% to +50%)
+IRB,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+IRB,target_conservative,44.03,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IRB,target_aggressive,45.11,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IRB,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

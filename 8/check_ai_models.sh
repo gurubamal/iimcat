@@ -37,7 +37,7 @@ echo ""
 echo "4️⃣  OPENAI API MODE"
 if [ -n "$OPENAI_API_KEY" ] || [ -n "$OPENAI_KEY" ]; then
     echo "   Status: Available ✅"
-    echo "   Model: ${OPENAI_MODEL:-gpt-4.1-mini (default)}"
+    echo "   Model: ${OPENAI_MODEL:-gpt-4.1 (default)}"
     echo "   Temperature: ${OPENAI_TEMPERATURE:-0.2 (default)}"
     echo "   Max Tokens: ${OPENAI_MAX_TOKENS:-1200 (default)}"
 else

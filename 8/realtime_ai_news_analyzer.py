@@ -421,7 +421,9 @@ class AIModelClient:
         if not api_key:
             raise RuntimeError('OPENAI_API_KEY not set')
 
-        model = os.getenv('OPENAI_MODEL', 'gpt-4o')  # Upgraded from invalid 'gpt-4.1-mini' to best model
+        # Default to latest GPT-4.1 model which supports advanced capabilities
+        # (including OpenAI-managed tools/internet where available).
+        model = os.getenv('OPENAI_MODEL', 'gpt-4.1')
         temperature = float(os.getenv('OPENAI_TEMPERATURE', '0.2'))
         max_tokens = int(os.getenv('OPENAI_MAX_TOKENS', '1200'))
 

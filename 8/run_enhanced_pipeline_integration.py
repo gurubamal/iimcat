@@ -16,6 +16,8 @@ import logging
 import argparse
 import sys
 import csv
+import os
+import shutil
 from pathlib import Path
 from datetime import datetime
 from typing import Dict, List, Optional
@@ -89,10 +91,57 @@ def convert_csv_row_to_analysis(row: Dict) -> Dict:
             'company_name': row.get('company_name', ''),
         }
 
-        # Try to extract financial data if available
+        # Try to extract financial, holdings, and target data if available so that the
+        # web verification layer can operate on the same metrics that the CSV
+        # exposes (growth, margins, health, holdings, targets, sentiment).
         try:
+            # Quarterly YoY earnings growth
             if row.get('quarterly_earnings_growth_yoy'):
-                analysis['yoy_growth_pct'] = float(row.get('quarterly_earnings_growth_yoy', 0))
+                analysis['quarterly_earnings_growth_yoy'] = float(row.get('quarterly_earnings_growth_yoy', 0))
+        except (ValueError, TypeError):
+            pass
+
+        try:
+            # Annual YoY earnings growth
+            if row.get('annual_earnings_growth_yoy'):
+                analysis['annual_earnings_growth_yoy'] = float(row.get('annual_earnings_growth_yoy', 0))
+        except (ValueError, TypeError):
+            pass
+
+        try:
+            # Profit margin percentage
+            if row.get('profit_margin_pct'):
+                analysis['profit_margin_pct'] = float(row.get('profit_margin_pct', 0))
+        except (ValueError, TypeError):
+            pass
+
+        # Financial health status (string field)
+        if row.get('financial_health_status'):
+            analysis['financial_health_status'] = row.get('financial_health_status')
+
+        # Institutional holdings (FII/DII) – used by InstitutionalHoldingVerifier
+        try:
+            if row.get('fii_holding_pct'):
+                analysis['fii_holding_pct'] = float(row.get('fii_holding_pct', 0))
+        except (ValueError, TypeError):
+            pass
+
+        try:
+            if row.get('dii_holding_pct'):
+                analysis['dii_holding_pct'] = float(row.get('dii_holding_pct', 0))
+        except (ValueError, TypeError):
+            pass
+
+        try:
+            # Conservative and aggressive targets (if present)
+            if row.get('target_conservative'):
+                analysis['target_conservative'] = float(row.get('target_conservative', 0))
+        except (ValueError, TypeError):
+            pass
+
+        try:
+            if row.get('target_aggressive'):
+                analysis['target_aggressive'] = float(row.get('target_aggressive', 0))
         except (ValueError, TypeError):
             pass
 
@@ -154,20 +203,38 @@ def enhance_results(csv_results: List[Dict], pipeline: EnhancedAnalysisPipeline)
     return enhanced_results
 
 
-def save_enhanced_results(enhanced_results: List[Dict], output_file: str):
+def save_enhanced_results(enhanced_results: List[Dict], output_file: str, ai_provider: str = "unknown"):
     """Save enhanced results to JSON"""
     logger.info(f"\n{'='*80}")
     logger.info(f"💾 Saving enhanced results to: {output_file}")
     logger.info(f"{'='*80}\n")
 
     try:
-        Path('enhanced_results').mkdir(exist_ok=True)
-        output_path = Path('enhanced_results') / output_file
+        output_dir = Path('enhanced_results')
+        output_dir.mkdir(exist_ok=True)
 
-        with open(output_path, 'w') as f:
+        # Build timestamped filename with AI provider suffix, e.g.:
+        # enhanced_results_2025-11-15_05-51-08_codex-shell.json
+        timestamp_str = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        base_stem = Path(output_file).stem or 'enhanced_results'
+        safe_provider = (ai_provider or 'unknown').replace('/', '-')
+        timestamped_name = f"{base_stem}_{timestamp_str}_{safe_provider}.json"
+
+        timestamped_path = output_dir / timestamped_name
+        # Canonical path (for tools/docs): enhanced_results/enhanced_results.json
+        canonical_path = output_dir / output_file
+
+        with open(timestamped_path, 'w') as f:
             json.dump(enhanced_results, f, indent=2, default=str)
 
-        logger.info(f"✅ Results saved to: {output_path}")
+        # Also copy to canonical output name for convenience
+        try:
+            shutil.copyfile(timestamped_path, canonical_path)
+        except Exception as copy_exc:
+            logger.warning(f"⚠️  Unable to copy enhanced results to canonical path {canonical_path}: {copy_exc}")
+
+        logger.info(f"✅ Results saved to: {timestamped_path}")
+        logger.info(f"✅ Canonical copy: {canonical_path}")
 
         # Print summary statistics
         successful = [r for r in enhanced_results if 'error' not in r]
@@ -201,6 +268,39 @@ def save_enhanced_results(enhanced_results: List[Dict], output_file: str):
 
     except Exception as e:
         logger.error(f"❌ Failed to save results: {e}")
+
+
+def _infer_ai_provider_from_input(input_path: str) -> str:
+    """
+    Infer AI provider name from the input CSV filename.
+
+    Expected patterns:
+      - realtime_ai_results_YYYY-MM-DD_HH-MM-SS_provider.csv
+      - realtime_ai_results.csv (in which case we look for the latest timestamped file)
+    """
+    try:
+        p = Path(input_path)
+        name = p.name
+
+        # Direct timestamped input
+        if name.startswith("realtime_ai_results_") and name.endswith(".csv"):
+            middle = name[len("realtime_ai_results_"):-len(".csv")]
+            if "_" in middle:
+                _, provider = middle.rsplit("_", 1)
+                return provider or "unknown"
+
+        # Canonical input: try to discover latest timestamped file
+        if name == "realtime_ai_results.csv":
+            candidates = sorted(Path(p.parent or ".").glob("realtime_ai_results_*_*.csv"))
+            if candidates:
+                latest = candidates[-1].name
+                middle = latest[len("realtime_ai_results_"):-len(".csv")]
+                if "_" in middle:
+                    _, provider = middle.rsplit("_", 1)
+                    return provider or "unknown"
+    except Exception:
+        pass
+    return "unknown"
 
 
 def main():
@@ -271,8 +371,11 @@ Examples:
     # Enhance results
     enhanced = enhance_results(csv_results, pipeline)
 
-    # Save results
-    save_enhanced_results(enhanced, args.output)
+    # Infer AI provider from input filename for timestamped output naming
+    ai_provider = _infer_ai_provider_from_input(args.input)
+
+    # Save results (both timestamped + canonical)
+    save_enhanced_results(enhanced, args.output, ai_provider)
 
 
 if __name__ == "__main__":
