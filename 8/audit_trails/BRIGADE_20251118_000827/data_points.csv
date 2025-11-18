@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+BRIGADE,quarterly_earnings_yoy_growth,79.03,79.03,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 79.03% is within expected range for Indian stocks (-50% to +100%)
+BRIGADE,annual_earnings_yoy_growth,51.85,51.85,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 51.85% is within expected range for Indian stocks (-50% to +100%)
+BRIGADE,profit_margin,11.7,11.7,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 11.7% is within expected range for Indian stocks (-50% to +50%)
+BRIGADE,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+BRIGADE,target_conservative,961.96,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BRIGADE,target_aggressive,985.43,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BRIGADE,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

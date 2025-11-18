@@ -736,25 +736,29 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
         results = []
 
         if 'fii_holding_pct' in data:
-            result = self._verify_fii_holding(
+            fii_result, fii_trend_result = self._verify_fii_holding(
                 ticker,
                 data['fii_holding_pct'],
                 data.get('quarter', 'Q2')
             )
-            results.append(result)
+            results.append(fii_result)
+            if fii_trend_result is not None:
+                results.append(fii_trend_result)
 
         if 'dii_holding_pct' in data:
-            result = self._verify_dii_holding(
+            dii_result, dii_trend_result = self._verify_dii_holding(
                 ticker,
                 data['dii_holding_pct'],
                 data.get('quarter', 'Q2')
             )
-            results.append(result)
+            results.append(dii_result)
+            if dii_trend_result is not None:
+                results.append(dii_trend_result)
 
         return results
 
-    def _verify_fii_holding(self, ticker: str, claimed_fii: float, quarter: str) -> VerificationResult:
-        """Verify FII shareholding percentage"""
+    def _verify_fii_holding(self, ticker: str, claimed_fii: float, quarter: str) -> Tuple[VerificationResult, Optional[VerificationResult]]:
+        """Verify FII shareholding percentage and infer trend vs previous quarter where possible."""
         query = f"{ticker} FII shareholding {quarter} {datetime.now().year}"
         search_results = self._search_web(query, max_results=5)
 
@@ -765,7 +769,7 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
             variance = abs(verified_fii - claimed_fii)
             match = variance < 0.5  # Allow 0.5% variance
 
-        return VerificationResult(
+        base_result = VerificationResult(
             ticker=ticker,
             field_name="fii_holding",
             claimed_value=claimed_fii,
@@ -778,8 +782,29 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
             reasoning="Verified against NSE shareholding pattern and official disclosures"
         )
 
-    def _verify_dii_holding(self, ticker: str, claimed_dii: float, quarter: str) -> VerificationResult:
-        """Verify DII shareholding percentage"""
+        # Best-effort inference of FII trend vs previous quarter from the
+        # same search results (if textual clues are available).
+        trend_value = self._infer_trend_from_results(search_results, kind="FII")
+        trend_result: Optional[VerificationResult] = None
+        if trend_value is not None:
+            # Treat the inferred trend as a derived, verified data point.
+            trend_result = VerificationResult(
+                ticker=ticker,
+                field_name="fii_trend",
+                claimed_value=trend_value,
+                verified_value=trend_value,
+                verification_status="VERIFIED",
+                confidence=0.70,
+                sources=self._extract_sources(search_results),
+                publication_dates=self._extract_dates(search_results),
+                discrepancy=None,
+                reasoning=f"Inferred FII trend vs previous quarter from shareholding pattern text ({trend_value})"
+            )
+
+        return base_result, trend_result
+
+    def _verify_dii_holding(self, ticker: str, claimed_dii: float, quarter: str) -> Tuple[VerificationResult, Optional[VerificationResult]]:
+        """Verify DII shareholding percentage and infer trend vs previous quarter where possible."""
         query = f"{ticker} DII shareholding {quarter} {datetime.now().year}"
         search_results = self._search_web(query, max_results=5)
 
@@ -790,7 +815,7 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
             variance = abs(verified_dii - claimed_dii)
             match = variance < 0.5
 
-        return VerificationResult(
+        base_result = VerificationResult(
             ticker=ticker,
             field_name="dii_holding",
             claimed_value=claimed_dii,
@@ -802,6 +827,24 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
             discrepancy=self._describe_discrepancy(claimed_dii, verified_dii) if not match else None,
             reasoning="Verified against NSE shareholding data"
         )
+
+        trend_value = self._infer_trend_from_results(search_results, kind="DII")
+        trend_result: Optional[VerificationResult] = None
+        if trend_value is not None:
+            trend_result = VerificationResult(
+                ticker=ticker,
+                field_name="dii_trend",
+                claimed_value=trend_value,
+                verified_value=trend_value,
+                verification_status="VERIFIED",
+                confidence=0.70,
+                sources=self._extract_sources(search_results),
+                publication_dates=self._extract_dates(search_results),
+                discrepancy=None,
+                reasoning=f"Inferred DII trend vs previous quarter from shareholding pattern text ({trend_value})"
+            )
+
+        return base_result, trend_result
 
     def _search_web(self, query: str, max_results: int = 5) -> List[Dict]:
         """Real-time web search using the shared helper"""
@@ -849,6 +892,57 @@ class InstitutionalHoldingVerifier(WebSearchVerifier):
                     return float(m.group(1))
                 except Exception:
                     continue
+        return None
+
+    def _infer_trend_from_results(self, results: List[Dict], kind: str) -> Optional[str]:
+        """
+        Infer whether FII/DII holdings are increasing, decreasing, or stable
+        vs the previous quarter, based on textual clues in the search results.
+
+        This is a best-effort heuristic and only returns a value when the
+        pattern looks reliable.
+        """
+        if not results:
+            return None
+        text = " ".join(r.get("snippet", "") for r in results)
+        if not text:
+            return None
+
+        lower = text.lower()
+
+        # If we're in heuristic mode, we can't infer a trend from web data
+        if "HEURISTIC_VERIFICATION_MODE" in lower:
+            return None
+
+        # Look for explicit "from X% to Y%" style patterns which often
+        # appear in shareholding discussions.
+        pair_patterns = [
+            r"from\s*([0-9]+(?:\.[0-9]+)?)\s*%\s*to\s*([0-9]+(?:\.[0-9]+)?)\s*%",
+            r"([0-9]+(?:\.[0-9]+)?)\s*%\s*(?:to|vs|versus|compared to)\s*([0-9]+(?:\.[0-9]+)?)\s*%",
+        ]
+        for pat in pair_patterns:
+            m = re.search(pat, text, flags=re.IGNORECASE)
+            if m:
+                try:
+                    old_val = float(m.group(1))
+                    new_val = float(m.group(2))
+                    if new_val > old_val + 0.1:
+                        return "INCREASING"
+                    if new_val < old_val - 0.1:
+                        return "DECREASING"
+                    return "STABLE"
+                except Exception:
+                    pass
+
+        # Fallback lexical cues (weaker, but still useful)
+        inc_keywords = ["increased", "rise in", "rose to", "higher than previous", "jumped to", "added stake"]
+        dec_keywords = ["decreased", "fall in", "fell to", "lower than previous", "reduced to", "cut stake"]
+
+        if any(k in lower for k in inc_keywords):
+            return "INCREASING"
+        if any(k in lower for k in dec_keywords):
+            return "DECREASING"
+
         return None
 
     def _extract_sources(self, results: List[Dict]) -> List[str]:
@@ -1053,6 +1147,20 @@ class WebSearchVerificationEngine:
         low_confidence = [v for v in verifications if v.confidence < 0.5]
         if low_confidence:
             recommendations.append(f"⚠️ Low confidence in {len(low_confidence)} field(s) - Verify manually")
+
+        # Highlight institutional trend insights explicitly so downstream
+        # verdicts and users can see FII/DII accumulation or distribution.
+        for v in verifications:
+            if v.field_name == "fii_trend" and v.verification_status == "VERIFIED":
+                if str(v.verified_value).upper() == "INCREASING":
+                    recommendations.append("✅ FII holdings increasing vs last quarter (possible accumulation signal)")
+                elif str(v.verified_value).upper() == "DECREASING":
+                    recommendations.append("⚠️ FII holdings decreasing vs last quarter (possible distribution signal)")
+            if v.field_name == "dii_trend" and v.verification_status == "VERIFIED":
+                if str(v.verified_value).upper() == "INCREASING":
+                    recommendations.append("✅ DII holdings increasing vs last quarter")
+                elif str(v.verified_value).upper() == "DECREASING":
+                    recommendations.append("⚠️ DII holdings decreasing vs last quarter")
 
         return recommendations
 

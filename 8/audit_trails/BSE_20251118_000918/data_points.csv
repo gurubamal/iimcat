@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+BSE,quarterly_earnings_yoy_growth,61.05,61.05,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 61.05% is within expected range for Indian stocks (-50% to +100%)
+BSE,annual_earnings_yoy_growth,70.34,70.34,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 70.34% is within expected range for Indian stocks (-50% to +100%)
+BSE,profit_margin,52.27,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Profit margin 52.27% is outside expected range for Indian stocks
+BSE,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+BSE,target_conservative,2918.89,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BSE,target_aggressive,2990.09,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BSE,sentiment,NEUTRAL,NEUTRAL,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification

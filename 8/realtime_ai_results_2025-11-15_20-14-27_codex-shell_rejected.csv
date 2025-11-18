@@ -1,0 +1,3 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+ETERNAL,ETERNAL LIMITED,48.8,10,1,Certainty 10% below threshold (40%),Food delivery set for 20–22% GOV growth; Eternal & Swiggy top bets ,"Detected 3 catalyst(s). Risks: Regulatory/probe risk, FX/currency risk. Evidence: FX/currency risk: Food delivery set for 20–22% GOV growth; Eternal &"
+SWIGGY,SWIGGY LIMITED,39.1,10,1,Certainty 10% below threshold (40%),Food delivery set for 20–22% GOV growth; Eternal & Swiggy top bets ,"Detected 3 catalyst(s). Risks: Regulatory/probe risk, FX/currency risk. Evidence: FX/currency risk: Food delivery set for 20–22% GOV growth; Eternal &"

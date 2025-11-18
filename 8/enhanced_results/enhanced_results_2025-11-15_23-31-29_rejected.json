@@ -1,0 +1,383 @@
+[
+  {
+    "ticker": "SIEMENS",
+    "timestamp": "2025-11-15T23:31:17.202348",
+    "initial_analysis": {
+      "score": 72.5,
+      "sentiment": "bullish",
+      "recommendation": "STRONG BUY",
+      "catalysts": [
+        "earnings",
+        "investment",
+        "contract"
+      ]
+    },
+    "verification": {
+      "status": "QUESTIONABLE",
+      "verified_count": 4,
+      "unverified_count": 2,
+      "conflicting_count": 1,
+      "confidence": "51%",
+      "details": [
+        {
+          "ticker": "SIEMENS",
+          "field_name": "quarterly_earnings_yoy_growth",
+          "claimed_value": -26.8,
+          "verified_value": -26.8,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate -26.8% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "SIEMENS",
+          "field_name": "annual_earnings_yoy_growth",
+          "claimed_value": 38.54,
+          "verified_value": 38.54,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate 38.54% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "SIEMENS",
+          "field_name": "profit_margin",
+          "claimed_value": 9.73,
+          "verified_value": 9.73,
+          "verification_status": "VERIFIED",
+          "confidence": 0.7,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Profit margin 9.73% is within expected range for Indian stocks (-50% to +50%)"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "FRESH",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 72.5,
+      "sentiment": "bullish",
+      "recommendation": "STRONG BUY",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.6722857142857143,
+      "data_basis": [
+        "quarterly_earnings_yoy_growth",
+        "annual_earnings_yoy_growth",
+        "profit_margin",
+        "sentiment"
+      ],
+      "unverified_claims": [
+        "target_conservative",
+        "target_aggressive"
+      ],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "57%",
+        "verified_fields": 4,
+        "total_fields": 7,
+        "critical_issues": 1,
+        "warnings": 3
+      },
+      "sources_consulted": [
+        "fallback://heuristic"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\u26a0\ufe0f Low confidence in 3 field(s) - Verify manually",
+      "\ud83d\udea8 CONFLICT in financial_health: None",
+      "Response parsing failed - conservative approach taken",
+      "\u2705 Data is temporally sound and current",
+      "\u26a0\ufe0f Could not verify: target_conservative, target_aggressive - Use with caution"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T23:31:17.202363"
+    }
+  },
+  {
+    "ticker": "RELIANCE",
+    "timestamp": "2025-11-15T23:31:23.578798",
+    "initial_analysis": {
+      "score": 70.9,
+      "sentiment": "neutral",
+      "recommendation": "WATCH",
+      "catalysts": [
+        "investment"
+      ]
+    },
+    "verification": {
+      "status": "QUESTIONABLE",
+      "verified_count": 5,
+      "unverified_count": 2,
+      "conflicting_count": 0,
+      "confidence": "56%",
+      "details": [
+        {
+          "ticker": "RELIANCE",
+          "field_name": "quarterly_earnings_yoy_growth",
+          "claimed_value": 78.32,
+          "verified_value": 78.32,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate 78.32% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "RELIANCE",
+          "field_name": "annual_earnings_yoy_growth",
+          "claimed_value": 0.04,
+          "verified_value": 0.04,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate 0.04% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "RELIANCE",
+          "field_name": "profit_margin",
+          "claimed_value": 11.08,
+          "verified_value": 11.08,
+          "verification_status": "VERIFIED",
+          "confidence": 0.7,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Profit margin 11.08% is within expected range for Indian stocks (-50% to +50%)"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "FRESH",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 70.9,
+      "sentiment": "neutral",
+      "recommendation": "WATCH",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.5521428571428572,
+      "data_basis": [
+        "quarterly_earnings_yoy_growth",
+        "annual_earnings_yoy_growth",
+        "profit_margin",
+        "financial_health",
+        "sentiment"
+      ],
+      "unverified_claims": [
+        "target_conservative",
+        "target_aggressive"
+      ],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "71%",
+        "verified_fields": 5,
+        "total_fields": 7,
+        "critical_issues": 0,
+        "warnings": 2
+      },
+      "sources_consulted": [
+        "fallback://heuristic"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\u26a0\ufe0f Low confidence in 2 field(s) - Verify manually",
+      "\u2705 Data is temporally sound and current",
+      "\u26a0\ufe0f Could not verify: target_conservative, target_aggressive - Use with caution",
+      "Response parsing failed - conservative approach taken"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T23:31:23.578821"
+    }
+  },
+  {
+    "ticker": "INDIGO",
+    "timestamp": "2025-11-15T23:31:29.608513",
+    "initial_analysis": {
+      "score": 52.0,
+      "sentiment": "neutral",
+      "recommendation": "ACCUMULATE",
+      "catalysts": [
+        "investment",
+        "expansion"
+      ]
+    },
+    "verification": {
+      "status": "QUESTIONABLE",
+      "verified_count": 5,
+      "unverified_count": 2,
+      "conflicting_count": 0,
+      "confidence": "56%",
+      "details": [
+        {
+          "ticker": "INDIGO",
+          "field_name": "quarterly_earnings_yoy_growth",
+          "claimed_value": -20.25,
+          "verified_value": -20.25,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate -20.25% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "INDIGO",
+          "field_name": "annual_earnings_yoy_growth",
+          "claimed_value": -11.19,
+          "verified_value": -11.19,
+          "verification_status": "VERIFIED",
+          "confidence": 0.75,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Growth rate -11.19% is within expected range for Indian stocks (-50% to +100%)"
+        },
+        {
+          "ticker": "INDIGO",
+          "field_name": "profit_margin",
+          "claimed_value": 10.62,
+          "verified_value": 10.62,
+          "verification_status": "VERIFIED",
+          "confidence": 0.7,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Profit margin 10.62% is within expected range for Indian stocks (-50% to +50%)"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "FRESH",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 52.0,
+      "sentiment": "neutral",
+      "recommendation": "ACCUMULATE",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.5731428571428572,
+      "data_basis": [
+        "quarterly_earnings_yoy_growth",
+        "annual_earnings_yoy_growth",
+        "profit_margin",
+        "financial_health",
+        "sentiment"
+      ],
+      "unverified_claims": [
+        "target_conservative",
+        "target_aggressive"
+      ],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "71%",
+        "verified_fields": 5,
+        "total_fields": 7,
+        "critical_issues": 0,
+        "warnings": 2
+      },
+      "sources_consulted": [
+        "fallback://heuristic"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "\u26a0\ufe0f Low confidence in 2 field(s) - Verify manually",
+      "\u2705 Data is temporally sound and current",
+      "\u26a0\ufe0f Could not verify: target_conservative, target_aggressive - Use with caution",
+      "Response parsing failed - conservative approach taken"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-15T23:31:29.608526"
+    }
+  }
+]

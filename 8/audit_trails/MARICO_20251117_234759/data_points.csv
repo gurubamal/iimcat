@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+MARICO,quarterly_earnings_yoy_growth,-0.71,25.0,CONFLICTING,55%,N/A,False,True,https://html.duckduckgo.com/html/?q=MARICO+quarterly_earnings+growth+YoY+2025,,Growth rates extracted from company results and analyst reports
+MARICO,annual_earnings_yoy_growth,9.99,531642.0,CONFLICTING,55%,N/A,False,True,https://html.duckduckgo.com/html/?q=MARICO+annual_earnings+growth+YoY+2025,,Growth rates extracted from company results and analyst reports
+MARICO,profit_margin,12.06,12.06,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 12.06% is within expected range for Indian stocks (-50% to +50%)
+MARICO,financial_health,moderate,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Financial health status 'moderate' is not recognized
+MARICO,target_conservative,782.38,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+MARICO,target_aggressive,801.47,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+MARICO,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

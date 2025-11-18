@@ -43,20 +43,25 @@ class EnhancedAnalysisPipeline:
     """
 
     def __init__(self, enable_web_search: bool = True, enable_ai_verdict: bool = True,
-                 enable_temporal_check: bool = True, enable_audit_trail: bool = True):
+                 enable_temporal_check: bool = True, enable_audit_trail: bool = True,
+                 ai_provider: str = "unknown"):
         """Initialize pipeline components"""
         self.enable_web_search = enable_web_search
         self.enable_ai_verdict = enable_ai_verdict
         self.enable_temporal_check = enable_temporal_check
         self.enable_audit_trail = enable_audit_trail
+        # Track which AI provider produced the original CSV so we can adapt
+        # verdict behavior for shell/CLI providers like codex without
+        # disturbing Claude API/CLI flows.
+        self.ai_provider = (ai_provider or "unknown")
 
         self.verification_engine = WebSearchVerificationEngine() if enable_web_search else None
-        self.verdict_engine = AIVerdictEngine() if enable_ai_verdict else None
+        self.verdict_engine = AIVerdictEngine(ai_provider=self.ai_provider) if enable_ai_verdict else None
         self.audit_trails: Dict[str, DataAuditTrail] = {}
 
         logger.info(f"✅ Enhanced Analysis Pipeline initialized")
         logger.info(f"   Web Search Verification: {'✅' if enable_web_search else '❌'}")
-        logger.info(f"   AI Verdict Engine: {'✅' if enable_ai_verdict else '❌'}")
+        logger.info(f"   AI Verdict Engine: {'✅' if enable_ai_verdict else '❌'} (provider={self.ai_provider})")
         logger.info(f"   Temporal Validation: {'✅' if enable_temporal_check else '❌'}")
         logger.info(f"   Audit Trail: {'✅' if enable_audit_trail else '❌'}")
 
@@ -118,8 +123,16 @@ class EnhancedAnalysisPipeline:
             # Temporal validation
             'temporal': {
                 'freshness': temporal_results.get('freshness_status'),
-                'critical_issues': len(temporal_results.get('temporal_assessment', {}).get('critical_issues', [])),
-                'warnings': len(temporal_results.get('temporal_assessment', {}).get('warning_issues', [])),
+                'critical_issues': len(
+                    temporal_results.get('temporal_assessment', {}).get('critical_issues', [])
+                ) if isinstance(
+                    temporal_results.get('temporal_assessment', {}).get('critical_issues', []), (list, tuple)
+                ) else 0,
+                'warnings': len(
+                    temporal_results.get('temporal_assessment', {}).get('warning_issues', [])
+                ) if isinstance(
+                    temporal_results.get('temporal_assessment', {}).get('warning_issues', []), (list, tuple)
+                ) else 0,
                 'stale_fields': temporal_results.get('stale_fields', []),
             },
 
@@ -317,10 +330,16 @@ class EnhancedAnalysisPipeline:
 
             # Log any temporal issues as warnings
             temporal_assessment = temporal_results.get('temporal_assessment', {})
-            for issue in temporal_assessment.get('critical_issues', []):
-                trail.add_issue(issue.get('description', ''))
-            for issue in temporal_assessment.get('warning_issues', []):
-                trail.add_warning(issue.get('description', ''))
+            critical_list = temporal_assessment.get('critical_issues', [])
+            warning_list = temporal_assessment.get('warning_issues', [])
+            if not isinstance(critical_list, (list, tuple)):
+                critical_list = []
+            if not isinstance(warning_list, (list, tuple)):
+                warning_list = []
+            for issue in critical_list:
+                trail.add_issue(issue.get('description', '') if isinstance(issue, dict) else str(issue))
+            for issue in warning_list:
+                trail.add_warning(issue.get('description', '') if isinstance(issue, dict) else str(issue))
 
             # Generate report
             report = trail.generate_report(initial_analysis, final_verdict, verification_results, temporal_results)

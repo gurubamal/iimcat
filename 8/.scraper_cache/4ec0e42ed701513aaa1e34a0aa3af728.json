@@ -1,0 +1,118 @@
+{
+  "ticker": "UPL",
+  "fetch_time": "2025-11-17T23:47:39.054556",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 6 Per Share",
+      "ex_date": "11-Jul-2025",
+      "ex_date_parsed": "2025-07-11T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": "Dividend - Re 1 Per Share",
+      "ex_date": "12-Aug-2024",
+      "ex_date_parsed": "2024-08-12T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 10 Per Share",
+      "ex_date": "03-Aug-2023",
+      "ex_date_parsed": "2023-08-03T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": "Dividend - Rs 10 Per Share",
+      "ex_date": "27-Jul-2022",
+      "ex_date_parsed": "2022-07-27T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": " Dividend - Rs 10 Per Share",
+      "ex_date": "14-Jul-2021",
+      "ex_date_parsed": "2021-07-14T00:00:00",
+      "amount": 10.0
+    },
+    {
+      "description": " Dividend - Rs 6 Per Sh",
+      "ex_date": "19-Aug-2020",
+      "ex_date_parsed": "2020-08-19T00:00:00",
+      "amount": 6.0
+    },
+    {
+      "description": " Dividend - Rs 8 Per Share",
+      "ex_date": "28-May-2019",
+      "ex_date_parsed": "2019-05-28T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend- Rs 8 Per Share",
+      "ex_date": "09-Aug-2018",
+      "ex_date_parsed": "2018-08-09T00:00:00",
+      "amount": 8.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend-Rs 7 Per Share",
+      "ex_date": "22-Jun-2017",
+      "ex_date_parsed": "2017-06-22T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend - Rs 5/- Per Share",
+      "ex_date": "16-Jun-2016",
+      "ex_date_parsed": "2016-06-16T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 5/- Per Share",
+      "ex_date": "16-Jul-2015",
+      "ex_date_parsed": "2015-07-16T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend Rs.4/- Per Share",
+      "ex_date": "07-Aug-2014",
+      "ex_date_parsed": "2014-08-07T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 2.50/- Per Share",
+      "ex_date": "04-Jul-2013",
+      "ex_date_parsed": "2013-07-04T00:00:00",
+      "amount": 2.5
+    },
+    {
+      "description": "Annual General Meeting/ Dividend Of Rs.0.50/- Per Share",
+      "ex_date": "12-Jul-2012",
+      "ex_date_parsed": "2012-07-12T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Interim Dividend Rs.2/- Per Share (Purpose Revised)",
+      "ex_date": "03-Apr-2012",
+      "ex_date_parsed": "2012-04-03T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.2/- Per Share",
+      "ex_date": "14-Jul-2011",
+      "ex_date_parsed": "2011-07-14T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting And Dividend Rs.2/- Per Share",
+      "ex_date": "26-Aug-2010",
+      "ex_date_parsed": "2010-08-26T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [
+    {
+      "description": " Bonus 1:2",
+      "ex_date": "02-Jul-2019",
+      "ex_date_parsed": "2019-07-02T00:00:00",
+      "ratio": "1:2"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

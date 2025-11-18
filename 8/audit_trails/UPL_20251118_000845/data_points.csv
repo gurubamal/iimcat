@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+UPL,quarterly_earnings_yoy_growth,77.08,77.08,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 77.08% is within expected range for Indian stocks (-50% to +100%)
+UPL,annual_earnings_yoy_growth,174.75,174.75,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate 174.75% is outside expected range for Indian stocks
+UPL,profit_margin,-0.95,-0.95,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin -0.95% is within expected range for Indian stocks (-50% to +50%)
+UPL,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+UPL,target_conservative,780.54,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+UPL,target_aggressive,799.58,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+UPL,sentiment,NEUTRAL,NEUTRAL,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification

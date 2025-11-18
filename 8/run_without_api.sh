@@ -15,6 +15,43 @@ ENABLE_TECH_SCORING="${5:-0}"  # Optional 5th argument for technical scoring
 # Normalize provider name
 PROVIDER=$(echo "$PROVIDER" | tr '[:upper:]' '[:lower:]')
 
+# -----------------------------------------------------------------------------
+# Provider-specific timestamped logging
+#   - codex  → run_logs_codex/run_codex_<timestamp>.log
+#   - claude → run_logs_claude/run_claude_<timestamp>.log
+#   - gemini → run_logs_gemini/run_gemini_<timestamp>.log
+# -----------------------------------------------------------------------------
+TIMESTAMP="$(date +"%Y-%m-%d_%H-%M-%S")"
+
+case "$PROVIDER" in
+  claude)
+    LOG_DIR="run_logs_claude"
+    ;;
+  codex)
+    LOG_DIR="run_logs_codex"
+    ;;
+  gemini)
+    LOG_DIR="run_logs_gemini"
+    ;;
+  *)
+    LOG_DIR="run_logs_other"
+    ;;
+esac
+
+mkdir -p "$LOG_DIR"
+LOG_FILE="${LOG_DIR}/run_${PROVIDER}_${TIMESTAMP}.log"
+
+cleanup() {
+  local exit_code=$?
+  echo ""
+  echo "📁 Log file saved at: $LOG_FILE"
+  exit "$exit_code"
+}
+trap cleanup EXIT
+
+# Send all stdout/stderr to both terminal and log file
+exec > >(tee -a "$LOG_FILE") 2>&1
+
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo "🆓 Running AI Analysis WITHOUT API Keys"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -162,7 +199,15 @@ if [ -f "run_enhanced_pipeline_integration.py" ]; then
     if ! python3 -m py_compile run_enhanced_pipeline_integration.py 2>/dev/null; then
         echo "❌ Enhanced pipeline script failed syntax check (py_compile). Skipping enhancement."
     else
-        python3 run_enhanced_pipeline_integration.py --input realtime_ai_results.csv --skip-temporal
+        # For Codex runs, enable full temporal validation so that the enhanced
+        # pipeline can flag stale data. For Claude/Gemini we keep the original
+        # behavior (skip temporal) to avoid changing existing deployments.
+        ENH_INPUT_ARGS="--input realtime_ai_results.csv"
+        if [ "$PROVIDER" != "codex" ]; then
+            ENH_INPUT_ARGS="$ENH_INPUT_ARGS --skip-temporal"
+        fi
+
+        python3 run_enhanced_pipeline_integration.py $ENH_INPUT_ARGS
 
         echo ""
         echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

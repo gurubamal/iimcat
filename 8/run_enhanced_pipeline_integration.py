@@ -359,20 +359,22 @@ Examples:
         logger.error("No results to enhance")
         sys.exit(1)
 
+    # Infer AI provider from input filename so the enhanced pipeline and
+    # verdict engine know whether this came from codex-shell, claude, etc.
+    ai_provider = _infer_ai_provider_from_input(args.input)
+
     # Initialize enhanced pipeline
     logger.info("🚀 Initializing Enhanced Analysis Pipeline...")
     pipeline = EnhancedAnalysisPipeline(
         enable_web_search=not args.skip_verification,
         enable_ai_verdict=True,
         enable_temporal_check=not args.skip_temporal,
-        enable_audit_trail=True
+        enable_audit_trail=True,
+        ai_provider=ai_provider
     )
 
     # Enhance results
     enhanced = enhance_results(csv_results, pipeline)
-
-    # Infer AI provider from input filename for timestamped output naming
-    ai_provider = _infer_ai_provider_from_input(args.input)
 
     # Save results (both timestamped + canonical)
     save_enhanced_results(enhanced, args.output, ai_provider)

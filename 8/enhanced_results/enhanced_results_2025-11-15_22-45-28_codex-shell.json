@@ -1,0 +1,14 @@
+[
+  {
+    "ticker": "BLACKBUCK",
+    "error": "object of type 'int' has no len()",
+    "original_score": "66.8",
+    "original_sentiment": "bullish"
+  },
+  {
+    "ticker": "IDEAFORGE",
+    "error": "object of type 'int' has no len()",
+    "original_score": "51.6",
+    "original_sentiment": "bullish"
+  }
+]

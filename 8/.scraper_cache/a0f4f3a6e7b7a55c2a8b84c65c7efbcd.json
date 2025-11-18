@@ -1,0 +1,94 @@
+{
+  "ticker": "BSE",
+  "fetch_time": "2025-11-17T23:41:54.516766",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 23 Per Share",
+      "ex_date": "14-May-2025",
+      "ex_date_parsed": "2025-05-14T00:00:00",
+      "amount": 23.0
+    },
+    {
+      "description": "Dividend - Rs 15 Per Share",
+      "ex_date": "14-Jun-2024",
+      "ex_date_parsed": "2024-06-14T00:00:00",
+      "amount": 15.0
+    },
+    {
+      "description": "Dividend - Rs 12 Per Sh",
+      "ex_date": "04-Aug-2023",
+      "ex_date_parsed": "2023-08-04T00:00:00",
+      "amount": 12.0
+    },
+    {
+      "description": "Dividend - Rs 13.50 Per Share",
+      "ex_date": "23-Jun-2022",
+      "ex_date_parsed": "2022-06-23T00:00:00",
+      "amount": 13.5
+    },
+    {
+      "description": " Dividend - Rs 21 Per Share",
+      "ex_date": "05-Aug-2021",
+      "ex_date_parsed": "2021-08-05T00:00:00",
+      "amount": 21.0
+    },
+    {
+      "description": " Dividend - Rs 17 Per Share",
+      "ex_date": "22-Jul-2020",
+      "ex_date_parsed": "2020-07-22T00:00:00",
+      "amount": 17.0
+    },
+    {
+      "description": " Dividend - Rs 25 Per Share",
+      "ex_date": "27-Jun-2019",
+      "ex_date_parsed": "2019-06-27T00:00:00",
+      "amount": 25.0
+    },
+    {
+      "description": " Interim Dividend - Rs 5 Per Share",
+      "ex_date": "11-Dec-2018",
+      "ex_date_parsed": "2018-12-11T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": " Dividend- Rs 31 Per Share",
+      "ex_date": "25-Jul-2018",
+      "ex_date_parsed": "2018-07-25T00:00:00",
+      "amount": 31.0
+    },
+    {
+      "description": " Interim Dividend Rs 5/- Per Share",
+      "ex_date": "15-Feb-2018",
+      "ex_date_parsed": "2018-02-15T00:00:00",
+      "amount": 5.0
+    },
+    {
+      "description": " Dividend -Rs 23/- Per Share",
+      "ex_date": "24-Aug-2017",
+      "ex_date_parsed": "2017-08-24T00:00:00",
+      "amount": 23.0
+    },
+    {
+      "description": " Interim Dividend Rs 5/- Per Share",
+      "ex_date": "22-Feb-2017",
+      "ex_date_parsed": "2017-02-22T00:00:00",
+      "amount": 5.0
+    }
+  ],
+  "bonuses": [
+    {
+      "description": "Bonus 2:1",
+      "ex_date": "23-May-2025",
+      "ex_date_parsed": "2025-05-23T00:00:00",
+      "ratio": "2:1"
+    },
+    {
+      "description": "Bonus 2:1",
+      "ex_date": "21-Mar-2022",
+      "ex_date_parsed": "2022-03-21T00:00:00",
+      "ratio": "2:1"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

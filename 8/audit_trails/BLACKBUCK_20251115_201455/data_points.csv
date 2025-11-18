@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+BLACKBUCK,quarterly_earnings_yoy_growth,110.83,110.83,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate 110.83% is outside expected range for Indian stocks
+BLACKBUCK,annual_earnings_yoy_growth,95.54,95.54,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 95.54% is within expected range for Indian stocks (-50% to +100%)
+BLACKBUCK,profit_margin,19.32,19.32,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 19.32% is within expected range for Indian stocks (-50% to +50%)
+BLACKBUCK,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+BLACKBUCK,target_conservative,725.92,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BLACKBUCK,target_aggressive,753.84,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+BLACKBUCK,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

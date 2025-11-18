@@ -1,0 +1,27 @@
+{
+  "ticker": "SPIC",
+  "fetch_time": "2025-11-17T08:37:59.693355",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 2 Per Share",
+      "ex_date": "16-Sep-2025",
+      "ex_date_parsed": "2025-09-16T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Dividend - Rs 1.50 Per Share",
+      "ex_date": "12-Sep-2024",
+      "ex_date_parsed": "2024-09-12T00:00:00",
+      "amount": 1.5
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 1.50 Per Share",
+      "ex_date": "20-Sep-2023",
+      "ex_date_parsed": "2023-09-20T00:00:00",
+      "amount": 1.5
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

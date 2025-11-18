@@ -1,0 +1,145 @@
+{
+  "ticker": "APOLLO",
+  "analysis_timestamp": "2025-11-16T20:39:00.550020",
+  "initial_score": 85.9,
+  "final_score": 85.9,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "ACCUMULATE",
+  "final_recommendation": "ACCUMULATE",
+  "total_data_points": 7,
+  "verified_count": 3,
+  "unverified_count": 2,
+  "conflicting_count": 2,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": 119.58,
+      "verified_value": 2025.0,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "https://html.duckduckgo.com/html/?q=APOLLO+quarterly_earnings+growth+YoY+2025"
+      ],
+      "publication_dates": [],
+      "confidence": 0.55,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rates extracted from company results and analyst reports"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 81.23,
+      "verified_value": 589.0,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "https://html.duckduckgo.com/html/?q=APOLLO+annual_earnings+growth+YoY+2025"
+      ],
+      "publication_dates": [],
+      "confidence": 0.55,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rates extracted from company results and analyst reports"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 13.86,
+      "verified_value": 13.86,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Profit margin 13.86% is within expected range for Indian stocks (-50% to +50%)"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "healthy",
+      "verified_value": "healthy",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'healthy' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 291.46,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 298.57,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in quarterly_earnings_yoy_growth: Growth rates extracted from company results and analyst reports",
+    "\ud83d\udea8 CONFLICT in annual_earnings_yoy_growth: Growth rates extracted from company results and analyst reports"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.5,
+  "data_quality_score": 42.857142857142854,
+  "recommendation_confidence": 0.21428571428571427,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "https://html.duckduckgo.com/html/?q=APOLLO+annual_earnings+growth+YoY+2025",
+    "https://html.duckduckgo.com/html/?q=APOLLO+quarterly_earnings+growth+YoY+2025",
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "ACCUMULATE - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

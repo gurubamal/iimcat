@@ -1,0 +1,262 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🆓 Running AI Analysis WITHOUT API Keys
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Method: Claude CLI Bridge
+Cost: FREE with Claude subscription
+Speed: ~5s per analysis
+Accuracy: ~90%+ (best for final rankings)
+
+Configuration:
+  Provider: Claude CLI Bridge
+  Tickers: test_3_stocks.txt
+  Hours: 8
+  Max Articles: 10
+  Ticker Validation: DISABLED (all tickers will be processed)
+  Popularity/Ad Filter: ENABLED (tunable via AD_POPULARITY_ENABLED/AD_STRICT_REJECT)
+  Technical Scoring: ✅ ENABLED (hybrid ranking: 60% AI + 40% Technical)
+    └─ Indicators: RSI, Bollinger Bands, ATR, Volume, Momentum
+    └─ Quality Filters: Volume ≥300k, Price ≥₹20, Data ≥50 bars
+    └─ Tiers: Tier1 ≥25pts, Tier2 ≥15pts, Watch <15pts
+
+Starting analysis...
+  Tip: export MIN_CERTAINTY_THRESHOLD=35 to widen candidates (optional)
+
+2025-11-18 04:24:55,152 - __main__ - INFO - 📊 Loaded 3 unique tickers (AI will validate against NSE/BSE)
+2025-11-18 04:24:55,257 - __main__ - INFO - ✅ Loaded 0 cached ticker validations
+2025-11-18 04:24:55,259 - __main__ - INFO - Using Claude CLI shell bridge (no API key).
+2025-11-18 04:24:55,259 - __main__ - INFO - AI provider configured: Claude-shell
+2025-11-18 04:24:55,267 - __main__ - INFO - ✅ Frontier AI components loaded
+2025-11-18 04:24:55,267 - __main__ - INFO - ✅ AI-Supervised Correction Boost System initialized
+2025-11-18 04:25:02,540 - claude_health_ai_client - WARNING - ⚠️  Claude CLI not available - falling back to API
+2025-11-18 04:25:02,540 - __main__ - INFO - ✅ AI Health Data Integration initialized
+2025-11-18 04:25:02,540 - __main__ - INFO - 🤖 Real-time AI Analyzer initialized
+2025-11-18 04:25:02,548 - __main__ - INFO - 🌐 Internet check: FAILED | Remote AI: YES | AI endpoint reachable: N/A
+2025-11-18 04:25:03,270 - __main__ - INFO - 🧪 Agent internet probe: FAILED (provider=claude-shell, url=https://example.com/)
+2025-11-18 04:25:03,270 - __main__ - INFO - 🧪 Agent probe error: agent returned no sha256
+2025-11-18 04:25:03,270 - __main__ - INFO - 🚀 Starting real-time collection + analysis for 3 tickers
+2025-11-18 04:25:03,270 - __main__ - INFO -    Time window: 8 hours
+2025-11-18 04:25:03,270 - __main__ - INFO -    Max articles per ticker: 10
+2025-11-18 04:25:03,271 - __main__ - INFO -    ⚡ Ticker validation DISABLED - processing all tickers
+2025-11-18 04:25:03,271 - __main__ - INFO - [1/3] Processing RELIANCE...
+2025-11-18 04:25:03,271 - __main__ - INFO - 📰 Fetching news for RELIANCE (last 8h)
+2025-11-18 04:25:03,282 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6790190>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:03,288 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6790a50>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:03,293 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6790f50>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:03,299 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697ead0>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:03,316 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697ee90>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:03,323 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697da90>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:03,330 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697e490>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:04,046 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697ce10>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:04,488 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6790410>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:04,493 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6790cd0>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:04,498 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697f110>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:04,505 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697e850>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:04,518 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697ed50>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:04,532 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697ca50>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:04,533 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697e210>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:05,252 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d450>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:06,893 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d810>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:06,896 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6792710>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:06,898 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67911d0>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:06,904 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6792fd0>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:06,906 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791450>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:06,912 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793890>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:06,914 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67916d0>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:06,922 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791950>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:06,928 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d590>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:06,934 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6792d50>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:06,935 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791bd0>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:06,939 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8190>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:06,940 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791e50>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:07,656 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67920d0>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:08,098 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6792990>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:08,107 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793250>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:08,120 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793b10>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:08,132 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793610>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:08,136 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791590>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:08,142 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8410>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:10,502 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8cd0>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:10,513 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9090>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:10,521 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9310>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:10,537 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9590>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:10,538 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9810>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:10,546 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9a90>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:10,554 - __main__ - INFO - ℹ️  No recent news for RELIANCE from live sources
+2025-11-18 04:25:10,555 - __main__ - INFO - [2/3] Processing TCS...
+2025-11-18 04:25:10,555 - __main__ - INFO - 📰 Fetching news for TCS (last 8h)
+2025-11-18 04:25:10,564 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fb4d0>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:10,570 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fb750>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:10,575 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fbed0>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:10,585 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618410>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:10,607 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618910>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:10,614 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618e10>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:10,620 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8410>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:11,386 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fae90>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:11,771 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fb890>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:11,772 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fbc50>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:11,780 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618190>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:11,788 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618690>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:11,817 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4618b90>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:11,818 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fb250>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:11,826 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fafd0>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:12,591 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fac10>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:14,173 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9590>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:14,174 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67faad0>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:14,179 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8910>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:14,182 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793610>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:14,184 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fa350>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:14,191 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67911d0>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:14,192 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9090>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:14,198 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619090>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:14,222 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9d10>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:14,225 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fa210>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:14,236 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619f90>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:14,238 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9bd0>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:14,240 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619bd0>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:14,992 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f96d0>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:15,380 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8690>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:15,386 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793ed0>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:15,401 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d590>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:15,403 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619450>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:15,440 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461a350>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:15,444 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461aad0>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:17,789 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461afd0>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:17,800 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b250>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:17,807 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b610>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:17,809 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b890>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:17,845 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461bb10>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:17,848 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461bd90>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:17,861 - __main__ - INFO - ℹ️  No recent news for TCS from live sources
+2025-11-18 04:25:17,862 - __main__ - INFO - [3/3] Processing HDFCBANK...
+2025-11-18 04:25:17,863 - __main__ - INFO - 📰 Fetching news for HDFCBANK (last 8h)
+2025-11-18 04:25:17,868 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461bb10>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:17,875 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b610>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:17,884 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b9d0>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:17,888 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b750>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:17,914 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461a5d0>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:17,918 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619d10>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:17,938 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb46196d0>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:18,517 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d810>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:19,072 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619450>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:19,078 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461afd0>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:19,091 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b110>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:19,093 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461ae90>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:19,116 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461a490>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:19,123 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb4619810>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:19,141 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb697d590>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:19,731 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793610>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:21,475 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791450>: Failed to resolve 'economictimes.indiatimes.com' ([Errno -2] Name or service not known)")': /markets/rssfeeds/1977021501.cms
+2025-11-18 04:25:21,483 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67934d0>: Failed to resolve 'www.business-standard.com' ([Errno -2] Name or service not known)")': /rss/markets-106.rss
+2025-11-18 04:25:21,484 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fa350>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:21,491 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8a50>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:21,493 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6793d90>: Failed to resolve 'www.moneycontrol.com' ([Errno -2] Name or service not known)")': /rss/MCtopnews.xml
+2025-11-18 04:25:21,500 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9310>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:21,501 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9810>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/companies
+2025-11-18 04:25:21,512 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8190>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:21,519 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8690>: Failed to resolve 'www.cnbctv18.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:21,524 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb465ca50>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:21,526 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fac10>: Failed to resolve 'www.financialexpress.com' ([Errno -2] Name or service not known)")': /market/feed/
+2025-11-18 04:25:21,531 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=2, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8cd0>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:21,545 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8410>: Failed to resolve 'www.thehindubusinessline.com' ([Errno -2] Name or service not known)")': /feeder/default.rss
+2025-11-18 04:25:22,136 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9bd0>: Failed to resolve 'www.livemint.com' ([Errno -2] Name or service not known)")': /rss/market
+2025-11-18 04:25:22,691 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f82d0>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:22,693 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f9950>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:22,705 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67fad50>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:22,716 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb465d090>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:22,726 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8690>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:22,733 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=1, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8f50>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:25,093 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb67f8910>: Failed to resolve 'www.businesstoday.in' ([Errno -2] Name or service not known)")': /rssfeeds/?id=0
+2025-11-18 04:25:25,095 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791450>: Failed to resolve 'www.bqprime.com' ([Errno -2] Name or service not known)")': /feed
+2025-11-18 04:25:25,107 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb6791310>: Failed to resolve 'www.indianewsnetwork.com' ([Errno -2] Name or service not known)")': /rss.en.business.xml
+2025-11-18 04:25:25,117 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461a5d0>: Failed to resolve 'zeebiz.com' ([Errno -2] Name or service not known)")': /rss/latestnews.xml
+2025-11-18 04:25:25,127 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b750>: Failed to resolve 'www.forbesindia.com' ([Errno -2] Name or service not known)")': /rss/latest.xml
+2025-11-18 04:25:25,137 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=0, read=3, redirect=None, status=None)) after connection broken by 'NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdfb461b9d0>: Failed to resolve 'trak.in' ([Errno -2] Name or service not known)")': /feed/
+2025-11-18 04:25:25,147 - __main__ - INFO - ℹ️  No recent news for HDFCBANK from live sources
+2025-11-18 04:25:25,148 - __main__ - INFO - 
+✅ Collection complete!
+2025-11-18 04:25:25,148 - __main__ - INFO -    Valid tickers: 3/3
+2025-11-18 04:25:25,148 - __main__ - INFO -    Invalid tickers: 0
+2025-11-18 04:25:25,148 - __main__ - INFO -    Total articles: 0
+2025-11-18 04:25:25,148 - __main__ - INFO -    Successfully analyzed: 0
+2025-11-18 04:25:25,152 - __main__ - INFO - ✅ Saved 0 ticker validations to cache
+2025-11-18 04:25:25,153 - __main__ - INFO - ✅ 0 qualified stocks saved to realtime_ai_results_2025-11-18_04-25-25_claude-shell.csv
+2025-11-18 04:25:25,162 - __main__ - INFO - ✅ Recorded 0 predictions to learning database
+2025-11-18 04:25:25,163 - __main__ - INFO - ✅ All stocks passed certainty threshold (40%)
+2025-11-18 04:25:25,163 - __main__ - INFO - ✅ Results saved to: realtime_ai_results_2025-11-18_04-25-25_claude-shell.csv
+2025-11-18 04:25:25,166 - __main__ - INFO - 🤖 AI provider: claude-shell
+2025-11-18 04:25:25,166 - __main__ - INFO - 📊 External AI calls used: 0
+
+====================================================================================================
+🤖 REAL-TIME AI NEWS ANALYZER
+====================================================================================================
+
+Features:
+  ✅ Instant analysis as news is fetched (no batching)
+  ✅ Claude/Codex AI with internet access
+  ✅ Frontier AI + Quant scoring
+  ✅ Live ranking updates
+  ✅ Zero news skipped
+  ✅ AI call budget + caching to avoid rate limits
+
+====================================================================================================
+
+
+[1/3] Processing RELIANCE...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[2/3] Processing TCS...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+[3/3] Processing HDFCBANK...
+   ✅ Valid ticker: Validation disabled
+   ℹ️  No recent articles found
+
+====================================================================================================
+🏆 LIVE RANKINGS (Real-time AI Analysis)
+====================================================================================================
+
+====================================================================================================
+
+✅ Real-time analysis complete!
+   Articles analyzed: 0
+   Results saved: realtime_ai_results_2025-11-18_04-25-25_claude-shell.csv
+
+================================================================================================================================================================
+📊 FINAL RANKINGS - TOP STOCKS WITH PROFIT HEALTH
+================================================================================================================================================================
+⚠️  No results to display
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Original Analysis Complete!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Quick View of Top 10 Results:
+
+  rank       | Score: company_name | Articles: catalysts
+
+💾 Full file: realtime_ai_results_2025-11-18_04-25-25_claude-shell.csv
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 Starting Enhanced Pipeline Integration...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INFO:__main__:📖 Reading CSV results from: realtime_ai_results.csv
+INFO:__main__:✅ Loaded 0 stocks from CSV
+ERROR:__main__:No results to enhance
+
+╔══════════════════════════════════════════════════════════════╗
+║     ENHANCED PIPELINE INTEGRATION                           ║
+║                                                              ║
+║  Taking existing analysis results and enhancing with:       ║
+║  ✅ Web Search Verification                                 ║
+║  ✅ Temporal Context Validation                             ║
+║  ✅ AI Verdict Generation                                   ║
+║  ✅ Audit Trail Creation                                    ║
+║  ✅ Confidence Calibration                                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+📁 Log file saved at: run_logs_claude/run_claude_2025-11-18_04-24-52.log

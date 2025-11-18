@@ -1,0 +1,145 @@
+{
+  "ticker": "PRAXIS",
+  "analysis_timestamp": "2025-11-17T08:56:18.573107",
+  "initial_score": 43.4,
+  "final_score": 43.4,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "WATCH",
+  "final_recommendation": "WATCH",
+  "total_data_points": 7,
+  "verified_count": 3,
+  "unverified_count": 2,
+  "conflicting_count": 2,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": -69.88,
+      "verified_value": -69.88,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rate -69.88% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 59.19,
+      "verified_value": 59.19,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 59.19% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": -70.07,
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Profit margin -70.07% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "concerning",
+      "verified_value": "concerning",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'concerning' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 11.98,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 12.44,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in quarterly_earnings_yoy_growth: Growth rate -69.88% is outside expected range for Indian stocks",
+    "\ud83d\udea8 CONFLICT in profit_margin: Profit margin -70.07% is outside expected range for Indian stocks"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: quarterly_earnings_yoy_growth (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: profit_margin (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.4642857142857143,
+  "data_quality_score": 42.857142857142854,
+  "recommendation_confidence": 0.1989795918367347,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "WATCH - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

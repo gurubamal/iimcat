@@ -1168,10 +1168,17 @@ class RealtimeAIAnalyzer:
             )
 
         # OPTIONAL: Get AI web search verified health data (non-blocking, cached)
-        # This overrides yfinance data with fresh web search data for better accuracy
-        if self.health_integration:
+        # This overrides yfinance data with fresh web search data for better
+        # accuracy. To avoid forcing Anthropic/Claude credentials when running
+        # via Codex shell (no API keys), only enable this integration when the
+        # upstream AI provider is Claude (API or CLI).
+        provider_for_health = getattr(self.ai_client, 'selected_provider', None)
+        if self.health_integration and provider_for_health and str(provider_for_health).startswith("claude"):
             try:
-                health_report = self.health_integration.get_health_data(ticker, self._company_name_map.get(ticker.upper().replace('.NS', '')))
+                health_report = self.health_integration.get_health_data(
+                    ticker,
+                    self._company_name_map.get(ticker.upper().replace('.NS', ''))
+                )
                 if health_report:
                     # Override profit/loss status with verified web search data
                     result.is_profitable = health_report.is_profitable
@@ -1185,9 +1192,13 @@ class RealtimeAIAnalyzer:
                         'warning_flags': health_report.warning_flags,
                         'ai_analysis': health_report.ai_analysis
                     }
-                    logger.info(f"   🔍 Health verified: {health_report.health_status} | Profitable: {health_report.is_profitable}")
+                    logger.info(
+                        "   🔍 Health verified: %s | Profitable: %s",
+                        health_report.health_status,
+                        health_report.is_profitable
+                    )
             except Exception as e:
-                logger.debug(f"Health data collection skipped for {ticker}: {e}")
+                logger.debug("Health data collection skipped for %s: %s", ticker, e)
 
         # Store result and update ranking (thread-safe)
         with self._lock:
@@ -2289,6 +2300,13 @@ Ticker to validate: {ticker}
         # Edge case: strong downside -> SELL
         if (sentiment == 'bearish' or loss_flag) and severity >= 6.0 and score < 46 and certainty >= 50:
             recommendation = "SELL"
+
+        # Final consistency guard for heuristic flows:
+        # avoid combinations like NEUTRAL sentiment with STRONG BUY / BUY
+        # recommendations. Since the calibrated score already encodes
+        # conviction, align sentiment upwards instead of downgrading score.
+        if recommendation in ("STRONG BUY", "BUY") and sentiment != "bullish":
+            sentiment = "bullish"
 
         return {
             'score': score,

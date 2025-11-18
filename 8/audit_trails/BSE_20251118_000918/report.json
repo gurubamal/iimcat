@@ -1,0 +1,143 @@
+{
+  "ticker": "BSE",
+  "analysis_timestamp": "2025-11-18T00:09:18.419510",
+  "initial_score": 51.2,
+  "final_score": 51.2,
+  "initial_sentiment": "neutral",
+  "final_sentiment": "neutral",
+  "initial_recommendation": "SELL",
+  "final_recommendation": "SELL",
+  "total_data_points": 7,
+  "verified_count": 4,
+  "unverified_count": 2,
+  "conflicting_count": 1,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": 61.05,
+      "verified_value": 61.05,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 61.05% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 70.34,
+      "verified_value": 70.34,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 70.34% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 52.27,
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Profit margin 52.27% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "healthy",
+      "verified_value": "healthy",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'healthy' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 2918.89,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 2990.09,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "NEUTRAL",
+      "verified_value": "NEUTRAL",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'NEUTRAL' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in profit_margin: Profit margin 52.27% is outside expected range for Indian stocks"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: profit_margin (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.5142857142857143,
+  "data_quality_score": 57.14285714285714,
+  "recommendation_confidence": 0.2938775510204082,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "SELL - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

@@ -1,0 +1,111 @@
+{
+  "ticker": "MPHASIS",
+  "fetch_time": "2025-11-17T23:45:18.713970",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 57 Per Share",
+      "ex_date": "09-Jul-2025",
+      "ex_date_parsed": "2025-07-09T00:00:00",
+      "amount": 57.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 55 Per Share",
+      "ex_date": "10-Jul-2024",
+      "ex_date_parsed": "2024-07-10T00:00:00",
+      "amount": 55.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 50 Per Share",
+      "ex_date": "05-Jul-2023",
+      "ex_date_parsed": "2023-07-05T00:00:00",
+      "amount": 50.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 46 Per Share",
+      "ex_date": "05-Jul-2022",
+      "ex_date_parsed": "2022-07-05T00:00:00",
+      "amount": 46.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 38 Per Share/Special Dividend - Rs 27 Per Share",
+      "ex_date": "13-Sep-2021",
+      "ex_date_parsed": "2021-09-13T00:00:00",
+      "amount": 38.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 35 Per Share",
+      "ex_date": "02-Jul-2020",
+      "ex_date_parsed": "2020-07-02T00:00:00",
+      "amount": 35.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend - Rs 27 Per Share",
+      "ex_date": "11-Jul-2019",
+      "ex_date_parsed": "2019-07-11T00:00:00",
+      "amount": 27.0
+    },
+    {
+      "description": " Annual General Meeting / Dividend- Rs 20 Per Share",
+      "ex_date": "26-Jul-2018",
+      "ex_date_parsed": "2018-07-26T00:00:00",
+      "amount": 20.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 17/- Per Share",
+      "ex_date": "13-Jul-2017",
+      "ex_date_parsed": "2017-07-13T00:00:00",
+      "amount": 17.0
+    },
+    {
+      "description": " Annual General Meeting/Dividend - Rs 20/- Per Share",
+      "ex_date": "19-Oct-2016",
+      "ex_date_parsed": "2016-10-19T00:00:00",
+      "amount": 20.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend - Rs 16/- Per Share",
+      "ex_date": "25-Aug-2015",
+      "ex_date_parsed": "2015-08-25T00:00:00",
+      "amount": 16.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 7/- Per Share",
+      "ex_date": "16-Jul-2014",
+      "ex_date_parsed": "2014-07-16T00:00:00",
+      "amount": 7.0
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 17/- Per Share",
+      "ex_date": "22-Jan-2014",
+      "ex_date_parsed": "2014-01-22T00:00:00",
+      "amount": 17.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend Rs.17 Per Share",
+      "ex_date": "17-Jan-2013",
+      "ex_date_parsed": "2013-01-17T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.6.50 Per Share",
+      "ex_date": "15-Feb-2012",
+      "ex_date_parsed": "2012-02-15T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Final Dividend-Rs.4/- Per Share",
+      "ex_date": "10-Feb-2011",
+      "ex_date_parsed": "2011-02-10T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.3.50 Pr Share",
+      "ex_date": "10-Feb-2010",
+      "ex_date_parsed": "2010-02-10T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

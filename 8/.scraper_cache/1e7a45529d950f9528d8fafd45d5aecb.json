@@ -1,0 +1,51 @@
+{
+  "ticker": "CLEAN",
+  "fetch_time": "2025-11-17T22:56:14.414768",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 4 Per Share",
+      "ex_date": "04-Sep-2025",
+      "ex_date_parsed": "2025-09-04T00:00:00",
+      "amount": 4.0
+    },
+    {
+      "description": "Interim Dividend - Rs 2 Per Share",
+      "ex_date": "07-Feb-2025",
+      "ex_date_parsed": "2025-02-07T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 3 Per Share",
+      "ex_date": "29-Aug-2024",
+      "ex_date_parsed": "2024-08-29T00:00:00",
+      "amount": 3.0
+    },
+    {
+      "description": "Interim Dividend - Rs 2 Per Share",
+      "ex_date": "12-Feb-2024",
+      "ex_date_parsed": "2024-02-12T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs  3 Per Share",
+      "ex_date": "03-Aug-2023",
+      "ex_date_parsed": "2023-08-03T00:00:00",
+      "amount": 3.0
+    },
+    {
+      "description": "Interim Dividend - Rs 2 Per Share",
+      "ex_date": "10-Feb-2023",
+      "ex_date_parsed": "2023-02-10T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend - Rs 3.25 Per Share",
+      "ex_date": "29-Jul-2022",
+      "ex_date_parsed": "2022-07-29T00:00:00",
+      "amount": 3.25
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

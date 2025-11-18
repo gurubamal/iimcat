@@ -1,0 +1,33 @@
+{
+  "ticker": "NUVAMA",
+  "fetch_time": "2025-11-17T23:45:44.959267",
+  "dividends": [
+    {
+      "description": "Interim Dividend - Rs 70 Per Share",
+      "ex_date": "11-Nov-2025",
+      "ex_date_parsed": "2025-11-11T00:00:00",
+      "amount": 70.0
+    },
+    {
+      "description": "Interim Dividend - Rs 69 Per Share",
+      "ex_date": "03-Jun-2025",
+      "ex_date_parsed": "2025-06-03T00:00:00",
+      "amount": 69.0
+    },
+    {
+      "description": "Interim Dividend - Rs 63 Per Share",
+      "ex_date": "07-Nov-2024",
+      "ex_date_parsed": "2024-11-07T00:00:00",
+      "amount": 63.0
+    },
+    {
+      "description": "Interim Dividend - Rs 81.50 Per Share",
+      "ex_date": "07-Aug-2024",
+      "ex_date_parsed": "2024-08-07T00:00:00",
+      "amount": 81.5
+    }
+  ],
+  "bonuses": [],
+  "splits": [],
+  "data_available": true
+}

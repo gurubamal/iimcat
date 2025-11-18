@@ -1,0 +1,118 @@
+{
+  "ticker": "BRIGADE",
+  "fetch_time": "2025-11-17T22:54:24.147875",
+  "dividends": [
+    {
+      "description": "Dividend - Rs 2.50 Per Share",
+      "ex_date": "13-Aug-2025",
+      "ex_date_parsed": "2025-08-13T00:00:00",
+      "amount": 2.5
+    },
+    {
+      "description": "Dividend - Rs 2 Per Share",
+      "ex_date": "30-Jul-2024",
+      "ex_date_parsed": "2024-07-30T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Dividend - Rs 2 Per Share",
+      "ex_date": "31-Jul-2023",
+      "ex_date_parsed": "2023-07-31T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Dividend - Rs 1.50 Per Share",
+      "ex_date": "25-Jul-2022",
+      "ex_date_parsed": "2022-07-25T00:00:00",
+      "amount": 1.5
+    },
+    {
+      "description": " Dividend - Rs 1.20 Per Share",
+      "ex_date": "02-Aug-2021",
+      "ex_date_parsed": "2021-08-02T00:00:00",
+      "amount": 1.2
+    },
+    {
+      "description": " Interim Dividend - Re 1 Per Share",
+      "ex_date": "23-Mar-2020",
+      "ex_date_parsed": "2020-03-23T00:00:00",
+      "amount": null
+    },
+    {
+      "description": " Dividend - Rs 2 Per Share",
+      "ex_date": "26-Jul-2019",
+      "ex_date_parsed": "2019-07-26T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": " Dividend- Rs 2 Per Share",
+      "ex_date": "02-Aug-2018",
+      "ex_date_parsed": "2018-08-02T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": " Dividend - Rs 2 Per Share/Special Dividend Re 0.50 Per Share",
+      "ex_date": "13-Sep-2017",
+      "ex_date_parsed": "2017-09-13T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": " Interim Dividend - Rs 2/- Per Share (Purpose Revised)",
+      "ex_date": "22-Mar-2016",
+      "ex_date_parsed": "2016-03-22T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": " Annual General Meeting/ Dividend -  Rs 2/- Per Share",
+      "ex_date": "15-Sep-2015",
+      "ex_date_parsed": "2015-09-15T00:00:00",
+      "amount": 2.0
+    },
+    {
+      "description": "Annual General Meeting/Dividend Rs:- 2/- Per Share",
+      "ex_date": "25-Jul-2014",
+      "ex_date_parsed": "2014-07-25T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Annual General Meeting / Dividend - Rs 1.50/- Per Share",
+      "ex_date": "22-Jul-2013",
+      "ex_date_parsed": "2013-07-22T00:00:00",
+      "amount": 1.5
+    },
+    {
+      "description": "Annual General Meeting/ Dividend Rs. 1.50 Per Share",
+      "ex_date": "30-Jul-2012",
+      "ex_date_parsed": "2012-07-30T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.1.50 Per Share",
+      "ex_date": "01-Aug-2011",
+      "ex_date_parsed": "2011-08-01T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Dividend-Rs.1.20 Per Share",
+      "ex_date": "13-Jul-2010",
+      "ex_date_parsed": "2010-07-13T00:00:00",
+      "amount": null
+    },
+    {
+      "description": "Agm/Dividend - 20%",
+      "ex_date": "18-Jun-2008",
+      "ex_date_parsed": "2008-06-18T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [
+    {
+      "description": " Bonus 1:2",
+      "ex_date": "28-Aug-2019",
+      "ex_date_parsed": "2019-08-28T00:00:00",
+      "ratio": "1:2"
+    }
+  ],
+  "splits": [],
+  "data_available": true
+}

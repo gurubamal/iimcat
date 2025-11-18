@@ -1,0 +1,143 @@
+{
+  "ticker": "SIEMENS",
+  "analysis_timestamp": "2025-11-15T23:31:17.202299",
+  "initial_score": 72.5,
+  "final_score": 72.5,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "STRONG BUY",
+  "final_recommendation": "STRONG BUY",
+  "total_data_points": 7,
+  "verified_count": 4,
+  "unverified_count": 2,
+  "conflicting_count": 1,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": -26.8,
+      "verified_value": -26.8,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate -26.8% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 38.54,
+      "verified_value": 38.54,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 38.54% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 9.73,
+      "verified_value": 9.73,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Profit margin 9.73% is within expected range for Indian stocks (-50% to +50%)"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "moderate",
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Financial health status 'moderate' is not recognized"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 3217.14,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 3340.87,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in financial_health: Financial health status 'moderate' is not recognized"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: financial_health (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.5142857142857142,
+  "data_quality_score": 57.14285714285714,
+  "recommendation_confidence": 0.29387755102040813,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "STRONG BUY - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

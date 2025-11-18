@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+IDEAFORGE,quarterly_earnings_yoy_growth,-2106.47,-2106.47,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate -2106.47% is outside expected range for Indian stocks
+IDEAFORGE,annual_earnings_yoy_growth,-237.58,-237.58,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate -237.58% is outside expected range for Indian stocks
+IDEAFORGE,profit_margin,-184.32,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Profit margin -184.32% is outside expected range for Indian stocks
+IDEAFORGE,financial_health,concerning,concerning,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'concerning' is a valid status
+IDEAFORGE,target_conservative,521.42,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IDEAFORGE,target_aggressive,534.13,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IDEAFORGE,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

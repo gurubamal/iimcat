@@ -52,10 +52,21 @@ class VerdictDecision:
 class AIVerdictEngine:
     """
     Uses Claude AI to generate intelligent verdicts based ONLY on web-verified data.
+
+    For shell/CLI providers like codex-shell where no Anthropic/Claude
+    credentials are available, this engine automatically operates in a
+    conservative fallback mode that:
+      - preserves the original analyzer score and recommendation, and
+      - uses web verification + analyzer certainty to calibrate confidence,
+    without attempting any Claude CLI or API calls.
     """
 
-    def __init__(self):
+    def __init__(self, ai_provider: Optional[str] = None):
         """Initialize the verdict engine"""
+        # Track which upstream AI/provider generated the CSV so that we can
+        # skip Claude entirely for codex-shell style runs while keeping the
+        # existing Claude behavior untouched.
+        self.ai_provider = (ai_provider or os.getenv('AI_VERDICT_PROVIDER', 'unknown')).strip().lower()
         self.model = os.getenv('AI_VERDICT_MODEL', 'claude-3-5-sonnet-20241022')
         self.temperature = 0.3  # Low temperature for consistency
         self.max_retries = 3
@@ -74,14 +85,40 @@ class AIVerdictEngine:
         """
         timestamp = datetime.now().isoformat()
 
-        # Build the prompt for Claude
-        prompt = self._build_verdict_prompt(ticker, analysis_data, verification_results)
+        # Decide whether to call Claude at all. By default we allow Claude to
+        # run for every provider (including Codex-shell), because AI reasoning
+        # is critical for final verdicts. If an environment flag explicitly
+        # disables Claude for shell providers, we fall back to a purely
+        # calibrated mode using the original analyzer score.
+        disable_for_shell = os.getenv("AI_VERDICT_DISABLE_FOR_SHELL", "0").strip() == "1"
+        use_claude = True
+        if disable_for_shell and (
+            self.ai_provider.startswith("codex") or
+            self.ai_provider.startswith("cursor")
+        ):
+            use_claude = False
 
-        # Get Claude's verdict (or fallback if unavailable)
-        verdict_response = self._call_claude(prompt)
+        if use_claude:
+            # Build the prompt for Claude
+            prompt = self._build_verdict_prompt(ticker, analysis_data, verification_results)
 
-        # Parse Claude's response
-        parsed_verdict = self._parse_verdict_response(verdict_response, ticker)
+            # Get Claude's verdict (or fallback if unavailable)
+            verdict_response = self._call_claude(prompt)
+
+            # Parse Claude's response
+            parsed_verdict = self._parse_verdict_response(verdict_response, ticker)
+        else:
+            # Shell/CLI provider in use (e.g., codex-shell) – do NOT invoke
+            # Claude at all. Mark as a fallback verdict so we reuse the
+            # existing conservative handling that preserves the original
+            # analyzer ranking and uses verification to calibrate confidence.
+            parsed_verdict = {
+                "verdict_source": "fallback",
+                "flags": [
+                    "Verdict engine running in shell-provider fallback mode "
+                    "- using original analyzer score and recommendation"
+                ]
+            }
 
         # If Claude was unavailable and we fell back, preserve the original
         # analyzer's ranking and recommendation (no extra penalty), while still

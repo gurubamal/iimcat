@@ -1,0 +1,140 @@
+{
+  "ticker": "MARICO",
+  "analysis_timestamp": "2025-11-15T20:17:43.441485",
+  "initial_score": 57.4,
+  "final_score": 57.4,
+  "initial_sentiment": "bearish",
+  "final_sentiment": "bearish",
+  "initial_recommendation": "HOLD",
+  "final_recommendation": "HOLD",
+  "total_data_points": 7,
+  "verified_count": 5,
+  "unverified_count": 2,
+  "conflicting_count": 0,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": 8.62,
+      "verified_value": 8.62,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 8.62% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 9.99,
+      "verified_value": 9.99,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 9.99% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 15.46,
+      "verified_value": 15.46,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Profit margin 15.46% is within expected range for Indian stocks (-50% to +50%)"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "healthy",
+      "verified_value": "healthy",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'healthy' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 767.47,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 796.99,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BEARISH",
+      "verified_value": "BEARISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BEARISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.5571428571428572,
+  "data_quality_score": 71.42857142857143,
+  "recommendation_confidence": 0.3979591836734694,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "HOLD - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

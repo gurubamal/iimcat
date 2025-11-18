@@ -1,0 +1,145 @@
+{
+  "ticker": "HUDCO",
+  "analysis_timestamp": "2025-11-16T20:39:21.247543",
+  "initial_score": 56.6,
+  "final_score": 56.6,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "BUY",
+  "final_recommendation": "BUY",
+  "total_data_points": 7,
+  "verified_count": 3,
+  "unverified_count": 2,
+  "conflicting_count": 2,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": 3.08,
+      "verified_value": 3.08,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 3.08% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": 27.99,
+      "verified_value": 27.99,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate 27.99% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 68.36,
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Profit margin 68.36% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "moderate",
+      "verified_value": null,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Financial health status 'moderate' is not recognized"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 237.72,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 243.52,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in profit_margin: Profit margin 68.36% is outside expected range for Indian stocks",
+    "\ud83d\udea8 CONFLICT in financial_health: Financial health status 'moderate' is not recognized"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: profit_margin (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: financial_health (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.4714285714285714,
+  "data_quality_score": 42.857142857142854,
+  "recommendation_confidence": 0.2020408163265306,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "BUY - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

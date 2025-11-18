@@ -1,0 +1,21 @@
+{
+  "ticker": "PARAS",
+  "fetch_time": "2025-11-17T22:44:18.101205",
+  "dividends": [
+    {
+      "description": "Dividend - Re 0.50 Per Share",
+      "ex_date": "08-Aug-2025",
+      "ex_date_parsed": "2025-08-08T00:00:00",
+      "amount": null
+    }
+  ],
+  "bonuses": [],
+  "splits": [
+    {
+      "description": "Face Value Split (Sub-Division) - From Rs 10/- Per Share To Rs 5/- Per Share",
+      "ex_date": "04-Jul-2025",
+      "ex_date_parsed": "2025-07-04T00:00:00"
+    }
+  ],
+  "data_available": true
+}

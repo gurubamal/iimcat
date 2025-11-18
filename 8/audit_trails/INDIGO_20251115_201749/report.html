@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Audit Report - INDIGO</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background-color: #f0f0f0; padding: 20px; border-radius: 5px; }
+        .section { margin: 20px 0; padding: 15px; border-left: 4px solid #0066cc; }
+        .critical { border-left-color: #cc0000; background-color: #ffe6e6; }
+        .warning { border-left-color: #ff9900; background-color: #fff3e6; }
+        .verified { color: #00aa00; }
+        .unverified { color: #ff6600; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f9f9f9; font-weight: bold; }
+        .metric { display: inline-block; margin: 10px 20px 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Audit Report - INDIGO</h1>
+        <p>Generated: 2025-11-15T20:17:49.509378</p>
+    </div>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <div class="metric">
+            <strong>Initial Score:</strong> 52.3/100
+        </div>
+        <div class="metric">
+            <strong>Final Score:</strong> 52.3/100
+        </div>
+        <div class="metric">
+            <strong>Recommendation:</strong> HOLD
+        </div>
+        <div class="metric">
+            <strong>Data Quality:</strong> 71%
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Verification Summary</h2>
+        <div class="metric verified">
+            ✅ Verified: 5/7
+        </div>
+        <div class="metric unverified">
+            ⚠️ Unverified: 2/7
+        </div>
+        <div class="metric critical" style="margin: 0;">
+            🚨 Conflicting: 0/7
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Points</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Field</th>
+                    <th>Claimed</th>
+                    <th>Verified</th>
+                    <th>Status</th>
+                    <th>Confidence</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>quarterly_earnings_yoy_growth</td>
+                    <td>-20.25</td>
+                    <td>-20.25</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>75%</td>
+                </tr>
+
+                <tr>
+                    <td>annual_earnings_yoy_growth</td>
+                    <td>-11.19</td>
+                    <td>-11.19</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>75%</td>
+                </tr>
+
+                <tr>
+                    <td>profit_margin</td>
+                    <td>10.62</td>
+                    <td>10.62</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>70%</td>
+                </tr>
+
+                <tr>
+                    <td>financial_health</td>
+                    <td>concerning</td>
+                    <td>concerning</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>70%</td>
+                </tr>
+
+                <tr>
+                    <td>target_conservative</td>
+                    <td>6042.37</td>
+                    <td>-</td>
+                    <td><span class="unverified">UNVERIFIED</span></td>
+                    <td>15%</td>
+                </tr>
+
+                <tr>
+                    <td>target_aggressive</td>
+                    <td>6189.75</td>
+                    <td>-</td>
+                    <td><span class="unverified">UNVERIFIED</span></td>
+                    <td>15%</td>
+                </tr>
+
+                <tr>
+                    <td>sentiment</td>
+                    <td>NEUTRAL</td>
+                    <td>NEUTRAL</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>70%</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="section warning">
+        <h2>⚠️ Warnings (2)</h2>
+        <ul>
+<li>⚠️  LOW CONFIDENCE: target_conservative (confidence: 15%)</li>
+<li>⚠️  LOW CONFIDENCE: target_aggressive (confidence: 15%)</li>
+</ul>
+</div>
+
+</body>
+</html>

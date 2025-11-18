@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+IIFL,quarterly_earnings_yoy_growth,-18.99,-18.99,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate -18.99% is within expected range for Indian stocks (-50% to +100%)
+IIFL,annual_earnings_yoy_growth,-78.52,-78.52,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate -78.52% is outside expected range for Indian stocks
+IIFL,profit_margin,13.97,13.97,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 13.97% is within expected range for Indian stocks (-50% to +50%)
+IIFL,financial_health,concerning,concerning,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'concerning' is a valid status
+IIFL,target_conservative,574.51,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IIFL,target_aggressive,588.52,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+IIFL,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

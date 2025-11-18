@@ -1,0 +1,150 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Audit Report - IDEAFORGE</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .header { background-color: #f0f0f0; padding: 20px; border-radius: 5px; }
+        .section { margin: 20px 0; padding: 15px; border-left: 4px solid #0066cc; }
+        .critical { border-left-color: #cc0000; background-color: #ffe6e6; }
+        .warning { border-left-color: #ff9900; background-color: #fff3e6; }
+        .verified { color: #00aa00; }
+        .unverified { color: #ff6600; }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #ddd; padding: 10px; text-align: left; }
+        th { background-color: #f9f9f9; font-weight: bold; }
+        .metric { display: inline-block; margin: 10px 20px 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 Audit Report - IDEAFORGE</h1>
+        <p>Generated: 2025-11-15T23:04:14.888334</p>
+    </div>
+
+    <div class="section">
+        <h2>Summary</h2>
+        <div class="metric">
+            <strong>Initial Score:</strong> 51.6/100
+        </div>
+        <div class="metric">
+            <strong>Final Score:</strong> 51.6/100
+        </div>
+        <div class="metric">
+            <strong>Recommendation:</strong> BUY
+        </div>
+        <div class="metric">
+            <strong>Data Quality:</strong> 29%
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Verification Summary</h2>
+        <div class="metric verified">
+            ✅ Verified: 2/7
+        </div>
+        <div class="metric unverified">
+            ⚠️ Unverified: 2/7
+        </div>
+        <div class="metric critical" style="margin: 0;">
+            🚨 Conflicting: 3/7
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Data Points</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Field</th>
+                    <th>Claimed</th>
+                    <th>Verified</th>
+                    <th>Status</th>
+                    <th>Confidence</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>quarterly_earnings_yoy_growth</td>
+                    <td>-2106.47</td>
+                    <td>-2106.47</td>
+                    <td><span class="unverified">CONFLICTING</span></td>
+                    <td>40%</td>
+                </tr>
+
+                <tr>
+                    <td>annual_earnings_yoy_growth</td>
+                    <td>-237.58</td>
+                    <td>-237.58</td>
+                    <td><span class="unverified">CONFLICTING</span></td>
+                    <td>40%</td>
+                </tr>
+
+                <tr>
+                    <td>profit_margin</td>
+                    <td>-184.32</td>
+                    <td>-</td>
+                    <td><span class="unverified">CONFLICTING</span></td>
+                    <td>40%</td>
+                </tr>
+
+                <tr>
+                    <td>financial_health</td>
+                    <td>concerning</td>
+                    <td>concerning</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>70%</td>
+                </tr>
+
+                <tr>
+                    <td>target_conservative</td>
+                    <td>477.65</td>
+                    <td>-</td>
+                    <td><span class="unverified">UNVERIFIED</span></td>
+                    <td>15%</td>
+                </tr>
+
+                <tr>
+                    <td>target_aggressive</td>
+                    <td>489.3</td>
+                    <td>-</td>
+                    <td><span class="unverified">UNVERIFIED</span></td>
+                    <td>15%</td>
+                </tr>
+
+                <tr>
+                    <td>sentiment</td>
+                    <td>BULLISH</td>
+                    <td>BULLISH</td>
+                    <td><span class="verified">VERIFIED</span></td>
+                    <td>70%</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+
+    <div class="section critical">
+        <h2>🚨 Critical Issues (3)</h2>
+        <ul>
+<li>🚨 CONFLICT in quarterly_earnings_yoy_growth: Growth rate -2106.47% is outside expected range for Indian stocks</li>
+<li>🚨 CONFLICT in annual_earnings_yoy_growth: Growth rate -237.58% is outside expected range for Indian stocks</li>
+<li>🚨 CONFLICT in profit_margin: Profit margin -184.32% is outside expected range for Indian stocks</li>
+</ul>
+</div>
+
+    <div class="section warning">
+        <h2>⚠️ Warnings (5)</h2>
+        <ul>
+<li>⚠️  LOW CONFIDENCE: quarterly_earnings_yoy_growth (confidence: 40%)</li>
+<li>⚠️  LOW CONFIDENCE: annual_earnings_yoy_growth (confidence: 40%)</li>
+<li>⚠️  LOW CONFIDENCE: profit_margin (confidence: 40%)</li>
+<li>⚠️  LOW CONFIDENCE: target_conservative (confidence: 15%)</li>
+<li>⚠️  LOW CONFIDENCE: target_aggressive (confidence: 15%)</li>
+</ul>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+TITAN,quarterly_earnings_yoy_growth,52.59,52.59,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 52.59% is within expected range for Indian stocks (-50% to +100%)
+TITAN,annual_earnings_yoy_growth,-4.55,-4.55,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate -4.55% is within expected range for Indian stocks (-50% to +100%)
+TITAN,profit_margin,7.36,7.36,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 7.36% is within expected range for Indian stocks (-50% to +50%)
+TITAN,financial_health,moderate,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Financial health status 'moderate' is not recognized
+TITAN,target_conservative,3936.51,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+TITAN,target_aggressive,4032.53,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+TITAN,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

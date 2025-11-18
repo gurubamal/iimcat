@@ -1,0 +1,2 @@
+ticker,company_name,ai_score,certainty,articles_count,rejection_reason,headline,reasoning
+BANKINDIA,BANK OF INDIA,37.9,25,1,Certainty 25% below threshold (40%),FIIs and DIIs place big bets on State Bank of India — Analysts see about 20% ral,"Article focuses entirely on State Bank of India (SBI) with no mention of Bank of India (BANKINDIA). While both are PSU banks, the correlation is weak "

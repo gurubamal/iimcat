@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+SPIC,quarterly_earnings_yoy_growth,6.65,6.65,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 6.65% is within expected range for Indian stocks (-50% to +100%)
+SPIC,annual_earnings_yoy_growth,37.64,37.64,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate 37.64% is within expected range for Indian stocks (-50% to +100%)
+SPIC,profit_margin,8.58,8.58,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 8.58% is within expected range for Indian stocks (-50% to +50%)
+SPIC,financial_health,healthy,healthy,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Financial health status 'healthy' is a valid status
+SPIC,target_conservative,94.58,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SPIC,target_aggressive,96.88,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+SPIC,sentiment,BULLISH,BULLISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BULLISH' is a valid sentiment classification

@@ -1,0 +1,143 @@
+{
+  "ticker": "IIFL",
+  "analysis_timestamp": "2025-11-17T23:48:57.938103",
+  "initial_score": 35.3,
+  "final_score": 35.3,
+  "initial_sentiment": "bullish",
+  "final_sentiment": "bullish",
+  "initial_recommendation": "WATCH",
+  "final_recommendation": "WATCH",
+  "total_data_points": 7,
+  "verified_count": 4,
+  "unverified_count": 2,
+  "conflicting_count": 1,
+  "stale_count": 0,
+  "decisions_log": [],
+  "data_points": [
+    {
+      "field_name": "quarterly_earnings_yoy_growth",
+      "claimed_value": -18.99,
+      "verified_value": -18.99,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.75,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Growth rate -18.99% is within expected range for Indian stocks (-50% to +100%)"
+    },
+    {
+      "field_name": "annual_earnings_yoy_growth",
+      "claimed_value": -78.52,
+      "verified_value": -78.52,
+      "verification_status": "CONFLICTING",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.4,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": true,
+      "reasoning": "Growth rate -78.52% is outside expected range for Indian stocks"
+    },
+    {
+      "field_name": "profit_margin",
+      "claimed_value": 13.97,
+      "verified_value": 13.97,
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Profit margin 13.97% is within expected range for Indian stocks (-50% to +50%)"
+    },
+    {
+      "field_name": "financial_health",
+      "claimed_value": "concerning",
+      "verified_value": "concerning",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Financial health status 'concerning' is a valid status"
+    },
+    {
+      "field_name": "target_conservative",
+      "claimed_value": 574.51,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "target_aggressive",
+      "claimed_value": 588.52,
+      "verified_value": null,
+      "verification_status": "UNVERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.15,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Cross-referenced with analyst research reports and financial news"
+    },
+    {
+      "field_name": "sentiment",
+      "claimed_value": "BULLISH",
+      "verified_value": "BULLISH",
+      "verification_status": "VERIFIED",
+      "source_urls": [
+        "fallback://heuristic"
+      ],
+      "publication_dates": [],
+      "confidence": 0.7,
+      "data_age_hours": null,
+      "is_stale": false,
+      "has_conflict": false,
+      "reasoning": "Heuristic verification: Rating 'BULLISH' is a valid sentiment classification"
+    }
+  ],
+  "critical_issues": [
+    "\ud83d\udea8 CONFLICT in annual_earnings_yoy_growth: Growth rate -78.52% is outside expected range for Indian stocks"
+  ],
+  "warnings": [
+    "\u26a0\ufe0f  LOW CONFIDENCE: annual_earnings_yoy_growth (confidence: 40%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_conservative (confidence: 15%)",
+    "\u26a0\ufe0f  LOW CONFIDENCE: target_aggressive (confidence: 15%)"
+  ],
+  "overall_confidence": 0.5071428571428571,
+  "data_quality_score": 57.14285714285714,
+  "recommendation_confidence": 0.2897959183673469,
+  "verifiers_used": [
+    "WebSearchVerification",
+    "AIVerdictEngine",
+    "TemporalValidator"
+  ],
+  "sources_consulted": [
+    "fallback://heuristic"
+  ],
+  "final_verdict_summary": "WATCH - AI verdict engine unavailable - using original analysis ranking (see verification flags)"
+}

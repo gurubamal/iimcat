@@ -1,0 +1,8 @@
+ticker,field_name,claimed_value,verified_value,status,confidence,data_age_hours,is_stale,has_conflict,sources,dates,reasoning
+STANLEY,quarterly_earnings_yoy_growth,107.89,107.89,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Growth rate 107.89% is outside expected range for Indian stocks
+STANLEY,annual_earnings_yoy_growth,-3.32,-3.32,VERIFIED,75%,N/A,False,False,fallback://heuristic,,Heuristic verification: Growth rate -3.32% is within expected range for Indian stocks (-50% to +100%)
+STANLEY,profit_margin,7.27,7.27,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Profit margin 7.27% is within expected range for Indian stocks (-50% to +50%)
+STANLEY,financial_health,moderate,,CONFLICTING,40%,N/A,False,True,fallback://heuristic,,Financial health status 'moderate' is not recognized
+STANLEY,target_conservative,245.49,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+STANLEY,target_aggressive,251.48,,UNVERIFIED,15%,N/A,False,False,fallback://heuristic,,Cross-referenced with analyst research reports and financial news
+STANLEY,sentiment,BEARISH,BEARISH,VERIFIED,70%,N/A,False,False,fallback://heuristic,,Heuristic verification: Rating 'BEARISH' is a valid sentiment classification

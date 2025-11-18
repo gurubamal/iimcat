@@ -1,0 +1,132 @@
+[
+  {
+    "ticker": "RELIANCE",
+    "timestamp": "2025-11-17T10:47:17.734514",
+    "initial_analysis": {
+      "score": 67.8,
+      "sentiment": "neutral",
+      "recommendation": "ACCUMULATE",
+      "catalysts": [
+        "earnings",
+        "investment",
+        "expansion"
+      ]
+    },
+    "verification": {
+      "status": "QUESTIONABLE",
+      "verified_count": 3,
+      "unverified_count": 2,
+      "conflicting_count": 2,
+      "confidence": "50%",
+      "details": [
+        {
+          "ticker": "RELIANCE",
+          "field_name": "quarterly_earnings_yoy_growth",
+          "claimed_value": 78.32,
+          "verified_value": 2025.0,
+          "verification_status": "CONFLICTING",
+          "confidence": 0.55,
+          "sources": [
+            "https://html.duckduckgo.com/html/?q=RELIANCE+quarterly_earnings+growth+YoY+2025"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        },
+        {
+          "ticker": "RELIANCE",
+          "field_name": "annual_earnings_yoy_growth",
+          "claimed_value": 0.04,
+          "verified_value": 2025.0,
+          "verification_status": "CONFLICTING",
+          "confidence": 0.55,
+          "sources": [
+            "https://html.duckduckgo.com/html/?q=RELIANCE+annual_earnings+growth+YoY+2025"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Growth rates extracted from company results and analyst reports"
+        },
+        {
+          "ticker": "RELIANCE",
+          "field_name": "profit_margin",
+          "claimed_value": 11.08,
+          "verified_value": 11.08,
+          "verification_status": "VERIFIED",
+          "confidence": 0.7,
+          "sources": [
+            "fallback://heuristic"
+          ],
+          "publication_dates": [],
+          "discrepancy": null,
+          "reasoning": "Heuristic verification: Profit margin 11.08% is within expected range for Indian stocks (-50% to +50%)"
+        }
+      ]
+    },
+    "temporal": {
+      "freshness": "FRESH",
+      "critical_issues": 0,
+      "warnings": 0,
+      "stale_fields": []
+    },
+    "final_verdict": {
+      "score": 67.8,
+      "sentiment": "neutral",
+      "recommendation": "ACCUMULATE",
+      "summary": "AI verdict engine unavailable - using original analysis ranking (see verification flags)",
+      "reasoning": "Claude verdict system was not available for this run. Final score and recommendation are taken from the original real-time analysis, with web-search verification and temporal flags provided for context.",
+      "confidence": 0.486,
+      "data_basis": [
+        "profit_margin",
+        "financial_health",
+        "sentiment"
+      ],
+      "unverified_claims": [
+        "target_conservative",
+        "target_aggressive"
+      ],
+      "temporal_notes": "\ud83d\udd34 STALE - Data older than 48 hours, consider rechecking"
+    },
+    "flags": [
+      "Response parsing failed - conservative approach taken"
+    ],
+    "audit": {
+      "report_summary": {
+        "data_quality": "43%",
+        "verified_fields": 3,
+        "total_fields": 7,
+        "critical_issues": 2,
+        "warnings": 2
+      },
+      "sources_consulted": [
+        "https://html.duckduckgo.com/html/?q=RELIANCE+quarterly_earnings+growth+YoY+2025",
+        "https://html.duckduckgo.com/html/?q=RELIANCE+annual_earnings+growth+YoY+2025",
+        "fallback://heuristic"
+      ],
+      "verifiers_used": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator"
+      ]
+    },
+    "recommendations": [
+      "Response parsing failed - conservative approach taken",
+      "\ud83d\udea8 CONFLICT in quarterly_earnings_yoy_growth: None",
+      "\u2705 Data is temporally sound and current",
+      "\u26a0\ufe0f Low confidence in 2 field(s) - Verify manually",
+      "\u26a0\ufe0f Could not verify: target_conservative, target_aggressive - Use with caution",
+      "\ud83d\udea8 CONFLICT in annual_earnings_yoy_growth: None"
+    ],
+    "pipeline_info": {
+      "version": "2.0",
+      "components": [
+        "WebSearchVerification",
+        "AIVerdictEngine",
+        "TemporalValidator",
+        "AuditTrail"
+      ],
+      "grounding": "NO TRAINING DATA USED - All decisions based on real-time web-verified facts",
+      "temporal_grounding": "Analysis timestamp: 2025-11-17T10:47:17.734529"
+    }
+  }
+]

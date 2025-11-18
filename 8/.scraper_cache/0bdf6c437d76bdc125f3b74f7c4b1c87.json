@@ -1,7 +1,13 @@
 {
   "ticker": "IRB",
-  "fetch_time": "2025-11-15T07:44:30.952361",
+  "fetch_time": "2025-11-17T08:13:41.470443",
   "dividends": [
+    {
+      "description": "Interim Dividend - Rs 0.07 Per Share",
+      "ex_date": "18-Nov-2025",
+      "ex_date_parsed": "2025-11-18T00:00:00",
+      "amount": 0.07
+    },
     {
       "description": "Interim Dividend - Re 0.07 Per Share",
       "ex_date": "29-Aug-2025",
