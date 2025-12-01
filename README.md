@@ -1,1 +1,1 @@
-# iimcat  -- Free Version
+# iimcat  -- Community Support opensource tool 
